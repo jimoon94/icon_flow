@@ -30,6 +30,7 @@ const CATEGORIES: { value: Category; label: string }[] = [
   { value: "maps-location", label: "Maps & Location" },
   { value: "finance", label: "Finance" },
   { value: "editor", label: "Editor" },
+  { value: "brand", label: "Brand" },
   { value: "general-ui", label: "General UI" },
   { value: "diagram-primitives", label: "Diagram Primitives" },
 ];

@@ -26,7 +26,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-access-alarm",
     "name": "Access Alarm",
     "set": "material",
-    "category": "general-ui",
+    "category": "security-identity",
     "tags": [
       "access",
       "alarm"
@@ -37,7 +37,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-access-alarms",
     "name": "Access Alarms",
     "set": "material",
-    "category": "general-ui",
+    "category": "security-identity",
     "tags": [
       "access",
       "alarms"
@@ -48,7 +48,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-access-time",
     "name": "Access Time",
     "set": "material",
-    "category": "general-ui",
+    "category": "security-identity",
     "tags": [
       "access",
       "time"
@@ -59,7 +59,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-access-time-filled",
     "name": "Access Time Filled",
     "set": "material",
-    "category": "general-ui",
+    "category": "security-identity",
     "tags": [
       "access",
       "time",
@@ -71,7 +71,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-accessibility",
     "name": "Accessibility",
     "set": "material",
-    "category": "general-ui",
+    "category": "security-identity",
     "tags": [
       "accessibility"
     ],
@@ -81,7 +81,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-accessibility-new",
     "name": "Accessibility New",
     "set": "material",
-    "category": "general-ui",
+    "category": "security-identity",
     "tags": [
       "accessibility",
       "new"
@@ -92,7 +92,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-accessible",
     "name": "Accessible",
     "set": "material",
-    "category": "general-ui",
+    "category": "security-identity",
     "tags": [
       "accessible"
     ],
@@ -102,7 +102,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-accessible-forward",
     "name": "Accessible Forward",
     "set": "material",
-    "category": "navigation",
+    "category": "security-identity",
     "tags": [
       "accessible",
       "forward"
@@ -190,7 +190,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-add",
     "name": "Add",
     "set": "material",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "add"
     ],
@@ -200,7 +200,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-add-a-photo",
     "name": "Add A Photo",
     "set": "material",
-    "category": "media",
+    "category": "frontend-client",
     "tags": [
       "add",
       "a",
@@ -212,7 +212,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-add-alarm",
     "name": "Add Alarm",
     "set": "material",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "add",
       "alarm"
@@ -223,7 +223,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-add-alert",
     "name": "Add Alert",
     "set": "material",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "add",
       "alert"
@@ -234,7 +234,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-add-box",
     "name": "Add Box",
     "set": "material",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "add",
       "box"
@@ -245,7 +245,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-add-business",
     "name": "Add Business",
     "set": "material",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "add",
       "business"
@@ -256,7 +256,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-add-card",
     "name": "Add Card",
     "set": "material",
-    "category": "finance",
+    "category": "frontend-client",
     "tags": [
       "add",
       "card"
@@ -267,7 +267,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-add-circle",
     "name": "Add Circle",
     "set": "material",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "add",
       "circle"
@@ -278,7 +278,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-add-circle-outline",
     "name": "Add Circle Outline",
     "set": "material",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "add",
       "circle",
@@ -290,7 +290,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-add-comment",
     "name": "Add Comment",
     "set": "material",
-    "category": "people-social",
+    "category": "frontend-client",
     "tags": [
       "add",
       "comment"
@@ -301,7 +301,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-add-home",
     "name": "Add Home",
     "set": "material",
-    "category": "navigation",
+    "category": "frontend-client",
     "tags": [
       "add",
       "home"
@@ -312,7 +312,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-add-home-work",
     "name": "Add Home Work",
     "set": "material",
-    "category": "navigation",
+    "category": "frontend-client",
     "tags": [
       "add",
       "home",
@@ -324,7 +324,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-add-ic-call",
     "name": "Add Ic Call",
     "set": "material",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "add",
       "ic",
@@ -336,7 +336,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-add-link",
     "name": "Add Link",
     "set": "material",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "add",
       "link"
@@ -347,7 +347,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-add-location",
     "name": "Add Location",
     "set": "material",
-    "category": "maps-location",
+    "category": "frontend-client",
     "tags": [
       "add",
       "location"
@@ -358,7 +358,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-add-location-alt",
     "name": "Add Location Alt",
     "set": "material",
-    "category": "maps-location",
+    "category": "frontend-client",
     "tags": [
       "add",
       "location",
@@ -370,7 +370,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-add-moderator",
     "name": "Add Moderator",
     "set": "material",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "add",
       "moderator"
@@ -381,7 +381,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-add-photo-alternate",
     "name": "Add Photo Alternate",
     "set": "material",
-    "category": "media",
+    "category": "frontend-client",
     "tags": [
       "add",
       "photo",
@@ -393,7 +393,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-add-reaction",
     "name": "Add Reaction",
     "set": "material",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "add",
       "reaction"
@@ -404,7 +404,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-add-road",
     "name": "Add Road",
     "set": "material",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "add",
       "road"
@@ -415,7 +415,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-add-shopping-cart",
     "name": "Add Shopping Cart",
     "set": "material",
-    "category": "finance",
+    "category": "frontend-client",
     "tags": [
       "add",
       "shopping",
@@ -427,7 +427,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-add-task",
     "name": "Add Task",
     "set": "material",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "add",
       "task"
@@ -438,7 +438,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-add-to-drive",
     "name": "Add To Drive",
     "set": "material",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "add",
       "to",
@@ -450,7 +450,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-add-to-home-screen",
     "name": "Add To Home Screen",
     "set": "material",
-    "category": "media",
+    "category": "frontend-client",
     "tags": [
       "add",
       "to",
@@ -463,7 +463,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-add-to-photos",
     "name": "Add To Photos",
     "set": "material",
-    "category": "media",
+    "category": "frontend-client",
     "tags": [
       "add",
       "to",
@@ -475,7 +475,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-add-to-queue",
     "name": "Add To Queue",
     "set": "material",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "add",
       "to",
@@ -487,7 +487,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-addchart",
     "name": "Addchart",
     "set": "material",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "addchart"
     ],
@@ -518,7 +518,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-admin-panel-settings",
     "name": "Admin Panel Settings",
     "set": "material",
-    "category": "general-ui",
+    "category": "security-identity",
     "tags": [
       "admin",
       "panel",
@@ -551,7 +551,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-air",
     "name": "Air",
     "set": "material",
-    "category": "general-ui",
+    "category": "ai-ml",
     "tags": [
       "air"
     ],
@@ -561,7 +561,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-airline-seat-flat",
     "name": "Airline Seat Flat",
     "set": "material",
-    "category": "general-ui",
+    "category": "ai-ml",
     "tags": [
       "airline",
       "seat",
@@ -573,7 +573,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-airline-seat-flat-angled",
     "name": "Airline Seat Flat Angled",
     "set": "material",
-    "category": "general-ui",
+    "category": "ai-ml",
     "tags": [
       "airline",
       "seat",
@@ -586,7 +586,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-airline-seat-individual-suite",
     "name": "Airline Seat Individual Suite",
     "set": "material",
-    "category": "general-ui",
+    "category": "ai-ml",
     "tags": [
       "airline",
       "seat",
@@ -599,7 +599,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-airline-seat-legroom-extra",
     "name": "Airline Seat Legroom Extra",
     "set": "material",
-    "category": "general-ui",
+    "category": "ai-ml",
     "tags": [
       "airline",
       "seat",
@@ -612,7 +612,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-airline-seat-legroom-normal",
     "name": "Airline Seat Legroom Normal",
     "set": "material",
-    "category": "general-ui",
+    "category": "ai-ml",
     "tags": [
       "airline",
       "seat",
@@ -625,7 +625,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-airline-seat-legroom-reduced",
     "name": "Airline Seat Legroom Reduced",
     "set": "material",
-    "category": "general-ui",
+    "category": "ai-ml",
     "tags": [
       "airline",
       "seat",
@@ -638,7 +638,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-airline-seat-recline-extra",
     "name": "Airline Seat Recline Extra",
     "set": "material",
-    "category": "general-ui",
+    "category": "ai-ml",
     "tags": [
       "airline",
       "seat",
@@ -651,7 +651,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-airline-seat-recline-normal",
     "name": "Airline Seat Recline Normal",
     "set": "material",
-    "category": "general-ui",
+    "category": "ai-ml",
     "tags": [
       "airline",
       "seat",
@@ -664,7 +664,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-airline-stops",
     "name": "Airline Stops",
     "set": "material",
-    "category": "media",
+    "category": "ai-ml",
     "tags": [
       "airline",
       "stops"
@@ -675,7 +675,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-airlines",
     "name": "Airlines",
     "set": "material",
-    "category": "general-ui",
+    "category": "ai-ml",
     "tags": [
       "airlines"
     ],
@@ -685,7 +685,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-airplane-ticket",
     "name": "Airplane Ticket",
     "set": "material",
-    "category": "general-ui",
+    "category": "ai-ml",
     "tags": [
       "airplane",
       "ticket"
@@ -696,7 +696,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-airplanemode-active",
     "name": "Airplanemode Active",
     "set": "material",
-    "category": "general-ui",
+    "category": "ai-ml",
     "tags": [
       "airplanemode",
       "active"
@@ -707,7 +707,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-airplanemode-inactive",
     "name": "Airplanemode Inactive",
     "set": "material",
-    "category": "general-ui",
+    "category": "ai-ml",
     "tags": [
       "airplanemode",
       "inactive"
@@ -718,7 +718,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-airplay",
     "name": "Airplay",
     "set": "material",
-    "category": "general-ui",
+    "category": "ai-ml",
     "tags": [
       "airplay"
     ],
@@ -728,7 +728,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-airport-shuttle",
     "name": "Airport Shuttle",
     "set": "material",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "airport",
       "shuttle"
@@ -739,7 +739,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-alarm",
     "name": "Alarm",
     "set": "material",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "alarm"
     ],
@@ -749,7 +749,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-alarm-add",
     "name": "Alarm Add",
     "set": "material",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "alarm",
       "add"
@@ -760,7 +760,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-alarm-off",
     "name": "Alarm Off",
     "set": "material",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "alarm",
       "off"
@@ -771,7 +771,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-alarm-on",
     "name": "Alarm On",
     "set": "material",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "alarm",
       "on"
@@ -804,11 +804,13 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-align-horizontal-left",
     "name": "Align Horizontal Left",
     "set": "material",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "align",
       "horizontal",
-      "left"
+      "left",
+      "arrow",
+      "direction"
     ],
     "materialName": "AlignHorizontalLeft"
   },
@@ -816,11 +818,13 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-align-horizontal-right",
     "name": "Align Horizontal Right",
     "set": "material",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "align",
       "horizontal",
-      "right"
+      "right",
+      "arrow",
+      "direction"
     ],
     "materialName": "AlignHorizontalRight"
   },
@@ -864,7 +868,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-all-inbox",
     "name": "All Inbox",
     "set": "material",
-    "category": "messaging-queue",
+    "category": "general-ui",
     "tags": [
       "all",
       "inbox"
@@ -897,7 +901,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-alt-route",
     "name": "Alt Route",
     "set": "material",
-    "category": "maps-location",
+    "category": "general-ui",
     "tags": [
       "alt",
       "route"
@@ -908,7 +912,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-alternate-email",
     "name": "Alternate Email",
     "set": "material",
-    "category": "messaging-queue",
+    "category": "general-ui",
     "tags": [
       "alternate",
       "email"
@@ -929,7 +933,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-anchor",
     "name": "Anchor",
     "set": "material",
-    "category": "general-ui",
+    "category": "navigation",
     "tags": [
       "anchor"
     ],
@@ -949,7 +953,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-animation",
     "name": "Animation",
     "set": "material",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "animation"
     ],
@@ -959,7 +963,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-announcement",
     "name": "Announcement",
     "set": "material",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "announcement"
     ],
@@ -979,7 +983,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-apartment",
     "name": "Apartment",
     "set": "material",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "apartment"
     ],
@@ -999,7 +1003,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-app-blocking",
     "name": "App Blocking",
     "set": "material",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "app",
       "blocking"
@@ -1010,7 +1014,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-app-registration",
     "name": "App Registration",
     "set": "material",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "app",
       "registration"
@@ -1021,7 +1025,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-app-settings-alt",
     "name": "App Settings Alt",
     "set": "material",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "app",
       "settings",
@@ -1033,7 +1037,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-app-shortcut",
     "name": "App Shortcut",
     "set": "material",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "app",
       "shortcut"
@@ -1044,7 +1048,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-apple",
     "name": "Apple",
     "set": "material",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "apple"
     ],
@@ -1054,7 +1058,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-approval",
     "name": "Approval",
     "set": "material",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "approval"
     ],
@@ -1064,7 +1068,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-apps",
     "name": "Apps",
     "set": "material",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "apps"
     ],
@@ -1074,7 +1078,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-apps-outage",
     "name": "Apps Outage",
     "set": "material",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "apps",
       "outage"
@@ -1085,7 +1089,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-architecture",
     "name": "Architecture",
     "set": "material",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "architecture"
     ],
@@ -1095,7 +1099,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-archive",
     "name": "Archive",
     "set": "material",
-    "category": "storage-database",
+    "category": "diagram-primitives",
     "tags": [
       "archive"
     ],
@@ -1145,7 +1149,8 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "tags": [
       "arrow",
       "circle",
-      "down"
+      "down",
+      "direction"
     ],
     "materialName": "ArrowCircleDown"
   },
@@ -1157,7 +1162,8 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "tags": [
       "arrow",
       "circle",
-      "left"
+      "left",
+      "direction"
     ],
     "materialName": "ArrowCircleLeft"
   },
@@ -1169,7 +1175,8 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "tags": [
       "arrow",
       "circle",
-      "right"
+      "right",
+      "direction"
     ],
     "materialName": "ArrowCircleRight"
   },
@@ -1181,7 +1188,8 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "tags": [
       "arrow",
       "circle",
-      "up"
+      "up",
+      "direction"
     ],
     "materialName": "ArrowCircleUp"
   },
@@ -1204,7 +1212,8 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "tags": [
       "arrow",
       "drop",
-      "down"
+      "down",
+      "direction"
     ],
     "materialName": "ArrowDropDown"
   },
@@ -1229,7 +1238,8 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "tags": [
       "arrow",
       "drop",
-      "up"
+      "up",
+      "direction"
     ],
     "materialName": "ArrowDropUp"
   },
@@ -1263,7 +1273,8 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "category": "navigation",
     "tags": [
       "arrow",
-      "left"
+      "left",
+      "direction"
     ],
     "materialName": "ArrowLeft"
   },
@@ -1285,7 +1296,8 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "category": "navigation",
     "tags": [
       "arrow",
-      "right"
+      "right",
+      "direction"
     ],
     "materialName": "ArrowRight"
   },
@@ -1327,7 +1339,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-article",
     "name": "Article",
     "set": "material",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "article"
     ],
@@ -1348,7 +1360,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-assessment",
     "name": "Assessment",
     "set": "material",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "assessment"
     ],
@@ -1358,7 +1370,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-assignment",
     "name": "Assignment",
     "set": "material",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "assignment"
     ],
@@ -1368,7 +1380,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-assignment-ind",
     "name": "Assignment Ind",
     "set": "material",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "assignment",
       "ind"
@@ -1379,7 +1391,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-assignment-late",
     "name": "Assignment Late",
     "set": "material",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "assignment",
       "late"
@@ -1390,7 +1402,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-assignment-return",
     "name": "Assignment Return",
     "set": "material",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "assignment",
       "return"
@@ -1401,7 +1413,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-assignment-returned",
     "name": "Assignment Returned",
     "set": "material",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "assignment",
       "returned"
@@ -1412,7 +1424,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-assignment-turned-in",
     "name": "Assignment Turned In",
     "set": "material",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "assignment",
       "turned",
@@ -1445,7 +1457,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-assistant-direction",
     "name": "Assistant Direction",
     "set": "material",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "assistant",
       "direction"
@@ -1456,7 +1468,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-assistant-photo",
     "name": "Assistant Photo",
     "set": "material",
-    "category": "media",
+    "category": "general-ui",
     "tags": [
       "assistant",
       "photo"
@@ -1478,7 +1490,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-atm",
     "name": "Atm",
     "set": "material",
-    "category": "general-ui",
+    "category": "finance",
     "tags": [
       "atm"
     ],
@@ -1488,7 +1500,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-attach-email",
     "name": "Attach Email",
     "set": "material",
-    "category": "messaging-queue",
+    "category": "editor",
     "tags": [
       "attach",
       "email"
@@ -1499,7 +1511,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-attach-file",
     "name": "Attach File",
     "set": "material",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "attach",
       "file"
@@ -1510,7 +1522,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-attach-money",
     "name": "Attach Money",
     "set": "material",
-    "category": "finance",
+    "category": "editor",
     "tags": [
       "attach",
       "money"
@@ -1521,7 +1533,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-attachment",
     "name": "Attachment",
     "set": "material",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "attachment"
     ],
@@ -1572,7 +1584,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-auto-awesome",
     "name": "Auto Awesome",
     "set": "material",
-    "category": "general-ui",
+    "category": "ai-ml",
     "tags": [
       "auto",
       "awesome"
@@ -1583,7 +1595,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-auto-awesome-mosaic",
     "name": "Auto Awesome Mosaic",
     "set": "material",
-    "category": "general-ui",
+    "category": "ai-ml",
     "tags": [
       "auto",
       "awesome",
@@ -1595,7 +1607,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-auto-awesome-motion",
     "name": "Auto Awesome Motion",
     "set": "material",
-    "category": "general-ui",
+    "category": "ai-ml",
     "tags": [
       "auto",
       "awesome",
@@ -1607,7 +1619,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-auto-delete",
     "name": "Auto Delete",
     "set": "material",
-    "category": "general-ui",
+    "category": "ai-ml",
     "tags": [
       "auto",
       "delete"
@@ -1618,7 +1630,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-auto-fix-high",
     "name": "Auto Fix High",
     "set": "material",
-    "category": "general-ui",
+    "category": "ai-ml",
     "tags": [
       "auto",
       "fix",
@@ -1630,7 +1642,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-auto-fix-normal",
     "name": "Auto Fix Normal",
     "set": "material",
-    "category": "general-ui",
+    "category": "ai-ml",
     "tags": [
       "auto",
       "fix",
@@ -1642,7 +1654,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-auto-fix-off",
     "name": "Auto Fix Off",
     "set": "material",
-    "category": "general-ui",
+    "category": "ai-ml",
     "tags": [
       "auto",
       "fix",
@@ -1654,7 +1666,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-auto-graph",
     "name": "Auto Graph",
     "set": "material",
-    "category": "general-ui",
+    "category": "ai-ml",
     "tags": [
       "auto",
       "graph"
@@ -1665,7 +1677,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-auto-mode",
     "name": "Auto Mode",
     "set": "material",
-    "category": "general-ui",
+    "category": "ai-ml",
     "tags": [
       "auto",
       "mode"
@@ -1676,7 +1688,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-auto-stories",
     "name": "Auto Stories",
     "set": "material",
-    "category": "general-ui",
+    "category": "ai-ml",
     "tags": [
       "auto",
       "stories"
@@ -1687,7 +1699,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-autofps-select",
     "name": "Autofps Select",
     "set": "material",
-    "category": "general-ui",
+    "category": "ai-ml",
     "tags": [
       "autofps",
       "select"
@@ -1700,7 +1712,9 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "set": "material",
     "category": "ai-ml",
     "tags": [
-      "autorenew"
+      "autorenew",
+      "refresh",
+      "reload"
     ],
     "materialName": "Autorenew"
   },
@@ -1719,7 +1733,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-baby-changing-station",
     "name": "Baby Changing Station",
     "set": "material",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "baby",
       "changing",
@@ -1731,7 +1745,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-back-hand",
     "name": "Back Hand",
     "set": "material",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "back",
       "hand"
@@ -1742,7 +1756,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-backpack",
     "name": "Backpack",
     "set": "material",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "backpack"
     ],
@@ -1752,7 +1766,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-backspace",
     "name": "Backspace",
     "set": "material",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "backspace"
     ],
@@ -1762,7 +1776,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-backup",
     "name": "Backup",
     "set": "material",
-    "category": "navigation",
+    "category": "storage-database",
     "tags": [
       "backup"
     ],
@@ -1772,7 +1786,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-backup-table",
     "name": "Backup Table",
     "set": "material",
-    "category": "navigation",
+    "category": "storage-database",
     "tags": [
       "backup",
       "table"
@@ -1876,7 +1890,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-battery0-bar",
     "name": "Battery0 Bar",
     "set": "material",
-    "category": "general-ui",
+    "category": "compute",
     "tags": [
       "battery0",
       "bar"
@@ -1887,7 +1901,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-battery1-bar",
     "name": "Battery1 Bar",
     "set": "material",
-    "category": "general-ui",
+    "category": "compute",
     "tags": [
       "battery1",
       "bar"
@@ -1898,7 +1912,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-battery20",
     "name": "Battery20",
     "set": "material",
-    "category": "general-ui",
+    "category": "compute",
     "tags": [
       "battery20"
     ],
@@ -1908,7 +1922,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-battery2-bar",
     "name": "Battery2 Bar",
     "set": "material",
-    "category": "general-ui",
+    "category": "compute",
     "tags": [
       "battery2",
       "bar"
@@ -1919,7 +1933,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-battery30",
     "name": "Battery30",
     "set": "material",
-    "category": "general-ui",
+    "category": "compute",
     "tags": [
       "battery30"
     ],
@@ -1929,7 +1943,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-battery3-bar",
     "name": "Battery3 Bar",
     "set": "material",
-    "category": "general-ui",
+    "category": "compute",
     "tags": [
       "battery3",
       "bar"
@@ -1940,7 +1954,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-battery4-bar",
     "name": "Battery4 Bar",
     "set": "material",
-    "category": "general-ui",
+    "category": "compute",
     "tags": [
       "battery4",
       "bar"
@@ -1951,7 +1965,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-battery50",
     "name": "Battery50",
     "set": "material",
-    "category": "general-ui",
+    "category": "compute",
     "tags": [
       "battery50"
     ],
@@ -1961,7 +1975,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-battery5-bar",
     "name": "Battery5 Bar",
     "set": "material",
-    "category": "general-ui",
+    "category": "compute",
     "tags": [
       "battery5",
       "bar"
@@ -1972,7 +1986,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-battery60",
     "name": "Battery60",
     "set": "material",
-    "category": "general-ui",
+    "category": "compute",
     "tags": [
       "battery60"
     ],
@@ -1982,7 +1996,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-battery6-bar",
     "name": "Battery6 Bar",
     "set": "material",
-    "category": "general-ui",
+    "category": "compute",
     "tags": [
       "battery6",
       "bar"
@@ -1993,7 +2007,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-battery80",
     "name": "Battery80",
     "set": "material",
-    "category": "general-ui",
+    "category": "compute",
     "tags": [
       "battery80"
     ],
@@ -2003,7 +2017,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-battery90",
     "name": "Battery90",
     "set": "material",
-    "category": "general-ui",
+    "category": "compute",
     "tags": [
       "battery90"
     ],
@@ -2013,7 +2027,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-battery-alert",
     "name": "Battery Alert",
     "set": "material",
-    "category": "general-ui",
+    "category": "compute",
     "tags": [
       "battery",
       "alert"
@@ -2024,7 +2038,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-battery-charging20",
     "name": "Battery Charging20",
     "set": "material",
-    "category": "general-ui",
+    "category": "compute",
     "tags": [
       "battery",
       "charging20"
@@ -2035,7 +2049,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-battery-charging30",
     "name": "Battery Charging30",
     "set": "material",
-    "category": "general-ui",
+    "category": "compute",
     "tags": [
       "battery",
       "charging30"
@@ -2046,7 +2060,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-battery-charging50",
     "name": "Battery Charging50",
     "set": "material",
-    "category": "general-ui",
+    "category": "compute",
     "tags": [
       "battery",
       "charging50"
@@ -2057,7 +2071,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-battery-charging60",
     "name": "Battery Charging60",
     "set": "material",
-    "category": "general-ui",
+    "category": "compute",
     "tags": [
       "battery",
       "charging60"
@@ -2068,7 +2082,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-battery-charging80",
     "name": "Battery Charging80",
     "set": "material",
-    "category": "general-ui",
+    "category": "compute",
     "tags": [
       "battery",
       "charging80"
@@ -2079,7 +2093,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-battery-charging90",
     "name": "Battery Charging90",
     "set": "material",
-    "category": "general-ui",
+    "category": "compute",
     "tags": [
       "battery",
       "charging90"
@@ -2090,7 +2104,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-battery-charging-full",
     "name": "Battery Charging Full",
     "set": "material",
-    "category": "general-ui",
+    "category": "compute",
     "tags": [
       "battery",
       "charging",
@@ -2102,7 +2116,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-battery-full",
     "name": "Battery Full",
     "set": "material",
-    "category": "general-ui",
+    "category": "compute",
     "tags": [
       "battery",
       "full"
@@ -2113,7 +2127,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-battery-saver",
     "name": "Battery Saver",
     "set": "material",
-    "category": "storage-database",
+    "category": "compute",
     "tags": [
       "battery",
       "saver"
@@ -2124,7 +2138,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-battery-std",
     "name": "Battery Std",
     "set": "material",
-    "category": "general-ui",
+    "category": "compute",
     "tags": [
       "battery",
       "std"
@@ -2135,7 +2149,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-battery-unknown",
     "name": "Battery Unknown",
     "set": "material",
-    "category": "general-ui",
+    "category": "compute",
     "tags": [
       "battery",
       "unknown"
@@ -2146,7 +2160,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-beach-access",
     "name": "Beach Access",
     "set": "material",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "beach",
       "access"
@@ -2241,7 +2255,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-bike-scooter",
     "name": "Bike Scooter",
     "set": "material",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "bike",
       "scooter"
@@ -2292,7 +2306,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-blinds-closed",
     "name": "Blinds Closed",
     "set": "material",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "blinds",
       "closed"
@@ -2333,7 +2347,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-bluetooth-audio",
     "name": "Bluetooth Audio",
     "set": "material",
-    "category": "media",
+    "category": "networking",
     "tags": [
       "bluetooth",
       "audio"
@@ -2527,7 +2541,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-border-all",
     "name": "Border All",
     "set": "material",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "border",
       "all"
@@ -2538,7 +2552,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-border-bottom",
     "name": "Border Bottom",
     "set": "material",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "border",
       "bottom"
@@ -2549,7 +2563,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-border-clear",
     "name": "Border Clear",
     "set": "material",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "border",
       "clear"
@@ -2571,7 +2585,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-border-horizontal",
     "name": "Border Horizontal",
     "set": "material",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "border",
       "horizontal"
@@ -2582,7 +2596,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-border-inner",
     "name": "Border Inner",
     "set": "material",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "border",
       "inner"
@@ -2593,10 +2607,12 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-border-left",
     "name": "Border Left",
     "set": "material",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "border",
-      "left"
+      "left",
+      "arrow",
+      "direction"
     ],
     "materialName": "BorderLeft"
   },
@@ -2604,7 +2620,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-border-outer",
     "name": "Border Outer",
     "set": "material",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "border",
       "outer"
@@ -2615,10 +2631,12 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-border-right",
     "name": "Border Right",
     "set": "material",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "border",
-      "right"
+      "right",
+      "arrow",
+      "direction"
     ],
     "materialName": "BorderRight"
   },
@@ -2626,7 +2644,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-border-style",
     "name": "Border Style",
     "set": "material",
-    "category": "frontend-client",
+    "category": "editor",
     "tags": [
       "border",
       "style"
@@ -2637,7 +2655,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-border-top",
     "name": "Border Top",
     "set": "material",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "border",
       "top"
@@ -2648,7 +2666,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-border-vertical",
     "name": "Border Vertical",
     "set": "material",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "border",
       "vertical"
@@ -2669,7 +2687,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-branding-watermark",
     "name": "Branding Watermark",
     "set": "material",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "branding",
       "watermark"
@@ -2691,7 +2709,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-brightness1",
     "name": "Brightness1",
     "set": "material",
-    "category": "media",
+    "category": "frontend-client",
     "tags": [
       "brightness1"
     ],
@@ -2701,7 +2719,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-brightness2",
     "name": "Brightness2",
     "set": "material",
-    "category": "media",
+    "category": "frontend-client",
     "tags": [
       "brightness2"
     ],
@@ -2711,7 +2729,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-brightness3",
     "name": "Brightness3",
     "set": "material",
-    "category": "media",
+    "category": "frontend-client",
     "tags": [
       "brightness3"
     ],
@@ -2721,7 +2739,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-brightness4",
     "name": "Brightness4",
     "set": "material",
-    "category": "media",
+    "category": "frontend-client",
     "tags": [
       "brightness4"
     ],
@@ -2731,7 +2749,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-brightness5",
     "name": "Brightness5",
     "set": "material",
-    "category": "media",
+    "category": "frontend-client",
     "tags": [
       "brightness5"
     ],
@@ -2741,7 +2759,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-brightness6",
     "name": "Brightness6",
     "set": "material",
-    "category": "media",
+    "category": "frontend-client",
     "tags": [
       "brightness6"
     ],
@@ -2751,7 +2769,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-brightness7",
     "name": "Brightness7",
     "set": "material",
-    "category": "media",
+    "category": "frontend-client",
     "tags": [
       "brightness7"
     ],
@@ -2761,7 +2779,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-brightness-auto",
     "name": "Brightness Auto",
     "set": "material",
-    "category": "media",
+    "category": "frontend-client",
     "tags": [
       "brightness",
       "auto"
@@ -2772,7 +2790,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-brightness-high",
     "name": "Brightness High",
     "set": "material",
-    "category": "media",
+    "category": "frontend-client",
     "tags": [
       "brightness",
       "high"
@@ -2783,7 +2801,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-brightness-low",
     "name": "Brightness Low",
     "set": "material",
-    "category": "media",
+    "category": "frontend-client",
     "tags": [
       "brightness",
       "low"
@@ -2794,7 +2812,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-brightness-medium",
     "name": "Brightness Medium",
     "set": "material",
-    "category": "media",
+    "category": "frontend-client",
     "tags": [
       "brightness",
       "medium"
@@ -2805,7 +2823,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-broadcast-on-home",
     "name": "Broadcast On Home",
     "set": "material",
-    "category": "navigation",
+    "category": "media",
     "tags": [
       "broadcast",
       "on",
@@ -2817,7 +2835,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-broadcast-on-personal",
     "name": "Broadcast On Personal",
     "set": "material",
-    "category": "people-social",
+    "category": "media",
     "tags": [
       "broadcast",
       "on",
@@ -2829,7 +2847,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-broken-image",
     "name": "Broken Image",
     "set": "material",
-    "category": "media",
+    "category": "general-ui",
     "tags": [
       "broken",
       "image"
@@ -2863,7 +2881,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-browser-updated",
     "name": "Browser Updated",
     "set": "material",
-    "category": "navigation",
+    "category": "frontend-client",
     "tags": [
       "browser",
       "updated"
@@ -2895,7 +2913,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-bubble-chart",
     "name": "Bubble Chart",
     "set": "material",
-    "category": "monitoring-logging",
+    "category": "general-ui",
     "tags": [
       "bubble",
       "chart"
@@ -2906,7 +2924,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-bug-report",
     "name": "Bug Report",
     "set": "material",
-    "category": "monitoring-logging",
+    "category": "general-ui",
     "tags": [
       "bug",
       "report"
@@ -2959,7 +2977,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-bus-alert",
     "name": "Bus Alert",
     "set": "material",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "bus",
       "alert"
@@ -2970,7 +2988,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-business",
     "name": "Business",
     "set": "material",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "business"
     ],
@@ -2980,7 +2998,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-business-center",
     "name": "Business Center",
     "set": "material",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "business",
       "center"
@@ -3011,7 +3029,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-cached",
     "name": "Cached",
     "set": "material",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "cached"
     ],
@@ -3041,7 +3059,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-calendar-month",
     "name": "Calendar Month",
     "set": "material",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "calendar",
       "month"
@@ -3052,7 +3070,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-calendar-today",
     "name": "Calendar Today",
     "set": "material",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "calendar",
       "today"
@@ -3063,7 +3081,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-calendar-view-day",
     "name": "Calendar View Day",
     "set": "material",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "calendar",
       "view",
@@ -3075,7 +3093,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-calendar-view-month",
     "name": "Calendar View Month",
     "set": "material",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "calendar",
       "view",
@@ -3087,7 +3105,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-calendar-view-week",
     "name": "Calendar View Week",
     "set": "material",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "calendar",
       "view",
@@ -3099,7 +3117,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-call",
     "name": "Call",
     "set": "material",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "call"
     ],
@@ -3109,7 +3127,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-call-end",
     "name": "Call End",
     "set": "material",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "call",
       "end"
@@ -3120,7 +3138,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-call-made",
     "name": "Call Made",
     "set": "material",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "call",
       "made"
@@ -3131,7 +3149,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-call-merge",
     "name": "Call Merge",
     "set": "material",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "call",
       "merge"
@@ -3142,7 +3160,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-call-missed",
     "name": "Call Missed",
     "set": "material",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "call",
       "missed"
@@ -3153,7 +3171,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-call-missed-outgoing",
     "name": "Call Missed Outgoing",
     "set": "material",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "call",
       "missed",
@@ -3165,7 +3183,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-call-received",
     "name": "Call Received",
     "set": "material",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "call",
       "received"
@@ -3176,7 +3194,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-call-split",
     "name": "Call Split",
     "set": "material",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "call",
       "split"
@@ -3187,7 +3205,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-call-to-action",
     "name": "Call To Action",
     "set": "material",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "call",
       "to",
@@ -3306,7 +3324,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-cancel",
     "name": "Cancel",
     "set": "material",
-    "category": "general-ui",
+    "category": "navigation",
     "tags": [
       "cancel"
     ],
@@ -3316,7 +3334,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-cancel-presentation",
     "name": "Cancel Presentation",
     "set": "material",
-    "category": "general-ui",
+    "category": "navigation",
     "tags": [
       "cancel",
       "presentation"
@@ -3327,7 +3345,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-cancel-schedule-send",
     "name": "Cancel Schedule Send",
     "set": "material",
-    "category": "messaging-queue",
+    "category": "navigation",
     "tags": [
       "cancel",
       "schedule",
@@ -3339,7 +3357,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-candlestick-chart",
     "name": "Candlestick Chart",
     "set": "material",
-    "category": "monitoring-logging",
+    "category": "general-ui",
     "tags": [
       "candlestick",
       "chart"
@@ -3350,7 +3368,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-car-crash",
     "name": "Car Crash",
     "set": "material",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "car",
       "crash"
@@ -3361,7 +3379,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-car-rental",
     "name": "Car Rental",
     "set": "material",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "car",
       "rental"
@@ -3372,7 +3390,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-car-repair",
     "name": "Car Repair",
     "set": "material",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "car",
       "repair"
@@ -3383,7 +3401,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-card-giftcard",
     "name": "Card Giftcard",
     "set": "material",
-    "category": "finance",
+    "category": "maps-location",
     "tags": [
       "card",
       "giftcard"
@@ -3394,7 +3412,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-card-membership",
     "name": "Card Membership",
     "set": "material",
-    "category": "people-social",
+    "category": "maps-location",
     "tags": [
       "card",
       "membership"
@@ -3416,7 +3434,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-carpenter",
     "name": "Carpenter",
     "set": "material",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "carpenter"
     ],
@@ -3456,7 +3474,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-cast-connected",
     "name": "Cast Connected",
     "set": "material",
-    "category": "api-integration",
+    "category": "general-ui",
     "tags": [
       "cast",
       "connected"
@@ -3754,7 +3772,9 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "category": "navigation",
     "tags": [
       "chevron",
-      "left"
+      "left",
+      "arrow",
+      "direction"
     ],
     "materialName": "ChevronLeft"
   },
@@ -3765,7 +3785,9 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "category": "navigation",
     "tags": [
       "chevron",
-      "right"
+      "right",
+      "arrow",
+      "direction"
     ],
     "materialName": "ChevronRight"
   },
@@ -3773,7 +3795,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-child-care",
     "name": "Child Care",
     "set": "material",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "child",
       "care"
@@ -3795,7 +3817,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-chrome-reader-mode",
     "name": "Chrome Reader Mode",
     "set": "material",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "chrome",
       "reader",
@@ -3807,7 +3829,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-church",
     "name": "Church",
     "set": "material",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "church"
     ],
@@ -3817,7 +3839,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-circle",
     "name": "Circle",
     "set": "material",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle"
     ],
@@ -3827,7 +3849,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-circle-notifications",
     "name": "Circle Notifications",
     "set": "material",
-    "category": "messaging-queue",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "notifications"
@@ -3979,10 +4001,12 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-cloud-download",
     "name": "Cloud Download",
     "set": "material",
-    "category": "navigation",
+    "category": "compute",
     "tags": [
       "cloud",
-      "download"
+      "download",
+      "transfer",
+      "arrow"
     ],
     "materialName": "CloudDownload"
   },
@@ -4023,10 +4047,12 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-cloud-upload",
     "name": "Cloud Upload",
     "set": "material",
-    "category": "navigation",
+    "category": "compute",
     "tags": [
       "cloud",
-      "upload"
+      "upload",
+      "transfer",
+      "arrow"
     ],
     "materialName": "CloudUpload"
   },
@@ -4107,7 +4133,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-collections-bookmark",
     "name": "Collections Bookmark",
     "set": "material",
-    "category": "people-social",
+    "category": "general-ui",
     "tags": [
       "collections",
       "bookmark"
@@ -4118,7 +4144,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-color-lens",
     "name": "Color Lens",
     "set": "material",
-    "category": "editor",
+    "category": "general-ui",
     "tags": [
       "color",
       "lens"
@@ -4129,7 +4155,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-colorize",
     "name": "Colorize",
     "set": "material",
-    "category": "editor",
+    "category": "general-ui",
     "tags": [
       "colorize"
     ],
@@ -4171,7 +4197,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-commit",
     "name": "Commit",
     "set": "material",
-    "category": "general-ui",
+    "category": "devops-cicd",
     "tags": [
       "commit"
     ],
@@ -4201,7 +4227,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-compare-arrows",
     "name": "Compare Arrows",
     "set": "material",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "compare",
       "arrows"
@@ -4254,7 +4280,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-connect-without-contact",
     "name": "Connect Without Contact",
     "set": "material",
-    "category": "people-social",
+    "category": "api-integration",
     "tags": [
       "connect",
       "without",
@@ -4266,7 +4292,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-connected-tv",
     "name": "Connected Tv",
     "set": "material",
-    "category": "media",
+    "category": "api-integration",
     "tags": [
       "connected",
       "tv"
@@ -4373,7 +4399,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-content-copy",
     "name": "Content Copy",
     "set": "material",
-    "category": "editor",
+    "category": "general-ui",
     "tags": [
       "content",
       "copy"
@@ -4384,7 +4410,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-content-cut",
     "name": "Content Cut",
     "set": "material",
-    "category": "editor",
+    "category": "general-ui",
     "tags": [
       "content",
       "cut"
@@ -4395,7 +4421,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-content-paste",
     "name": "Content Paste",
     "set": "material",
-    "category": "editor",
+    "category": "general-ui",
     "tags": [
       "content",
       "paste"
@@ -4406,7 +4432,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-content-paste-go",
     "name": "Content Paste Go",
     "set": "material",
-    "category": "editor",
+    "category": "general-ui",
     "tags": [
       "content",
       "paste",
@@ -4418,7 +4444,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-content-paste-off",
     "name": "Content Paste Off",
     "set": "material",
-    "category": "editor",
+    "category": "general-ui",
     "tags": [
       "content",
       "paste",
@@ -4430,7 +4456,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-content-paste-search",
     "name": "Content Paste Search",
     "set": "material",
-    "category": "editor",
+    "category": "general-ui",
     "tags": [
       "content",
       "paste",
@@ -4442,7 +4468,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-contrast",
     "name": "Contrast",
     "set": "material",
-    "category": "media",
+    "category": "frontend-client",
     "tags": [
       "contrast"
     ],
@@ -4452,7 +4478,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-control-camera",
     "name": "Control Camera",
     "set": "material",
-    "category": "media",
+    "category": "general-ui",
     "tags": [
       "control",
       "camera"
@@ -4548,7 +4574,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-countertops",
     "name": "Countertops",
     "set": "material",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "countertops"
     ],
@@ -4568,7 +4594,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-create-new-folder",
     "name": "Create New Folder",
     "set": "material",
-    "category": "storage-database",
+    "category": "general-ui",
     "tags": [
       "create",
       "new",
@@ -4881,7 +4907,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-curtains-closed",
     "name": "Curtains Closed",
     "set": "material",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "curtains",
       "closed"
@@ -4912,7 +4938,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-dark-mode",
     "name": "Dark Mode",
     "set": "material",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "dark",
       "mode"
@@ -4923,7 +4949,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-dashboard",
     "name": "Dashboard",
     "set": "material",
-    "category": "monitoring-logging",
+    "category": "diagram-primitives",
     "tags": [
       "dashboard"
     ],
@@ -4933,7 +4959,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-dashboard-customize",
     "name": "Dashboard Customize",
     "set": "material",
-    "category": "monitoring-logging",
+    "category": "diagram-primitives",
     "tags": [
       "dashboard",
       "customize"
@@ -4966,7 +4992,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-data-saver-off",
     "name": "Data Saver Off",
     "set": "material",
-    "category": "storage-database",
+    "category": "general-ui",
     "tags": [
       "data",
       "saver",
@@ -4978,7 +5004,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-data-saver-on",
     "name": "Data Saver On",
     "set": "material",
-    "category": "storage-database",
+    "category": "general-ui",
     "tags": [
       "data",
       "saver",
@@ -5192,7 +5218,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-design-services",
     "name": "Design Services",
     "set": "material",
-    "category": "frontend-client",
+    "category": "general-ui",
     "tags": [
       "design",
       "services"
@@ -5257,7 +5283,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-developer-board",
     "name": "Developer Board",
     "set": "material",
-    "category": "general-ui",
+    "category": "compute",
     "tags": [
       "developer",
       "board"
@@ -5268,7 +5294,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-developer-board-off",
     "name": "Developer Board Off",
     "set": "material",
-    "category": "general-ui",
+    "category": "compute",
     "tags": [
       "developer",
       "board",
@@ -5280,7 +5306,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-developer-mode",
     "name": "Developer Mode",
     "set": "material",
-    "category": "general-ui",
+    "category": "compute",
     "tags": [
       "developer",
       "mode"
@@ -5291,7 +5317,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-device-hub",
     "name": "Device Hub",
     "set": "material",
-    "category": "networking",
+    "category": "general-ui",
     "tags": [
       "device",
       "hub"
@@ -5324,7 +5350,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-devices",
     "name": "Devices",
     "set": "material",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "devices"
     ],
@@ -5334,7 +5360,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-devices-fold",
     "name": "Devices Fold",
     "set": "material",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "devices",
       "fold"
@@ -5345,7 +5371,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-devices-other",
     "name": "Devices Other",
     "set": "material",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "devices",
       "other"
@@ -5356,7 +5382,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-dialer-sip",
     "name": "Dialer Sip",
     "set": "material",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "dialer",
       "sip"
@@ -5367,7 +5393,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-dialpad",
     "name": "Dialpad",
     "set": "material",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "dialpad"
     ],
@@ -5377,7 +5403,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-diamond",
     "name": "Diamond",
     "set": "material",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "diamond"
     ],
@@ -5633,7 +5659,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-disc-full",
     "name": "Disc Full",
     "set": "material",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "disc",
       "full"
@@ -5644,7 +5670,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-discount",
     "name": "Discount",
     "set": "material",
-    "category": "finance",
+    "category": "media",
     "tags": [
       "discount"
     ],
@@ -5960,7 +5986,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-door-back",
     "name": "Door Back",
     "set": "material",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "door",
       "back"
@@ -6003,7 +6029,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-double-arrow",
     "name": "Double Arrow",
     "set": "material",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "double",
       "arrow"
@@ -6014,7 +6040,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-downhill-skiing",
     "name": "Downhill Skiing",
     "set": "material",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "downhill",
       "skiing"
@@ -6025,9 +6051,11 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-download",
     "name": "Download",
     "set": "material",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
-      "download"
+      "download",
+      "transfer",
+      "arrow"
     ],
     "materialName": "Download"
   },
@@ -6035,10 +6063,12 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-download-done",
     "name": "Download Done",
     "set": "material",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "download",
-      "done"
+      "done",
+      "transfer",
+      "arrow"
     ],
     "materialName": "DownloadDone"
   },
@@ -6046,11 +6076,13 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-download-for-offline",
     "name": "Download For Offline",
     "set": "material",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "download",
       "for",
-      "offline"
+      "offline",
+      "transfer",
+      "arrow"
     ],
     "materialName": "DownloadForOffline"
   },
@@ -6058,9 +6090,11 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-downloading",
     "name": "Downloading",
     "set": "material",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
-      "downloading"
+      "downloading",
+      "transfer",
+      "arrow"
     ],
     "materialName": "Downloading"
   },
@@ -6078,7 +6112,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-drag-handle",
     "name": "Drag Handle",
     "set": "material",
-    "category": "general-ui",
+    "category": "navigation",
     "tags": [
       "drag",
       "handle"
@@ -6089,7 +6123,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-drag-indicator",
     "name": "Drag Indicator",
     "set": "material",
-    "category": "general-ui",
+    "category": "navigation",
     "tags": [
       "drag",
       "indicator"
@@ -6110,7 +6144,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-drive-eta",
     "name": "Drive Eta",
     "set": "material",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "drive",
       "eta"
@@ -6121,7 +6155,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-drive-file-move",
     "name": "Drive File Move",
     "set": "material",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "drive",
       "file",
@@ -6133,7 +6167,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-drive-file-rename-outline",
     "name": "Drive File Rename Outline",
     "set": "material",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "drive",
       "file",
@@ -6146,7 +6180,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-drive-folder-upload",
     "name": "Drive Folder Upload",
     "set": "material",
-    "category": "navigation",
+    "category": "storage-database",
     "tags": [
       "drive",
       "folder",
@@ -6199,7 +6233,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-dynamic-feed",
     "name": "Dynamic Feed",
     "set": "material",
-    "category": "people-social",
+    "category": "general-ui",
     "tags": [
       "dynamic",
       "feed"
@@ -6221,7 +6255,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-e-mobiledata",
     "name": "E Mobiledata",
     "set": "material",
-    "category": "frontend-client",
+    "category": "general-ui",
     "tags": [
       "e",
       "mobiledata"
@@ -6317,7 +6351,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-edit-location",
     "name": "Edit Location",
     "set": "material",
-    "category": "maps-location",
+    "category": "editor",
     "tags": [
       "edit",
       "location"
@@ -6328,7 +6362,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-edit-location-alt",
     "name": "Edit Location Alt",
     "set": "material",
-    "category": "maps-location",
+    "category": "editor",
     "tags": [
       "edit",
       "location",
@@ -6450,7 +6484,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-eighteen-up-rating",
     "name": "Eighteen Up Rating",
     "set": "material",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "eighteen",
       "up",
@@ -6623,7 +6657,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-emergency-recording",
     "name": "Emergency Recording",
     "set": "material",
-    "category": "media",
+    "category": "general-ui",
     "tags": [
       "emergency",
       "recording"
@@ -6634,7 +6668,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-emergency-share",
     "name": "Emergency Share",
     "set": "material",
-    "category": "people-social",
+    "category": "general-ui",
     "tags": [
       "emergency",
       "share"
@@ -6645,7 +6679,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-emoji-emotions",
     "name": "Emoji Emotions",
     "set": "material",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "emoji",
       "emotions"
@@ -6656,7 +6690,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-emoji-events",
     "name": "Emoji Events",
     "set": "material",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "emoji",
       "events"
@@ -6667,7 +6701,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-emoji-flags",
     "name": "Emoji Flags",
     "set": "material",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "emoji",
       "flags"
@@ -6678,7 +6712,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-emoji-food-beverage",
     "name": "Emoji Food Beverage",
     "set": "material",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "emoji",
       "food",
@@ -6690,7 +6724,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-emoji-nature",
     "name": "Emoji Nature",
     "set": "material",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "emoji",
       "nature"
@@ -6701,7 +6735,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-emoji-objects",
     "name": "Emoji Objects",
     "set": "material",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "emoji",
       "objects"
@@ -6723,7 +6757,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-emoji-symbols",
     "name": "Emoji Symbols",
     "set": "material",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "emoji",
       "symbols"
@@ -6734,7 +6768,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-emoji-transportation",
     "name": "Emoji Transportation",
     "set": "material",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "emoji",
       "transportation"
@@ -6745,7 +6779,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-energy-savings-leaf",
     "name": "Energy Savings Leaf",
     "set": "material",
-    "category": "finance",
+    "category": "general-ui",
     "tags": [
       "energy",
       "savings",
@@ -6941,7 +6975,9 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "set": "material",
     "category": "navigation",
     "tags": [
-      "expand"
+      "expand",
+      "arrow",
+      "direction"
     ],
     "materialName": "Expand"
   },
@@ -6953,7 +6989,9 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "tags": [
       "expand",
       "circle",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "materialName": "ExpandCircleDown"
   },
@@ -6964,7 +7002,9 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "category": "navigation",
     "tags": [
       "expand",
-      "less"
+      "less",
+      "arrow",
+      "direction"
     ],
     "materialName": "ExpandLess"
   },
@@ -6975,7 +7015,9 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "category": "navigation",
     "tags": [
       "expand",
-      "more"
+      "more",
+      "arrow",
+      "direction"
     ],
     "materialName": "ExpandMore"
   },
@@ -7024,7 +7066,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-extension",
     "name": "Extension",
     "set": "material",
-    "category": "general-ui",
+    "category": "api-integration",
     "tags": [
       "extension"
     ],
@@ -7034,7 +7076,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-extension-off",
     "name": "Extension Off",
     "set": "material",
-    "category": "general-ui",
+    "category": "api-integration",
     "tags": [
       "extension",
       "off"
@@ -7160,7 +7202,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-family-restroom",
     "name": "Family Restroom",
     "set": "material",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "family",
       "restroom"
@@ -7171,7 +7213,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-fast-forward",
     "name": "Fast Forward",
     "set": "material",
-    "category": "navigation",
+    "category": "media",
     "tags": [
       "fast",
       "forward"
@@ -7234,7 +7276,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-featured-play-list",
     "name": "Featured Play List",
     "set": "material",
-    "category": "media",
+    "category": "general-ui",
     "tags": [
       "featured",
       "play",
@@ -7246,7 +7288,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-featured-video",
     "name": "Featured Video",
     "set": "material",
-    "category": "media",
+    "category": "general-ui",
     "tags": [
       "featured",
       "video"
@@ -7307,7 +7349,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-fiber-dvr",
     "name": "Fiber Dvr",
     "set": "material",
-    "category": "general-ui",
+    "category": "networking",
     "tags": [
       "fiber",
       "dvr"
@@ -7318,7 +7360,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-fiber-manual-record",
     "name": "Fiber Manual Record",
     "set": "material",
-    "category": "media",
+    "category": "networking",
     "tags": [
       "fiber",
       "manual",
@@ -7330,7 +7372,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-fiber-new",
     "name": "Fiber New",
     "set": "material",
-    "category": "general-ui",
+    "category": "networking",
     "tags": [
       "fiber",
       "new"
@@ -7341,7 +7383,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-fiber-pin",
     "name": "Fiber Pin",
     "set": "material",
-    "category": "maps-location",
+    "category": "networking",
     "tags": [
       "fiber",
       "pin"
@@ -7352,7 +7394,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-fiber-smart-record",
     "name": "Fiber Smart Record",
     "set": "material",
-    "category": "media",
+    "category": "networking",
     "tags": [
       "fiber",
       "smart",
@@ -7375,7 +7417,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-file-copy",
     "name": "File Copy",
     "set": "material",
-    "category": "editor",
+    "category": "storage-database",
     "tags": [
       "file",
       "copy"
@@ -7386,7 +7428,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-file-download",
     "name": "File Download",
     "set": "material",
-    "category": "navigation",
+    "category": "storage-database",
     "tags": [
       "file",
       "download"
@@ -7397,7 +7439,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-file-download-done",
     "name": "File Download Done",
     "set": "material",
-    "category": "navigation",
+    "category": "storage-database",
     "tags": [
       "file",
       "download",
@@ -7409,7 +7451,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-file-download-off",
     "name": "File Download Off",
     "set": "material",
-    "category": "navigation",
+    "category": "storage-database",
     "tags": [
       "file",
       "download",
@@ -7421,7 +7463,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-file-open",
     "name": "File Open",
     "set": "material",
-    "category": "navigation",
+    "category": "storage-database",
     "tags": [
       "file",
       "open"
@@ -7432,7 +7474,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-file-present",
     "name": "File Present",
     "set": "material",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "present"
@@ -7443,7 +7485,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-file-upload",
     "name": "File Upload",
     "set": "material",
-    "category": "navigation",
+    "category": "storage-database",
     "tags": [
       "file",
       "upload"
@@ -7454,7 +7496,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-filter",
     "name": "Filter",
     "set": "material",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "filter"
     ],
@@ -7464,7 +7506,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-filter1",
     "name": "Filter1",
     "set": "material",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "filter1"
     ],
@@ -7474,7 +7516,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-filter2",
     "name": "Filter2",
     "set": "material",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "filter2"
     ],
@@ -7484,7 +7526,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-filter3",
     "name": "Filter3",
     "set": "material",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "filter3"
     ],
@@ -7494,7 +7536,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-filter4",
     "name": "Filter4",
     "set": "material",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "filter4"
     ],
@@ -7504,7 +7546,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-filter5",
     "name": "Filter5",
     "set": "material",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "filter5"
     ],
@@ -7514,7 +7556,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-filter6",
     "name": "Filter6",
     "set": "material",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "filter6"
     ],
@@ -7524,7 +7566,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-filter7",
     "name": "Filter7",
     "set": "material",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "filter7"
     ],
@@ -7534,7 +7576,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-filter8",
     "name": "Filter8",
     "set": "material",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "filter8"
     ],
@@ -7544,7 +7586,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-filter9",
     "name": "Filter9",
     "set": "material",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "filter9"
     ],
@@ -7554,7 +7596,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-filter9-plus",
     "name": "Filter9 Plus",
     "set": "material",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "filter9",
       "plus"
@@ -7565,7 +7607,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-filter-alt",
     "name": "Filter Alt",
     "set": "material",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "filter",
       "alt"
@@ -7576,7 +7618,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-filter-alt-off",
     "name": "Filter Alt Off",
     "set": "material",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "filter",
       "alt",
@@ -7588,7 +7630,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-filter-b-and-w",
     "name": "Filter B And W",
     "set": "material",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "filter",
       "b",
@@ -7601,7 +7643,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-filter-center-focus",
     "name": "Filter Center Focus",
     "set": "material",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "filter",
       "center",
@@ -7613,7 +7655,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-filter-drama",
     "name": "Filter Drama",
     "set": "material",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "filter",
       "drama"
@@ -7635,7 +7677,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-filter-hdr",
     "name": "Filter Hdr",
     "set": "material",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "filter",
       "hdr"
@@ -7669,7 +7711,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-filter-none",
     "name": "Filter None",
     "set": "material",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "filter",
       "none"
@@ -7680,7 +7722,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-filter-tilt-shift",
     "name": "Filter Tilt Shift",
     "set": "material",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "filter",
       "tilt",
@@ -7692,7 +7734,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-filter-vintage",
     "name": "Filter Vintage",
     "set": "material",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "filter",
       "vintage"
@@ -7703,7 +7745,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-find-in-page",
     "name": "Find In Page",
     "set": "material",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "find",
       "in",
@@ -7715,7 +7757,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-find-replace",
     "name": "Find Replace",
     "set": "material",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "find",
       "replace"
@@ -7728,7 +7770,8 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "set": "material",
     "category": "security-identity",
     "tags": [
-      "fingerprint"
+      "fingerprint",
+      "security"
     ],
     "materialName": "Fingerprint"
   },
@@ -7791,7 +7834,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-fit-screen",
     "name": "Fit Screen",
     "set": "material",
-    "category": "media",
+    "category": "general-ui",
     "tags": [
       "fit",
       "screen"
@@ -7812,7 +7855,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-fitness-center",
     "name": "Fitness Center",
     "set": "material",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "fitness",
       "center"
@@ -7879,7 +7922,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-flag",
     "name": "Flag",
     "set": "material",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "flag"
     ],
@@ -7889,7 +7932,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-flag-circle",
     "name": "Flag Circle",
     "set": "material",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "flag",
       "circle"
@@ -7920,7 +7963,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-flash-auto",
     "name": "Flash Auto",
     "set": "material",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "flash",
       "auto"
@@ -7931,7 +7974,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-flash-off",
     "name": "Flash Off",
     "set": "material",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "flash",
       "off"
@@ -7942,7 +7985,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-flash-on",
     "name": "Flash On",
     "set": "material",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "flash",
       "on"
@@ -7953,7 +7996,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-flashlight-off",
     "name": "Flashlight Off",
     "set": "material",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "flashlight",
       "off"
@@ -7964,7 +8007,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-flashlight-on",
     "name": "Flashlight On",
     "set": "material",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "flashlight",
       "on"
@@ -8028,9 +8071,11 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-flip",
     "name": "Flip",
     "set": "material",
-    "category": "editor",
+    "category": "navigation",
     "tags": [
-      "flip"
+      "flip",
+      "arrow",
+      "direction"
     ],
     "materialName": "Flip"
   },
@@ -8038,11 +8083,13 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-flip-camera-android",
     "name": "Flip Camera Android",
     "set": "material",
-    "category": "media",
+    "category": "navigation",
     "tags": [
       "flip",
       "camera",
-      "android"
+      "android",
+      "arrow",
+      "direction"
     ],
     "materialName": "FlipCameraAndroid"
   },
@@ -8050,11 +8097,13 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-flip-camera-ios",
     "name": "Flip Camera Ios",
     "set": "material",
-    "category": "media",
+    "category": "navigation",
     "tags": [
       "flip",
       "camera",
-      "ios"
+      "ios",
+      "arrow",
+      "direction"
     ],
     "materialName": "FlipCameraIos"
   },
@@ -8066,7 +8115,9 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "tags": [
       "flip",
       "to",
-      "back"
+      "back",
+      "arrow",
+      "direction"
     ],
     "materialName": "FlipToBack"
   },
@@ -8074,11 +8125,13 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-flip-to-front",
     "name": "Flip To Front",
     "set": "material",
-    "category": "editor",
+    "category": "navigation",
     "tags": [
       "flip",
       "to",
-      "front"
+      "front",
+      "arrow",
+      "direction"
     ],
     "materialName": "FlipToFront"
   },
@@ -8149,7 +8202,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-folder-copy",
     "name": "Folder Copy",
     "set": "material",
-    "category": "editor",
+    "category": "storage-database",
     "tags": [
       "folder",
       "copy"
@@ -8182,7 +8235,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-folder-open",
     "name": "Folder Open",
     "set": "material",
-    "category": "navigation",
+    "category": "storage-database",
     "tags": [
       "folder",
       "open"
@@ -8193,7 +8246,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-folder-shared",
     "name": "Folder Shared",
     "set": "material",
-    "category": "people-social",
+    "category": "storage-database",
     "tags": [
       "folder",
       "shared"
@@ -8238,7 +8291,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-font-download",
     "name": "Font Download",
     "set": "material",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "font",
       "download"
@@ -8249,7 +8302,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-font-download-off",
     "name": "Font Download Off",
     "set": "material",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "font",
       "download",
@@ -8261,7 +8314,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-food-bank",
     "name": "Food Bank",
     "set": "material",
-    "category": "finance",
+    "category": "general-ui",
     "tags": [
       "food",
       "bank"
@@ -8272,7 +8325,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-forest",
     "name": "Forest",
     "set": "material",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "forest"
     ],
@@ -8282,10 +8335,12 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-fork-left",
     "name": "Fork Left",
     "set": "material",
-    "category": "navigation",
+    "category": "devops-cicd",
     "tags": [
       "fork",
-      "left"
+      "left",
+      "arrow",
+      "direction"
     ],
     "materialName": "ForkLeft"
   },
@@ -8293,10 +8348,12 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-fork-right",
     "name": "Fork Right",
     "set": "material",
-    "category": "navigation",
+    "category": "devops-cicd",
     "tags": [
       "fork",
-      "right"
+      "right",
+      "arrow",
+      "direction"
     ],
     "materialName": "ForkRight"
   },
@@ -8328,11 +8385,13 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-format-align-left",
     "name": "Format Align Left",
     "set": "material",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "format",
       "align",
-      "left"
+      "left",
+      "arrow",
+      "direction"
     ],
     "materialName": "FormatAlignLeft"
   },
@@ -8340,11 +8399,13 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-format-align-right",
     "name": "Format Align Right",
     "set": "material",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "format",
       "align",
-      "right"
+      "right",
+      "arrow",
+      "direction"
     ],
     "materialName": "FormatAlignRight"
   },
@@ -8619,7 +8680,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-forward",
     "name": "Forward",
     "set": "material",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "forward"
     ],
@@ -8629,7 +8690,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-forward10",
     "name": "Forward10",
     "set": "material",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "forward10"
     ],
@@ -8639,7 +8700,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-forward30",
     "name": "Forward30",
     "set": "material",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "forward30"
     ],
@@ -8649,7 +8710,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-forward5",
     "name": "Forward5",
     "set": "material",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "forward5"
     ],
@@ -8659,7 +8720,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-forward-to-inbox",
     "name": "Forward To Inbox",
     "set": "material",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "forward",
       "to",
@@ -8681,7 +8742,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-four-g-mobiledata",
     "name": "Four G Mobiledata",
     "set": "material",
-    "category": "frontend-client",
+    "category": "general-ui",
     "tags": [
       "four",
       "g",
@@ -8693,7 +8754,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-four-g-plus-mobiledata",
     "name": "Four G Plus Mobiledata",
     "set": "material",
-    "category": "frontend-client",
+    "category": "general-ui",
     "tags": [
       "four",
       "g",
@@ -8772,7 +8833,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-fullscreen-exit",
     "name": "Fullscreen Exit",
     "set": "material",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "fullscreen",
       "exit"
@@ -8793,7 +8854,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-g-mobiledata",
     "name": "G Mobiledata",
     "set": "material",
-    "category": "frontend-client",
+    "category": "general-ui",
     "tags": [
       "g",
       "mobiledata"
@@ -8887,7 +8948,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-gif",
     "name": "Gif",
     "set": "material",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "gif"
     ],
@@ -8897,7 +8958,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-gif-box",
     "name": "Gif Box",
     "set": "material",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "gif",
       "box"
@@ -8918,7 +8979,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-git-hub",
     "name": "Git Hub",
     "set": "material",
-    "category": "networking",
+    "category": "devops-cicd",
     "tags": [
       "git",
       "hub"
@@ -8939,7 +9000,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-golf-course",
     "name": "Golf Course",
     "set": "material",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "golf",
       "course"
@@ -8960,7 +9021,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-gpp-bad",
     "name": "Gpp Bad",
     "set": "material",
-    "category": "general-ui",
+    "category": "security-identity",
     "tags": [
       "gpp",
       "bad"
@@ -8971,7 +9032,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-gpp-good",
     "name": "Gpp Good",
     "set": "material",
-    "category": "general-ui",
+    "category": "security-identity",
     "tags": [
       "gpp",
       "good"
@@ -9067,7 +9128,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-graphic-eq",
     "name": "Graphic Eq",
     "set": "material",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "graphic",
       "eq"
@@ -9225,7 +9286,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-h-mobiledata",
     "name": "H Mobiledata",
     "set": "material",
-    "category": "frontend-client",
+    "category": "general-ui",
     "tags": [
       "h",
       "mobiledata"
@@ -9236,7 +9297,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-h-plus-mobiledata",
     "name": "H Plus Mobiledata",
     "set": "material",
-    "category": "frontend-client",
+    "category": "general-ui",
     "tags": [
       "h",
       "plus",
@@ -9298,7 +9359,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-hdr-auto",
     "name": "Hdr Auto",
     "set": "material",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "hdr",
       "auto"
@@ -9309,7 +9370,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-hdr-auto-select",
     "name": "Hdr Auto Select",
     "set": "material",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "hdr",
       "auto",
@@ -9321,7 +9382,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-hdr-enhanced-select",
     "name": "Hdr Enhanced Select",
     "set": "material",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "hdr",
       "enhanced",
@@ -9333,7 +9394,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-hdr-off",
     "name": "Hdr Off",
     "set": "material",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "hdr",
       "off"
@@ -9344,7 +9405,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-hdr-off-select",
     "name": "Hdr Off Select",
     "set": "material",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "hdr",
       "off",
@@ -9356,7 +9417,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-hdr-on",
     "name": "Hdr On",
     "set": "material",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "hdr",
       "on"
@@ -9367,7 +9428,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-hdr-on-select",
     "name": "Hdr On Select",
     "set": "material",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "hdr",
       "on",
@@ -9379,7 +9440,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-hdr-plus",
     "name": "Hdr Plus",
     "set": "material",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "hdr",
       "plus"
@@ -9390,7 +9451,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-hdr-strong",
     "name": "Hdr Strong",
     "set": "material",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "hdr",
       "strong"
@@ -9401,7 +9462,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-hdr-weak",
     "name": "Hdr Weak",
     "set": "material",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "hdr",
       "weak"
@@ -9443,7 +9504,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-headset-mic",
     "name": "Headset Mic",
     "set": "material",
-    "category": "media",
+    "category": "general-ui",
     "tags": [
       "headset",
       "mic"
@@ -9582,7 +9643,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-hexagon",
     "name": "Hexagon",
     "set": "material",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon"
     ],
@@ -9592,7 +9653,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-hide-image",
     "name": "Hide Image",
     "set": "material",
-    "category": "media",
+    "category": "general-ui",
     "tags": [
       "hide",
       "image"
@@ -9657,7 +9718,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-hiking",
     "name": "Hiking",
     "set": "material",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "hiking"
     ],
@@ -9895,7 +9956,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-house",
     "name": "House",
     "set": "material",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "house"
     ],
@@ -9905,7 +9966,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-house-siding",
     "name": "House Siding",
     "set": "material",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "house",
       "siding"
@@ -9916,7 +9977,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-houseboat",
     "name": "Houseboat",
     "set": "material",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "houseboat"
     ],
@@ -10077,7 +10138,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-import-contacts",
     "name": "Import Contacts",
     "set": "material",
-    "category": "people-social",
+    "category": "api-integration",
     "tags": [
       "import",
       "contacts"
@@ -10088,7 +10149,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-import-export",
     "name": "Import Export",
     "set": "material",
-    "category": "general-ui",
+    "category": "api-integration",
     "tags": [
       "import",
       "export"
@@ -10099,7 +10160,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-important-devices",
     "name": "Important Devices",
     "set": "material",
-    "category": "general-ui",
+    "category": "api-integration",
     "tags": [
       "important",
       "devices"
@@ -10142,7 +10203,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-input",
     "name": "Input",
     "set": "material",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "input"
     ],
@@ -10163,7 +10224,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-insert-comment",
     "name": "Insert Comment",
     "set": "material",
-    "category": "people-social",
+    "category": "editor",
     "tags": [
       "insert",
       "comment"
@@ -10231,7 +10292,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-insert-photo",
     "name": "Insert Photo",
     "set": "material",
-    "category": "media",
+    "category": "editor",
     "tags": [
       "insert",
       "photo"
@@ -10262,7 +10323,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-install-desktop",
     "name": "Install Desktop",
     "set": "material",
-    "category": "compute",
+    "category": "general-ui",
     "tags": [
       "install",
       "desktop"
@@ -10273,7 +10334,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-install-mobile",
     "name": "Install Mobile",
     "set": "material",
-    "category": "frontend-client",
+    "category": "general-ui",
     "tags": [
       "install",
       "mobile"
@@ -10284,7 +10345,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-integration-instructions",
     "name": "Integration Instructions",
     "set": "material",
-    "category": "general-ui",
+    "category": "api-integration",
     "tags": [
       "integration",
       "instructions"
@@ -10336,7 +10397,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-invert-colors",
     "name": "Invert Colors",
     "set": "material",
-    "category": "editor",
+    "category": "general-ui",
     "tags": [
       "invert",
       "colors"
@@ -10347,7 +10408,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-invert-colors-off",
     "name": "Invert Colors Off",
     "set": "material",
-    "category": "editor",
+    "category": "general-ui",
     "tags": [
       "invert",
       "colors",
@@ -10359,7 +10420,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-ios-share",
     "name": "Ios Share",
     "set": "material",
-    "category": "people-social",
+    "category": "general-ui",
     "tags": [
       "ios",
       "share"
@@ -10422,10 +10483,12 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-join-left",
     "name": "Join Left",
     "set": "material",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "join",
-      "left"
+      "left",
+      "arrow",
+      "direction"
     ],
     "materialName": "JoinLeft"
   },
@@ -10433,10 +10496,12 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-join-right",
     "name": "Join Right",
     "set": "material",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "join",
-      "right"
+      "right",
+      "arrow",
+      "direction"
     ],
     "materialName": "JoinRight"
   },
@@ -10444,7 +10509,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-kayaking",
     "name": "Kayaking",
     "set": "material",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "kayaking"
     ],
@@ -10467,7 +10532,8 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "set": "material",
     "category": "security-identity",
     "tags": [
-      "key"
+      "key",
+      "security"
     ],
     "materialName": "Key"
   },
@@ -10478,7 +10544,8 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "category": "security-identity",
     "tags": [
       "key",
-      "off"
+      "off",
+      "security"
     ],
     "materialName": "KeyOff"
   },
@@ -10488,7 +10555,8 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "set": "material",
     "category": "security-identity",
     "tags": [
-      "keyboard"
+      "keyboard",
+      "security"
     ],
     "materialName": "Keyboard"
   },
@@ -10499,7 +10567,8 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "category": "security-identity",
     "tags": [
       "keyboard",
-      "alt"
+      "alt",
+      "security"
     ],
     "materialName": "KeyboardAlt"
   },
@@ -10507,11 +10576,13 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-keyboard-arrow-down",
     "name": "Keyboard Arrow Down",
     "set": "material",
-    "category": "navigation",
+    "category": "security-identity",
     "tags": [
       "keyboard",
       "arrow",
-      "down"
+      "down",
+      "direction",
+      "security"
     ],
     "materialName": "KeyboardArrowDown"
   },
@@ -10519,11 +10590,13 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-keyboard-arrow-left",
     "name": "Keyboard Arrow Left",
     "set": "material",
-    "category": "navigation",
+    "category": "security-identity",
     "tags": [
       "keyboard",
       "arrow",
-      "left"
+      "left",
+      "direction",
+      "security"
     ],
     "materialName": "KeyboardArrowLeft"
   },
@@ -10531,11 +10604,13 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-keyboard-arrow-right",
     "name": "Keyboard Arrow Right",
     "set": "material",
-    "category": "navigation",
+    "category": "security-identity",
     "tags": [
       "keyboard",
       "arrow",
-      "right"
+      "right",
+      "direction",
+      "security"
     ],
     "materialName": "KeyboardArrowRight"
   },
@@ -10543,11 +10618,13 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-keyboard-arrow-up",
     "name": "Keyboard Arrow Up",
     "set": "material",
-    "category": "navigation",
+    "category": "security-identity",
     "tags": [
       "keyboard",
       "arrow",
-      "up"
+      "up",
+      "direction",
+      "security"
     ],
     "materialName": "KeyboardArrowUp"
   },
@@ -10555,10 +10632,11 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-keyboard-backspace",
     "name": "Keyboard Backspace",
     "set": "material",
-    "category": "navigation",
+    "category": "security-identity",
     "tags": [
       "keyboard",
-      "backspace"
+      "backspace",
+      "security"
     ],
     "materialName": "KeyboardBackspace"
   },
@@ -10569,7 +10647,8 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "category": "security-identity",
     "tags": [
       "keyboard",
-      "capslock"
+      "capslock",
+      "security"
     ],
     "materialName": "KeyboardCapslock"
   },
@@ -10581,7 +10660,8 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "tags": [
       "keyboard",
       "command",
-      "key"
+      "key",
+      "security"
     ],
     "materialName": "KeyboardCommandKey"
   },
@@ -10593,7 +10673,8 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "tags": [
       "keyboard",
       "control",
-      "key"
+      "key",
+      "security"
     ],
     "materialName": "KeyboardControlKey"
   },
@@ -10601,12 +10682,14 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-keyboard-double-arrow-down",
     "name": "Keyboard Double Arrow Down",
     "set": "material",
-    "category": "navigation",
+    "category": "security-identity",
     "tags": [
       "keyboard",
       "double",
       "arrow",
-      "down"
+      "down",
+      "direction",
+      "security"
     ],
     "materialName": "KeyboardDoubleArrowDown"
   },
@@ -10614,12 +10697,14 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-keyboard-double-arrow-left",
     "name": "Keyboard Double Arrow Left",
     "set": "material",
-    "category": "navigation",
+    "category": "security-identity",
     "tags": [
       "keyboard",
       "double",
       "arrow",
-      "left"
+      "left",
+      "direction",
+      "security"
     ],
     "materialName": "KeyboardDoubleArrowLeft"
   },
@@ -10627,12 +10712,14 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-keyboard-double-arrow-right",
     "name": "Keyboard Double Arrow Right",
     "set": "material",
-    "category": "navigation",
+    "category": "security-identity",
     "tags": [
       "keyboard",
       "double",
       "arrow",
-      "right"
+      "right",
+      "direction",
+      "security"
     ],
     "materialName": "KeyboardDoubleArrowRight"
   },
@@ -10640,12 +10727,14 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-keyboard-double-arrow-up",
     "name": "Keyboard Double Arrow Up",
     "set": "material",
-    "category": "navigation",
+    "category": "security-identity",
     "tags": [
       "keyboard",
       "double",
       "arrow",
-      "up"
+      "up",
+      "direction",
+      "security"
     ],
     "materialName": "KeyboardDoubleArrowUp"
   },
@@ -10656,7 +10745,8 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "category": "security-identity",
     "tags": [
       "keyboard",
-      "hide"
+      "hide",
+      "security"
     ],
     "materialName": "KeyboardHide"
   },
@@ -10668,7 +10758,8 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "tags": [
       "keyboard",
       "option",
-      "key"
+      "key",
+      "security"
     ],
     "materialName": "KeyboardOptionKey"
   },
@@ -10679,7 +10770,8 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "category": "security-identity",
     "tags": [
       "keyboard",
-      "return"
+      "return",
+      "security"
     ],
     "materialName": "KeyboardReturn"
   },
@@ -10687,10 +10779,11 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-keyboard-tab",
     "name": "Keyboard Tab",
     "set": "material",
-    "category": "navigation",
+    "category": "security-identity",
     "tags": [
       "keyboard",
-      "tab"
+      "tab",
+      "security"
     ],
     "materialName": "KeyboardTab"
   },
@@ -10701,7 +10794,8 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "category": "security-identity",
     "tags": [
       "keyboard",
-      "voice"
+      "voice",
+      "security"
     ],
     "materialName": "KeyboardVoice"
   },
@@ -10940,7 +11034,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-lens",
     "name": "Lens",
     "set": "material",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "lens"
     ],
@@ -10950,7 +11044,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-lens-blur",
     "name": "Lens Blur",
     "set": "material",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "lens",
       "blur"
@@ -10995,7 +11089,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-library-music",
     "name": "Library Music",
     "set": "material",
-    "category": "media",
+    "category": "general-ui",
     "tags": [
       "library",
       "music"
@@ -11016,7 +11110,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-light-mode",
     "name": "Light Mode",
     "set": "material",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "light",
       "mode"
@@ -11048,7 +11142,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-line-axis",
     "name": "Line Axis",
     "set": "material",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "line",
       "axis"
@@ -11059,7 +11153,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-line-style",
     "name": "Line Style",
     "set": "material",
-    "category": "frontend-client",
+    "category": "diagram-primitives",
     "tags": [
       "line",
       "style"
@@ -11070,7 +11164,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-line-weight",
     "name": "Line Weight",
     "set": "material",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "line",
       "weight"
@@ -11081,7 +11175,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-linear-scale",
     "name": "Linear Scale",
     "set": "material",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "linear",
       "scale"
@@ -11113,7 +11207,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-linked-camera",
     "name": "Linked Camera",
     "set": "material",
-    "category": "media",
+    "category": "general-ui",
     "tags": [
       "linked",
       "camera"
@@ -11145,7 +11239,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-list",
     "name": "List",
     "set": "material",
-    "category": "editor",
+    "category": "general-ui",
     "tags": [
       "list"
     ],
@@ -11155,7 +11249,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-list-alt",
     "name": "List Alt",
     "set": "material",
-    "category": "editor",
+    "category": "general-ui",
     "tags": [
       "list",
       "alt"
@@ -11177,7 +11271,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-live-tv",
     "name": "Live Tv",
     "set": "material",
-    "category": "media",
+    "category": "general-ui",
     "tags": [
       "live",
       "tv"
@@ -11198,7 +11292,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-local-activity",
     "name": "Local Activity",
     "set": "material",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "local",
       "activity"
@@ -11209,7 +11303,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-local-airport",
     "name": "Local Airport",
     "set": "material",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "local",
       "airport"
@@ -11220,7 +11314,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-local-atm",
     "name": "Local Atm",
     "set": "material",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "local",
       "atm"
@@ -11231,7 +11325,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-local-bar",
     "name": "Local Bar",
     "set": "material",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "local",
       "bar"
@@ -11242,7 +11336,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-local-cafe",
     "name": "Local Cafe",
     "set": "material",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "local",
       "cafe"
@@ -11253,7 +11347,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-local-car-wash",
     "name": "Local Car Wash",
     "set": "material",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "local",
       "car",
@@ -11265,7 +11359,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-local-convenience-store",
     "name": "Local Convenience Store",
     "set": "material",
-    "category": "finance",
+    "category": "maps-location",
     "tags": [
       "local",
       "convenience",
@@ -11277,7 +11371,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-local-dining",
     "name": "Local Dining",
     "set": "material",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "local",
       "dining"
@@ -11288,7 +11382,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-local-drink",
     "name": "Local Drink",
     "set": "material",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "local",
       "drink"
@@ -11299,7 +11393,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-local-fire-department",
     "name": "Local Fire Department",
     "set": "material",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "local",
       "fire",
@@ -11311,7 +11405,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-local-florist",
     "name": "Local Florist",
     "set": "material",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "local",
       "florist"
@@ -11322,7 +11416,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-local-gas-station",
     "name": "Local Gas Station",
     "set": "material",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "local",
       "gas",
@@ -11334,7 +11428,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-local-grocery-store",
     "name": "Local Grocery Store",
     "set": "material",
-    "category": "finance",
+    "category": "maps-location",
     "tags": [
       "local",
       "grocery",
@@ -11346,7 +11440,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-local-hospital",
     "name": "Local Hospital",
     "set": "material",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "local",
       "hospital"
@@ -11368,7 +11462,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-local-laundry-service",
     "name": "Local Laundry Service",
     "set": "material",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "local",
       "laundry",
@@ -11380,7 +11474,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-local-library",
     "name": "Local Library",
     "set": "material",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "local",
       "library"
@@ -11391,7 +11485,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-local-mall",
     "name": "Local Mall",
     "set": "material",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "local",
       "mall"
@@ -11402,7 +11496,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-local-movies",
     "name": "Local Movies",
     "set": "material",
-    "category": "media",
+    "category": "maps-location",
     "tags": [
       "local",
       "movies"
@@ -11413,7 +11507,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-local-offer",
     "name": "Local Offer",
     "set": "material",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "local",
       "offer"
@@ -11424,7 +11518,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-local-parking",
     "name": "Local Parking",
     "set": "material",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "local",
       "parking"
@@ -11435,7 +11529,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-local-pharmacy",
     "name": "Local Pharmacy",
     "set": "material",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "local",
       "pharmacy"
@@ -11446,7 +11540,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-local-phone",
     "name": "Local Phone",
     "set": "material",
-    "category": "frontend-client",
+    "category": "maps-location",
     "tags": [
       "local",
       "phone"
@@ -11457,7 +11551,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-local-pizza",
     "name": "Local Pizza",
     "set": "material",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "local",
       "pizza"
@@ -11468,7 +11562,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-local-play",
     "name": "Local Play",
     "set": "material",
-    "category": "media",
+    "category": "maps-location",
     "tags": [
       "local",
       "play"
@@ -11479,7 +11573,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-local-police",
     "name": "Local Police",
     "set": "material",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "local",
       "police"
@@ -11490,7 +11584,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-local-post-office",
     "name": "Local Post Office",
     "set": "material",
-    "category": "people-social",
+    "category": "maps-location",
     "tags": [
       "local",
       "post",
@@ -11502,7 +11596,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-local-printshop",
     "name": "Local Printshop",
     "set": "material",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "local",
       "printshop"
@@ -11513,7 +11607,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-local-see",
     "name": "Local See",
     "set": "material",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "local",
       "see"
@@ -11524,7 +11618,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-local-shipping",
     "name": "Local Shipping",
     "set": "material",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "local",
       "shipping"
@@ -11535,7 +11629,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-local-taxi",
     "name": "Local Taxi",
     "set": "material",
-    "category": "finance",
+    "category": "maps-location",
     "tags": [
       "local",
       "taxi"
@@ -11603,7 +11697,8 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "set": "material",
     "category": "security-identity",
     "tags": [
-      "lock"
+      "lock",
+      "security"
     ],
     "materialName": "Lock"
   },
@@ -11614,7 +11709,8 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "category": "security-identity",
     "tags": [
       "lock",
-      "clock"
+      "clock",
+      "security"
     ],
     "materialName": "LockClock"
   },
@@ -11622,10 +11718,11 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-lock-open",
     "name": "Lock Open",
     "set": "material",
-    "category": "navigation",
+    "category": "security-identity",
     "tags": [
       "lock",
-      "open"
+      "open",
+      "security"
     ],
     "materialName": "LockOpen"
   },
@@ -11633,10 +11730,11 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-lock-person",
     "name": "Lock Person",
     "set": "material",
-    "category": "people-social",
+    "category": "security-identity",
     "tags": [
       "lock",
-      "person"
+      "person",
+      "security"
     ],
     "materialName": "LockPerson"
   },
@@ -11647,7 +11745,8 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "category": "security-identity",
     "tags": [
       "lock",
-      "reset"
+      "reset",
+      "security"
     ],
     "materialName": "LockReset"
   },
@@ -11799,7 +11898,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-lte-mobiledata",
     "name": "Lte Mobiledata",
     "set": "material",
-    "category": "frontend-client",
+    "category": "general-ui",
     "tags": [
       "lte",
       "mobiledata"
@@ -11810,7 +11909,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-lte-plus-mobiledata",
     "name": "Lte Plus Mobiledata",
     "set": "material",
-    "category": "frontend-client",
+    "category": "general-ui",
     "tags": [
       "lte",
       "plus",
@@ -11874,7 +11973,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-mail-lock",
     "name": "Mail Lock",
     "set": "material",
-    "category": "security-identity",
+    "category": "messaging-queue",
     "tags": [
       "mail",
       "lock"
@@ -11906,7 +12005,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-man",
     "name": "Man",
     "set": "material",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "man"
     ],
@@ -11916,7 +12015,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-man2",
     "name": "Man2",
     "set": "material",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "man2"
     ],
@@ -11926,7 +12025,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-man3",
     "name": "Man3",
     "set": "material",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "man3"
     ],
@@ -11936,7 +12035,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-man4",
     "name": "Man4",
     "set": "material",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "man4"
     ],
@@ -11957,7 +12056,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-manage-history",
     "name": "Manage History",
     "set": "material",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "manage",
       "history"
@@ -11968,7 +12067,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-manage-search",
     "name": "Manage Search",
     "set": "material",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "manage",
       "search"
@@ -11989,7 +12088,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-maps-home-work",
     "name": "Maps Home Work",
     "set": "material",
-    "category": "navigation",
+    "category": "maps-location",
     "tags": [
       "maps",
       "home",
@@ -12034,7 +12133,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-mark-chat-read",
     "name": "Mark Chat Read",
     "set": "material",
-    "category": "messaging-queue",
+    "category": "general-ui",
     "tags": [
       "mark",
       "chat",
@@ -12046,7 +12145,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-mark-chat-unread",
     "name": "Mark Chat Unread",
     "set": "material",
-    "category": "messaging-queue",
+    "category": "general-ui",
     "tags": [
       "mark",
       "chat",
@@ -12058,7 +12157,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-mark-email-read",
     "name": "Mark Email Read",
     "set": "material",
-    "category": "messaging-queue",
+    "category": "general-ui",
     "tags": [
       "mark",
       "email",
@@ -12070,7 +12169,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-mark-email-unread",
     "name": "Mark Email Unread",
     "set": "material",
-    "category": "messaging-queue",
+    "category": "general-ui",
     "tags": [
       "mark",
       "email",
@@ -12082,7 +12181,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-mark-unread-chat-alt",
     "name": "Mark Unread Chat Alt",
     "set": "material",
-    "category": "messaging-queue",
+    "category": "general-ui",
     "tags": [
       "mark",
       "unread",
@@ -12105,7 +12204,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-markunread-mailbox",
     "name": "Markunread Mailbox",
     "set": "material",
-    "category": "messaging-queue",
+    "category": "general-ui",
     "tags": [
       "markunread",
       "mailbox"
@@ -12126,7 +12225,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-maximize",
     "name": "Maximize",
     "set": "material",
-    "category": "general-ui",
+    "category": "navigation",
     "tags": [
       "maximize"
     ],
@@ -12136,7 +12235,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-media-bluetooth-off",
     "name": "Media Bluetooth Off",
     "set": "material",
-    "category": "networking",
+    "category": "general-ui",
     "tags": [
       "media",
       "bluetooth",
@@ -12148,7 +12247,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-media-bluetooth-on",
     "name": "Media Bluetooth On",
     "set": "material",
-    "category": "networking",
+    "category": "general-ui",
     "tags": [
       "media",
       "bluetooth",
@@ -12266,7 +12365,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-merge",
     "name": "Merge",
     "set": "material",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "merge"
     ],
@@ -12276,7 +12375,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-merge-type",
     "name": "Merge Type",
     "set": "material",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "merge",
       "type"
@@ -12384,7 +12483,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-minimize",
     "name": "Minimize",
     "set": "material",
-    "category": "general-ui",
+    "category": "navigation",
     "tags": [
       "minimize"
     ],
@@ -12416,7 +12515,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-missed-video-call",
     "name": "Missed Video Call",
     "set": "material",
-    "category": "media",
+    "category": "general-ui",
     "tags": [
       "missed",
       "video",
@@ -12438,7 +12537,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-mobile-friendly",
     "name": "Mobile Friendly",
     "set": "material",
-    "category": "people-social",
+    "category": "frontend-client",
     "tags": [
       "mobile",
       "friendly"
@@ -12460,7 +12559,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-mobile-screen-share",
     "name": "Mobile Screen Share",
     "set": "material",
-    "category": "media",
+    "category": "frontend-client",
     "tags": [
       "mobile",
       "screen",
@@ -12493,7 +12592,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-mode-comment",
     "name": "Mode Comment",
     "set": "material",
-    "category": "people-social",
+    "category": "general-ui",
     "tags": [
       "mode",
       "comment"
@@ -12504,7 +12603,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-mode-edit",
     "name": "Mode Edit",
     "set": "material",
-    "category": "editor",
+    "category": "general-ui",
     "tags": [
       "mode",
       "edit"
@@ -12515,7 +12614,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-mode-edit-outline",
     "name": "Mode Edit Outline",
     "set": "material",
-    "category": "editor",
+    "category": "general-ui",
     "tags": [
       "mode",
       "edit",
@@ -12550,7 +12649,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-mode-of-travel",
     "name": "Mode Of Travel",
     "set": "material",
-    "category": "maps-location",
+    "category": "general-ui",
     "tags": [
       "mode",
       "of",
@@ -12573,7 +12672,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-model-training",
     "name": "Model Training",
     "set": "material",
-    "category": "general-ui",
+    "category": "ai-ml",
     "tags": [
       "model",
       "training"
@@ -12638,7 +12737,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-monitor-heart",
     "name": "Monitor Heart",
     "set": "material",
-    "category": "people-social",
+    "category": "monitoring-logging",
     "tags": [
       "monitor",
       "heart"
@@ -12660,7 +12759,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-monochrome-photos",
     "name": "Monochrome Photos",
     "set": "material",
-    "category": "media",
+    "category": "general-ui",
     "tags": [
       "monochrome",
       "photos"
@@ -12755,7 +12854,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-motion-photos-auto",
     "name": "Motion Photos Auto",
     "set": "material",
-    "category": "media",
+    "category": "general-ui",
     "tags": [
       "motion",
       "photos",
@@ -12767,7 +12866,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-motion-photos-off",
     "name": "Motion Photos Off",
     "set": "material",
-    "category": "media",
+    "category": "general-ui",
     "tags": [
       "motion",
       "photos",
@@ -12792,7 +12891,9 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "category": "navigation",
     "tags": [
       "move",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "materialName": "MoveDown"
   },
@@ -12800,7 +12901,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-move-to-inbox",
     "name": "Move To Inbox",
     "set": "material",
-    "category": "messaging-queue",
+    "category": "navigation",
     "tags": [
       "move",
       "to",
@@ -12815,7 +12916,9 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "category": "navigation",
     "tags": [
       "move",
-      "up"
+      "up",
+      "arrow",
+      "direction"
     ],
     "materialName": "MoveUp"
   },
@@ -12875,7 +12978,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-multiline-chart",
     "name": "Multiline Chart",
     "set": "material",
-    "category": "monitoring-logging",
+    "category": "general-ui",
     "tags": [
       "multiline",
       "chart"
@@ -12886,7 +12989,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-multiple-stop",
     "name": "Multiple Stop",
     "set": "material",
-    "category": "media",
+    "category": "general-ui",
     "tags": [
       "multiple",
       "stop"
@@ -12897,7 +13000,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-museum",
     "name": "Museum",
     "set": "material",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "museum"
     ],
@@ -12940,7 +13043,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-my-location",
     "name": "My Location",
     "set": "material",
-    "category": "maps-location",
+    "category": "general-ui",
     "tags": [
       "my",
       "location"
@@ -12971,7 +13074,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-nature-people",
     "name": "Nature People",
     "set": "material",
-    "category": "people-social",
+    "category": "general-ui",
     "tags": [
       "nature",
       "people"
@@ -13105,7 +13208,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-network-ping",
     "name": "Network Ping",
     "set": "material",
-    "category": "maps-location",
+    "category": "networking",
     "tags": [
       "network",
       "ping"
@@ -13163,7 +13266,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-new-releases",
     "name": "New Releases",
     "set": "material",
-    "category": "devops-cicd",
+    "category": "general-ui",
     "tags": [
       "new",
       "releases"
@@ -13314,7 +13417,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-no-accounts",
     "name": "No Accounts",
     "set": "material",
-    "category": "people-social",
+    "category": "general-ui",
     "tags": [
       "no",
       "accounts"
@@ -13337,7 +13440,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-no-backpack",
     "name": "No Backpack",
     "set": "material",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "no",
       "backpack"
@@ -13348,7 +13451,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-no-cell",
     "name": "No Cell",
     "set": "material",
-    "category": "networking",
+    "category": "general-ui",
     "tags": [
       "no",
       "cell"
@@ -13460,7 +13563,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-no-photography",
     "name": "No Photography",
     "set": "material",
-    "category": "media",
+    "category": "general-ui",
     "tags": [
       "no",
       "photography"
@@ -13592,7 +13695,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-not-listed-location",
     "name": "Not Listed Location",
     "set": "material",
-    "category": "maps-location",
+    "category": "general-ui",
     "tags": [
       "not",
       "listed",
@@ -13604,7 +13707,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-not-started",
     "name": "Not Started",
     "set": "material",
-    "category": "people-social",
+    "category": "general-ui",
     "tags": [
       "not",
       "started"
@@ -13615,7 +13718,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-note",
     "name": "Note",
     "set": "material",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "note"
     ],
@@ -13625,7 +13728,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-note-add",
     "name": "Note Add",
     "set": "material",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "note",
       "add"
@@ -13636,7 +13739,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-note-alt",
     "name": "Note Alt",
     "set": "material",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "note",
       "alt"
@@ -13647,7 +13750,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-notes",
     "name": "Notes",
     "set": "material",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "notes"
     ],
@@ -13722,7 +13825,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-notifications-paused",
     "name": "Notifications Paused",
     "set": "material",
-    "category": "media",
+    "category": "messaging-queue",
     "tags": [
       "notifications",
       "paused"
@@ -13733,7 +13836,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-numbers",
     "name": "Numbers",
     "set": "material",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "numbers"
     ],
@@ -13754,7 +13857,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-offline-pin",
     "name": "Offline Pin",
     "set": "material",
-    "category": "maps-location",
+    "category": "general-ui",
     "tags": [
       "offline",
       "pin"
@@ -13765,7 +13868,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-offline-share",
     "name": "Offline Share",
     "set": "material",
-    "category": "people-social",
+    "category": "general-ui",
     "tags": [
       "offline",
       "share"
@@ -13799,7 +13902,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-ondemand-video",
     "name": "Ondemand Video",
     "set": "material",
-    "category": "media",
+    "category": "general-ui",
     "tags": [
       "ondemand",
       "video"
@@ -13844,7 +13947,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-online-prediction",
     "name": "Online Prediction",
     "set": "material",
-    "category": "ai-ml",
+    "category": "general-ui",
     "tags": [
       "online",
       "prediction"
@@ -13865,7 +13968,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-open-in-browser",
     "name": "Open In Browser",
     "set": "material",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "open",
       "in",
@@ -13877,7 +13980,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-open-in-full",
     "name": "Open In Full",
     "set": "material",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "open",
       "in",
@@ -13889,7 +13992,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-open-in-new",
     "name": "Open In New",
     "set": "material",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "open",
       "in",
@@ -13901,7 +14004,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-open-in-new-off",
     "name": "Open In New Off",
     "set": "material",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "open",
       "in",
@@ -13914,7 +14017,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-open-with",
     "name": "Open With",
     "set": "material",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "open",
       "with"
@@ -13946,7 +14049,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-outbox",
     "name": "Outbox",
     "set": "material",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "outbox"
     ],
@@ -14038,7 +14141,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-palette",
     "name": "Palette",
     "set": "material",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "palette"
     ],
@@ -14048,10 +14151,12 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-pan-tool",
     "name": "Pan Tool",
     "set": "material",
-    "category": "general-ui",
+    "category": "navigation",
     "tags": [
       "pan",
-      "tool"
+      "tool",
+      "arrow",
+      "direction"
     ],
     "materialName": "PanTool"
   },
@@ -14059,11 +14164,13 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-pan-tool-alt",
     "name": "Pan Tool Alt",
     "set": "material",
-    "category": "general-ui",
+    "category": "navigation",
     "tags": [
       "pan",
       "tool",
-      "alt"
+      "alt",
+      "arrow",
+      "direction"
     ],
     "materialName": "PanToolAlt"
   },
@@ -14071,9 +14178,11 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-panorama",
     "name": "Panorama",
     "set": "material",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
-      "panorama"
+      "panorama",
+      "arrow",
+      "direction"
     ],
     "materialName": "Panorama"
   },
@@ -14081,11 +14190,13 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-panorama-fish-eye",
     "name": "Panorama Fish Eye",
     "set": "material",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "panorama",
       "fish",
-      "eye"
+      "eye",
+      "arrow",
+      "direction"
     ],
     "materialName": "PanoramaFishEye"
   },
@@ -14093,10 +14204,12 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-panorama-horizontal",
     "name": "Panorama Horizontal",
     "set": "material",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "panorama",
-      "horizontal"
+      "horizontal",
+      "arrow",
+      "direction"
     ],
     "materialName": "PanoramaHorizontal"
   },
@@ -14104,11 +14217,13 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-panorama-horizontal-select",
     "name": "Panorama Horizontal Select",
     "set": "material",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "panorama",
       "horizontal",
-      "select"
+      "select",
+      "arrow",
+      "direction"
     ],
     "materialName": "PanoramaHorizontalSelect"
   },
@@ -14119,7 +14234,9 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "category": "media",
     "tags": [
       "panorama",
-      "photosphere"
+      "photosphere",
+      "arrow",
+      "direction"
     ],
     "materialName": "PanoramaPhotosphere"
   },
@@ -14131,7 +14248,9 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "tags": [
       "panorama",
       "photosphere",
-      "select"
+      "select",
+      "arrow",
+      "direction"
     ],
     "materialName": "PanoramaPhotosphereSelect"
   },
@@ -14139,10 +14258,12 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-panorama-vertical",
     "name": "Panorama Vertical",
     "set": "material",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "panorama",
-      "vertical"
+      "vertical",
+      "arrow",
+      "direction"
     ],
     "materialName": "PanoramaVertical"
   },
@@ -14150,11 +14271,13 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-panorama-vertical-select",
     "name": "Panorama Vertical Select",
     "set": "material",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "panorama",
       "vertical",
-      "select"
+      "select",
+      "arrow",
+      "direction"
     ],
     "materialName": "PanoramaVerticalSelect"
   },
@@ -14162,11 +14285,13 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-panorama-wide-angle",
     "name": "Panorama Wide Angle",
     "set": "material",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "panorama",
       "wide",
-      "angle"
+      "angle",
+      "arrow",
+      "direction"
     ],
     "materialName": "PanoramaWideAngle"
   },
@@ -14174,12 +14299,14 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-panorama-wide-angle-select",
     "name": "Panorama Wide Angle Select",
     "set": "material",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "panorama",
       "wide",
       "angle",
-      "select"
+      "select",
+      "arrow",
+      "direction"
     ],
     "materialName": "PanoramaWideAngleSelect"
   },
@@ -14187,7 +14314,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-paragliding",
     "name": "Paragliding",
     "set": "material",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "paragliding"
     ],
@@ -14197,7 +14324,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-park",
     "name": "Park",
     "set": "material",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "park"
     ],
@@ -14220,7 +14347,8 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "set": "material",
     "category": "security-identity",
     "tags": [
-      "password"
+      "password",
+      "security"
     ],
     "materialName": "Password"
   },
@@ -14388,7 +14516,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-percent",
     "name": "Percent",
     "set": "material",
-    "category": "general-ui",
+    "category": "finance",
     "tags": [
       "percent"
     ],
@@ -14398,7 +14526,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-perm-camera-mic",
     "name": "Perm Camera Mic",
     "set": "material",
-    "category": "media",
+    "category": "general-ui",
     "tags": [
       "perm",
       "camera",
@@ -14410,7 +14538,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-perm-contact-calendar",
     "name": "Perm Contact Calendar",
     "set": "material",
-    "category": "people-social",
+    "category": "general-ui",
     "tags": [
       "perm",
       "contact",
@@ -14468,7 +14596,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-perm-phone-msg",
     "name": "Perm Phone Msg",
     "set": "material",
-    "category": "frontend-client",
+    "category": "general-ui",
     "tags": [
       "perm",
       "phone",
@@ -14480,7 +14608,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-perm-scan-wifi",
     "name": "Perm Scan Wifi",
     "set": "material",
-    "category": "networking",
+    "category": "general-ui",
     "tags": [
       "perm",
       "scan",
@@ -14658,7 +14786,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-personal-video",
     "name": "Personal Video",
     "set": "material",
-    "category": "media",
+    "category": "people-social",
     "tags": [
       "personal",
       "video"
@@ -14733,7 +14861,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-phone-bluetooth-speaker",
     "name": "Phone Bluetooth Speaker",
     "set": "material",
-    "category": "media",
+    "category": "frontend-client",
     "tags": [
       "phone",
       "bluetooth",
@@ -14778,7 +14906,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-phone-forwarded",
     "name": "Phone Forwarded",
     "set": "material",
-    "category": "navigation",
+    "category": "frontend-client",
     "tags": [
       "phone",
       "forwarded"
@@ -14812,7 +14940,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-phone-locked",
     "name": "Phone Locked",
     "set": "material",
-    "category": "security-identity",
+    "category": "frontend-client",
     "tags": [
       "phone",
       "locked"
@@ -14834,7 +14962,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-phone-paused",
     "name": "Phone Paused",
     "set": "material",
-    "category": "media",
+    "category": "frontend-client",
     "tags": [
       "phone",
       "paused"
@@ -14866,7 +14994,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-phonelink-lock",
     "name": "Phonelink Lock",
     "set": "material",
-    "category": "security-identity",
+    "category": "frontend-client",
     "tags": [
       "phonelink",
       "lock"
@@ -15058,7 +15186,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-picture-as-pdf",
     "name": "Picture As Pdf",
     "set": "material",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "picture",
       "as",
@@ -15070,11 +15198,10 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-picture-in-picture",
     "name": "Picture In Picture",
     "set": "material",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "picture",
-      "in",
-      "picture"
+      "in"
     ],
     "materialName": "PictureInPicture"
   },
@@ -15082,11 +15209,10 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-picture-in-picture-alt",
     "name": "Picture In Picture Alt",
     "set": "material",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "picture",
       "in",
-      "picture",
       "alt"
     ],
     "materialName": "PictureInPictureAlt"
@@ -15159,7 +15285,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-pivot-table-chart",
     "name": "Pivot Table Chart",
     "set": "material",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "pivot",
       "table",
@@ -15395,7 +15521,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-point-of-sale",
     "name": "Point Of Sale",
     "set": "material",
-    "category": "finance",
+    "category": "general-ui",
     "tags": [
       "point",
       "of",
@@ -15407,7 +15533,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-policy",
     "name": "Policy",
     "set": "material",
-    "category": "general-ui",
+    "category": "security-identity",
     "tags": [
       "policy"
     ],
@@ -15437,7 +15563,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-pool",
     "name": "Pool",
     "set": "material",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "pool"
     ],
@@ -15447,7 +15573,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-portable-wifi-off",
     "name": "Portable Wifi Off",
     "set": "material",
-    "category": "networking",
+    "category": "general-ui",
     "tags": [
       "portable",
       "wifi",
@@ -15459,7 +15585,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-portrait",
     "name": "Portrait",
     "set": "material",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "portrait"
     ],
@@ -15666,7 +15792,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-psychology",
     "name": "Psychology",
     "set": "material",
-    "category": "general-ui",
+    "category": "ai-ml",
     "tags": [
       "psychology"
     ],
@@ -15676,7 +15802,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-psychology-alt",
     "name": "Psychology Alt",
     "set": "material",
-    "category": "general-ui",
+    "category": "ai-ml",
     "tags": [
       "psychology",
       "alt"
@@ -15708,7 +15834,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-publish",
     "name": "Publish",
     "set": "material",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "publish"
     ],
@@ -15718,7 +15844,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-published-with-changes",
     "name": "Published With Changes",
     "set": "material",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "published",
       "with",
@@ -15741,7 +15867,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-push-pin",
     "name": "Push Pin",
     "set": "material",
-    "category": "maps-location",
+    "category": "devops-cicd",
     "tags": [
       "push",
       "pin"
@@ -15786,7 +15912,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-query-builder",
     "name": "Query Builder",
     "set": "material",
-    "category": "devops-cicd",
+    "category": "general-ui",
     "tags": [
       "query",
       "builder"
@@ -15830,7 +15956,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-queue",
     "name": "Queue",
     "set": "material",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "queue"
     ],
@@ -15840,7 +15966,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-queue-music",
     "name": "Queue Music",
     "set": "material",
-    "category": "media",
+    "category": "messaging-queue",
     "tags": [
       "queue",
       "music"
@@ -15851,7 +15977,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-queue-play-next",
     "name": "Queue Play Next",
     "set": "material",
-    "category": "media",
+    "category": "messaging-queue",
     "tags": [
       "queue",
       "play",
@@ -15883,7 +16009,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-r-mobiledata",
     "name": "R Mobiledata",
     "set": "material",
-    "category": "frontend-client",
+    "category": "general-ui",
     "tags": [
       "r",
       "mobiledata"
@@ -15949,7 +16075,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-ramen-dining",
     "name": "Ramen Dining",
     "set": "material",
-    "category": "general-ui",
+    "category": "compute",
     "tags": [
       "ramen",
       "dining"
@@ -15960,10 +16086,12 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-ramp-left",
     "name": "Ramp Left",
     "set": "material",
-    "category": "navigation",
+    "category": "compute",
     "tags": [
       "ramp",
-      "left"
+      "left",
+      "arrow",
+      "direction"
     ],
     "materialName": "RampLeft"
   },
@@ -15971,10 +16099,12 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-ramp-right",
     "name": "Ramp Right",
     "set": "material",
-    "category": "navigation",
+    "category": "compute",
     "tags": [
       "ramp",
-      "right"
+      "right",
+      "arrow",
+      "direction"
     ],
     "materialName": "RampRight"
   },
@@ -16080,7 +16210,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-rectangle",
     "name": "Rectangle",
     "set": "material",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "rectangle"
     ],
@@ -16110,7 +16240,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-redeem",
     "name": "Redeem",
     "set": "material",
-    "category": "general-ui",
+    "category": "finance",
     "tags": [
       "redeem"
     ],
@@ -16143,7 +16273,8 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "set": "material",
     "category": "general-ui",
     "tags": [
-      "refresh"
+      "refresh",
+      "reload"
     ],
     "materialName": "Refresh"
   },
@@ -16252,7 +16383,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-remove-shopping-cart",
     "name": "Remove Shopping Cart",
     "set": "material",
-    "category": "finance",
+    "category": "general-ui",
     "tags": [
       "remove",
       "shopping",
@@ -16380,7 +16511,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-reply",
     "name": "Reply",
     "set": "material",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "reply"
     ],
@@ -16390,7 +16521,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-reply-all",
     "name": "Reply All",
     "set": "material",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "reply",
       "all"
@@ -16444,7 +16575,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-request-page",
     "name": "Request Page",
     "set": "material",
-    "category": "general-ui",
+    "category": "api-integration",
     "tags": [
       "request",
       "page"
@@ -16455,7 +16586,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-request-quote",
     "name": "Request Quote",
     "set": "material",
-    "category": "general-ui",
+    "category": "api-integration",
     "tags": [
       "request",
       "quote"
@@ -16466,7 +16597,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-reset-tv",
     "name": "Reset Tv",
     "set": "material",
-    "category": "media",
+    "category": "general-ui",
     "tags": [
       "reset",
       "tv"
@@ -16477,7 +16608,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-restart-alt",
     "name": "Restart Alt",
     "set": "material",
-    "category": "general-ui",
+    "category": "api-integration",
     "tags": [
       "restart",
       "alt"
@@ -16488,7 +16619,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-restaurant",
     "name": "Restaurant",
     "set": "material",
-    "category": "general-ui",
+    "category": "api-integration",
     "tags": [
       "restaurant"
     ],
@@ -16498,7 +16629,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-restaurant-menu",
     "name": "Restaurant Menu",
     "set": "material",
-    "category": "navigation",
+    "category": "api-integration",
     "tags": [
       "restaurant",
       "menu"
@@ -16509,7 +16640,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-restore",
     "name": "Restore",
     "set": "material",
-    "category": "general-ui",
+    "category": "api-integration",
     "tags": [
       "restore"
     ],
@@ -16519,7 +16650,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-restore-from-trash",
     "name": "Restore From Trash",
     "set": "material",
-    "category": "general-ui",
+    "category": "api-integration",
     "tags": [
       "restore",
       "from",
@@ -16531,7 +16662,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-restore-page",
     "name": "Restore Page",
     "set": "material",
-    "category": "general-ui",
+    "category": "api-integration",
     "tags": [
       "restore",
       "page"
@@ -16563,7 +16694,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-ring-volume",
     "name": "Ring Volume",
     "set": "material",
-    "category": "media",
+    "category": "diagram-primitives",
     "tags": [
       "ring",
       "volume"
@@ -16606,7 +16737,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-roller-shades-closed",
     "name": "Roller Shades Closed",
     "set": "material",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "roller",
       "shades",
@@ -16671,11 +16802,13 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-rotate90-degrees-ccw",
     "name": "Rotate90 Degrees Ccw",
     "set": "material",
-    "category": "editor",
+    "category": "navigation",
     "tags": [
       "rotate90",
       "degrees",
-      "ccw"
+      "ccw",
+      "arrow",
+      "direction"
     ],
     "materialName": "Rotate90DegreesCcw"
   },
@@ -16683,11 +16816,13 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-rotate90-degrees-cw",
     "name": "Rotate90 Degrees Cw",
     "set": "material",
-    "category": "editor",
+    "category": "navigation",
     "tags": [
       "rotate90",
       "degrees",
-      "cw"
+      "cw",
+      "arrow",
+      "direction"
     ],
     "materialName": "Rotate90DegreesCw"
   },
@@ -16698,7 +16833,9 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "category": "navigation",
     "tags": [
       "rotate",
-      "left"
+      "left",
+      "arrow",
+      "direction"
     ],
     "materialName": "RotateLeft"
   },
@@ -16709,7 +16846,9 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "category": "navigation",
     "tags": [
       "rotate",
-      "right"
+      "right",
+      "arrow",
+      "direction"
     ],
     "materialName": "RotateRight"
   },
@@ -16717,10 +16856,12 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-roundabout-left",
     "name": "Roundabout Left",
     "set": "material",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "roundabout",
-      "left"
+      "left",
+      "arrow",
+      "direction"
     ],
     "materialName": "RoundaboutLeft"
   },
@@ -16728,10 +16869,12 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-roundabout-right",
     "name": "Roundabout Right",
     "set": "material",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "roundabout",
-      "right"
+      "right",
+      "arrow",
+      "direction"
     ],
     "materialName": "RoundaboutRight"
   },
@@ -16770,7 +16913,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-rowing",
     "name": "Rowing",
     "set": "material",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "rowing"
     ],
@@ -16780,7 +16923,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-rss-feed",
     "name": "Rss Feed",
     "set": "material",
-    "category": "people-social",
+    "category": "messaging-queue",
     "tags": [
       "rss",
       "feed"
@@ -16821,7 +16964,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-rule-folder",
     "name": "Rule Folder",
     "set": "material",
-    "category": "storage-database",
+    "category": "general-ui",
     "tags": [
       "rule",
       "folder"
@@ -16888,7 +17031,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-sailing",
     "name": "Sailing",
     "set": "material",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "sailing"
     ],
@@ -16982,7 +17125,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-scale",
     "name": "Scale",
     "set": "material",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "scale"
     ],
@@ -16992,7 +17135,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-scanner",
     "name": "Scanner",
     "set": "material",
-    "category": "general-ui",
+    "category": "devops-cicd",
     "tags": [
       "scanner"
     ],
@@ -17002,7 +17145,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-scatter-plot",
     "name": "Scatter Plot",
     "set": "material",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "scatter",
       "plot"
@@ -17023,7 +17166,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-schedule-send",
     "name": "Schedule Send",
     "set": "material",
-    "category": "messaging-queue",
+    "category": "general-ui",
     "tags": [
       "schedule",
       "send"
@@ -17034,7 +17177,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-schema",
     "name": "Schema",
     "set": "material",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "schema"
     ],
@@ -17044,7 +17187,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-school",
     "name": "School",
     "set": "material",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "school"
     ],
@@ -17187,7 +17330,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-scuba-diving",
     "name": "Scuba Diving",
     "set": "material",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "scuba",
       "diving"
@@ -17198,7 +17341,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-sd",
     "name": "Sd",
     "set": "material",
-    "category": "storage-database",
+    "category": "general-ui",
     "tags": [
       "sd"
     ],
@@ -17208,7 +17351,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-sd-card",
     "name": "Sd Card",
     "set": "material",
-    "category": "finance",
+    "category": "general-ui",
     "tags": [
       "sd",
       "card"
@@ -17219,7 +17362,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-sd-card-alert",
     "name": "Sd Card Alert",
     "set": "material",
-    "category": "finance",
+    "category": "general-ui",
     "tags": [
       "sd",
       "card",
@@ -17231,7 +17374,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-sd-storage",
     "name": "Sd Storage",
     "set": "material",
-    "category": "storage-database",
+    "category": "general-ui",
     "tags": [
       "sd",
       "storage"
@@ -17273,7 +17416,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-security-update",
     "name": "Security Update",
     "set": "material",
-    "category": "navigation",
+    "category": "security-identity",
     "tags": [
       "security",
       "update"
@@ -17284,7 +17427,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-security-update-good",
     "name": "Security Update Good",
     "set": "material",
-    "category": "navigation",
+    "category": "security-identity",
     "tags": [
       "security",
       "update",
@@ -17296,7 +17439,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-security-update-warning",
     "name": "Security Update Warning",
     "set": "material",
-    "category": "navigation",
+    "category": "security-identity",
     "tags": [
       "security",
       "update",
@@ -17318,7 +17461,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-select-all",
     "name": "Select All",
     "set": "material",
-    "category": "general-ui",
+    "category": "navigation",
     "tags": [
       "select",
       "all"
@@ -17340,7 +17483,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-sell",
     "name": "Sell",
     "set": "material",
-    "category": "general-ui",
+    "category": "finance",
     "tags": [
       "sell"
     ],
@@ -17360,7 +17503,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-send-and-archive",
     "name": "Send And Archive",
     "set": "material",
-    "category": "storage-database",
+    "category": "messaging-queue",
     "tags": [
       "send",
       "and",
@@ -17530,7 +17673,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-settings",
     "name": "Settings",
     "set": "material",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "settings"
     ],
@@ -17540,7 +17683,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-settings-accessibility",
     "name": "Settings Accessibility",
     "set": "material",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "settings",
       "accessibility"
@@ -17551,7 +17694,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-settings-applications",
     "name": "Settings Applications",
     "set": "material",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "settings",
       "applications"
@@ -17562,7 +17705,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-settings-backup-restore",
     "name": "Settings Backup Restore",
     "set": "material",
-    "category": "navigation",
+    "category": "frontend-client",
     "tags": [
       "settings",
       "backup",
@@ -17574,7 +17717,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-settings-bluetooth",
     "name": "Settings Bluetooth",
     "set": "material",
-    "category": "networking",
+    "category": "frontend-client",
     "tags": [
       "settings",
       "bluetooth"
@@ -17585,7 +17728,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-settings-brightness",
     "name": "Settings Brightness",
     "set": "material",
-    "category": "media",
+    "category": "frontend-client",
     "tags": [
       "settings",
       "brightness"
@@ -17596,7 +17739,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-settings-cell",
     "name": "Settings Cell",
     "set": "material",
-    "category": "networking",
+    "category": "frontend-client",
     "tags": [
       "settings",
       "cell"
@@ -17607,7 +17750,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-settings-ethernet",
     "name": "Settings Ethernet",
     "set": "material",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "settings",
       "ethernet"
@@ -17618,7 +17761,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-settings-input-antenna",
     "name": "Settings Input Antenna",
     "set": "material",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "settings",
       "input",
@@ -17642,7 +17785,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-settings-input-composite",
     "name": "Settings Input Composite",
     "set": "material",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "settings",
       "input",
@@ -17654,7 +17797,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-settings-input-hdmi",
     "name": "Settings Input Hdmi",
     "set": "material",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "settings",
       "input",
@@ -17666,7 +17809,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-settings-input-svideo",
     "name": "Settings Input Svideo",
     "set": "material",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "settings",
       "input",
@@ -17678,7 +17821,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-settings-overscan",
     "name": "Settings Overscan",
     "set": "material",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "settings",
       "overscan"
@@ -17700,7 +17843,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-settings-power",
     "name": "Settings Power",
     "set": "material",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "settings",
       "power"
@@ -17711,7 +17854,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-settings-remote",
     "name": "Settings Remote",
     "set": "material",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "settings",
       "remote"
@@ -17722,7 +17865,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-settings-suggest",
     "name": "Settings Suggest",
     "set": "material",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "settings",
       "suggest"
@@ -17733,7 +17876,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-settings-system-daydream",
     "name": "Settings System Daydream",
     "set": "material",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "settings",
       "system",
@@ -17745,7 +17888,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-settings-voice",
     "name": "Settings Voice",
     "set": "material",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "settings",
       "voice"
@@ -17846,7 +17989,8 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "set": "material",
     "category": "security-identity",
     "tags": [
-      "shield"
+      "shield",
+      "security"
     ],
     "materialName": "Shield"
   },
@@ -17857,7 +18001,8 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "category": "security-identity",
     "tags": [
       "shield",
-      "moon"
+      "moon",
+      "security"
     ],
     "materialName": "ShieldMoon"
   },
@@ -17941,7 +18086,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-short-text",
     "name": "Short Text",
     "set": "material",
-    "category": "editor",
+    "category": "general-ui",
     "tags": [
       "short",
       "text"
@@ -17962,7 +18107,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-show-chart",
     "name": "Show Chart",
     "set": "material",
-    "category": "monitoring-logging",
+    "category": "general-ui",
     "tags": [
       "show",
       "chart"
@@ -18004,7 +18149,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-shutter-speed",
     "name": "Shutter Speed",
     "set": "material",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "shutter",
       "speed"
@@ -18025,7 +18170,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-sign-language",
     "name": "Sign Language",
     "set": "material",
-    "category": "networking",
+    "category": "general-ui",
     "tags": [
       "sign",
       "language"
@@ -18459,7 +18604,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-sim-card",
     "name": "Sim Card",
     "set": "material",
-    "category": "finance",
+    "category": "general-ui",
     "tags": [
       "sim",
       "card"
@@ -18470,7 +18615,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-sim-card-alert",
     "name": "Sim Card Alert",
     "set": "material",
-    "category": "finance",
+    "category": "general-ui",
     "tags": [
       "sim",
       "card",
@@ -18482,7 +18627,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-sim-card-download",
     "name": "Sim Card Download",
     "set": "material",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "sim",
       "card",
@@ -18583,7 +18728,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-skateboarding",
     "name": "Skateboarding",
     "set": "material",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "skateboarding"
     ],
@@ -18615,7 +18760,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-sledding",
     "name": "Sledding",
     "set": "material",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "sledding"
     ],
@@ -18635,7 +18780,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-slow-motion-video",
     "name": "Slow Motion Video",
     "set": "material",
-    "category": "media",
+    "category": "general-ui",
     "tags": [
       "slow",
       "motion",
@@ -18669,7 +18814,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-smart-screen",
     "name": "Smart Screen",
     "set": "material",
-    "category": "media",
+    "category": "ai-ml",
     "tags": [
       "smart",
       "screen"
@@ -18744,7 +18889,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-snippet-folder",
     "name": "Snippet Folder",
     "set": "material",
-    "category": "storage-database",
+    "category": "general-ui",
     "tags": [
       "snippet",
       "folder"
@@ -18765,7 +18910,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-snowboarding",
     "name": "Snowboarding",
     "set": "material",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "snowboarding"
     ],
@@ -18827,7 +18972,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-sort",
     "name": "Sort",
     "set": "material",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "sort"
     ],
@@ -18837,7 +18982,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-sort-by-alpha",
     "name": "Sort By Alpha",
     "set": "material",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "sort",
       "by",
@@ -18923,7 +19068,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-spa",
     "name": "Spa",
     "set": "material",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "spa"
     ],
@@ -18933,7 +19078,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-space-bar",
     "name": "Space Bar",
     "set": "material",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "space",
       "bar"
@@ -18944,7 +19089,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-space-dashboard",
     "name": "Space Dashboard",
     "set": "material",
-    "category": "monitoring-logging",
+    "category": "people-social",
     "tags": [
       "space",
       "dashboard"
@@ -18955,7 +19100,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-spatial-audio",
     "name": "Spatial Audio",
     "set": "material",
-    "category": "media",
+    "category": "people-social",
     "tags": [
       "spatial",
       "audio"
@@ -18966,7 +19111,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-spatial-audio-off",
     "name": "Spatial Audio Off",
     "set": "material",
-    "category": "media",
+    "category": "people-social",
     "tags": [
       "spatial",
       "audio",
@@ -18978,7 +19123,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-spatial-tracking",
     "name": "Spatial Tracking",
     "set": "material",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "spatial",
       "tracking"
@@ -19064,7 +19209,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-splitscreen",
     "name": "Splitscreen",
     "set": "material",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "splitscreen"
     ],
@@ -19084,7 +19229,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-sports",
     "name": "Sports",
     "set": "material",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "sports"
     ],
@@ -19094,7 +19239,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-sports-bar",
     "name": "Sports Bar",
     "set": "material",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "sports",
       "bar"
@@ -19105,7 +19250,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-sports-baseball",
     "name": "Sports Baseball",
     "set": "material",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "sports",
       "baseball"
@@ -19116,7 +19261,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-sports-basketball",
     "name": "Sports Basketball",
     "set": "material",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "sports",
       "basketball"
@@ -19127,7 +19272,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-sports-cricket",
     "name": "Sports Cricket",
     "set": "material",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "sports",
       "cricket"
@@ -19138,7 +19283,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-sports-esports",
     "name": "Sports Esports",
     "set": "material",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "sports",
       "esports"
@@ -19149,7 +19294,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-sports-football",
     "name": "Sports Football",
     "set": "material",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "sports",
       "football"
@@ -19160,7 +19305,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-sports-golf",
     "name": "Sports Golf",
     "set": "material",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "sports",
       "golf"
@@ -19171,7 +19316,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-sports-gymnastics",
     "name": "Sports Gymnastics",
     "set": "material",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "sports",
       "gymnastics"
@@ -19182,7 +19327,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-sports-handball",
     "name": "Sports Handball",
     "set": "material",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "sports",
       "handball"
@@ -19193,7 +19338,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-sports-hockey",
     "name": "Sports Hockey",
     "set": "material",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "sports",
       "hockey"
@@ -19204,7 +19349,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-sports-kabaddi",
     "name": "Sports Kabaddi",
     "set": "material",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "sports",
       "kabaddi"
@@ -19215,7 +19360,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-sports-martial-arts",
     "name": "Sports Martial Arts",
     "set": "material",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "sports",
       "martial",
@@ -19227,7 +19372,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-sports-mma",
     "name": "Sports Mma",
     "set": "material",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "sports",
       "mma"
@@ -19238,7 +19383,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-sports-motorsports",
     "name": "Sports Motorsports",
     "set": "material",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "sports",
       "motorsports"
@@ -19249,7 +19394,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-sports-rugby",
     "name": "Sports Rugby",
     "set": "material",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "sports",
       "rugby"
@@ -19260,7 +19405,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-sports-score",
     "name": "Sports Score",
     "set": "material",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "sports",
       "score"
@@ -19271,7 +19416,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-sports-soccer",
     "name": "Sports Soccer",
     "set": "material",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "sports",
       "soccer"
@@ -19282,7 +19427,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-sports-tennis",
     "name": "Sports Tennis",
     "set": "material",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "sports",
       "tennis"
@@ -19293,7 +19438,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-sports-volleyball",
     "name": "Sports Volleyball",
     "set": "material",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "sports",
       "volleyball"
@@ -19304,7 +19449,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-square",
     "name": "Square",
     "set": "material",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square"
     ],
@@ -19314,7 +19459,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-square-foot",
     "name": "Square Foot",
     "set": "material",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "foot"
@@ -19325,7 +19470,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-ssid-chart",
     "name": "Ssid Chart",
     "set": "material",
-    "category": "monitoring-logging",
+    "category": "general-ui",
     "tags": [
       "ssid",
       "chart"
@@ -19336,7 +19481,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-stacked-bar-chart",
     "name": "Stacked Bar Chart",
     "set": "material",
-    "category": "monitoring-logging",
+    "category": "general-ui",
     "tags": [
       "stacked",
       "bar",
@@ -19348,7 +19493,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-stacked-line-chart",
     "name": "Stacked Line Chart",
     "set": "material",
-    "category": "monitoring-logging",
+    "category": "general-ui",
     "tags": [
       "stacked",
       "line",
@@ -19360,7 +19505,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-stadium",
     "name": "Stadium",
     "set": "material",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "stadium"
     ],
@@ -19477,7 +19622,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-stay-current-landscape",
     "name": "Stay Current Landscape",
     "set": "material",
-    "category": "networking",
+    "category": "general-ui",
     "tags": [
       "stay",
       "current",
@@ -19501,7 +19646,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-stay-primary-landscape",
     "name": "Stay Primary Landscape",
     "set": "material",
-    "category": "networking",
+    "category": "general-ui",
     "tags": [
       "stay",
       "primary",
@@ -19661,7 +19806,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-strikethrough-s",
     "name": "Strikethrough S",
     "set": "material",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "strikethrough",
       "s"
@@ -19682,7 +19827,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-style",
     "name": "Style",
     "set": "material",
-    "category": "frontend-client",
+    "category": "general-ui",
     "tags": [
       "style"
     ],
@@ -19692,11 +19837,12 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-subdirectory-arrow-left",
     "name": "Subdirectory Arrow Left",
     "set": "material",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "subdirectory",
       "arrow",
-      "left"
+      "left",
+      "direction"
     ],
     "materialName": "SubdirectoryArrowLeft"
   },
@@ -19704,11 +19850,12 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-subdirectory-arrow-right",
     "name": "Subdirectory Arrow Right",
     "set": "material",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "subdirectory",
       "arrow",
-      "right"
+      "right",
+      "direction"
     ],
     "materialName": "SubdirectoryArrowRight"
   },
@@ -19726,7 +19873,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-subscript",
     "name": "Subscript",
     "set": "material",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "subscript"
     ],
@@ -19736,7 +19883,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-subscriptions",
     "name": "Subscriptions",
     "set": "material",
-    "category": "general-ui",
+    "category": "finance",
     "tags": [
       "subscriptions"
     ],
@@ -19787,7 +19934,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-superscript",
     "name": "Superscript",
     "set": "material",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "superscript"
     ],
@@ -19797,7 +19944,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-supervised-user-circle",
     "name": "Supervised User Circle",
     "set": "material",
-    "category": "people-social",
+    "category": "general-ui",
     "tags": [
       "supervised",
       "user",
@@ -19809,7 +19956,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-supervisor-account",
     "name": "Supervisor Account",
     "set": "material",
-    "category": "people-social",
+    "category": "general-ui",
     "tags": [
       "supervisor",
       "account"
@@ -19841,7 +19988,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-surfing",
     "name": "Surfing",
     "set": "material",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "surfing"
     ],
@@ -19919,7 +20066,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-swipe",
     "name": "Swipe",
     "set": "material",
-    "category": "general-ui",
+    "category": "navigation",
     "tags": [
       "swipe"
     ],
@@ -19932,7 +20079,9 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "category": "navigation",
     "tags": [
       "swipe",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "materialName": "SwipeDown"
   },
@@ -19955,7 +20104,9 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "category": "navigation",
     "tags": [
       "swipe",
-      "left"
+      "left",
+      "arrow",
+      "direction"
     ],
     "materialName": "SwipeLeft"
   },
@@ -19978,7 +20129,9 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "category": "navigation",
     "tags": [
       "swipe",
-      "right"
+      "right",
+      "arrow",
+      "direction"
     ],
     "materialName": "SwipeRight"
   },
@@ -20001,7 +20154,9 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "category": "navigation",
     "tags": [
       "swipe",
-      "up"
+      "up",
+      "arrow",
+      "direction"
     ],
     "materialName": "SwipeUp"
   },
@@ -20021,7 +20176,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-swipe-vertical",
     "name": "Swipe Vertical",
     "set": "material",
-    "category": "general-ui",
+    "category": "navigation",
     "tags": [
       "swipe",
       "vertical"
@@ -20032,7 +20187,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-switch-access-shortcut",
     "name": "Switch Access Shortcut",
     "set": "material",
-    "category": "general-ui",
+    "category": "networking",
     "tags": [
       "switch",
       "access",
@@ -20044,7 +20199,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-switch-access-shortcut-add",
     "name": "Switch Access Shortcut Add",
     "set": "material",
-    "category": "general-ui",
+    "category": "networking",
     "tags": [
       "switch",
       "access",
@@ -20057,7 +20212,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-switch-account",
     "name": "Switch Account",
     "set": "material",
-    "category": "people-social",
+    "category": "networking",
     "tags": [
       "switch",
       "account"
@@ -20068,7 +20223,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-switch-camera",
     "name": "Switch Camera",
     "set": "material",
-    "category": "media",
+    "category": "networking",
     "tags": [
       "switch",
       "camera"
@@ -20079,10 +20234,12 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-switch-left",
     "name": "Switch Left",
     "set": "material",
-    "category": "navigation",
+    "category": "networking",
     "tags": [
       "switch",
-      "left"
+      "left",
+      "arrow",
+      "direction"
     ],
     "materialName": "SwitchLeft"
   },
@@ -20090,10 +20247,12 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-switch-right",
     "name": "Switch Right",
     "set": "material",
-    "category": "navigation",
+    "category": "networking",
     "tags": [
       "switch",
-      "right"
+      "right",
+      "arrow",
+      "direction"
     ],
     "materialName": "SwitchRight"
   },
@@ -20101,7 +20260,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-switch-video",
     "name": "Switch Video",
     "set": "material",
-    "category": "media",
+    "category": "networking",
     "tags": [
       "switch",
       "video"
@@ -20122,9 +20281,11 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-sync",
     "name": "Sync",
     "set": "material",
-    "category": "general-ui",
+    "category": "api-integration",
     "tags": [
-      "sync"
+      "sync",
+      "refresh",
+      "reload"
     ],
     "materialName": "Sync"
   },
@@ -20132,10 +20293,12 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-sync-alt",
     "name": "Sync Alt",
     "set": "material",
-    "category": "general-ui",
+    "category": "api-integration",
     "tags": [
       "sync",
-      "alt"
+      "alt",
+      "refresh",
+      "reload"
     ],
     "materialName": "SyncAlt"
   },
@@ -20143,10 +20306,12 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-sync-disabled",
     "name": "Sync Disabled",
     "set": "material",
-    "category": "general-ui",
+    "category": "api-integration",
     "tags": [
       "sync",
-      "disabled"
+      "disabled",
+      "refresh",
+      "reload"
     ],
     "materialName": "SyncDisabled"
   },
@@ -20154,10 +20319,12 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-sync-lock",
     "name": "Sync Lock",
     "set": "material",
-    "category": "security-identity",
+    "category": "api-integration",
     "tags": [
       "sync",
-      "lock"
+      "lock",
+      "refresh",
+      "reload"
     ],
     "materialName": "SyncLock"
   },
@@ -20165,10 +20332,12 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-sync-problem",
     "name": "Sync Problem",
     "set": "material",
-    "category": "general-ui",
+    "category": "api-integration",
     "tags": [
       "sync",
-      "problem"
+      "problem",
+      "refresh",
+      "reload"
     ],
     "materialName": "SyncProblem"
   },
@@ -20176,7 +20345,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-system-security-update",
     "name": "System Security Update",
     "set": "material",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "system",
       "security",
@@ -20188,7 +20357,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-system-security-update-good",
     "name": "System Security Update Good",
     "set": "material",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "system",
       "security",
@@ -20201,7 +20370,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-system-security-update-warning",
     "name": "System Security Update Warning",
     "set": "material",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "system",
       "security",
@@ -20214,7 +20383,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-system-update",
     "name": "System Update",
     "set": "material",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "system",
       "update"
@@ -20225,7 +20394,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-system-update-alt",
     "name": "System Update Alt",
     "set": "material",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "system",
       "update",
@@ -20237,7 +20406,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-tab",
     "name": "Tab",
     "set": "material",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "tab"
     ],
@@ -20247,7 +20416,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-tab-unselected",
     "name": "Tab Unselected",
     "set": "material",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "tab",
       "unselected"
@@ -20258,7 +20427,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-table-bar",
     "name": "Table Bar",
     "set": "material",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "table",
       "bar"
@@ -20269,7 +20438,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-table-chart",
     "name": "Table Chart",
     "set": "material",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "table",
       "chart"
@@ -20280,7 +20449,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-table-restaurant",
     "name": "Table Restaurant",
     "set": "material",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "table",
       "restaurant"
@@ -20291,7 +20460,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-table-rows",
     "name": "Table Rows",
     "set": "material",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "table",
       "rows"
@@ -20302,7 +20471,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-table-view",
     "name": "Table View",
     "set": "material",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "table",
       "view"
@@ -20313,7 +20482,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-tablet",
     "name": "Tablet",
     "set": "material",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "tablet"
     ],
@@ -20323,7 +20492,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-tablet-android",
     "name": "Tablet Android",
     "set": "material",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "tablet",
       "android"
@@ -20334,7 +20503,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-tablet-mac",
     "name": "Tablet Mac",
     "set": "material",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "tablet",
       "mac"
@@ -20345,7 +20514,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-tag",
     "name": "Tag",
     "set": "material",
-    "category": "general-ui",
+    "category": "devops-cicd",
     "tags": [
       "tag"
     ],
@@ -20355,7 +20524,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-tag-faces",
     "name": "Tag Faces",
     "set": "material",
-    "category": "general-ui",
+    "category": "devops-cicd",
     "tags": [
       "tag",
       "faces"
@@ -20377,7 +20546,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-tap-and-play",
     "name": "Tap And Play",
     "set": "material",
-    "category": "media",
+    "category": "general-ui",
     "tags": [
       "tap",
       "and",
@@ -20420,7 +20589,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-taxi-alert",
     "name": "Taxi Alert",
     "set": "material",
-    "category": "finance",
+    "category": "maps-location",
     "tags": [
       "taxi",
       "alert"
@@ -20538,11 +20707,13 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-text-rotate-up",
     "name": "Text Rotate Up",
     "set": "material",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "text",
       "rotate",
-      "up"
+      "up",
+      "arrow",
+      "direction"
     ],
     "materialName": "TextRotateUp"
   },
@@ -20586,11 +20757,13 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-text-rotation-down",
     "name": "Text Rotation Down",
     "set": "material",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "text",
       "rotation",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "materialName": "TextRotationDown"
   },
@@ -20729,7 +20902,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-three-g-mobiledata",
     "name": "Three G Mobiledata",
     "set": "material",
-    "category": "frontend-client",
+    "category": "general-ui",
     "tags": [
       "three",
       "g",
@@ -20797,10 +20970,12 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-thumb-down",
     "name": "Thumb Down",
     "set": "material",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "thumb",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "materialName": "ThumbDown"
   },
@@ -20808,7 +20983,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-thumb-down-alt",
     "name": "Thumb Down Alt",
     "set": "material",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "thumb",
       "down",
@@ -20820,7 +20995,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-thumb-down-off-alt",
     "name": "Thumb Down Off Alt",
     "set": "material",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "thumb",
       "down",
@@ -20833,10 +21008,12 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-thumb-up",
     "name": "Thumb Up",
     "set": "material",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "thumb",
-      "up"
+      "up",
+      "arrow",
+      "direction"
     ],
     "materialName": "ThumbUp"
   },
@@ -20844,7 +21021,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-thumb-up-alt",
     "name": "Thumb Up Alt",
     "set": "material",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "thumb",
       "up",
@@ -20856,7 +21033,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-thumb-up-off-alt",
     "name": "Thumb Up Off Alt",
     "set": "material",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "thumb",
       "up",
@@ -20869,11 +21046,13 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-thumbs-up-down",
     "name": "Thumbs Up Down",
     "set": "material",
-    "category": "navigation",
+    "category": "people-social",
     "tags": [
       "thumbs",
       "up",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "materialName": "ThumbsUpDown"
   },
@@ -20923,7 +21102,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-timer",
     "name": "Timer",
     "set": "material",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "timer"
     ],
@@ -20933,7 +21112,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-timer10",
     "name": "Timer10",
     "set": "material",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "timer10"
     ],
@@ -20943,7 +21122,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-timer10-select",
     "name": "Timer10 Select",
     "set": "material",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "timer10",
       "select"
@@ -20954,7 +21133,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-timer3",
     "name": "Timer3",
     "set": "material",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "timer3"
     ],
@@ -20964,7 +21143,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-timer3-select",
     "name": "Timer3 Select",
     "set": "material",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "timer3",
       "select"
@@ -20975,7 +21154,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-timer-off",
     "name": "Timer Off",
     "set": "material",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "timer",
       "off"
@@ -20986,7 +21165,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-times-one-mobiledata",
     "name": "Times One Mobiledata",
     "set": "material",
-    "category": "frontend-client",
+    "category": "general-ui",
     "tags": [
       "times",
       "one",
@@ -20998,7 +21177,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-tips-and-updates",
     "name": "Tips And Updates",
     "set": "material",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "tips",
       "and",
@@ -21051,7 +21230,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-toggle-off",
     "name": "Toggle Off",
     "set": "material",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "toggle",
       "off"
@@ -21062,7 +21241,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-toggle-on",
     "name": "Toggle On",
     "set": "material",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "toggle",
       "on"
@@ -21073,7 +21252,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-token",
     "name": "Token",
     "set": "material",
-    "category": "general-ui",
+    "category": "security-identity",
     "tags": [
       "token"
     ],
@@ -21103,7 +21282,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-topic",
     "name": "Topic",
     "set": "material",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "topic"
     ],
@@ -21175,7 +21354,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-train",
     "name": "Train",
     "set": "material",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "train"
     ],
@@ -21205,7 +21384,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-transfer-within-a-station",
     "name": "Transfer Within A Station",
     "set": "material",
-    "category": "general-ui",
+    "category": "api-integration",
     "tags": [
       "transfer",
       "within",
@@ -21218,7 +21397,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-transform",
     "name": "Transform",
     "set": "material",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "transform"
     ],
@@ -21238,7 +21417,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-transit-enterexit",
     "name": "Transit Enterexit",
     "set": "material",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "transit",
       "enterexit"
@@ -21249,7 +21428,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-translate",
     "name": "Translate",
     "set": "material",
-    "category": "general-ui",
+    "category": "ai-ml",
     "tags": [
       "translate"
     ],
@@ -21270,10 +21449,12 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-trending-down",
     "name": "Trending Down",
     "set": "material",
-    "category": "navigation",
+    "category": "monitoring-logging",
     "tags": [
       "trending",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "materialName": "TrendingDown"
   },
@@ -21281,7 +21462,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-trending-flat",
     "name": "Trending Flat",
     "set": "material",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "trending",
       "flat"
@@ -21292,10 +21473,12 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-trending-up",
     "name": "Trending Up",
     "set": "material",
-    "category": "navigation",
+    "category": "monitoring-logging",
     "tags": [
       "trending",
-      "up"
+      "up",
+      "arrow",
+      "direction"
     ],
     "materialName": "TrendingUp"
   },
@@ -21377,7 +21560,9 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "category": "navigation",
     "tags": [
       "turn",
-      "left"
+      "left",
+      "arrow",
+      "direction"
     ],
     "materialName": "TurnLeft"
   },
@@ -21388,7 +21573,9 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "category": "navigation",
     "tags": [
       "turn",
-      "right"
+      "right",
+      "arrow",
+      "direction"
     ],
     "materialName": "TurnRight"
   },
@@ -21400,7 +21587,9 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "tags": [
       "turn",
       "sharp",
-      "left"
+      "left",
+      "arrow",
+      "direction"
     ],
     "materialName": "TurnSharpLeft"
   },
@@ -21412,7 +21601,9 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "tags": [
       "turn",
       "sharp",
-      "right"
+      "right",
+      "arrow",
+      "direction"
     ],
     "materialName": "TurnSharpRight"
   },
@@ -21424,7 +21615,9 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "tags": [
       "turn",
       "slight",
-      "left"
+      "left",
+      "arrow",
+      "direction"
     ],
     "materialName": "TurnSlightLeft"
   },
@@ -21436,7 +21629,9 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "tags": [
       "turn",
       "slight",
-      "right"
+      "right",
+      "arrow",
+      "direction"
     ],
     "materialName": "TurnSlightRight"
   },
@@ -21444,10 +21639,12 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-turned-in",
     "name": "Turned In",
     "set": "material",
-    "category": "general-ui",
+    "category": "navigation",
     "tags": [
       "turned",
-      "in"
+      "in",
+      "arrow",
+      "direction"
     ],
     "materialName": "TurnedIn"
   },
@@ -21455,11 +21652,13 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-turned-in-not",
     "name": "Turned In Not",
     "set": "material",
-    "category": "general-ui",
+    "category": "navigation",
     "tags": [
       "turned",
       "in",
-      "not"
+      "not",
+      "arrow",
+      "direction"
     ],
     "materialName": "TurnedInNot"
   },
@@ -21625,11 +21824,13 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-u-turn-left",
     "name": "U Turn Left",
     "set": "material",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "u",
       "turn",
-      "left"
+      "left",
+      "arrow",
+      "direction"
     ],
     "materialName": "UTurnLeft"
   },
@@ -21637,11 +21838,13 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-u-turn-right",
     "name": "U Turn Right",
     "set": "material",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "u",
       "turn",
-      "right"
+      "right",
+      "arrow",
+      "direction"
     ],
     "materialName": "UTurnRight"
   },
@@ -21735,7 +21938,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-unsubscribe",
     "name": "Unsubscribe",
     "set": "material",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "unsubscribe"
     ],
@@ -21745,7 +21948,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-upcoming",
     "name": "Upcoming",
     "set": "material",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "upcoming"
     ],
@@ -21755,7 +21958,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-update",
     "name": "Update",
     "set": "material",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "update"
     ],
@@ -21765,7 +21968,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-update-disabled",
     "name": "Update Disabled",
     "set": "material",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "update",
       "disabled"
@@ -21776,7 +21979,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-upgrade",
     "name": "Upgrade",
     "set": "material",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "upgrade"
     ],
@@ -21786,9 +21989,11 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-upload",
     "name": "Upload",
     "set": "material",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
-      "upload"
+      "upload",
+      "transfer",
+      "arrow"
     ],
     "materialName": "Upload"
   },
@@ -21796,10 +22001,12 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-upload-file",
     "name": "Upload File",
     "set": "material",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "upload",
-      "file"
+      "file",
+      "transfer",
+      "arrow"
     ],
     "materialName": "UploadFile"
   },
@@ -21870,7 +22077,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-verified-user",
     "name": "Verified User",
     "set": "material",
-    "category": "people-social",
+    "category": "security-identity",
     "tags": [
       "verified",
       "user"
@@ -21881,7 +22088,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-vertical-align-bottom",
     "name": "Vertical Align Bottom",
     "set": "material",
-    "category": "editor",
+    "category": "general-ui",
     "tags": [
       "vertical",
       "align",
@@ -21893,7 +22100,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-vertical-align-center",
     "name": "Vertical Align Center",
     "set": "material",
-    "category": "editor",
+    "category": "general-ui",
     "tags": [
       "vertical",
       "align",
@@ -21905,7 +22112,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-vertical-align-top",
     "name": "Vertical Align Top",
     "set": "material",
-    "category": "editor",
+    "category": "general-ui",
     "tags": [
       "vertical",
       "align",
@@ -21928,7 +22135,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-vertical-shades-closed",
     "name": "Vertical Shades Closed",
     "set": "material",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "vertical",
       "shades",
@@ -22106,7 +22313,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-view-agenda",
     "name": "View Agenda",
     "set": "material",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "view",
       "agenda"
@@ -22117,7 +22324,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-view-array",
     "name": "View Array",
     "set": "material",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "view",
       "array"
@@ -22128,7 +22335,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-view-carousel",
     "name": "View Carousel",
     "set": "material",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "view",
       "carousel"
@@ -22139,7 +22346,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-view-column",
     "name": "View Column",
     "set": "material",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "view",
       "column"
@@ -22150,7 +22357,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-view-comfy",
     "name": "View Comfy",
     "set": "material",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "view",
       "comfy"
@@ -22161,7 +22368,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-view-comfy-alt",
     "name": "View Comfy Alt",
     "set": "material",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "view",
       "comfy",
@@ -22173,7 +22380,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-view-compact",
     "name": "View Compact",
     "set": "material",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "view",
       "compact"
@@ -22184,7 +22391,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-view-compact-alt",
     "name": "View Compact Alt",
     "set": "material",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "view",
       "compact",
@@ -22196,7 +22403,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-view-cozy",
     "name": "View Cozy",
     "set": "material",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "view",
       "cozy"
@@ -22207,7 +22414,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-view-day",
     "name": "View Day",
     "set": "material",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "view",
       "day"
@@ -22218,7 +22425,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-view-headline",
     "name": "View Headline",
     "set": "material",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "view",
       "headline"
@@ -22229,7 +22436,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-view-in-ar",
     "name": "View In Ar",
     "set": "material",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "view",
       "in",
@@ -22241,7 +22448,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-view-kanban",
     "name": "View Kanban",
     "set": "material",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "view",
       "kanban"
@@ -22252,7 +22459,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-view-list",
     "name": "View List",
     "set": "material",
-    "category": "editor",
+    "category": "frontend-client",
     "tags": [
       "view",
       "list"
@@ -22263,7 +22470,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-view-module",
     "name": "View Module",
     "set": "material",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "view",
       "module"
@@ -22274,7 +22481,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-view-quilt",
     "name": "View Quilt",
     "set": "material",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "view",
       "quilt"
@@ -22285,7 +22492,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-view-sidebar",
     "name": "View Sidebar",
     "set": "material",
-    "category": "navigation",
+    "category": "frontend-client",
     "tags": [
       "view",
       "sidebar"
@@ -22296,7 +22503,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-view-stream",
     "name": "View Stream",
     "set": "material",
-    "category": "media",
+    "category": "frontend-client",
     "tags": [
       "view",
       "stream"
@@ -22307,7 +22514,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-view-timeline",
     "name": "View Timeline",
     "set": "material",
-    "category": "monitoring-logging",
+    "category": "frontend-client",
     "tags": [
       "view",
       "timeline"
@@ -22318,7 +22525,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-view-week",
     "name": "View Week",
     "set": "material",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "view",
       "week"
@@ -22370,7 +22577,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-voice-chat",
     "name": "Voice Chat",
     "set": "material",
-    "category": "messaging-queue",
+    "category": "general-ui",
     "tags": [
       "voice",
       "chat"
@@ -22416,7 +22623,9 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "category": "media",
     "tags": [
       "volume",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "materialName": "VolumeDown"
   },
@@ -22449,7 +22658,9 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "category": "media",
     "tags": [
       "volume",
-      "up"
+      "up",
+      "arrow",
+      "direction"
     ],
     "materialName": "VolumeUp"
   },
@@ -22573,7 +22784,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-watch",
     "name": "Watch",
     "set": "material",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "watch"
     ],
@@ -22583,7 +22794,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-watch-later",
     "name": "Watch Later",
     "set": "material",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "watch",
       "later"
@@ -22594,7 +22805,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-watch-off",
     "name": "Watch Off",
     "set": "material",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "watch",
       "off"
@@ -22637,7 +22848,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-waterfall-chart",
     "name": "Waterfall Chart",
     "set": "material",
-    "category": "monitoring-logging",
+    "category": "general-ui",
     "tags": [
       "waterfall",
       "chart"
@@ -22680,7 +22891,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-wb-cloudy",
     "name": "Wb Cloudy",
     "set": "material",
-    "category": "compute",
+    "category": "general-ui",
     "tags": [
       "wb",
       "cloudy"
@@ -22756,7 +22967,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-web",
     "name": "Web",
     "set": "material",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "web"
     ],
@@ -22766,7 +22977,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-web-asset",
     "name": "Web Asset",
     "set": "material",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "web",
       "asset"
@@ -22777,7 +22988,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-web-asset-off",
     "name": "Web Asset Off",
     "set": "material",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "web",
       "asset",
@@ -22789,7 +23000,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-web-stories",
     "name": "Web Stories",
     "set": "material",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "web",
       "stories"
@@ -22800,7 +23011,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-webhook",
     "name": "Webhook",
     "set": "material",
-    "category": "api-integration",
+    "category": "messaging-queue",
     "tags": [
       "webhook"
     ],
@@ -22874,7 +23085,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-widgets",
     "name": "Widgets",
     "set": "material",
-    "category": "frontend-client",
+    "category": "general-ui",
     "tags": [
       "widgets"
     ],
@@ -23084,7 +23295,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-window",
     "name": "Window",
     "set": "material",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "window"
     ],
@@ -23105,7 +23316,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-woman",
     "name": "Woman",
     "set": "material",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "woman"
     ],
@@ -23115,7 +23326,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-woman2",
     "name": "Woman2",
     "set": "material",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "woman2"
     ],
@@ -23189,7 +23400,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-wrap-text",
     "name": "Wrap Text",
     "set": "material",
-    "category": "editor",
+    "category": "general-ui",
     "tags": [
       "wrap",
       "text"
@@ -23200,7 +23411,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-wrong-location",
     "name": "Wrong Location",
     "set": "material",
-    "category": "maps-location",
+    "category": "general-ui",
     "tags": [
       "wrong",
       "location"
@@ -23264,7 +23475,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-zoom-in",
     "name": "Zoom In",
     "set": "material",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "zoom",
       "in"
@@ -23275,7 +23486,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-zoom-in-map",
     "name": "Zoom In Map",
     "set": "material",
-    "category": "maps-location",
+    "category": "media",
     "tags": [
       "zoom",
       "in",
@@ -23287,7 +23498,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-zoom-out",
     "name": "Zoom Out",
     "set": "material",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "zoom",
       "out"
@@ -23298,7 +23509,7 @@ export const MATERIAL_ICONS: IconMeta[] = [
     "id": "material-zoom-out-map",
     "name": "Zoom Out Map",
     "set": "material",
-    "category": "maps-location",
+    "category": "media",
     "tags": [
       "zoom",
       "out",

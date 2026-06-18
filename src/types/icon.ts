@@ -18,6 +18,7 @@ export type Category =
   | "maps-location"
   | "finance"
   | "editor"
+  | "brand"
   | "general-ui"
   | "diagram-primitives";
 

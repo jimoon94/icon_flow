@@ -5,11 +5,12 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-a-arrow-down",
     "name": "A Arrow Down",
     "set": "lucide",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "a",
       "arrow",
-      "down"
+      "down",
+      "direction"
     ],
     "lucideName": "AArrowDown"
   },
@@ -17,11 +18,12 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-a-arrow-up",
     "name": "A Arrow Up",
     "set": "lucide",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "a",
       "arrow",
-      "up"
+      "up",
+      "direction"
     ],
     "lucideName": "AArrowUp"
   },
@@ -41,7 +43,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-accessibility",
     "name": "Accessibility",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "security-identity",
     "tags": [
       "accessibility"
     ],
@@ -82,7 +84,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-air-vent",
     "name": "Air Vent",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "ai-ml",
     "tags": [
       "air",
       "vent"
@@ -93,7 +95,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-airplay",
     "name": "Airplay",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "ai-ml",
     "tags": [
       "airplay"
     ],
@@ -103,7 +105,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-alarm-check",
     "name": "Alarm Check",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "alarm",
       "check"
@@ -114,7 +116,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-alarm-clock",
     "name": "Alarm Clock",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "alarm",
       "clock"
@@ -125,7 +127,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-alarm-clock-check",
     "name": "Alarm Clock Check",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "alarm",
       "clock",
@@ -137,7 +139,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-alarm-clock-minus",
     "name": "Alarm Clock Minus",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "alarm",
       "clock",
@@ -149,7 +151,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-alarm-clock-off",
     "name": "Alarm Clock Off",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "alarm",
       "clock",
@@ -161,7 +163,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-alarm-clock-plus",
     "name": "Alarm Clock Plus",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "alarm",
       "clock",
@@ -173,7 +175,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-alarm-minus",
     "name": "Alarm Minus",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "alarm",
       "minus"
@@ -184,7 +186,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-alarm-plus",
     "name": "Alarm Plus",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "alarm",
       "plus"
@@ -195,7 +197,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-alarm-smoke",
     "name": "Alarm Smoke",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "alarm",
       "smoke"
@@ -216,7 +218,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-alert-circle",
     "name": "Alert Circle",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "alert",
       "circle"
@@ -227,7 +229,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-alert-octagon",
     "name": "Alert Octagon",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "alert",
       "octagon"
@@ -238,7 +240,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-alert-triangle",
     "name": "Alert Triangle",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "alert",
       "triangle"
@@ -334,7 +336,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-align-horizontal-distribute-start",
     "name": "Align Horizontal Distribute Start",
     "set": "lucide",
-    "category": "people-social",
+    "category": "editor",
     "tags": [
       "align",
       "horizontal",
@@ -373,7 +375,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-align-horizontal-justify-start",
     "name": "Align Horizontal Justify Start",
     "set": "lucide",
-    "category": "people-social",
+    "category": "editor",
     "tags": [
       "align",
       "horizontal",
@@ -423,10 +425,12 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-align-left",
     "name": "Align Left",
     "set": "lucide",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "align",
-      "left"
+      "left",
+      "arrow",
+      "direction"
     ],
     "lucideName": "AlignLeft"
   },
@@ -434,10 +438,12 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-align-right",
     "name": "Align Right",
     "set": "lucide",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "align",
-      "right"
+      "right",
+      "arrow",
+      "direction"
     ],
     "lucideName": "AlignRight"
   },
@@ -445,7 +451,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-align-start-horizontal",
     "name": "Align Start Horizontal",
     "set": "lucide",
-    "category": "people-social",
+    "category": "editor",
     "tags": [
       "align",
       "start",
@@ -457,7 +463,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-align-start-vertical",
     "name": "Align Start Vertical",
     "set": "lucide",
-    "category": "people-social",
+    "category": "editor",
     "tags": [
       "align",
       "start",
@@ -495,7 +501,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-align-vertical-distribute-start",
     "name": "Align Vertical Distribute Start",
     "set": "lucide",
-    "category": "people-social",
+    "category": "editor",
     "tags": [
       "align",
       "vertical",
@@ -534,7 +540,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-align-vertical-justify-start",
     "name": "Align Vertical Justify Start",
     "set": "lucide",
-    "category": "people-social",
+    "category": "editor",
     "tags": [
       "align",
       "vertical",
@@ -613,7 +619,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-anchor",
     "name": "Anchor",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "navigation",
     "tags": [
       "anchor"
     ],
@@ -643,7 +649,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-antenna",
     "name": "Antenna",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "antenna"
     ],
@@ -663,7 +669,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-aperture",
     "name": "Aperture",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "aperture"
     ],
@@ -673,7 +679,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-app-window",
     "name": "App Window",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "app",
       "window"
@@ -684,7 +690,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-app-window-mac",
     "name": "App Window Mac",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "app",
       "window",
@@ -696,7 +702,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-apple",
     "name": "Apple",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "apple"
     ],
@@ -706,7 +712,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-archive",
     "name": "Archive",
     "set": "lucide",
-    "category": "storage-database",
+    "category": "diagram-primitives",
     "tags": [
       "archive"
     ],
@@ -716,7 +722,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-archive-restore",
     "name": "Archive Restore",
     "set": "lucide",
-    "category": "storage-database",
+    "category": "diagram-primitives",
     "tags": [
       "archive",
       "restore"
@@ -727,7 +733,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-archive-x",
     "name": "Archive X",
     "set": "lucide",
-    "category": "storage-database",
+    "category": "diagram-primitives",
     "tags": [
       "archive",
       "x"
@@ -738,7 +744,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-area-chart",
     "name": "Area Chart",
     "set": "lucide",
-    "category": "monitoring-logging",
+    "category": "general-ui",
     "tags": [
       "area",
       "chart"
@@ -763,7 +769,8 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "tags": [
       "arrow",
       "big",
-      "down"
+      "down",
+      "direction"
     ],
     "lucideName": "ArrowBigDown"
   },
@@ -788,7 +795,8 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "tags": [
       "arrow",
       "big",
-      "left"
+      "left",
+      "direction"
     ],
     "lucideName": "ArrowBigLeft"
   },
@@ -813,7 +821,8 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "tags": [
       "arrow",
       "big",
-      "right"
+      "right",
+      "direction"
     ],
     "lucideName": "ArrowBigRight"
   },
@@ -838,7 +847,8 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "tags": [
       "arrow",
       "big",
-      "up"
+      "up",
+      "direction"
     ],
     "lucideName": "ArrowBigUp"
   },
@@ -862,7 +872,8 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "category": "navigation",
     "tags": [
       "arrow",
-      "down"
+      "down",
+      "direction"
     ],
     "lucideName": "ArrowDown"
   },
@@ -946,7 +957,8 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "tags": [
       "arrow",
       "down",
-      "left"
+      "left",
+      "direction"
     ],
     "lucideName": "ArrowDownLeft"
   },
@@ -1012,7 +1024,8 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "tags": [
       "arrow",
       "down",
-      "right"
+      "right",
+      "direction"
     ],
     "lucideName": "ArrowDownRight"
   },
@@ -1103,7 +1116,8 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "tags": [
       "arrow",
       "down",
-      "up"
+      "up",
+      "direction"
     ],
     "lucideName": "ArrowDownUp"
   },
@@ -1152,7 +1166,8 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "category": "navigation",
     "tags": [
       "arrow",
-      "left"
+      "left",
+      "direction"
     ],
     "lucideName": "ArrowLeft"
   },
@@ -1189,7 +1204,8 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "tags": [
       "arrow",
       "left",
-      "right"
+      "right",
+      "direction"
     ],
     "lucideName": "ArrowLeftRight"
   },
@@ -1225,7 +1241,8 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "category": "navigation",
     "tags": [
       "arrow",
-      "right"
+      "right",
+      "direction"
     ],
     "lucideName": "ArrowRight"
   },
@@ -1262,7 +1279,8 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "tags": [
       "arrow",
       "right",
-      "left"
+      "left",
+      "direction"
     ],
     "lucideName": "ArrowRightLeft"
   },
@@ -1298,7 +1316,8 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "category": "navigation",
     "tags": [
       "arrow",
-      "up"
+      "up",
+      "direction"
     ],
     "lucideName": "ArrowUp"
   },
@@ -1369,7 +1388,8 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "tags": [
       "arrow",
       "up",
-      "down"
+      "down",
+      "direction"
     ],
     "lucideName": "ArrowUpDown"
   },
@@ -1407,7 +1427,8 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "tags": [
       "arrow",
       "up",
-      "left"
+      "left",
+      "direction"
     ],
     "lucideName": "ArrowUpLeft"
   },
@@ -1473,7 +1494,8 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "tags": [
       "arrow",
       "up",
-      "right"
+      "right",
+      "direction"
     ],
     "lucideName": "ArrowUpRight"
   },
@@ -1672,7 +1694,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-award",
     "name": "Award",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "award"
     ],
@@ -1713,7 +1735,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-baby",
     "name": "Baby",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "baby"
     ],
@@ -1723,7 +1745,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-backpack",
     "name": "Backpack",
     "set": "lucide",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "backpack"
     ],
@@ -2010,11 +2032,12 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-banknote-arrow-down",
     "name": "Banknote Arrow Down",
     "set": "lucide",
-    "category": "navigation",
+    "category": "finance",
     "tags": [
       "banknote",
       "arrow",
-      "down"
+      "down",
+      "direction"
     ],
     "lucideName": "BanknoteArrowDown"
   },
@@ -2022,11 +2045,12 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-banknote-arrow-up",
     "name": "Banknote Arrow Up",
     "set": "lucide",
-    "category": "navigation",
+    "category": "finance",
     "tags": [
       "banknote",
       "arrow",
-      "up"
+      "up",
+      "direction"
     ],
     "lucideName": "BanknoteArrowUp"
   },
@@ -2177,7 +2201,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-battery",
     "name": "Battery",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "compute",
     "tags": [
       "battery"
     ],
@@ -2187,7 +2211,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-battery-charging",
     "name": "Battery Charging",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "compute",
     "tags": [
       "battery",
       "charging"
@@ -2198,7 +2222,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-battery-full",
     "name": "Battery Full",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "compute",
     "tags": [
       "battery",
       "full"
@@ -2209,7 +2233,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-battery-low",
     "name": "Battery Low",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "compute",
     "tags": [
       "battery",
       "low"
@@ -2220,7 +2244,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-battery-medium",
     "name": "Battery Medium",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "compute",
     "tags": [
       "battery",
       "medium"
@@ -2231,7 +2255,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-battery-plus",
     "name": "Battery Plus",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "compute",
     "tags": [
       "battery",
       "plus"
@@ -2242,7 +2266,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-battery-warning",
     "name": "Battery Warning",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "compute",
     "tags": [
       "battery",
       "warning"
@@ -2457,7 +2481,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-between-horizonal-start",
     "name": "Between Horizonal Start",
     "set": "lucide",
-    "category": "people-social",
+    "category": "general-ui",
     "tags": [
       "between",
       "horizonal",
@@ -2481,7 +2505,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-between-horizontal-start",
     "name": "Between Horizontal Start",
     "set": "lucide",
-    "category": "people-social",
+    "category": "general-ui",
     "tags": [
       "between",
       "horizontal",
@@ -2505,7 +2529,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-between-vertical-start",
     "name": "Between Vertical Start",
     "set": "lucide",
-    "category": "people-social",
+    "category": "general-ui",
     "tags": [
       "between",
       "vertical",
@@ -2528,7 +2552,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-bike",
     "name": "Bike",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "bike"
     ],
@@ -2753,7 +2777,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-book-audio",
     "name": "Book Audio",
     "set": "lucide",
-    "category": "media",
+    "category": "general-ui",
     "tags": [
       "book",
       "audio"
@@ -2775,7 +2799,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-book-copy",
     "name": "Book Copy",
     "set": "lucide",
-    "category": "editor",
+    "category": "general-ui",
     "tags": [
       "book",
       "copy"
@@ -2797,10 +2821,12 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-book-down",
     "name": "Book Down",
     "set": "lucide",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "book",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "lucideName": "BookDown"
   },
@@ -2808,7 +2834,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-book-headphones",
     "name": "Book Headphones",
     "set": "lucide",
-    "category": "media",
+    "category": "general-ui",
     "tags": [
       "book",
       "headphones"
@@ -2819,7 +2845,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-book-heart",
     "name": "Book Heart",
     "set": "lucide",
-    "category": "people-social",
+    "category": "general-ui",
     "tags": [
       "book",
       "heart"
@@ -2830,7 +2856,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-book-image",
     "name": "Book Image",
     "set": "lucide",
-    "category": "media",
+    "category": "general-ui",
     "tags": [
       "book",
       "image"
@@ -2841,7 +2867,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-book-key",
     "name": "Book Key",
     "set": "lucide",
-    "category": "security-identity",
+    "category": "general-ui",
     "tags": [
       "book",
       "key"
@@ -2852,7 +2878,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-book-lock",
     "name": "Book Lock",
     "set": "lucide",
-    "category": "security-identity",
+    "category": "general-ui",
     "tags": [
       "book",
       "lock"
@@ -2885,7 +2911,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-book-open",
     "name": "Book Open",
     "set": "lucide",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "book",
       "open"
@@ -2896,7 +2922,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-book-open-check",
     "name": "Book Open Check",
     "set": "lucide",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "book",
       "open",
@@ -2908,7 +2934,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-book-open-text",
     "name": "Book Open Text",
     "set": "lucide",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "book",
       "open",
@@ -2953,7 +2979,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-book-text",
     "name": "Book Text",
     "set": "lucide",
-    "category": "editor",
+    "category": "general-ui",
     "tags": [
       "book",
       "text"
@@ -2975,10 +3001,12 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-book-up",
     "name": "Book Up",
     "set": "lucide",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "book",
-      "up"
+      "up",
+      "arrow",
+      "direction"
     ],
     "lucideName": "BookUp"
   },
@@ -2986,7 +3014,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-book-up2",
     "name": "Book Up2",
     "set": "lucide",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "book",
       "up2"
@@ -2997,7 +3025,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-book-user",
     "name": "Book User",
     "set": "lucide",
-    "category": "people-social",
+    "category": "general-ui",
     "tags": [
       "book",
       "user"
@@ -3095,7 +3123,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-bot",
     "name": "Bot",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "ai-ml",
     "tags": [
       "bot"
     ],
@@ -3105,7 +3133,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-bot-message-square",
     "name": "Bot Message Square",
     "set": "lucide",
-    "category": "messaging-queue",
+    "category": "ai-ml",
     "tags": [
       "bot",
       "message",
@@ -3117,7 +3145,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-bot-off",
     "name": "Bot Off",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "ai-ml",
     "tags": [
       "bot",
       "off"
@@ -3128,7 +3156,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-bottle-wine",
     "name": "Bottle Wine",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "ai-ml",
     "tags": [
       "bottle",
       "wine"
@@ -3139,7 +3167,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-bow-arrow",
     "name": "Bow Arrow",
     "set": "lucide",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "bow",
       "arrow"
@@ -3181,7 +3209,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-braces",
     "name": "Braces",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "braces"
     ],
@@ -3191,7 +3219,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-brackets",
     "name": "Brackets",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "brackets"
     ],
@@ -3256,7 +3284,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-brick-wall-shield",
     "name": "Brick Wall Shield",
     "set": "lucide",
-    "category": "security-identity",
+    "category": "general-ui",
     "tags": [
       "brick",
       "wall",
@@ -3365,7 +3393,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-bug",
     "name": "Bug",
     "set": "lucide",
-    "category": "devops-cicd",
+    "category": "general-ui",
     "tags": [
       "bug"
     ],
@@ -3375,7 +3403,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-bug-off",
     "name": "Bug Off",
     "set": "lucide",
-    "category": "devops-cicd",
+    "category": "general-ui",
     "tags": [
       "bug",
       "off"
@@ -3386,7 +3414,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-bug-play",
     "name": "Bug Play",
     "set": "lucide",
-    "category": "media",
+    "category": "general-ui",
     "tags": [
       "bug",
       "play"
@@ -3397,7 +3425,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-building",
     "name": "Building",
     "set": "lucide",
-    "category": "devops-cicd",
+    "category": "maps-location",
     "tags": [
       "building"
     ],
@@ -3407,7 +3435,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-building2",
     "name": "Building2",
     "set": "lucide",
-    "category": "devops-cicd",
+    "category": "maps-location",
     "tags": [
       "building2"
     ],
@@ -3417,7 +3445,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-bus",
     "name": "Bus",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "bus"
     ],
@@ -3427,7 +3455,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-bus-front",
     "name": "Bus Front",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "bus",
       "front"
@@ -3490,7 +3518,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-calendar",
     "name": "Calendar",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "calendar"
     ],
@@ -3500,7 +3528,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-calendar1",
     "name": "Calendar1",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "calendar1"
     ],
@@ -3510,11 +3538,12 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-calendar-arrow-down",
     "name": "Calendar Arrow Down",
     "set": "lucide",
-    "category": "navigation",
+    "category": "messaging-queue",
     "tags": [
       "calendar",
       "arrow",
-      "down"
+      "down",
+      "direction"
     ],
     "lucideName": "CalendarArrowDown"
   },
@@ -3522,11 +3551,12 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-calendar-arrow-up",
     "name": "Calendar Arrow Up",
     "set": "lucide",
-    "category": "navigation",
+    "category": "messaging-queue",
     "tags": [
       "calendar",
       "arrow",
-      "up"
+      "up",
+      "direction"
     ],
     "lucideName": "CalendarArrowUp"
   },
@@ -3534,7 +3564,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-calendar-check",
     "name": "Calendar Check",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "calendar",
       "check"
@@ -3545,7 +3575,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-calendar-check2",
     "name": "Calendar Check2",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "calendar",
       "check2"
@@ -3556,7 +3586,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-calendar-clock",
     "name": "Calendar Clock",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "calendar",
       "clock"
@@ -3567,7 +3597,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-calendar-cog",
     "name": "Calendar Cog",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "calendar",
       "cog"
@@ -3578,7 +3608,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-calendar-days",
     "name": "Calendar Days",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "calendar",
       "days"
@@ -3589,7 +3619,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-calendar-fold",
     "name": "Calendar Fold",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "calendar",
       "fold"
@@ -3600,7 +3630,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-calendar-heart",
     "name": "Calendar Heart",
     "set": "lucide",
-    "category": "people-social",
+    "category": "messaging-queue",
     "tags": [
       "calendar",
       "heart"
@@ -3611,7 +3641,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-calendar-minus",
     "name": "Calendar Minus",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "calendar",
       "minus"
@@ -3622,7 +3652,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-calendar-minus2",
     "name": "Calendar Minus2",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "calendar",
       "minus2"
@@ -3633,7 +3663,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-calendar-off",
     "name": "Calendar Off",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "calendar",
       "off"
@@ -3644,7 +3674,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-calendar-plus",
     "name": "Calendar Plus",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "calendar",
       "plus"
@@ -3655,7 +3685,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-calendar-plus2",
     "name": "Calendar Plus2",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "calendar",
       "plus2"
@@ -3666,7 +3696,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-calendar-range",
     "name": "Calendar Range",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "calendar",
       "range"
@@ -3677,7 +3707,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-calendar-search",
     "name": "Calendar Search",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "calendar",
       "search"
@@ -3688,7 +3718,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-calendar-sync",
     "name": "Calendar Sync",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "calendar",
       "sync"
@@ -3699,7 +3729,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-calendar-x",
     "name": "Calendar X",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "calendar",
       "x"
@@ -3710,7 +3740,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-calendar-x2",
     "name": "Calendar X2",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "calendar",
       "x2"
@@ -3721,7 +3751,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-calendars",
     "name": "Calendars",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "calendars"
     ],
@@ -3752,7 +3782,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-candlestick-chart",
     "name": "Candlestick Chart",
     "set": "lucide",
-    "category": "monitoring-logging",
+    "category": "general-ui",
     "tags": [
       "candlestick",
       "chart"
@@ -3816,7 +3846,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-captions",
     "name": "Captions",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "captions"
     ],
@@ -3826,7 +3856,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-captions-off",
     "name": "Captions Off",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "captions",
       "off"
@@ -3837,7 +3867,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-car",
     "name": "Car",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "car"
     ],
@@ -3847,7 +3877,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-car-front",
     "name": "Car Front",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "car",
       "front"
@@ -3858,7 +3888,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-car-taxi-front",
     "name": "Car Taxi Front",
     "set": "lucide",
-    "category": "finance",
+    "category": "maps-location",
     "tags": [
       "car",
       "taxi",
@@ -3870,7 +3900,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-caravan",
     "name": "Caravan",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "caravan"
     ],
@@ -3880,7 +3910,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-card-sim",
     "name": "Card Sim",
     "set": "lucide",
-    "category": "finance",
+    "category": "maps-location",
     "tags": [
       "card",
       "sim"
@@ -3891,7 +3921,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-carrot",
     "name": "Carrot",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "carrot"
     ],
@@ -3923,7 +3953,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-case-upper",
     "name": "Case Upper",
     "set": "lucide",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "case",
       "upper"
@@ -4158,7 +4188,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-chart-network",
     "name": "Chart Network",
     "set": "lucide",
-    "category": "networking",
+    "category": "monitoring-logging",
     "tags": [
       "chart",
       "network"
@@ -4281,7 +4311,6 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "set": "lucide",
     "category": "general-ui",
     "tags": [
-      "check",
       "check"
     ],
     "lucideName": "CheckCheck"
@@ -4435,7 +4464,9 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "category": "navigation",
     "tags": [
       "chevron",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "lucideName": "ChevronDown"
   },
@@ -4492,7 +4523,9 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "category": "navigation",
     "tags": [
       "chevron",
-      "left"
+      "left",
+      "arrow",
+      "direction"
     ],
     "lucideName": "ChevronLeft"
   },
@@ -4527,7 +4560,9 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "category": "navigation",
     "tags": [
       "chevron",
-      "right"
+      "right",
+      "arrow",
+      "direction"
     ],
     "lucideName": "ChevronRight"
   },
@@ -4562,7 +4597,9 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "category": "navigation",
     "tags": [
       "chevron",
-      "up"
+      "up",
+      "arrow",
+      "direction"
     ],
     "lucideName": "ChevronUp"
   },
@@ -4597,7 +4634,9 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "category": "navigation",
     "tags": [
       "chevrons",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "lucideName": "ChevronsDown"
   },
@@ -4609,7 +4648,9 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "tags": [
       "chevrons",
       "down",
-      "up"
+      "up",
+      "arrow",
+      "direction"
     ],
     "lucideName": "ChevronsDownUp"
   },
@@ -4620,7 +4661,9 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "category": "navigation",
     "tags": [
       "chevrons",
-      "left"
+      "left",
+      "arrow",
+      "direction"
     ],
     "lucideName": "ChevronsLeft"
   },
@@ -4632,7 +4675,9 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "tags": [
       "chevrons",
       "left",
-      "right"
+      "right",
+      "arrow",
+      "direction"
     ],
     "lucideName": "ChevronsLeftRight"
   },
@@ -4656,7 +4701,9 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "category": "navigation",
     "tags": [
       "chevrons",
-      "right"
+      "right",
+      "arrow",
+      "direction"
     ],
     "lucideName": "ChevronsRight"
   },
@@ -4668,7 +4715,9 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "tags": [
       "chevrons",
       "right",
-      "left"
+      "left",
+      "arrow",
+      "direction"
     ],
     "lucideName": "ChevronsRightLeft"
   },
@@ -4679,7 +4728,9 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "category": "navigation",
     "tags": [
       "chevrons",
-      "up"
+      "up",
+      "arrow",
+      "direction"
     ],
     "lucideName": "ChevronsUp"
   },
@@ -4691,7 +4742,9 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "tags": [
       "chevrons",
       "up",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "lucideName": "ChevronsUpDown"
   },
@@ -4699,7 +4752,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-church",
     "name": "Church",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "church"
     ],
@@ -4709,7 +4762,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-cigarette",
     "name": "Cigarette",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "devops-cicd",
     "tags": [
       "cigarette"
     ],
@@ -4719,7 +4772,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-cigarette-off",
     "name": "Cigarette Off",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "devops-cicd",
     "tags": [
       "cigarette",
       "off"
@@ -4730,7 +4783,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-circle",
     "name": "Circle",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle"
     ],
@@ -4740,7 +4793,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-circle-alert",
     "name": "Circle Alert",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "alert"
@@ -4751,11 +4804,12 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-circle-arrow-down",
     "name": "Circle Arrow Down",
     "set": "lucide",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "arrow",
-      "down"
+      "down",
+      "direction"
     ],
     "lucideName": "CircleArrowDown"
   },
@@ -4763,11 +4817,12 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-circle-arrow-left",
     "name": "Circle Arrow Left",
     "set": "lucide",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "arrow",
-      "left"
+      "left",
+      "direction"
     ],
     "lucideName": "CircleArrowLeft"
   },
@@ -4775,13 +4830,14 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-circle-arrow-out-down-left",
     "name": "Circle Arrow Out Down Left",
     "set": "lucide",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "arrow",
       "out",
       "down",
-      "left"
+      "left",
+      "direction"
     ],
     "lucideName": "CircleArrowOutDownLeft"
   },
@@ -4789,13 +4845,14 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-circle-arrow-out-down-right",
     "name": "Circle Arrow Out Down Right",
     "set": "lucide",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "arrow",
       "out",
       "down",
-      "right"
+      "right",
+      "direction"
     ],
     "lucideName": "CircleArrowOutDownRight"
   },
@@ -4803,13 +4860,14 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-circle-arrow-out-up-left",
     "name": "Circle Arrow Out Up Left",
     "set": "lucide",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "arrow",
       "out",
       "up",
-      "left"
+      "left",
+      "direction"
     ],
     "lucideName": "CircleArrowOutUpLeft"
   },
@@ -4817,13 +4875,14 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-circle-arrow-out-up-right",
     "name": "Circle Arrow Out Up Right",
     "set": "lucide",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "arrow",
       "out",
       "up",
-      "right"
+      "right",
+      "direction"
     ],
     "lucideName": "CircleArrowOutUpRight"
   },
@@ -4831,11 +4890,12 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-circle-arrow-right",
     "name": "Circle Arrow Right",
     "set": "lucide",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "arrow",
-      "right"
+      "right",
+      "direction"
     ],
     "lucideName": "CircleArrowRight"
   },
@@ -4843,11 +4903,12 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-circle-arrow-up",
     "name": "Circle Arrow Up",
     "set": "lucide",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "arrow",
-      "up"
+      "up",
+      "direction"
     ],
     "lucideName": "CircleArrowUp"
   },
@@ -4855,7 +4916,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-circle-check",
     "name": "Circle Check",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "check"
@@ -4866,7 +4927,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-circle-check-big",
     "name": "Circle Check Big",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "check",
@@ -4878,11 +4939,13 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-circle-chevron-down",
     "name": "Circle Chevron Down",
     "set": "lucide",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "chevron",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "lucideName": "CircleChevronDown"
   },
@@ -4890,11 +4953,13 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-circle-chevron-left",
     "name": "Circle Chevron Left",
     "set": "lucide",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "chevron",
-      "left"
+      "left",
+      "arrow",
+      "direction"
     ],
     "lucideName": "CircleChevronLeft"
   },
@@ -4902,11 +4967,13 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-circle-chevron-right",
     "name": "Circle Chevron Right",
     "set": "lucide",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "chevron",
-      "right"
+      "right",
+      "arrow",
+      "direction"
     ],
     "lucideName": "CircleChevronRight"
   },
@@ -4914,11 +4981,13 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-circle-chevron-up",
     "name": "Circle Chevron Up",
     "set": "lucide",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "chevron",
-      "up"
+      "up",
+      "arrow",
+      "direction"
     ],
     "lucideName": "CircleChevronUp"
   },
@@ -4926,7 +4995,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-circle-dashed",
     "name": "Circle Dashed",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "dashed"
@@ -4937,7 +5006,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-circle-divide",
     "name": "Circle Divide",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "divide"
@@ -4948,7 +5017,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-circle-dollar-sign",
     "name": "Circle Dollar Sign",
     "set": "lucide",
-    "category": "finance",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "dollar",
@@ -4960,7 +5029,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-circle-dot",
     "name": "Circle Dot",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "dot"
@@ -4971,7 +5040,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-circle-dot-dashed",
     "name": "Circle Dot Dashed",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "dot",
@@ -4983,7 +5052,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-circle-ellipsis",
     "name": "Circle Ellipsis",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "ellipsis"
@@ -4994,7 +5063,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-circle-equal",
     "name": "Circle Equal",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "equal"
@@ -5005,12 +5074,13 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-circle-fading-arrow-up",
     "name": "Circle Fading Arrow Up",
     "set": "lucide",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "fading",
       "arrow",
-      "up"
+      "up",
+      "direction"
     ],
     "lucideName": "CircleFadingArrowUp"
   },
@@ -5018,7 +5088,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-circle-fading-plus",
     "name": "Circle Fading Plus",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "fading",
@@ -5030,7 +5100,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-circle-gauge",
     "name": "Circle Gauge",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "gauge"
@@ -5041,7 +5111,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-circle-help",
     "name": "Circle Help",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "help"
@@ -5052,7 +5122,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-circle-minus",
     "name": "Circle Minus",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "minus"
@@ -5063,7 +5133,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-circle-off",
     "name": "Circle Off",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "off"
@@ -5074,7 +5144,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-circle-parking",
     "name": "Circle Parking",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "parking"
@@ -5085,7 +5155,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-circle-parking-off",
     "name": "Circle Parking Off",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "parking",
@@ -5097,7 +5167,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-circle-pause",
     "name": "Circle Pause",
     "set": "lucide",
-    "category": "media",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "pause"
@@ -5108,7 +5178,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-circle-percent",
     "name": "Circle Percent",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "percent"
@@ -5119,7 +5189,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-circle-pile",
     "name": "Circle Pile",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "pile"
@@ -5130,7 +5200,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-circle-play",
     "name": "Circle Play",
     "set": "lucide",
-    "category": "media",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "play"
@@ -5141,7 +5211,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-circle-plus",
     "name": "Circle Plus",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "plus"
@@ -5152,7 +5222,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-circle-pound-sterling",
     "name": "Circle Pound Sterling",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "pound",
@@ -5164,7 +5234,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-circle-power",
     "name": "Circle Power",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "power"
@@ -5175,7 +5245,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-circle-question-mark",
     "name": "Circle Question Mark",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "question",
@@ -5187,7 +5257,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-circle-slash",
     "name": "Circle Slash",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "slash"
@@ -5198,7 +5268,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-circle-slash2",
     "name": "Circle Slash2",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "slash2"
@@ -5209,7 +5279,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-circle-slashed",
     "name": "Circle Slashed",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "slashed"
@@ -5220,7 +5290,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-circle-small",
     "name": "Circle Small",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "small"
@@ -5231,7 +5301,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-circle-star",
     "name": "Circle Star",
     "set": "lucide",
-    "category": "people-social",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "star"
@@ -5242,7 +5312,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-circle-stop",
     "name": "Circle Stop",
     "set": "lucide",
-    "category": "media",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "stop"
@@ -5253,7 +5323,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-circle-user",
     "name": "Circle User",
     "set": "lucide",
-    "category": "people-social",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "user"
@@ -5264,7 +5334,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-circle-user-round",
     "name": "Circle User Round",
     "set": "lucide",
-    "category": "people-social",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "user",
@@ -5276,7 +5346,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-circle-x",
     "name": "Circle X",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "x"
@@ -5287,7 +5357,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-circuit-board",
     "name": "Circuit Board",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "devops-cicd",
     "tags": [
       "circuit",
       "board"
@@ -5298,7 +5368,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-citrus",
     "name": "Citrus",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "devops-cicd",
     "tags": [
       "citrus"
     ],
@@ -5350,7 +5420,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-clipboard-copy",
     "name": "Clipboard Copy",
     "set": "lucide",
-    "category": "editor",
+    "category": "general-ui",
     "tags": [
       "clipboard",
       "copy"
@@ -5361,7 +5431,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-clipboard-edit",
     "name": "Clipboard Edit",
     "set": "lucide",
-    "category": "editor",
+    "category": "general-ui",
     "tags": [
       "clipboard",
       "edit"
@@ -5372,7 +5442,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-clipboard-list",
     "name": "Clipboard List",
     "set": "lucide",
-    "category": "editor",
+    "category": "general-ui",
     "tags": [
       "clipboard",
       "list"
@@ -5394,7 +5464,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-clipboard-paste",
     "name": "Clipboard Paste",
     "set": "lucide",
-    "category": "editor",
+    "category": "general-ui",
     "tags": [
       "clipboard",
       "paste"
@@ -5405,7 +5475,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-clipboard-pen",
     "name": "Clipboard Pen",
     "set": "lucide",
-    "category": "editor",
+    "category": "general-ui",
     "tags": [
       "clipboard",
       "pen"
@@ -5416,7 +5486,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-clipboard-pen-line",
     "name": "Clipboard Pen Line",
     "set": "lucide",
-    "category": "editor",
+    "category": "general-ui",
     "tags": [
       "clipboard",
       "pen",
@@ -5613,11 +5683,12 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-clock-arrow-down",
     "name": "Clock Arrow Down",
     "set": "lucide",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "clock",
       "arrow",
-      "down"
+      "down",
+      "direction"
     ],
     "lucideName": "ClockArrowDown"
   },
@@ -5625,11 +5696,12 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-clock-arrow-left",
     "name": "Clock Arrow Left",
     "set": "lucide",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "clock",
       "arrow",
-      "left"
+      "left",
+      "direction"
     ],
     "lucideName": "ClockArrowLeft"
   },
@@ -5637,11 +5709,12 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-clock-arrow-right",
     "name": "Clock Arrow Right",
     "set": "lucide",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "clock",
       "arrow",
-      "right"
+      "right",
+      "direction"
     ],
     "lucideName": "ClockArrowRight"
   },
@@ -5649,11 +5722,12 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-clock-arrow-up",
     "name": "Clock Arrow Up",
     "set": "lucide",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "clock",
       "arrow",
-      "up"
+      "up",
+      "direction"
     ],
     "lucideName": "ClockArrowUp"
   },
@@ -5726,7 +5800,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-cloud-backup",
     "name": "Cloud Backup",
     "set": "lucide",
-    "category": "navigation",
+    "category": "compute",
     "tags": [
       "cloud",
       "backup"
@@ -5759,10 +5833,12 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-cloud-download",
     "name": "Cloud Download",
     "set": "lucide",
-    "category": "navigation",
+    "category": "compute",
     "tags": [
       "cloud",
-      "download"
+      "download",
+      "transfer",
+      "arrow"
     ],
     "lucideName": "CloudDownload"
   },
@@ -5916,10 +5992,12 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-cloud-upload",
     "name": "Cloud Upload",
     "set": "lucide",
-    "category": "navigation",
+    "category": "compute",
     "tags": [
       "cloud",
-      "upload"
+      "upload",
+      "transfer",
+      "arrow"
     ],
     "lucideName": "CloudUpload"
   },
@@ -6029,7 +6107,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-columns",
     "name": "Columns",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "columns"
     ],
@@ -6039,7 +6117,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-columns2",
     "name": "Columns2",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "columns2"
     ],
@@ -6049,7 +6127,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-columns3",
     "name": "Columns3",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "columns3"
     ],
@@ -6059,7 +6137,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-columns3-cog",
     "name": "Columns3 Cog",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "columns3",
       "cog"
@@ -6070,7 +6148,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-columns4",
     "name": "Columns4",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "columns4"
     ],
@@ -6080,7 +6158,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-columns-settings",
     "name": "Columns Settings",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "columns",
       "settings"
@@ -6121,7 +6199,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-component",
     "name": "Component",
     "set": "lucide",
-    "category": "frontend-client",
+    "category": "general-ui",
     "tags": [
       "component"
     ],
@@ -6141,7 +6219,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-concierge-bell",
     "name": "Concierge Bell",
     "set": "lucide",
-    "category": "messaging-queue",
+    "category": "general-ui",
     "tags": [
       "concierge",
       "bell"
@@ -6152,7 +6230,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-cone",
     "name": "Cone",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "cone"
     ],
@@ -6203,7 +6281,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-container",
     "name": "Container",
     "set": "lucide",
-    "category": "devops-cicd",
+    "category": "diagram-primitives",
     "tags": [
       "container"
     ],
@@ -6213,7 +6291,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-contrast",
     "name": "Contrast",
     "set": "lucide",
-    "category": "media",
+    "category": "frontend-client",
     "tags": [
       "contrast"
     ],
@@ -6329,11 +6407,13 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-corner-down-left",
     "name": "Corner Down Left",
     "set": "lucide",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "corner",
       "down",
-      "left"
+      "left",
+      "arrow",
+      "direction"
     ],
     "lucideName": "CornerDownLeft"
   },
@@ -6341,11 +6421,13 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-corner-down-right",
     "name": "Corner Down Right",
     "set": "lucide",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "corner",
       "down",
-      "right"
+      "right",
+      "arrow",
+      "direction"
     ],
     "lucideName": "CornerDownRight"
   },
@@ -6353,11 +6435,13 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-corner-left-down",
     "name": "Corner Left Down",
     "set": "lucide",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "corner",
       "left",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "lucideName": "CornerLeftDown"
   },
@@ -6365,11 +6449,13 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-corner-left-up",
     "name": "Corner Left Up",
     "set": "lucide",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "corner",
       "left",
-      "up"
+      "up",
+      "arrow",
+      "direction"
     ],
     "lucideName": "CornerLeftUp"
   },
@@ -6377,11 +6463,13 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-corner-right-down",
     "name": "Corner Right Down",
     "set": "lucide",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "corner",
       "right",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "lucideName": "CornerRightDown"
   },
@@ -6389,11 +6477,13 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-corner-right-up",
     "name": "Corner Right Up",
     "set": "lucide",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "corner",
       "right",
-      "up"
+      "up",
+      "arrow",
+      "direction"
     ],
     "lucideName": "CornerRightUp"
   },
@@ -6401,11 +6491,13 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-corner-up-left",
     "name": "Corner Up Left",
     "set": "lucide",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "corner",
       "up",
-      "left"
+      "left",
+      "arrow",
+      "direction"
     ],
     "lucideName": "CornerUpLeft"
   },
@@ -6413,11 +6505,13 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-corner-up-right",
     "name": "Corner Up Right",
     "set": "lucide",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "corner",
       "up",
-      "right"
+      "right",
+      "arrow",
+      "direction"
     ],
     "lucideName": "CornerUpRight"
   },
@@ -6487,7 +6581,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-crosshair",
     "name": "Crosshair",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "crosshair"
     ],
@@ -6497,7 +6591,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-crown",
     "name": "Crown",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "crown"
     ],
@@ -6549,7 +6643,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-cylinder",
     "name": "Cylinder",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "cylinder"
     ],
@@ -6579,7 +6673,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-database-backup",
     "name": "Database Backup",
     "set": "lucide",
-    "category": "navigation",
+    "category": "storage-database",
     "tags": [
       "database",
       "backup"
@@ -6612,11 +6706,12 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-decimals-arrow-left",
     "name": "Decimals Arrow Left",
     "set": "lucide",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "decimals",
       "arrow",
-      "left"
+      "left",
+      "direction"
     ],
     "lucideName": "DecimalsArrowLeft"
   },
@@ -6624,11 +6719,12 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-decimals-arrow-right",
     "name": "Decimals Arrow Right",
     "set": "lucide",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "decimals",
       "arrow",
-      "right"
+      "right",
+      "direction"
     ],
     "lucideName": "DecimalsArrowRight"
   },
@@ -6666,7 +6762,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-diamond",
     "name": "Diamond",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "diamond"
     ],
@@ -6676,7 +6772,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-diamond-minus",
     "name": "Diamond Minus",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "diamond",
       "minus"
@@ -6687,7 +6783,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-diamond-percent",
     "name": "Diamond Percent",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "diamond",
       "percent"
@@ -6698,7 +6794,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-diamond-plus",
     "name": "Diamond Plus",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "diamond",
       "plus"
@@ -6789,7 +6885,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-disc",
     "name": "Disc",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "disc"
     ],
@@ -6799,7 +6895,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-disc2",
     "name": "Disc2",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "disc2"
     ],
@@ -6809,7 +6905,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-disc3",
     "name": "Disc3",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "disc3"
     ],
@@ -6924,7 +7020,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-door-closed",
     "name": "Door Closed",
     "set": "lucide",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "door",
       "closed"
@@ -6935,7 +7031,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-door-closed-locked",
     "name": "Door Closed Locked",
     "set": "lucide",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "door",
       "closed",
@@ -6947,7 +7043,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-door-open",
     "name": "Door Open",
     "set": "lucide",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "door",
       "open"
@@ -6979,9 +7075,11 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-download",
     "name": "Download",
     "set": "lucide",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
-      "download"
+      "download",
+      "transfer",
+      "arrow"
     ],
     "lucideName": "Download"
   },
@@ -6989,10 +7087,12 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-download-cloud",
     "name": "Download Cloud",
     "set": "lucide",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "download",
-      "cloud"
+      "cloud",
+      "transfer",
+      "arrow"
     ],
     "lucideName": "DownloadCloud"
   },
@@ -7000,7 +7100,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-drafting-compass",
     "name": "Drafting Compass",
     "set": "lucide",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "drafting",
       "compass"
@@ -7123,7 +7223,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-earth",
     "name": "Earth",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "earth"
     ],
@@ -7133,7 +7233,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-earth-lock",
     "name": "Earth Lock",
     "set": "lucide",
-    "category": "security-identity",
+    "category": "maps-location",
     "tags": [
       "earth",
       "lock"
@@ -7226,7 +7326,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-ellipsis",
     "name": "Ellipsis",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "ellipsis"
     ],
@@ -7236,7 +7336,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-ellipsis-vertical",
     "name": "Ellipsis Vertical",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "ellipsis",
       "vertical"
@@ -7334,7 +7434,9 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "set": "lucide",
     "category": "navigation",
     "tags": [
-      "expand"
+      "expand",
+      "arrow",
+      "direction"
     ],
     "lucideName": "Expand"
   },
@@ -7363,7 +7465,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-eye-closed",
     "name": "Eye Closed",
     "set": "lucide",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "eye",
       "closed"
@@ -7416,7 +7518,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-fast-forward",
     "name": "Fast Forward",
     "set": "lucide",
-    "category": "navigation",
+    "category": "media",
     "tags": [
       "fast",
       "forward"
@@ -7458,7 +7560,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-file",
     "name": "File",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file"
     ],
@@ -7479,7 +7581,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-file-audio",
     "name": "File Audio",
     "set": "lucide",
-    "category": "media",
+    "category": "storage-database",
     "tags": [
       "file",
       "audio"
@@ -7490,7 +7592,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-file-audio2",
     "name": "File Audio2",
     "set": "lucide",
-    "category": "media",
+    "category": "storage-database",
     "tags": [
       "file",
       "audio2"
@@ -7501,7 +7603,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-file-axis3-d",
     "name": "File Axis3 D",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "axis3",
@@ -7513,7 +7615,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-file-axis3d",
     "name": "File Axis3d",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "axis3d"
@@ -7524,7 +7626,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-file-badge",
     "name": "File Badge",
     "set": "lucide",
-    "category": "people-social",
+    "category": "storage-database",
     "tags": [
       "file",
       "badge"
@@ -7535,7 +7637,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-file-badge2",
     "name": "File Badge2",
     "set": "lucide",
-    "category": "people-social",
+    "category": "storage-database",
     "tags": [
       "file",
       "badge2"
@@ -7546,7 +7648,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-file-bar-chart",
     "name": "File Bar Chart",
     "set": "lucide",
-    "category": "monitoring-logging",
+    "category": "storage-database",
     "tags": [
       "file",
       "bar",
@@ -7558,7 +7660,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-file-bar-chart2",
     "name": "File Bar Chart2",
     "set": "lucide",
-    "category": "monitoring-logging",
+    "category": "storage-database",
     "tags": [
       "file",
       "bar",
@@ -7570,7 +7672,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-file-box",
     "name": "File Box",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "box"
@@ -7581,7 +7683,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-file-braces",
     "name": "File Braces",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "braces"
@@ -7592,7 +7694,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-file-braces-corner",
     "name": "File Braces Corner",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "braces",
@@ -7604,7 +7706,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-file-chart-column",
     "name": "File Chart Column",
     "set": "lucide",
-    "category": "monitoring-logging",
+    "category": "storage-database",
     "tags": [
       "file",
       "chart",
@@ -7616,7 +7718,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-file-chart-column-increasing",
     "name": "File Chart Column Increasing",
     "set": "lucide",
-    "category": "monitoring-logging",
+    "category": "storage-database",
     "tags": [
       "file",
       "chart",
@@ -7629,7 +7731,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-file-chart-line",
     "name": "File Chart Line",
     "set": "lucide",
-    "category": "monitoring-logging",
+    "category": "storage-database",
     "tags": [
       "file",
       "chart",
@@ -7641,7 +7743,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-file-chart-pie",
     "name": "File Chart Pie",
     "set": "lucide",
-    "category": "monitoring-logging",
+    "category": "storage-database",
     "tags": [
       "file",
       "chart",
@@ -7653,7 +7755,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-file-check",
     "name": "File Check",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "check"
@@ -7664,7 +7766,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-file-check2",
     "name": "File Check2",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "check2"
@@ -7675,7 +7777,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-file-check-corner",
     "name": "File Check Corner",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "check",
@@ -7687,7 +7789,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-file-clock",
     "name": "File Clock",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "clock"
@@ -7698,7 +7800,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-file-code",
     "name": "File Code",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "code"
@@ -7709,7 +7811,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-file-code2",
     "name": "File Code2",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "code2"
@@ -7720,7 +7822,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-file-code-corner",
     "name": "File Code Corner",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "code",
@@ -7732,7 +7834,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-file-cog",
     "name": "File Cog",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "cog"
@@ -7743,7 +7845,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-file-cog2",
     "name": "File Cog2",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "cog2"
@@ -7754,7 +7856,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-file-diff",
     "name": "File Diff",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "diff"
@@ -7765,7 +7867,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-file-digit",
     "name": "File Digit",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "digit"
@@ -7776,10 +7878,12 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-file-down",
     "name": "File Down",
     "set": "lucide",
-    "category": "navigation",
+    "category": "storage-database",
     "tags": [
       "file",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "lucideName": "FileDown"
   },
@@ -7787,7 +7891,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-file-edit",
     "name": "File Edit",
     "set": "lucide",
-    "category": "editor",
+    "category": "storage-database",
     "tags": [
       "file",
       "edit"
@@ -7798,7 +7902,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-file-exclamation-point",
     "name": "File Exclamation Point",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "exclamation",
@@ -7810,7 +7914,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-file-headphone",
     "name": "File Headphone",
     "set": "lucide",
-    "category": "media",
+    "category": "storage-database",
     "tags": [
       "file",
       "headphone"
@@ -7821,7 +7925,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-file-heart",
     "name": "File Heart",
     "set": "lucide",
-    "category": "people-social",
+    "category": "storage-database",
     "tags": [
       "file",
       "heart"
@@ -7832,7 +7936,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-file-image",
     "name": "File Image",
     "set": "lucide",
-    "category": "media",
+    "category": "storage-database",
     "tags": [
       "file",
       "image"
@@ -7843,7 +7947,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-file-input",
     "name": "File Input",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "input"
@@ -7854,7 +7958,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-file-json",
     "name": "File Json",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "json"
@@ -7865,7 +7969,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-file-json2",
     "name": "File Json2",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "json2"
@@ -7876,7 +7980,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-file-key",
     "name": "File Key",
     "set": "lucide",
-    "category": "security-identity",
+    "category": "storage-database",
     "tags": [
       "file",
       "key"
@@ -7887,7 +7991,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-file-key2",
     "name": "File Key2",
     "set": "lucide",
-    "category": "security-identity",
+    "category": "storage-database",
     "tags": [
       "file",
       "key2"
@@ -7898,7 +8002,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-file-line-chart",
     "name": "File Line Chart",
     "set": "lucide",
-    "category": "monitoring-logging",
+    "category": "storage-database",
     "tags": [
       "file",
       "line",
@@ -7910,7 +8014,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-file-lock",
     "name": "File Lock",
     "set": "lucide",
-    "category": "security-identity",
+    "category": "storage-database",
     "tags": [
       "file",
       "lock"
@@ -7921,7 +8025,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-file-lock2",
     "name": "File Lock2",
     "set": "lucide",
-    "category": "security-identity",
+    "category": "storage-database",
     "tags": [
       "file",
       "lock2"
@@ -7932,7 +8036,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-file-minus",
     "name": "File Minus",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "minus"
@@ -7943,7 +8047,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-file-minus2",
     "name": "File Minus2",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "minus2"
@@ -7954,7 +8058,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-file-minus-corner",
     "name": "File Minus Corner",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "minus",
@@ -7966,7 +8070,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-file-music",
     "name": "File Music",
     "set": "lucide",
-    "category": "media",
+    "category": "storage-database",
     "tags": [
       "file",
       "music"
@@ -7977,7 +8081,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-file-output",
     "name": "File Output",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "output"
@@ -7988,7 +8092,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-file-pen",
     "name": "File Pen",
     "set": "lucide",
-    "category": "editor",
+    "category": "storage-database",
     "tags": [
       "file",
       "pen"
@@ -7999,7 +8103,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-file-pen-line",
     "name": "File Pen Line",
     "set": "lucide",
-    "category": "editor",
+    "category": "storage-database",
     "tags": [
       "file",
       "pen",
@@ -8011,7 +8115,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-file-pie-chart",
     "name": "File Pie Chart",
     "set": "lucide",
-    "category": "monitoring-logging",
+    "category": "storage-database",
     "tags": [
       "file",
       "pie",
@@ -8023,7 +8127,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-file-play",
     "name": "File Play",
     "set": "lucide",
-    "category": "media",
+    "category": "storage-database",
     "tags": [
       "file",
       "play"
@@ -8034,7 +8138,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-file-plus",
     "name": "File Plus",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "plus"
@@ -8045,7 +8149,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-file-plus2",
     "name": "File Plus2",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "plus2"
@@ -8056,7 +8160,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-file-plus-corner",
     "name": "File Plus Corner",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "plus",
@@ -8068,7 +8172,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-file-question",
     "name": "File Question",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "question"
@@ -8079,7 +8183,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-file-question-mark",
     "name": "File Question Mark",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "question",
@@ -8091,7 +8195,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-file-scan",
     "name": "File Scan",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "scan"
@@ -8102,7 +8206,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-file-search",
     "name": "File Search",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "search"
@@ -8113,7 +8217,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-file-search2",
     "name": "File Search2",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "search2"
@@ -8124,7 +8228,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-file-search-corner",
     "name": "File Search Corner",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "search",
@@ -8136,7 +8240,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-file-signal",
     "name": "File Signal",
     "set": "lucide",
-    "category": "networking",
+    "category": "storage-database",
     "tags": [
       "file",
       "signal"
@@ -8147,7 +8251,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-file-signature",
     "name": "File Signature",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "signature"
@@ -8158,7 +8262,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-file-sliders",
     "name": "File Sliders",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "sliders"
@@ -8169,7 +8273,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-file-spreadsheet",
     "name": "File Spreadsheet",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "spreadsheet"
@@ -8180,7 +8284,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-file-stack",
     "name": "File Stack",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "stack"
@@ -8191,7 +8295,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-file-symlink",
     "name": "File Symlink",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "symlink"
@@ -8202,7 +8306,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-file-terminal",
     "name": "File Terminal",
     "set": "lucide",
-    "category": "api-integration",
+    "category": "storage-database",
     "tags": [
       "file",
       "terminal"
@@ -8213,7 +8317,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-file-text",
     "name": "File Text",
     "set": "lucide",
-    "category": "editor",
+    "category": "storage-database",
     "tags": [
       "file",
       "text"
@@ -8224,7 +8328,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-file-type",
     "name": "File Type",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "type"
@@ -8235,7 +8339,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-file-type2",
     "name": "File Type2",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "type2"
@@ -8246,7 +8350,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-file-type-corner",
     "name": "File Type Corner",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "type",
@@ -8258,10 +8362,12 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-file-up",
     "name": "File Up",
     "set": "lucide",
-    "category": "navigation",
+    "category": "storage-database",
     "tags": [
       "file",
-      "up"
+      "up",
+      "arrow",
+      "direction"
     ],
     "lucideName": "FileUp"
   },
@@ -8269,7 +8375,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-file-user",
     "name": "File User",
     "set": "lucide",
-    "category": "people-social",
+    "category": "storage-database",
     "tags": [
       "file",
       "user"
@@ -8280,7 +8386,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-file-video",
     "name": "File Video",
     "set": "lucide",
-    "category": "media",
+    "category": "storage-database",
     "tags": [
       "file",
       "video"
@@ -8291,7 +8397,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-file-video2",
     "name": "File Video2",
     "set": "lucide",
-    "category": "media",
+    "category": "storage-database",
     "tags": [
       "file",
       "video2"
@@ -8302,7 +8408,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-file-video-camera",
     "name": "File Video Camera",
     "set": "lucide",
-    "category": "media",
+    "category": "storage-database",
     "tags": [
       "file",
       "video",
@@ -8314,7 +8420,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-file-volume",
     "name": "File Volume",
     "set": "lucide",
-    "category": "media",
+    "category": "storage-database",
     "tags": [
       "file",
       "volume"
@@ -8325,7 +8431,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-file-volume2",
     "name": "File Volume2",
     "set": "lucide",
-    "category": "media",
+    "category": "storage-database",
     "tags": [
       "file",
       "volume2"
@@ -8336,7 +8442,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-file-warning",
     "name": "File Warning",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "warning"
@@ -8347,7 +8453,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-file-x",
     "name": "File X",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "x"
@@ -8358,7 +8464,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-file-x2",
     "name": "File X2",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "x2"
@@ -8369,7 +8475,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-file-x-corner",
     "name": "File X Corner",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "x",
@@ -8381,7 +8487,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-files",
     "name": "Files",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "files"
     ],
@@ -8401,7 +8507,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-filter",
     "name": "Filter",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "filter"
     ],
@@ -8411,7 +8517,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-filter-x",
     "name": "Filter X",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "filter",
       "x"
@@ -8424,7 +8530,8 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "set": "lucide",
     "category": "security-identity",
     "tags": [
-      "fingerprint"
+      "fingerprint",
+      "security"
     ],
     "lucideName": "Fingerprint"
   },
@@ -8435,7 +8542,8 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "category": "security-identity",
     "tags": [
       "fingerprint",
-      "pattern"
+      "pattern",
+      "security"
     ],
     "lucideName": "FingerprintPattern"
   },
@@ -8508,7 +8616,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-flag",
     "name": "Flag",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "flag"
     ],
@@ -8518,7 +8626,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-flag-off",
     "name": "Flag Off",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "flag",
       "off"
@@ -8529,11 +8637,13 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-flag-triangle-left",
     "name": "Flag Triangle Left",
     "set": "lucide",
-    "category": "navigation",
+    "category": "maps-location",
     "tags": [
       "flag",
       "triangle",
-      "left"
+      "left",
+      "arrow",
+      "direction"
     ],
     "lucideName": "FlagTriangleLeft"
   },
@@ -8541,11 +8651,13 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-flag-triangle-right",
     "name": "Flag Triangle Right",
     "set": "lucide",
-    "category": "navigation",
+    "category": "maps-location",
     "tags": [
       "flag",
       "triangle",
-      "right"
+      "right",
+      "arrow",
+      "direction"
     ],
     "lucideName": "FlagTriangleRight"
   },
@@ -8574,7 +8686,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-flashlight",
     "name": "Flashlight",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "flashlight"
     ],
@@ -8584,7 +8696,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-flashlight-off",
     "name": "Flashlight Off",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "flashlight",
       "off"
@@ -8629,10 +8741,12 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-flip-horizontal",
     "name": "Flip Horizontal",
     "set": "lucide",
-    "category": "editor",
+    "category": "navigation",
     "tags": [
       "flip",
-      "horizontal"
+      "horizontal",
+      "arrow",
+      "direction"
     ],
     "lucideName": "FlipHorizontal"
   },
@@ -8640,10 +8754,12 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-flip-horizontal2",
     "name": "Flip Horizontal2",
     "set": "lucide",
-    "category": "editor",
+    "category": "navigation",
     "tags": [
       "flip",
-      "horizontal2"
+      "horizontal2",
+      "arrow",
+      "direction"
     ],
     "lucideName": "FlipHorizontal2"
   },
@@ -8651,10 +8767,12 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-flip-vertical",
     "name": "Flip Vertical",
     "set": "lucide",
-    "category": "editor",
+    "category": "navigation",
     "tags": [
       "flip",
-      "vertical"
+      "vertical",
+      "arrow",
+      "direction"
     ],
     "lucideName": "FlipVertical"
   },
@@ -8662,10 +8780,12 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-flip-vertical2",
     "name": "Flip Vertical2",
     "set": "lucide",
-    "category": "editor",
+    "category": "navigation",
     "tags": [
       "flip",
-      "vertical2"
+      "vertical2",
+      "arrow",
+      "direction"
     ],
     "lucideName": "FlipVertical2"
   },
@@ -8693,7 +8813,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-focus",
     "name": "Focus",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "focus"
     ],
@@ -8746,7 +8866,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-folder-bookmark",
     "name": "Folder Bookmark",
     "set": "lucide",
-    "category": "people-social",
+    "category": "storage-database",
     "tags": [
       "folder",
       "bookmark"
@@ -8779,7 +8899,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-folder-closed",
     "name": "Folder Closed",
     "set": "lucide",
-    "category": "navigation",
+    "category": "storage-database",
     "tags": [
       "folder",
       "closed"
@@ -8834,10 +8954,12 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-folder-down",
     "name": "Folder Down",
     "set": "lucide",
-    "category": "navigation",
+    "category": "storage-database",
     "tags": [
       "folder",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "lucideName": "FolderDown"
   },
@@ -8845,7 +8967,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-folder-edit",
     "name": "Folder Edit",
     "set": "lucide",
-    "category": "editor",
+    "category": "storage-database",
     "tags": [
       "folder",
       "edit"
@@ -8878,7 +9000,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-folder-heart",
     "name": "Folder Heart",
     "set": "lucide",
-    "category": "people-social",
+    "category": "storage-database",
     "tags": [
       "folder",
       "heart"
@@ -8944,7 +9066,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-folder-open",
     "name": "Folder Open",
     "set": "lucide",
-    "category": "navigation",
+    "category": "storage-database",
     "tags": [
       "folder",
       "open"
@@ -8955,7 +9077,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-folder-open-dot",
     "name": "Folder Open Dot",
     "set": "lucide",
-    "category": "navigation",
+    "category": "storage-database",
     "tags": [
       "folder",
       "open",
@@ -8978,7 +9100,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-folder-pen",
     "name": "Folder Pen",
     "set": "lucide",
-    "category": "editor",
+    "category": "storage-database",
     "tags": [
       "folder",
       "pen"
@@ -9066,10 +9188,12 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-folder-up",
     "name": "Folder Up",
     "set": "lucide",
-    "category": "navigation",
+    "category": "storage-database",
     "tags": [
       "folder",
-      "up"
+      "up",
+      "arrow",
+      "direction"
     ],
     "lucideName": "FolderUp"
   },
@@ -9108,7 +9232,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-fork-knife",
     "name": "Fork Knife",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "devops-cicd",
     "tags": [
       "fork",
       "knife"
@@ -9119,7 +9243,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-fork-knife-crossed",
     "name": "Fork Knife Crossed",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "devops-cicd",
     "tags": [
       "fork",
       "knife",
@@ -9131,7 +9255,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-forklift",
     "name": "Forklift",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "devops-cicd",
     "tags": [
       "forklift"
     ],
@@ -9141,7 +9265,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-form",
     "name": "Form",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "form"
     ],
@@ -9151,7 +9275,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-form-input",
     "name": "Form Input",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "form",
       "input"
@@ -9162,7 +9286,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-forward",
     "name": "Forward",
     "set": "lucide",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "forward"
     ],
@@ -9223,7 +9347,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-funnel",
     "name": "Funnel",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "funnel"
     ],
@@ -9233,7 +9357,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-funnel-plus",
     "name": "Funnel Plus",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "funnel",
       "plus"
@@ -9244,7 +9368,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-funnel-x",
     "name": "Funnel X",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "funnel",
       "x"
@@ -9255,7 +9379,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-gallery-horizontal",
     "name": "Gallery Horizontal",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "gallery",
       "horizontal"
@@ -9266,7 +9390,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-gallery-horizontal-end",
     "name": "Gallery Horizontal End",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "gallery",
       "horizontal",
@@ -9278,7 +9402,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-gallery-thumbnails",
     "name": "Gallery Thumbnails",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "gallery",
       "thumbnails"
@@ -9289,7 +9413,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-gallery-vertical",
     "name": "Gallery Vertical",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "gallery",
       "vertical"
@@ -9300,7 +9424,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-gallery-vertical-end",
     "name": "Gallery Vertical End",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "gallery",
       "vertical",
@@ -9332,7 +9456,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-gamepad-directional",
     "name": "Gamepad Directional",
     "set": "lucide",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "gamepad",
       "directional"
@@ -9343,7 +9467,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-gantt-chart",
     "name": "Gantt Chart",
     "set": "lucide",
-    "category": "monitoring-logging",
+    "category": "general-ui",
     "tags": [
       "gantt",
       "chart"
@@ -9354,7 +9478,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-gantt-chart-square",
     "name": "Gantt Chart Square",
     "set": "lucide",
-    "category": "monitoring-logging",
+    "category": "general-ui",
     "tags": [
       "gantt",
       "chart",
@@ -9366,7 +9490,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-gauge",
     "name": "Gauge",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "gauge"
     ],
@@ -9376,7 +9500,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-gauge-circle",
     "name": "Gauge Circle",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "gauge",
       "circle"
@@ -9428,7 +9552,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-gift",
     "name": "Gift",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "gift"
     ],
@@ -9519,7 +9643,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-git-compare-arrows",
     "name": "Git Compare Arrows",
     "set": "lucide",
-    "category": "navigation",
+    "category": "devops-cicd",
     "tags": [
       "git",
       "compare",
@@ -9588,7 +9712,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-git-pull-request-arrow",
     "name": "Git Pull Request Arrow",
     "set": "lucide",
-    "category": "navigation",
+    "category": "devops-cicd",
     "tags": [
       "git",
       "pull",
@@ -9601,7 +9725,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-git-pull-request-closed",
     "name": "Git Pull Request Closed",
     "set": "lucide",
-    "category": "navigation",
+    "category": "devops-cicd",
     "tags": [
       "git",
       "pull",
@@ -9627,7 +9751,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-git-pull-request-create-arrow",
     "name": "Git Pull Request Create Arrow",
     "set": "lucide",
-    "category": "navigation",
+    "category": "devops-cicd",
     "tags": [
       "git",
       "pull",
@@ -9675,7 +9799,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-globe",
     "name": "Globe",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "globe"
     ],
@@ -9685,7 +9809,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-globe2",
     "name": "Globe2",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "globe2"
     ],
@@ -9695,7 +9819,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-globe-check",
     "name": "Globe Check",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "globe",
       "check"
@@ -9706,7 +9830,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-globe-lock",
     "name": "Globe Lock",
     "set": "lucide",
-    "category": "security-identity",
+    "category": "maps-location",
     "tags": [
       "globe",
       "lock"
@@ -9717,7 +9841,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-globe-off",
     "name": "Globe Off",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "globe",
       "off"
@@ -9728,7 +9852,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-globe-x",
     "name": "Globe X",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "globe",
       "x"
@@ -9749,7 +9873,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-gpu",
     "name": "Gpu",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "compute",
     "tags": [
       "gpu"
     ],
@@ -9983,7 +10107,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-hamburger",
     "name": "Hamburger",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "navigation",
     "tags": [
       "hamburger"
     ],
@@ -10013,7 +10137,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-hand-coins",
     "name": "Hand Coins",
     "set": "lucide",
-    "category": "finance",
+    "category": "general-ui",
     "tags": [
       "hand",
       "coins"
@@ -10046,7 +10170,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-hand-heart",
     "name": "Hand Heart",
     "set": "lucide",
-    "category": "people-social",
+    "category": "general-ui",
     "tags": [
       "hand",
       "heart"
@@ -10121,7 +10245,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-hard-drive-download",
     "name": "Hard Drive Download",
     "set": "lucide",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "hard",
       "drive",
@@ -10133,7 +10257,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-hard-drive-upload",
     "name": "Hard Drive Upload",
     "set": "lucide",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "hard",
       "drive",
@@ -10208,7 +10332,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-heading",
     "name": "Heading",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "heading"
     ],
@@ -10218,7 +10342,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-heading1",
     "name": "Heading1",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "heading1"
     ],
@@ -10228,7 +10352,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-heading2",
     "name": "Heading2",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "heading2"
     ],
@@ -10238,7 +10362,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-heading3",
     "name": "Heading3",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "heading3"
     ],
@@ -10248,7 +10372,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-heading4",
     "name": "Heading4",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "heading4"
     ],
@@ -10258,7 +10382,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-heading5",
     "name": "Heading5",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "heading5"
     ],
@@ -10268,7 +10392,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-heading6",
     "name": "Heading6",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "heading6"
     ],
@@ -10438,7 +10562,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-hexagon",
     "name": "Hexagon",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon"
     ],
@@ -10499,7 +10623,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-hospital",
     "name": "Hospital",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "hospital"
     ],
@@ -10529,7 +10653,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-house",
     "name": "House",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "house"
     ],
@@ -10539,7 +10663,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-house-heart",
     "name": "House Heart",
     "set": "lucide",
-    "category": "people-social",
+    "category": "maps-location",
     "tags": [
       "house",
       "heart"
@@ -10550,7 +10674,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-house-plug",
     "name": "House Plug",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "house",
       "plug"
@@ -10561,7 +10685,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-house-plus",
     "name": "House Plus",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "house",
       "plus"
@@ -10572,7 +10696,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-house-wifi",
     "name": "House Wifi",
     "set": "lucide",
-    "category": "networking",
+    "category": "maps-location",
     "tags": [
       "house",
       "wifi"
@@ -10629,7 +10753,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-id-card",
     "name": "Id Card",
     "set": "lucide",
-    "category": "finance",
+    "category": "general-ui",
     "tags": [
       "id",
       "card"
@@ -10640,7 +10764,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-id-card-lanyard",
     "name": "Id Card Lanyard",
     "set": "lucide",
-    "category": "finance",
+    "category": "general-ui",
     "tags": [
       "id",
       "card",
@@ -10665,7 +10789,9 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "category": "media",
     "tags": [
       "image",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "lucideName": "ImageDown"
   },
@@ -10720,7 +10846,9 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "category": "media",
     "tags": [
       "image",
-      "up"
+      "up",
+      "arrow",
+      "direction"
     ],
     "lucideName": "ImageUp"
   },
@@ -10749,7 +10877,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-import",
     "name": "Import",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "api-integration",
     "tags": [
       "import"
     ],
@@ -10812,7 +10940,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-infinity",
     "name": "Infinity",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "infinity"
     ],
@@ -10951,7 +11079,8 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "set": "lucide",
     "category": "security-identity",
     "tags": [
-      "key"
+      "key",
+      "security"
     ],
     "lucideName": "Key"
   },
@@ -10962,7 +11091,8 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "category": "security-identity",
     "tags": [
       "key",
-      "round"
+      "round",
+      "security"
     ],
     "lucideName": "KeyRound"
   },
@@ -10973,7 +11103,8 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "category": "security-identity",
     "tags": [
       "key",
-      "square"
+      "square",
+      "security"
     ],
     "lucideName": "KeySquare"
   },
@@ -10983,7 +11114,8 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "set": "lucide",
     "category": "security-identity",
     "tags": [
-      "keyboard"
+      "keyboard",
+      "security"
     ],
     "lucideName": "Keyboard"
   },
@@ -10991,10 +11123,11 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-keyboard-music",
     "name": "Keyboard Music",
     "set": "lucide",
-    "category": "media",
+    "category": "security-identity",
     "tags": [
       "keyboard",
-      "music"
+      "music",
+      "security"
     ],
     "lucideName": "KeyboardMusic"
   },
@@ -11005,7 +11138,8 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "category": "security-identity",
     "tags": [
       "keyboard",
-      "off"
+      "off",
+      "security"
     ],
     "lucideName": "KeyboardOff"
   },
@@ -11056,11 +11190,13 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-lamp-wall-down",
     "name": "Lamp Wall Down",
     "set": "lucide",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "lamp",
       "wall",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "lucideName": "LampWallDown"
   },
@@ -11068,11 +11204,13 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-lamp-wall-up",
     "name": "Lamp Wall Up",
     "set": "lucide",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "lamp",
       "wall",
-      "up"
+      "up",
+      "arrow",
+      "direction"
     ],
     "lucideName": "LampWallUp"
   },
@@ -11237,7 +11375,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-layout",
     "name": "Layout",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "layout"
     ],
@@ -11247,7 +11385,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-layout-dashboard",
     "name": "Layout Dashboard",
     "set": "lucide",
-    "category": "monitoring-logging",
+    "category": "frontend-client",
     "tags": [
       "layout",
       "dashboard"
@@ -11258,7 +11396,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-layout-grid",
     "name": "Layout Grid",
     "set": "lucide",
-    "category": "editor",
+    "category": "frontend-client",
     "tags": [
       "layout",
       "grid"
@@ -11269,7 +11407,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-layout-list",
     "name": "Layout List",
     "set": "lucide",
-    "category": "editor",
+    "category": "frontend-client",
     "tags": [
       "layout",
       "list"
@@ -11280,11 +11418,13 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-layout-panel-left",
     "name": "Layout Panel Left",
     "set": "lucide",
-    "category": "navigation",
+    "category": "frontend-client",
     "tags": [
       "layout",
       "panel",
-      "left"
+      "left",
+      "arrow",
+      "direction"
     ],
     "lucideName": "LayoutPanelLeft"
   },
@@ -11292,7 +11432,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-layout-panel-top",
     "name": "Layout Panel Top",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "layout",
       "panel",
@@ -11304,7 +11444,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-layout-template",
     "name": "Layout Template",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "layout",
       "template"
@@ -11346,7 +11486,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-lens-concave",
     "name": "Lens Concave",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "lens",
       "concave"
@@ -11357,7 +11497,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-lens-convex",
     "name": "Lens Convex",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "lens",
       "convex"
@@ -11368,7 +11508,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-letter-text",
     "name": "Letter Text",
     "set": "lucide",
-    "category": "editor",
+    "category": "general-ui",
     "tags": [
       "letter",
       "text"
@@ -11453,7 +11593,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-line-chart",
     "name": "Line Chart",
     "set": "lucide",
-    "category": "monitoring-logging",
+    "category": "diagram-primitives",
     "tags": [
       "line",
       "chart"
@@ -11464,7 +11604,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-line-dot-right-horizontal",
     "name": "Line Dot Right Horizontal",
     "set": "lucide",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "line",
       "dot",
@@ -11477,7 +11617,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-line-squiggle",
     "name": "Line Squiggle",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "line",
       "squiggle"
@@ -11488,7 +11628,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-line-style",
     "name": "Line Style",
     "set": "lucide",
-    "category": "frontend-client",
+    "category": "diagram-primitives",
     "tags": [
       "line",
       "style"
@@ -11530,7 +11670,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-list",
     "name": "List",
     "set": "lucide",
-    "category": "editor",
+    "category": "general-ui",
     "tags": [
       "list"
     ],
@@ -11540,7 +11680,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-list-check",
     "name": "List Check",
     "set": "lucide",
-    "category": "editor",
+    "category": "general-ui",
     "tags": [
       "list",
       "check"
@@ -11551,7 +11691,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-list-checks",
     "name": "List Checks",
     "set": "lucide",
-    "category": "editor",
+    "category": "general-ui",
     "tags": [
       "list",
       "checks"
@@ -11562,12 +11702,14 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-list-chevrons-down-up",
     "name": "List Chevrons Down Up",
     "set": "lucide",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "list",
       "chevrons",
       "down",
-      "up"
+      "up",
+      "arrow",
+      "direction"
     ],
     "lucideName": "ListChevronsDownUp"
   },
@@ -11575,12 +11717,14 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-list-chevrons-up-down",
     "name": "List Chevrons Up Down",
     "set": "lucide",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "list",
       "chevrons",
       "up",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "lucideName": "ListChevronsUpDown"
   },
@@ -11588,7 +11732,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-list-collapse",
     "name": "List Collapse",
     "set": "lucide",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "list",
       "collapse"
@@ -11599,7 +11743,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-list-end",
     "name": "List End",
     "set": "lucide",
-    "category": "editor",
+    "category": "general-ui",
     "tags": [
       "list",
       "end"
@@ -11610,7 +11754,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-list-filter",
     "name": "List Filter",
     "set": "lucide",
-    "category": "editor",
+    "category": "general-ui",
     "tags": [
       "list",
       "filter"
@@ -11621,7 +11765,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-list-filter-plus",
     "name": "List Filter Plus",
     "set": "lucide",
-    "category": "editor",
+    "category": "general-ui",
     "tags": [
       "list",
       "filter",
@@ -11633,7 +11777,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-list-indent-decrease",
     "name": "List Indent Decrease",
     "set": "lucide",
-    "category": "editor",
+    "category": "general-ui",
     "tags": [
       "list",
       "indent",
@@ -11645,7 +11789,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-list-indent-increase",
     "name": "List Indent Increase",
     "set": "lucide",
-    "category": "editor",
+    "category": "general-ui",
     "tags": [
       "list",
       "indent",
@@ -11657,7 +11801,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-list-minus",
     "name": "List Minus",
     "set": "lucide",
-    "category": "editor",
+    "category": "general-ui",
     "tags": [
       "list",
       "minus"
@@ -11668,7 +11812,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-list-music",
     "name": "List Music",
     "set": "lucide",
-    "category": "media",
+    "category": "general-ui",
     "tags": [
       "list",
       "music"
@@ -11679,7 +11823,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-list-ordered",
     "name": "List Ordered",
     "set": "lucide",
-    "category": "finance",
+    "category": "general-ui",
     "tags": [
       "list",
       "ordered"
@@ -11690,7 +11834,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-list-plus",
     "name": "List Plus",
     "set": "lucide",
-    "category": "editor",
+    "category": "general-ui",
     "tags": [
       "list",
       "plus"
@@ -11701,7 +11845,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-list-restart",
     "name": "List Restart",
     "set": "lucide",
-    "category": "editor",
+    "category": "general-ui",
     "tags": [
       "list",
       "restart"
@@ -11712,7 +11856,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-list-sort-ascending",
     "name": "List Sort Ascending",
     "set": "lucide",
-    "category": "editor",
+    "category": "general-ui",
     "tags": [
       "list",
       "sort",
@@ -11724,7 +11868,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-list-sort-descending",
     "name": "List Sort Descending",
     "set": "lucide",
-    "category": "editor",
+    "category": "general-ui",
     "tags": [
       "list",
       "sort",
@@ -11736,7 +11880,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-list-start",
     "name": "List Start",
     "set": "lucide",
-    "category": "people-social",
+    "category": "general-ui",
     "tags": [
       "list",
       "start"
@@ -11747,7 +11891,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-list-todo",
     "name": "List Todo",
     "set": "lucide",
-    "category": "editor",
+    "category": "general-ui",
     "tags": [
       "list",
       "todo"
@@ -11758,7 +11902,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-list-tree",
     "name": "List Tree",
     "set": "lucide",
-    "category": "editor",
+    "category": "general-ui",
     "tags": [
       "list",
       "tree"
@@ -11769,7 +11913,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-list-video",
     "name": "List Video",
     "set": "lucide",
-    "category": "media",
+    "category": "general-ui",
     "tags": [
       "list",
       "video"
@@ -11780,7 +11924,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-list-x",
     "name": "List X",
     "set": "lucide",
-    "category": "editor",
+    "category": "general-ui",
     "tags": [
       "list",
       "x"
@@ -11822,7 +11966,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-loader-pinwheel",
     "name": "Loader Pinwheel",
     "set": "lucide",
-    "category": "maps-location",
+    "category": "general-ui",
     "tags": [
       "loader",
       "pinwheel"
@@ -11878,7 +12022,8 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "set": "lucide",
     "category": "security-identity",
     "tags": [
-      "lock"
+      "lock",
+      "security"
     ],
     "lucideName": "Lock"
   },
@@ -11889,7 +12034,8 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "category": "security-identity",
     "tags": [
       "lock",
-      "keyhole"
+      "keyhole",
+      "security"
     ],
     "lucideName": "LockKeyhole"
   },
@@ -11897,11 +12043,12 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-lock-keyhole-open",
     "name": "Lock Keyhole Open",
     "set": "lucide",
-    "category": "navigation",
+    "category": "security-identity",
     "tags": [
       "lock",
       "keyhole",
-      "open"
+      "open",
+      "security"
     ],
     "lucideName": "LockKeyholeOpen"
   },
@@ -11909,10 +12056,11 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-lock-open",
     "name": "Lock Open",
     "set": "lucide",
-    "category": "navigation",
+    "category": "security-identity",
     "tags": [
       "lock",
-      "open"
+      "open",
+      "security"
     ],
     "lucideName": "LockOpen"
   },
@@ -12025,7 +12173,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-mail-open",
     "name": "Mail Open",
     "set": "lucide",
-    "category": "navigation",
+    "category": "messaging-queue",
     "tags": [
       "mail",
       "open"
@@ -12356,7 +12504,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-maximize",
     "name": "Maximize",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "navigation",
     "tags": [
       "maximize"
     ],
@@ -12366,7 +12514,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-maximize2",
     "name": "Maximize2",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "navigation",
     "tags": [
       "maximize2"
     ],
@@ -12376,7 +12524,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-medal",
     "name": "Medal",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "medal"
     ],
@@ -12449,7 +12597,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-merge",
     "name": "Merge",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "merge"
     ],
@@ -12506,7 +12654,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-message-circle-heart",
     "name": "Message Circle Heart",
     "set": "lucide",
-    "category": "people-social",
+    "category": "messaging-queue",
     "tags": [
       "message",
       "circle",
@@ -12686,7 +12834,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-message-square-heart",
     "name": "Message Square Heart",
     "set": "lucide",
-    "category": "people-social",
+    "category": "messaging-queue",
     "tags": [
       "message",
       "square",
@@ -12698,7 +12846,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-message-square-lock",
     "name": "Message Square Lock",
     "set": "lucide",
-    "category": "security-identity",
+    "category": "messaging-queue",
     "tags": [
       "message",
       "square",
@@ -12770,7 +12918,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-message-square-share",
     "name": "Message Square Share",
     "set": "lucide",
-    "category": "people-social",
+    "category": "messaging-queue",
     "tags": [
       "message",
       "square",
@@ -12782,7 +12930,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-message-square-text",
     "name": "Message Square Text",
     "set": "lucide",
-    "category": "editor",
+    "category": "messaging-queue",
     "tags": [
       "message",
       "square",
@@ -12942,7 +13090,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-minimize",
     "name": "Minimize",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "navigation",
     "tags": [
       "minimize"
     ],
@@ -12952,7 +13100,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-minimize2",
     "name": "Minimize2",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "navigation",
     "tags": [
       "minimize2"
     ],
@@ -13037,7 +13185,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-monitor-cloud",
     "name": "Monitor Cloud",
     "set": "lucide",
-    "category": "compute",
+    "category": "monitoring-logging",
     "tags": [
       "monitor",
       "cloud"
@@ -13070,10 +13218,12 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-monitor-down",
     "name": "Monitor Down",
     "set": "lucide",
-    "category": "navigation",
+    "category": "monitoring-logging",
     "tags": [
       "monitor",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "lucideName": "MonitorDown"
   },
@@ -13092,7 +13242,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-monitor-pause",
     "name": "Monitor Pause",
     "set": "lucide",
-    "category": "media",
+    "category": "monitoring-logging",
     "tags": [
       "monitor",
       "pause"
@@ -13103,7 +13253,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-monitor-play",
     "name": "Monitor Play",
     "set": "lucide",
-    "category": "media",
+    "category": "monitoring-logging",
     "tags": [
       "monitor",
       "play"
@@ -13125,7 +13275,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-monitor-speaker",
     "name": "Monitor Speaker",
     "set": "lucide",
-    "category": "media",
+    "category": "monitoring-logging",
     "tags": [
       "monitor",
       "speaker"
@@ -13136,7 +13286,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-monitor-stop",
     "name": "Monitor Stop",
     "set": "lucide",
-    "category": "media",
+    "category": "monitoring-logging",
     "tags": [
       "monitor",
       "stop"
@@ -13147,10 +13297,12 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-monitor-up",
     "name": "Monitor Up",
     "set": "lucide",
-    "category": "navigation",
+    "category": "monitoring-logging",
     "tags": [
       "monitor",
-      "up"
+      "up",
+      "arrow",
+      "direction"
     ],
     "lucideName": "MonitorUp"
   },
@@ -13179,7 +13331,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-moon-star",
     "name": "Moon Star",
     "set": "lucide",
-    "category": "people-social",
+    "category": "general-ui",
     "tags": [
       "moon",
       "star"
@@ -13222,7 +13374,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-mountain",
     "name": "Mountain",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "mountain"
     ],
@@ -13232,7 +13384,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-mountain-snow",
     "name": "Mountain Snow",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "mountain",
       "snow"
@@ -13253,10 +13405,12 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-mouse-left",
     "name": "Mouse Left",
     "set": "lucide",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "mouse",
-      "left"
+      "left",
+      "arrow",
+      "direction"
     ],
     "lucideName": "MouseLeft"
   },
@@ -13346,10 +13500,12 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-mouse-right",
     "name": "Mouse Right",
     "set": "lucide",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "mouse",
-      "right"
+      "right",
+      "arrow",
+      "direction"
     ],
     "lucideName": "MouseRight"
   },
@@ -13357,9 +13513,11 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-move",
     "name": "Move",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "navigation",
     "tags": [
-      "move"
+      "move",
+      "arrow",
+      "direction"
     ],
     "lucideName": "Move"
   },
@@ -13367,10 +13525,12 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-move3-d",
     "name": "Move3 D",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "navigation",
     "tags": [
       "move3",
-      "d"
+      "d",
+      "arrow",
+      "direction"
     ],
     "lucideName": "Move3D"
   },
@@ -13378,9 +13538,11 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-move3d",
     "name": "Move3d",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "navigation",
     "tags": [
-      "move3d"
+      "move3d",
+      "arrow",
+      "direction"
     ],
     "lucideName": "Move3d"
   },
@@ -13388,10 +13550,12 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-move-diagonal",
     "name": "Move Diagonal",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "navigation",
     "tags": [
       "move",
-      "diagonal"
+      "diagonal",
+      "arrow",
+      "direction"
     ],
     "lucideName": "MoveDiagonal"
   },
@@ -13399,7 +13563,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-move-diagonal2",
     "name": "Move Diagonal2",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "navigation",
     "tags": [
       "move",
       "diagonal2"
@@ -13413,7 +13577,9 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "category": "navigation",
     "tags": [
       "move",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "lucideName": "MoveDown"
   },
@@ -13425,7 +13591,9 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "tags": [
       "move",
       "down",
-      "left"
+      "left",
+      "arrow",
+      "direction"
     ],
     "lucideName": "MoveDownLeft"
   },
@@ -13437,7 +13605,9 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "tags": [
       "move",
       "down",
-      "right"
+      "right",
+      "arrow",
+      "direction"
     ],
     "lucideName": "MoveDownRight"
   },
@@ -13445,10 +13615,12 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-move-horizontal",
     "name": "Move Horizontal",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "navigation",
     "tags": [
       "move",
-      "horizontal"
+      "horizontal",
+      "arrow",
+      "direction"
     ],
     "lucideName": "MoveHorizontal"
   },
@@ -13459,7 +13631,9 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "category": "navigation",
     "tags": [
       "move",
-      "left"
+      "left",
+      "arrow",
+      "direction"
     ],
     "lucideName": "MoveLeft"
   },
@@ -13470,7 +13644,9 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "category": "navigation",
     "tags": [
       "move",
-      "right"
+      "right",
+      "arrow",
+      "direction"
     ],
     "lucideName": "MoveRight"
   },
@@ -13481,7 +13657,9 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "category": "navigation",
     "tags": [
       "move",
-      "up"
+      "up",
+      "arrow",
+      "direction"
     ],
     "lucideName": "MoveUp"
   },
@@ -13493,7 +13671,9 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "tags": [
       "move",
       "up",
-      "left"
+      "left",
+      "arrow",
+      "direction"
     ],
     "lucideName": "MoveUpLeft"
   },
@@ -13505,7 +13685,9 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "tags": [
       "move",
       "up",
-      "right"
+      "right",
+      "arrow",
+      "direction"
     ],
     "lucideName": "MoveUpRight"
   },
@@ -13513,10 +13695,12 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-move-vertical",
     "name": "Move Vertical",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "navigation",
     "tags": [
       "move",
-      "vertical"
+      "vertical",
+      "arrow",
+      "direction"
     ],
     "lucideName": "MoveVertical"
   },
@@ -13647,7 +13831,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-notebook",
     "name": "Notebook",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "notebook"
     ],
@@ -13668,7 +13852,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-notebook-tabs",
     "name": "Notebook Tabs",
     "set": "lucide",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "notebook",
       "tabs"
@@ -13734,7 +13918,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-octagon",
     "name": "Octagon",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "octagon"
     ],
@@ -13744,7 +13928,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-octagon-alert",
     "name": "Octagon Alert",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "octagon",
       "alert"
@@ -13755,7 +13939,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-octagon-minus",
     "name": "Octagon Minus",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "octagon",
       "minus"
@@ -13766,7 +13950,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-octagon-pause",
     "name": "Octagon Pause",
     "set": "lucide",
-    "category": "media",
+    "category": "diagram-primitives",
     "tags": [
       "octagon",
       "pause"
@@ -13777,7 +13961,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-octagon-x",
     "name": "Octagon X",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "octagon",
       "x"
@@ -13808,9 +13992,11 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-orbit",
     "name": "Orbit",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "navigation",
     "tags": [
-      "orbit"
+      "orbit",
+      "arrow",
+      "direction"
     ],
     "lucideName": "Orbit"
   },
@@ -13828,7 +14014,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-outdent",
     "name": "Outdent",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "outdent"
     ],
@@ -13880,7 +14066,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-package-open",
     "name": "Package Open",
     "set": "lucide",
-    "category": "navigation",
+    "category": "devops-cicd",
     "tags": [
       "package",
       "open"
@@ -13977,7 +14163,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-palette",
     "name": "Palette",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "palette"
     ],
@@ -13997,9 +14183,11 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-panda",
     "name": "Panda",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "navigation",
     "tags": [
-      "panda"
+      "panda",
+      "arrow",
+      "direction"
     ],
     "lucideName": "Panda"
   },
@@ -14007,10 +14195,12 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-panel-bottom",
     "name": "Panel Bottom",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "navigation",
     "tags": [
       "panel",
-      "bottom"
+      "bottom",
+      "arrow",
+      "direction"
     ],
     "lucideName": "PanelBottom"
   },
@@ -14022,7 +14212,9 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "tags": [
       "panel",
       "bottom",
-      "close"
+      "close",
+      "arrow",
+      "direction"
     ],
     "lucideName": "PanelBottomClose"
   },
@@ -14030,11 +14222,13 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-panel-bottom-dashed",
     "name": "Panel Bottom Dashed",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "navigation",
     "tags": [
       "panel",
       "bottom",
-      "dashed"
+      "dashed",
+      "arrow",
+      "direction"
     ],
     "lucideName": "PanelBottomDashed"
   },
@@ -14042,11 +14236,13 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-panel-bottom-inactive",
     "name": "Panel Bottom Inactive",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "navigation",
     "tags": [
       "panel",
       "bottom",
-      "inactive"
+      "inactive",
+      "arrow",
+      "direction"
     ],
     "lucideName": "PanelBottomInactive"
   },
@@ -14058,7 +14254,9 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "tags": [
       "panel",
       "bottom",
-      "open"
+      "open",
+      "arrow",
+      "direction"
     ],
     "lucideName": "PanelBottomOpen"
   },
@@ -14069,7 +14267,9 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "category": "navigation",
     "tags": [
       "panel",
-      "left"
+      "left",
+      "arrow",
+      "direction"
     ],
     "lucideName": "PanelLeft"
   },
@@ -14081,7 +14281,9 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "tags": [
       "panel",
       "left",
-      "close"
+      "close",
+      "arrow",
+      "direction"
     ],
     "lucideName": "PanelLeftClose"
   },
@@ -14093,7 +14295,9 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "tags": [
       "panel",
       "left",
-      "dashed"
+      "dashed",
+      "arrow",
+      "direction"
     ],
     "lucideName": "PanelLeftDashed"
   },
@@ -14105,7 +14309,9 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "tags": [
       "panel",
       "left",
-      "inactive"
+      "inactive",
+      "arrow",
+      "direction"
     ],
     "lucideName": "PanelLeftInactive"
   },
@@ -14117,7 +14323,9 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "tags": [
       "panel",
       "left",
-      "open"
+      "open",
+      "arrow",
+      "direction"
     ],
     "lucideName": "PanelLeftOpen"
   },
@@ -14130,7 +14338,9 @@ export const LUCIDE_ICONS: IconMeta[] = [
       "panel",
       "left",
       "right",
-      "dashed"
+      "dashed",
+      "arrow",
+      "direction"
     ],
     "lucideName": "PanelLeftRightDashed"
   },
@@ -14141,7 +14351,9 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "category": "navigation",
     "tags": [
       "panel",
-      "right"
+      "right",
+      "arrow",
+      "direction"
     ],
     "lucideName": "PanelRight"
   },
@@ -14153,7 +14365,9 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "tags": [
       "panel",
       "right",
-      "close"
+      "close",
+      "arrow",
+      "direction"
     ],
     "lucideName": "PanelRightClose"
   },
@@ -14165,7 +14379,9 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "tags": [
       "panel",
       "right",
-      "dashed"
+      "dashed",
+      "arrow",
+      "direction"
     ],
     "lucideName": "PanelRightDashed"
   },
@@ -14177,7 +14393,9 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "tags": [
       "panel",
       "right",
-      "inactive"
+      "inactive",
+      "arrow",
+      "direction"
     ],
     "lucideName": "PanelRightInactive"
   },
@@ -14189,7 +14407,9 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "tags": [
       "panel",
       "right",
-      "open"
+      "open",
+      "arrow",
+      "direction"
     ],
     "lucideName": "PanelRightOpen"
   },
@@ -14197,10 +14417,12 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-panel-top",
     "name": "Panel Top",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "navigation",
     "tags": [
       "panel",
-      "top"
+      "top",
+      "arrow",
+      "direction"
     ],
     "lucideName": "PanelTop"
   },
@@ -14208,12 +14430,14 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-panel-top-bottom-dashed",
     "name": "Panel Top Bottom Dashed",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "navigation",
     "tags": [
       "panel",
       "top",
       "bottom",
-      "dashed"
+      "dashed",
+      "arrow",
+      "direction"
     ],
     "lucideName": "PanelTopBottomDashed"
   },
@@ -14225,7 +14449,9 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "tags": [
       "panel",
       "top",
-      "close"
+      "close",
+      "arrow",
+      "direction"
     ],
     "lucideName": "PanelTopClose"
   },
@@ -14233,11 +14459,13 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-panel-top-dashed",
     "name": "Panel Top Dashed",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "navigation",
     "tags": [
       "panel",
       "top",
-      "dashed"
+      "dashed",
+      "arrow",
+      "direction"
     ],
     "lucideName": "PanelTopDashed"
   },
@@ -14245,11 +14473,13 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-panel-top-inactive",
     "name": "Panel Top Inactive",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "navigation",
     "tags": [
       "panel",
       "top",
-      "inactive"
+      "inactive",
+      "arrow",
+      "direction"
     ],
     "lucideName": "PanelTopInactive"
   },
@@ -14261,7 +14491,9 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "tags": [
       "panel",
       "top",
-      "open"
+      "open",
+      "arrow",
+      "direction"
     ],
     "lucideName": "PanelTopOpen"
   },
@@ -14273,7 +14505,9 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "tags": [
       "panels",
       "left",
-      "bottom"
+      "bottom",
+      "arrow",
+      "direction"
     ],
     "lucideName": "PanelsLeftBottom"
   },
@@ -14285,7 +14519,9 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "tags": [
       "panels",
       "left",
-      "right"
+      "right",
+      "arrow",
+      "direction"
     ],
     "lucideName": "PanelsLeftRight"
   },
@@ -14297,7 +14533,9 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "tags": [
       "panels",
       "right",
-      "bottom"
+      "bottom",
+      "arrow",
+      "direction"
     ],
     "lucideName": "PanelsRightBottom"
   },
@@ -14305,11 +14543,13 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-panels-top-bottom",
     "name": "Panels Top Bottom",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "navigation",
     "tags": [
       "panels",
       "top",
-      "bottom"
+      "bottom",
+      "arrow",
+      "direction"
     ],
     "lucideName": "PanelsTopBottom"
   },
@@ -14321,7 +14561,9 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "tags": [
       "panels",
       "top",
-      "left"
+      "left",
+      "arrow",
+      "direction"
     ],
     "lucideName": "PanelsTopLeft"
   },
@@ -14359,7 +14601,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-parking-circle",
     "name": "Parking Circle",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "parking",
       "circle"
@@ -14370,7 +14612,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-parking-circle-off",
     "name": "Parking Circle Off",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "parking",
       "circle",
@@ -14382,7 +14624,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-parking-meter",
     "name": "Parking Meter",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "parking",
       "meter"
@@ -14393,7 +14635,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-parking-square",
     "name": "Parking Square",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "parking",
       "square"
@@ -14404,7 +14646,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-parking-square-off",
     "name": "Parking Square Off",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "parking",
       "square",
@@ -14610,7 +14852,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-percent",
     "name": "Percent",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "finance",
     "tags": [
       "percent"
     ],
@@ -14620,7 +14862,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-percent-circle",
     "name": "Percent Circle",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "finance",
     "tags": [
       "percent",
       "circle"
@@ -14631,7 +14873,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-percent-diamond",
     "name": "Percent Diamond",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "finance",
     "tags": [
       "percent",
       "diamond"
@@ -14642,7 +14884,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-percent-square",
     "name": "Percent Square",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "finance",
     "tags": [
       "percent",
       "square"
@@ -14696,7 +14938,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-phone-forwarded",
     "name": "Phone Forwarded",
     "set": "lucide",
-    "category": "navigation",
+    "category": "frontend-client",
     "tags": [
       "phone",
       "forwarded"
@@ -14792,11 +15034,10 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-picture-in-picture",
     "name": "Picture In Picture",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "picture",
-      "in",
-      "picture"
+      "in"
     ],
     "lucideName": "PictureInPicture"
   },
@@ -14804,7 +15045,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-picture-in-picture2",
     "name": "Picture In Picture2",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "picture",
       "in",
@@ -14827,7 +15068,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-piggy-bank",
     "name": "Piggy Bank",
     "set": "lucide",
-    "category": "finance",
+    "category": "general-ui",
     "tags": [
       "piggy",
       "bank"
@@ -14848,10 +15089,12 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-pilcrow-left",
     "name": "Pilcrow Left",
     "set": "lucide",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "pilcrow",
-      "left"
+      "left",
+      "arrow",
+      "direction"
     ],
     "lucideName": "PilcrowLeft"
   },
@@ -14859,10 +15102,12 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-pilcrow-right",
     "name": "Pilcrow Right",
     "set": "lucide",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "pilcrow",
-      "right"
+      "right",
+      "arrow",
+      "direction"
     ],
     "lucideName": "PilcrowRight"
   },
@@ -14923,7 +15168,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-pipette",
     "name": "Pipette",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "pipette"
     ],
@@ -14943,7 +15188,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-plane",
     "name": "Plane",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "plane"
     ],
@@ -14953,7 +15198,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-plane-landing",
     "name": "Plane Landing",
     "set": "lucide",
-    "category": "networking",
+    "category": "maps-location",
     "tags": [
       "plane",
       "landing"
@@ -14964,7 +15209,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-plane-takeoff",
     "name": "Plane Takeoff",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "plane",
       "takeoff"
@@ -15113,7 +15358,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-podium",
     "name": "Podium",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "compute",
     "tags": [
       "podium"
     ],
@@ -15123,7 +15368,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-pointer",
     "name": "Pointer",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "navigation",
     "tags": [
       "pointer"
     ],
@@ -15133,7 +15378,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-pointer-off",
     "name": "Pointer Off",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "navigation",
     "tags": [
       "pointer",
       "off"
@@ -15164,7 +15409,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-pound-sterling",
     "name": "Pound Sterling",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "finance",
     "tags": [
       "pound",
       "sterling"
@@ -15260,7 +15505,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-projector",
     "name": "Projector",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "projector"
     ],
@@ -15311,7 +15556,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-quote",
     "name": "Quote",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "quote"
     ],
@@ -15559,7 +15804,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-rectangle-circle",
     "name": "Rectangle Circle",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "rectangle",
       "circle"
@@ -15570,7 +15815,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-rectangle-ellipsis",
     "name": "Rectangle Ellipsis",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "rectangle",
       "ellipsis"
@@ -15581,7 +15826,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-rectangle-goggles",
     "name": "Rectangle Goggles",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "rectangle",
       "goggles"
@@ -15592,7 +15837,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-rectangle-horizontal",
     "name": "Rectangle Horizontal",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "rectangle",
       "horizontal"
@@ -15603,7 +15848,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-rectangle-vertical",
     "name": "Rectangle Vertical",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "rectangle",
       "vertical"
@@ -15658,7 +15903,8 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "category": "general-ui",
     "tags": [
       "refresh",
-      "ccw"
+      "ccw",
+      "reload"
     ],
     "lucideName": "RefreshCcw"
   },
@@ -15670,7 +15916,8 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "tags": [
       "refresh",
       "ccw",
-      "dot"
+      "dot",
+      "reload"
     ],
     "lucideName": "RefreshCcwDot"
   },
@@ -15681,7 +15928,8 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "category": "general-ui",
     "tags": [
       "refresh",
-      "cw"
+      "cw",
+      "reload"
     ],
     "lucideName": "RefreshCw"
   },
@@ -15693,7 +15941,8 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "tags": [
       "refresh",
       "cw",
-      "off"
+      "off",
+      "reload"
     ],
     "lucideName": "RefreshCwOff"
   },
@@ -15721,7 +15970,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-remove-formatting",
     "name": "Remove Formatting",
     "set": "lucide",
-    "category": "editor",
+    "category": "general-ui",
     "tags": [
       "remove",
       "formatting"
@@ -15773,7 +16022,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-replace",
     "name": "Replace",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "replace"
     ],
@@ -15783,7 +16032,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-replace-all",
     "name": "Replace All",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "replace",
       "all"
@@ -15794,7 +16043,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-reply",
     "name": "Reply",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "reply"
     ],
@@ -15804,7 +16053,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-reply-all",
     "name": "Reply All",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "reply",
       "all"
@@ -15815,7 +16064,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-rewind",
     "name": "Rewind",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "rewind"
     ],
@@ -15835,7 +16084,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-road",
     "name": "Road",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "road"
     ],
@@ -15887,10 +16136,12 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-rotate3-d",
     "name": "Rotate3 D",
     "set": "lucide",
-    "category": "editor",
+    "category": "navigation",
     "tags": [
       "rotate3",
-      "d"
+      "d",
+      "arrow",
+      "direction"
     ],
     "lucideName": "Rotate3D"
   },
@@ -15898,9 +16149,11 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-rotate3d",
     "name": "Rotate3d",
     "set": "lucide",
-    "category": "editor",
+    "category": "navigation",
     "tags": [
-      "rotate3d"
+      "rotate3d",
+      "arrow",
+      "direction"
     ],
     "lucideName": "Rotate3d"
   },
@@ -15908,10 +16161,12 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-rotate-ccw",
     "name": "Rotate Ccw",
     "set": "lucide",
-    "category": "editor",
+    "category": "navigation",
     "tags": [
       "rotate",
-      "ccw"
+      "ccw",
+      "arrow",
+      "direction"
     ],
     "lucideName": "RotateCcw"
   },
@@ -15919,11 +16174,13 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-rotate-ccw-key",
     "name": "Rotate Ccw Key",
     "set": "lucide",
-    "category": "editor",
+    "category": "navigation",
     "tags": [
       "rotate",
       "ccw",
-      "key"
+      "key",
+      "arrow",
+      "direction"
     ],
     "lucideName": "RotateCcwKey"
   },
@@ -15931,11 +16188,13 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-rotate-ccw-square",
     "name": "Rotate Ccw Square",
     "set": "lucide",
-    "category": "editor",
+    "category": "navigation",
     "tags": [
       "rotate",
       "ccw",
-      "square"
+      "square",
+      "arrow",
+      "direction"
     ],
     "lucideName": "RotateCcwSquare"
   },
@@ -15943,10 +16202,12 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-rotate-cw",
     "name": "Rotate Cw",
     "set": "lucide",
-    "category": "editor",
+    "category": "navigation",
     "tags": [
       "rotate",
-      "cw"
+      "cw",
+      "arrow",
+      "direction"
     ],
     "lucideName": "RotateCw"
   },
@@ -15954,11 +16215,13 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-rotate-cw-square",
     "name": "Rotate Cw Square",
     "set": "lucide",
-    "category": "editor",
+    "category": "navigation",
     "tags": [
       "rotate",
       "cw",
-      "square"
+      "square",
+      "arrow",
+      "direction"
     ],
     "lucideName": "RotateCwSquare"
   },
@@ -15997,7 +16260,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-rows",
     "name": "Rows",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "rows"
     ],
@@ -16007,7 +16270,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-rows2",
     "name": "Rows2",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "rows2"
     ],
@@ -16017,7 +16280,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-rows3",
     "name": "Rows3",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "rows3"
     ],
@@ -16027,7 +16290,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-rows4",
     "name": "Rows4",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "rows4"
     ],
@@ -16037,7 +16300,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-rss",
     "name": "Rss",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "rss"
     ],
@@ -16185,7 +16448,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-save-pen",
     "name": "Save Pen",
     "set": "lucide",
-    "category": "editor",
+    "category": "storage-database",
     "tags": [
       "save",
       "pen"
@@ -16207,7 +16470,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-scale",
     "name": "Scale",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "scale"
     ],
@@ -16217,7 +16480,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-scale3-d",
     "name": "Scale3 D",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "scale3",
       "d"
@@ -16228,7 +16491,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-scale3d",
     "name": "Scale3d",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "scale3d"
     ],
@@ -16248,7 +16511,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-scan",
     "name": "Scan",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "devops-cicd",
     "tags": [
       "scan"
     ],
@@ -16258,7 +16521,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-scan-barcode",
     "name": "Scan Barcode",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "devops-cicd",
     "tags": [
       "scan",
       "barcode"
@@ -16269,7 +16532,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-scan-eye",
     "name": "Scan Eye",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "devops-cicd",
     "tags": [
       "scan",
       "eye"
@@ -16280,7 +16543,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-scan-face",
     "name": "Scan Face",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "devops-cicd",
     "tags": [
       "scan",
       "face"
@@ -16291,7 +16554,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-scan-heart",
     "name": "Scan Heart",
     "set": "lucide",
-    "category": "people-social",
+    "category": "devops-cicd",
     "tags": [
       "scan",
       "heart"
@@ -16302,7 +16565,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-scan-line",
     "name": "Scan Line",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "devops-cicd",
     "tags": [
       "scan",
       "line"
@@ -16313,7 +16576,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-scan-qr-code",
     "name": "Scan Qr Code",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "devops-cicd",
     "tags": [
       "scan",
       "qr",
@@ -16325,7 +16588,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-scan-search",
     "name": "Scan Search",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "devops-cicd",
     "tags": [
       "scan",
       "search"
@@ -16336,7 +16599,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-scan-text",
     "name": "Scan Text",
     "set": "lucide",
-    "category": "editor",
+    "category": "devops-cicd",
     "tags": [
       "scan",
       "text"
@@ -16358,7 +16621,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-school",
     "name": "School",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "school"
     ],
@@ -16368,7 +16631,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-school2",
     "name": "School2",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "school2"
     ],
@@ -16457,7 +16720,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-scroll",
     "name": "Scroll",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "navigation",
     "tags": [
       "scroll"
     ],
@@ -16467,7 +16730,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-scroll-text",
     "name": "Scroll Text",
     "set": "lucide",
-    "category": "editor",
+    "category": "navigation",
     "tags": [
       "scroll",
       "text"
@@ -16543,7 +16806,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-section",
     "name": "Section",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "section"
     ],
@@ -16585,7 +16848,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-send-to-back",
     "name": "Send To Back",
     "set": "lucide",
-    "category": "navigation",
+    "category": "messaging-queue",
     "tags": [
       "send",
       "to",
@@ -16662,7 +16925,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-settings",
     "name": "Settings",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "settings"
     ],
@@ -16672,7 +16935,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-settings2",
     "name": "Settings2",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "settings2"
     ],
@@ -16682,7 +16945,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-shapes",
     "name": "Shapes",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "shapes"
     ],
@@ -16745,7 +17008,8 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "set": "lucide",
     "category": "security-identity",
     "tags": [
-      "shield"
+      "shield",
+      "security"
     ],
     "lucideName": "Shield"
   },
@@ -16756,7 +17020,8 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "category": "security-identity",
     "tags": [
       "shield",
-      "alert"
+      "alert",
+      "security"
     ],
     "lucideName": "ShieldAlert"
   },
@@ -16767,7 +17032,8 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "category": "security-identity",
     "tags": [
       "shield",
-      "ban"
+      "ban",
+      "security"
     ],
     "lucideName": "ShieldBan"
   },
@@ -16778,7 +17044,8 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "category": "security-identity",
     "tags": [
       "shield",
-      "check"
+      "check",
+      "security"
     ],
     "lucideName": "ShieldCheck"
   },
@@ -16786,10 +17053,11 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-shield-close",
     "name": "Shield Close",
     "set": "lucide",
-    "category": "navigation",
+    "category": "security-identity",
     "tags": [
       "shield",
-      "close"
+      "close",
+      "security"
     ],
     "lucideName": "ShieldClose"
   },
@@ -16800,7 +17068,8 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "category": "security-identity",
     "tags": [
       "shield",
-      "cog"
+      "cog",
+      "security"
     ],
     "lucideName": "ShieldCog"
   },
@@ -16812,7 +17081,8 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "tags": [
       "shield",
       "cog",
-      "corner"
+      "corner",
+      "security"
     ],
     "lucideName": "ShieldCogCorner"
   },
@@ -16823,7 +17093,8 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "category": "security-identity",
     "tags": [
       "shield",
-      "ellipsis"
+      "ellipsis",
+      "security"
     ],
     "lucideName": "ShieldEllipsis"
   },
@@ -16834,7 +17105,8 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "category": "security-identity",
     "tags": [
       "shield",
-      "half"
+      "half",
+      "security"
     ],
     "lucideName": "ShieldHalf"
   },
@@ -16845,7 +17117,8 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "category": "security-identity",
     "tags": [
       "shield",
-      "minus"
+      "minus",
+      "security"
     ],
     "lucideName": "ShieldMinus"
   },
@@ -16856,7 +17129,8 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "category": "security-identity",
     "tags": [
       "shield",
-      "off"
+      "off",
+      "security"
     ],
     "lucideName": "ShieldOff"
   },
@@ -16867,7 +17141,8 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "category": "security-identity",
     "tags": [
       "shield",
-      "plus"
+      "plus",
+      "security"
     ],
     "lucideName": "ShieldPlus"
   },
@@ -16878,7 +17153,8 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "category": "security-identity",
     "tags": [
       "shield",
-      "question"
+      "question",
+      "security"
     ],
     "lucideName": "ShieldQuestion"
   },
@@ -16890,7 +17166,8 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "tags": [
       "shield",
       "question",
-      "mark"
+      "mark",
+      "security"
     ],
     "lucideName": "ShieldQuestionMark"
   },
@@ -16898,10 +17175,11 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-shield-user",
     "name": "Shield User",
     "set": "lucide",
-    "category": "people-social",
+    "category": "security-identity",
     "tags": [
       "shield",
-      "user"
+      "user",
+      "security"
     ],
     "lucideName": "ShieldUser"
   },
@@ -16912,7 +17190,8 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "category": "security-identity",
     "tags": [
       "shield",
-      "x"
+      "x",
+      "security"
     ],
     "lucideName": "ShieldX"
   },
@@ -16920,7 +17199,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-ship",
     "name": "Ship",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "ship"
     ],
@@ -16930,7 +17209,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-ship-wheel",
     "name": "Ship Wheel",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "ship",
       "wheel"
@@ -17025,9 +17304,11 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-shrink",
     "name": "Shrink",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "navigation",
     "tags": [
-      "shrink"
+      "shrink",
+      "arrow",
+      "direction"
     ],
     "lucideName": "Shrink"
   },
@@ -17162,7 +17443,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-signature",
     "name": "Signature",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "signature"
     ],
@@ -17235,7 +17516,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-slash",
     "name": "Slash",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "slash"
     ],
@@ -17245,7 +17526,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-slash-square",
     "name": "Slash Square",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "slash",
       "square"
@@ -17266,7 +17547,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-sliders",
     "name": "Sliders",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "sliders"
     ],
@@ -17276,7 +17557,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-sliders-horizontal",
     "name": "Sliders Horizontal",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "sliders",
       "horizontal"
@@ -17287,7 +17568,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-sliders-vertical",
     "name": "Sliders Vertical",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "sliders",
       "vertical"
@@ -17404,7 +17685,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-sort-asc",
     "name": "Sort Asc",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "sort",
       "asc"
@@ -17415,7 +17696,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-sort-desc",
     "name": "Sort Desc",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "sort",
       "desc"
@@ -17436,7 +17717,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-space",
     "name": "Space",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "space"
     ],
@@ -17446,7 +17727,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-spade",
     "name": "Spade",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "spade"
     ],
@@ -17456,7 +17737,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-sparkle",
     "name": "Sparkle",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "sparkle"
     ],
@@ -17466,7 +17747,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-sparkles",
     "name": "Sparkles",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "sparkles"
     ],
@@ -17486,7 +17767,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-speech",
     "name": "Speech",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "ai-ml",
     "tags": [
       "speech"
     ],
@@ -17539,7 +17820,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-split",
     "name": "Split",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "split"
     ],
@@ -17549,7 +17830,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-split-square-horizontal",
     "name": "Split Square Horizontal",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "split",
       "square",
@@ -17561,7 +17842,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-split-square-vertical",
     "name": "Split Square Vertical",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "split",
       "square",
@@ -17625,7 +17906,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-square",
     "name": "Square",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square"
     ],
@@ -17635,7 +17916,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-square-activity",
     "name": "Square Activity",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "activity"
@@ -17646,11 +17927,12 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-square-arrow-down",
     "name": "Square Arrow Down",
     "set": "lucide",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "arrow",
-      "down"
+      "down",
+      "direction"
     ],
     "lucideName": "SquareArrowDown"
   },
@@ -17658,12 +17940,13 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-square-arrow-down-left",
     "name": "Square Arrow Down Left",
     "set": "lucide",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "arrow",
       "down",
-      "left"
+      "left",
+      "direction"
     ],
     "lucideName": "SquareArrowDownLeft"
   },
@@ -17671,12 +17954,13 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-square-arrow-down-right",
     "name": "Square Arrow Down Right",
     "set": "lucide",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "arrow",
       "down",
-      "right"
+      "right",
+      "direction"
     ],
     "lucideName": "SquareArrowDownRight"
   },
@@ -17684,11 +17968,12 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-square-arrow-left",
     "name": "Square Arrow Left",
     "set": "lucide",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "arrow",
-      "left"
+      "left",
+      "direction"
     ],
     "lucideName": "SquareArrowLeft"
   },
@@ -17696,13 +17981,14 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-square-arrow-out-down-left",
     "name": "Square Arrow Out Down Left",
     "set": "lucide",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "arrow",
       "out",
       "down",
-      "left"
+      "left",
+      "direction"
     ],
     "lucideName": "SquareArrowOutDownLeft"
   },
@@ -17710,13 +17996,14 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-square-arrow-out-down-right",
     "name": "Square Arrow Out Down Right",
     "set": "lucide",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "arrow",
       "out",
       "down",
-      "right"
+      "right",
+      "direction"
     ],
     "lucideName": "SquareArrowOutDownRight"
   },
@@ -17724,13 +18011,14 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-square-arrow-out-up-left",
     "name": "Square Arrow Out Up Left",
     "set": "lucide",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "arrow",
       "out",
       "up",
-      "left"
+      "left",
+      "direction"
     ],
     "lucideName": "SquareArrowOutUpLeft"
   },
@@ -17738,13 +18026,14 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-square-arrow-out-up-right",
     "name": "Square Arrow Out Up Right",
     "set": "lucide",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "arrow",
       "out",
       "up",
-      "right"
+      "right",
+      "direction"
     ],
     "lucideName": "SquareArrowOutUpRight"
   },
@@ -17752,11 +18041,12 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-square-arrow-right",
     "name": "Square Arrow Right",
     "set": "lucide",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "arrow",
-      "right"
+      "right",
+      "direction"
     ],
     "lucideName": "SquareArrowRight"
   },
@@ -17764,7 +18054,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-square-arrow-right-enter",
     "name": "Square Arrow Right Enter",
     "set": "lucide",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "arrow",
@@ -17777,7 +18067,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-square-arrow-right-exit",
     "name": "Square Arrow Right Exit",
     "set": "lucide",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "arrow",
@@ -17790,11 +18080,12 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-square-arrow-up",
     "name": "Square Arrow Up",
     "set": "lucide",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "arrow",
-      "up"
+      "up",
+      "direction"
     ],
     "lucideName": "SquareArrowUp"
   },
@@ -17802,12 +18093,13 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-square-arrow-up-left",
     "name": "Square Arrow Up Left",
     "set": "lucide",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "arrow",
       "up",
-      "left"
+      "left",
+      "direction"
     ],
     "lucideName": "SquareArrowUpLeft"
   },
@@ -17815,12 +18107,13 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-square-arrow-up-right",
     "name": "Square Arrow Up Right",
     "set": "lucide",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "arrow",
       "up",
-      "right"
+      "right",
+      "direction"
     ],
     "lucideName": "SquareArrowUpRight"
   },
@@ -17828,7 +18121,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-square-asterisk",
     "name": "Square Asterisk",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "asterisk"
@@ -17839,7 +18132,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-square-bottom-dashed-scissors",
     "name": "Square Bottom Dashed Scissors",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "bottom",
@@ -17852,7 +18145,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-square-centerline-dashed-horizontal",
     "name": "Square Centerline Dashed Horizontal",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "centerline",
@@ -17865,7 +18158,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-square-centerline-dashed-vertical",
     "name": "Square Centerline Dashed Vertical",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "centerline",
@@ -17878,7 +18171,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-square-chart-gantt",
     "name": "Square Chart Gantt",
     "set": "lucide",
-    "category": "monitoring-logging",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "chart",
@@ -17890,7 +18183,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-square-check",
     "name": "Square Check",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "check"
@@ -17901,7 +18194,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-square-check-big",
     "name": "Square Check Big",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "check",
@@ -17913,11 +18206,13 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-square-chevron-down",
     "name": "Square Chevron Down",
     "set": "lucide",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "chevron",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "lucideName": "SquareChevronDown"
   },
@@ -17925,11 +18220,13 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-square-chevron-left",
     "name": "Square Chevron Left",
     "set": "lucide",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "chevron",
-      "left"
+      "left",
+      "arrow",
+      "direction"
     ],
     "lucideName": "SquareChevronLeft"
   },
@@ -17937,11 +18234,13 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-square-chevron-right",
     "name": "Square Chevron Right",
     "set": "lucide",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "chevron",
-      "right"
+      "right",
+      "arrow",
+      "direction"
     ],
     "lucideName": "SquareChevronRight"
   },
@@ -17949,11 +18248,13 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-square-chevron-up",
     "name": "Square Chevron Up",
     "set": "lucide",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "chevron",
-      "up"
+      "up",
+      "arrow",
+      "direction"
     ],
     "lucideName": "SquareChevronUp"
   },
@@ -17961,7 +18262,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-square-code",
     "name": "Square Code",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "code"
@@ -17972,7 +18273,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-square-dashed",
     "name": "Square Dashed",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "dashed"
@@ -17983,7 +18284,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-square-dashed-bottom",
     "name": "Square Dashed Bottom",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "dashed",
@@ -17995,7 +18296,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-square-dashed-bottom-code",
     "name": "Square Dashed Bottom Code",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "dashed",
@@ -18008,7 +18309,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-square-dashed-kanban",
     "name": "Square Dashed Kanban",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "dashed",
@@ -18020,7 +18321,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-square-dashed-mouse-pointer",
     "name": "Square Dashed Mouse Pointer",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "dashed",
@@ -18033,7 +18334,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-square-dashed-text",
     "name": "Square Dashed Text",
     "set": "lucide",
-    "category": "editor",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "dashed",
@@ -18045,7 +18346,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-square-dashed-top-solid",
     "name": "Square Dashed Top Solid",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "dashed",
@@ -18058,7 +18359,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-square-divide",
     "name": "Square Divide",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "divide"
@@ -18069,7 +18370,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-square-dot",
     "name": "Square Dot",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "dot"
@@ -18080,7 +18381,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-square-equal",
     "name": "Square Equal",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "equal"
@@ -18091,7 +18392,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-square-function",
     "name": "Square Function",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "function"
@@ -18102,7 +18403,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-square-gantt-chart",
     "name": "Square Gantt Chart",
     "set": "lucide",
-    "category": "monitoring-logging",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "gantt",
@@ -18114,7 +18415,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-square-kanban",
     "name": "Square Kanban",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "kanban"
@@ -18125,7 +18426,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-square-library",
     "name": "Square Library",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "library"
@@ -18136,7 +18437,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-square-m",
     "name": "Square M",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "m"
@@ -18147,7 +18448,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-square-menu",
     "name": "Square Menu",
     "set": "lucide",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "menu"
@@ -18158,7 +18459,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-square-minus",
     "name": "Square Minus",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "minus"
@@ -18169,7 +18470,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-square-mouse-pointer",
     "name": "Square Mouse Pointer",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "mouse",
@@ -18181,7 +18482,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-square-parking",
     "name": "Square Parking",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "parking"
@@ -18192,7 +18493,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-square-parking-off",
     "name": "Square Parking Off",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "parking",
@@ -18204,7 +18505,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-square-pause",
     "name": "Square Pause",
     "set": "lucide",
-    "category": "media",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "pause"
@@ -18215,7 +18516,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-square-pen",
     "name": "Square Pen",
     "set": "lucide",
-    "category": "editor",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "pen"
@@ -18226,7 +18527,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-square-percent",
     "name": "Square Percent",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "percent"
@@ -18237,7 +18538,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-square-pi",
     "name": "Square Pi",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "pi"
@@ -18248,7 +18549,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-square-pilcrow",
     "name": "Square Pilcrow",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "pilcrow"
@@ -18259,7 +18560,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-square-play",
     "name": "Square Play",
     "set": "lucide",
-    "category": "media",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "play"
@@ -18270,7 +18571,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-square-plus",
     "name": "Square Plus",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "plus"
@@ -18281,7 +18582,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-square-power",
     "name": "Square Power",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "power"
@@ -18292,7 +18593,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-square-radical",
     "name": "Square Radical",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "radical"
@@ -18303,7 +18604,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-square-round-corner",
     "name": "Square Round Corner",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "round",
@@ -18315,7 +18616,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-square-scissors",
     "name": "Square Scissors",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "scissors"
@@ -18326,7 +18627,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-square-sigma",
     "name": "Square Sigma",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "sigma"
@@ -18337,7 +18638,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-square-slash",
     "name": "Square Slash",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "slash"
@@ -18348,7 +18649,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-square-split-horizontal",
     "name": "Square Split Horizontal",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "split",
@@ -18360,7 +18661,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-square-split-vertical",
     "name": "Square Split Vertical",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "split",
@@ -18372,9 +18673,8 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-square-square",
     "name": "Square Square",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
-      "square",
       "square"
     ],
     "lucideName": "SquareSquare"
@@ -18383,7 +18683,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-square-stack",
     "name": "Square Stack",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "stack"
@@ -18394,7 +18694,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-square-star",
     "name": "Square Star",
     "set": "lucide",
-    "category": "people-social",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "star"
@@ -18405,7 +18705,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-square-stop",
     "name": "Square Stop",
     "set": "lucide",
-    "category": "media",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "stop"
@@ -18416,7 +18716,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-square-terminal",
     "name": "Square Terminal",
     "set": "lucide",
-    "category": "api-integration",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "terminal"
@@ -18427,7 +18727,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-square-user",
     "name": "Square User",
     "set": "lucide",
-    "category": "people-social",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "user"
@@ -18438,7 +18738,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-square-user-round",
     "name": "Square User Round",
     "set": "lucide",
-    "category": "people-social",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "user",
@@ -18450,7 +18750,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-square-x",
     "name": "Square X",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "x"
@@ -18461,7 +18761,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-squares-exclude",
     "name": "Squares Exclude",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "squares",
       "exclude"
@@ -18472,7 +18772,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-squares-intersect",
     "name": "Squares Intersect",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "squares",
       "intersect"
@@ -18483,7 +18783,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-squares-subtract",
     "name": "Squares Subtract",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "squares",
       "subtract"
@@ -18494,7 +18794,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-squares-unite",
     "name": "Squares Unite",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "squares",
       "unite"
@@ -18536,7 +18836,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-stamp",
     "name": "Stamp",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "stamp"
     ],
@@ -18632,7 +18932,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-step-back",
     "name": "Step Back",
     "set": "lucide",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "step",
       "back"
@@ -18643,7 +18943,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-step-forward",
     "name": "Step Forward",
     "set": "lucide",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "step",
       "forward"
@@ -18787,10 +19087,12 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-stretch-horizontal",
     "name": "Stretch Horizontal",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "navigation",
     "tags": [
       "stretch",
-      "horizontal"
+      "horizontal",
+      "arrow",
+      "direction"
     ],
     "lucideName": "StretchHorizontal"
   },
@@ -18798,10 +19100,12 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-stretch-vertical",
     "name": "Stretch Vertical",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "navigation",
     "tags": [
       "stretch",
-      "vertical"
+      "vertical",
+      "arrow",
+      "direction"
     ],
     "lucideName": "StretchVertical"
   },
@@ -18809,7 +19113,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-strikethrough",
     "name": "Strikethrough",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "strikethrough"
     ],
@@ -18819,7 +19123,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-subscript",
     "name": "Subscript",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "subscript"
     ],
@@ -18923,7 +19227,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-superscript",
     "name": "Superscript",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "superscript"
     ],
@@ -18955,7 +19259,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-switch-camera",
     "name": "Switch Camera",
     "set": "lucide",
-    "category": "media",
+    "category": "networking",
     "tags": [
       "switch",
       "camera"
@@ -18996,7 +19300,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-table",
     "name": "Table",
     "set": "lucide",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "table"
     ],
@@ -19006,7 +19310,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-table2",
     "name": "Table2",
     "set": "lucide",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "table2"
     ],
@@ -19016,7 +19320,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-table-cells-merge",
     "name": "Table Cells Merge",
     "set": "lucide",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "table",
       "cells",
@@ -19028,7 +19332,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-table-cells-split",
     "name": "Table Cells Split",
     "set": "lucide",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "table",
       "cells",
@@ -19040,7 +19344,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-table-columns-split",
     "name": "Table Columns Split",
     "set": "lucide",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "table",
       "columns",
@@ -19052,7 +19356,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-table-config",
     "name": "Table Config",
     "set": "lucide",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "table",
       "config"
@@ -19063,7 +19367,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-table-of-contents",
     "name": "Table Of Contents",
     "set": "lucide",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "table",
       "of",
@@ -19075,7 +19379,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-table-properties",
     "name": "Table Properties",
     "set": "lucide",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "table",
       "properties"
@@ -19086,7 +19390,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-table-rows-split",
     "name": "Table Rows Split",
     "set": "lucide",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "table",
       "rows",
@@ -19098,7 +19402,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-tablet",
     "name": "Tablet",
     "set": "lucide",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "tablet"
     ],
@@ -19108,7 +19412,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-tablet-smartphone",
     "name": "Tablet Smartphone",
     "set": "lucide",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "tablet",
       "smartphone"
@@ -19119,7 +19423,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-tablets",
     "name": "Tablets",
     "set": "lucide",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "tablets"
     ],
@@ -19129,7 +19433,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-tag",
     "name": "Tag",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "devops-cicd",
     "tags": [
       "tag"
     ],
@@ -19139,7 +19443,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-tag-plus",
     "name": "Tag Plus",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "devops-cicd",
     "tags": [
       "tag",
       "plus"
@@ -19150,7 +19454,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-tag-x",
     "name": "Tag X",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "devops-cicd",
     "tags": [
       "tag",
       "x"
@@ -19161,7 +19465,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-tags",
     "name": "Tags",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "devops-cicd",
     "tags": [
       "tags"
     ],
@@ -19251,7 +19555,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-tent",
     "name": "Tent",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "tent"
     ],
@@ -19261,7 +19565,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-tent-tree",
     "name": "Tent Tree",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "tent",
       "tree"
@@ -19293,7 +19597,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-test-tube",
     "name": "Test Tube",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "devops-cicd",
     "tags": [
       "test",
       "tube"
@@ -19304,7 +19608,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-test-tube2",
     "name": "Test Tube2",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "devops-cicd",
     "tags": [
       "test",
       "tube2"
@@ -19315,7 +19619,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-test-tube-diagonal",
     "name": "Test Tube Diagonal",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "devops-cicd",
     "tags": [
       "test",
       "tube",
@@ -19327,7 +19631,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-test-tubes",
     "name": "Test Tubes",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "devops-cicd",
     "tags": [
       "test",
       "tubes"
@@ -19384,7 +19688,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-text-align-start",
     "name": "Text Align Start",
     "set": "lucide",
-    "category": "people-social",
+    "category": "editor",
     "tags": [
       "text",
       "align",
@@ -19527,10 +19831,12 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-thumbs-down",
     "name": "Thumbs Down",
     "set": "lucide",
-    "category": "navigation",
+    "category": "people-social",
     "tags": [
       "thumbs",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "lucideName": "ThumbsDown"
   },
@@ -19538,10 +19844,12 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-thumbs-up",
     "name": "Thumbs Up",
     "set": "lucide",
-    "category": "navigation",
+    "category": "people-social",
     "tags": [
       "thumbs",
-      "up"
+      "up",
+      "arrow",
+      "direction"
     ],
     "lucideName": "ThumbsUp"
   },
@@ -19656,7 +19964,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-timer",
     "name": "Timer",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "timer"
     ],
@@ -19666,7 +19974,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-timer-off",
     "name": "Timer Off",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "timer",
       "off"
@@ -19677,7 +19985,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-timer-reset",
     "name": "Timer Reset",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "timer",
       "reset"
@@ -19688,10 +19996,12 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-toggle-left",
     "name": "Toggle Left",
     "set": "lucide",
-    "category": "navigation",
+    "category": "frontend-client",
     "tags": [
       "toggle",
-      "left"
+      "left",
+      "arrow",
+      "direction"
     ],
     "lucideName": "ToggleLeft"
   },
@@ -19699,10 +20009,12 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-toggle-right",
     "name": "Toggle Right",
     "set": "lucide",
-    "category": "navigation",
+    "category": "frontend-client",
     "tags": [
       "toggle",
-      "right"
+      "right",
+      "arrow",
+      "direction"
     ],
     "lucideName": "ToggleRight"
   },
@@ -19836,7 +20148,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-train",
     "name": "Train",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "train"
     ],
@@ -19846,7 +20158,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-train-front",
     "name": "Train Front",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "train",
       "front"
@@ -19857,7 +20169,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-train-front-tunnel",
     "name": "Train Front Tunnel",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "train",
       "front",
@@ -19869,7 +20181,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-train-track",
     "name": "Train Track",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "train",
       "track"
@@ -19943,7 +20255,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-tree-pine",
     "name": "Tree Pine",
     "set": "lucide",
-    "category": "maps-location",
+    "category": "general-ui",
     "tags": [
       "tree",
       "pine"
@@ -19964,10 +20276,12 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-trending-down",
     "name": "Trending Down",
     "set": "lucide",
-    "category": "navigation",
+    "category": "monitoring-logging",
     "tags": [
       "trending",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "lucideName": "TrendingDown"
   },
@@ -19975,10 +20289,12 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-trending-up",
     "name": "Trending Up",
     "set": "lucide",
-    "category": "navigation",
+    "category": "monitoring-logging",
     "tags": [
       "trending",
-      "up"
+      "up",
+      "arrow",
+      "direction"
     ],
     "lucideName": "TrendingUp"
   },
@@ -19986,11 +20302,13 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-trending-up-down",
     "name": "Trending Up Down",
     "set": "lucide",
-    "category": "navigation",
+    "category": "monitoring-logging",
     "tags": [
       "trending",
       "up",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "lucideName": "TrendingUpDown"
   },
@@ -19998,7 +20316,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-triangle",
     "name": "Triangle",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "triangle"
     ],
@@ -20008,7 +20326,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-triangle-alert",
     "name": "Triangle Alert",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "triangle",
       "alert"
@@ -20019,7 +20337,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-triangle-dashed",
     "name": "Triangle Dashed",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "triangle",
       "dashed"
@@ -20030,10 +20348,12 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-triangle-right",
     "name": "Triangle Right",
     "set": "lucide",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "triangle",
-      "right"
+      "right",
+      "arrow",
+      "direction"
     ],
     "lucideName": "TriangleRight"
   },
@@ -20041,7 +20361,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-trophy",
     "name": "Trophy",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "trophy"
     ],
@@ -20083,9 +20403,11 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-turntable",
     "name": "Turntable",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "navigation",
     "tags": [
-      "turntable"
+      "turntable",
+      "arrow",
+      "direction"
     ],
     "lucideName": "Turntable"
   },
@@ -20291,9 +20613,10 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-unlock",
     "name": "Unlock",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "security-identity",
     "tags": [
-      "unlock"
+      "unlock",
+      "security"
     ],
     "lucideName": "Unlock"
   },
@@ -20304,7 +20627,8 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "category": "security-identity",
     "tags": [
       "unlock",
-      "keyhole"
+      "keyhole",
+      "security"
     ],
     "lucideName": "UnlockKeyhole"
   },
@@ -20322,9 +20646,11 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-upload",
     "name": "Upload",
     "set": "lucide",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
-      "upload"
+      "upload",
+      "transfer",
+      "arrow"
     ],
     "lucideName": "Upload"
   },
@@ -20332,10 +20658,12 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-upload-cloud",
     "name": "Upload Cloud",
     "set": "lucide",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "upload",
-      "cloud"
+      "cloud",
+      "transfer",
+      "arrow"
     ],
     "lucideName": "UploadCloud"
   },
@@ -20527,12 +20855,13 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-user-round-arrow-left",
     "name": "User Round Arrow Left",
     "set": "lucide",
-    "category": "navigation",
+    "category": "people-social",
     "tags": [
       "user",
       "round",
       "arrow",
-      "left"
+      "left",
+      "direction"
     ],
     "lucideName": "UserRoundArrowLeft"
   },
@@ -20785,7 +21114,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-vault",
     "name": "Vault",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "vault"
     ],
@@ -20795,7 +21124,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-vector-square",
     "name": "Vector Square",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "vector",
       "square"
@@ -20911,7 +21240,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-view",
     "name": "View",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "view"
     ],
@@ -21055,7 +21384,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-wand",
     "name": "Wand",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "wand"
     ],
@@ -21065,7 +21394,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-wand2",
     "name": "Wand2",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "wand2"
     ],
@@ -21075,7 +21404,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-wand-sparkles",
     "name": "Wand Sparkles",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "wand",
       "sparkles"
@@ -21107,7 +21436,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-watch",
     "name": "Watch",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "watch"
     ],
@@ -21127,11 +21456,12 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-waves-arrow-down",
     "name": "Waves Arrow Down",
     "set": "lucide",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "waves",
       "arrow",
-      "down"
+      "down",
+      "direction"
     ],
     "lucideName": "WavesArrowDown"
   },
@@ -21139,11 +21469,12 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-waves-arrow-up",
     "name": "Waves Arrow Up",
     "set": "lucide",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "waves",
       "arrow",
-      "up"
+      "up",
+      "direction"
     ],
     "lucideName": "WavesArrowUp"
   },
@@ -21184,7 +21515,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-waypoints",
     "name": "Waypoints",
     "set": "lucide",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "waypoints"
     ],
@@ -21194,7 +21525,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-webcam",
     "name": "Webcam",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "webcam"
     ],
@@ -21204,7 +21535,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-webcam-off",
     "name": "Webcam Off",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "webcam",
       "off"
@@ -21215,7 +21546,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-webhook",
     "name": "Webhook",
     "set": "lucide",
-    "category": "api-integration",
+    "category": "messaging-queue",
     "tags": [
       "webhook"
     ],
@@ -21225,7 +21556,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-webhook-off",
     "name": "Webhook Off",
     "set": "lucide",
-    "category": "api-integration",
+    "category": "messaging-queue",
     "tags": [
       "webhook",
       "off"
@@ -21343,7 +21674,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-wifi-pen",
     "name": "Wifi Pen",
     "set": "lucide",
-    "category": "editor",
+    "category": "networking",
     "tags": [
       "wifi",
       "pen"
@@ -21386,11 +21717,12 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-wind-arrow-down",
     "name": "Wind Arrow Down",
     "set": "lucide",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "wind",
       "arrow",
-      "down"
+      "down",
+      "direction"
     ],
     "lucideName": "WindArrowDown"
   },
@@ -21419,7 +21751,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-workflow",
     "name": "Workflow",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "devops-cicd",
     "tags": [
       "workflow"
     ],
@@ -21439,7 +21771,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-wrap-text",
     "name": "Wrap Text",
     "set": "lucide",
-    "category": "editor",
+    "category": "general-ui",
     "tags": [
       "wrap",
       "text"
@@ -21690,7 +22022,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-zoom-in",
     "name": "Zoom In",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "zoom",
       "in"
@@ -21701,7 +22033,7 @@ export const LUCIDE_ICONS: IconMeta[] = [
     "id": "lucide-zoom-out",
     "name": "Zoom Out",
     "set": "lucide",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "zoom",
       "out"

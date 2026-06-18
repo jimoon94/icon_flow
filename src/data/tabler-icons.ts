@@ -70,7 +70,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-access-point",
     "name": "Access Point",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "security-identity",
     "tags": [
       "access",
       "point"
@@ -81,7 +81,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-access-point-off",
     "name": "Access Point Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "security-identity",
     "tags": [
       "access",
       "point",
@@ -93,7 +93,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-accessible",
     "name": "Accessible",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "security-identity",
     "tags": [
       "accessible"
     ],
@@ -103,7 +103,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-accessible-filled",
     "name": "Accessible Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "security-identity",
     "tags": [
       "accessible",
       "filled"
@@ -114,7 +114,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-accessible-off",
     "name": "Accessible Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "security-identity",
     "tags": [
       "accessible",
       "off"
@@ -155,7 +155,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-activity-heartbeat",
     "name": "Activity Heartbeat",
     "set": "tabler",
-    "category": "people-social",
+    "category": "general-ui",
     "tags": [
       "activity",
       "heartbeat"
@@ -342,7 +342,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-adjustments-dollar",
     "name": "Adjustments Dollar",
     "set": "tabler",
-    "category": "finance",
+    "category": "general-ui",
     "tags": [
       "adjustments",
       "dollar"
@@ -353,10 +353,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-adjustments-down",
     "name": "Adjustments Down",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "adjustments",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconAdjustmentsDown"
   },
@@ -386,7 +388,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-adjustments-heart",
     "name": "Adjustments Heart",
     "set": "tabler",
-    "category": "people-social",
+    "category": "general-ui",
     "tags": [
       "adjustments",
       "heart"
@@ -442,7 +444,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-adjustments-pause",
     "name": "Adjustments Pause",
     "set": "tabler",
-    "category": "media",
+    "category": "general-ui",
     "tags": [
       "adjustments",
       "pause"
@@ -453,7 +455,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-adjustments-pin",
     "name": "Adjustments Pin",
     "set": "tabler",
-    "category": "maps-location",
+    "category": "general-ui",
     "tags": [
       "adjustments",
       "pin"
@@ -497,7 +499,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-adjustments-share",
     "name": "Adjustments Share",
     "set": "tabler",
-    "category": "people-social",
+    "category": "general-ui",
     "tags": [
       "adjustments",
       "share"
@@ -519,7 +521,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-adjustments-star",
     "name": "Adjustments Star",
     "set": "tabler",
-    "category": "people-social",
+    "category": "general-ui",
     "tags": [
       "adjustments",
       "star"
@@ -530,10 +532,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-adjustments-up",
     "name": "Adjustments Up",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "adjustments",
-      "up"
+      "up",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconAdjustmentsUp"
   },
@@ -596,7 +600,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-ai",
     "name": "Ai",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "ai-ml",
     "tags": [
       "ai"
     ],
@@ -606,7 +610,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-ai-agent",
     "name": "Ai Agent",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "ai-ml",
     "tags": [
       "ai",
       "agent"
@@ -617,7 +621,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-ai-agents",
     "name": "Ai Agents",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "ai-ml",
     "tags": [
       "ai",
       "agents"
@@ -628,7 +632,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-ai-gateway",
     "name": "Ai Gateway",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "ai-ml",
     "tags": [
       "ai",
       "gateway"
@@ -639,7 +643,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-air-balloon",
     "name": "Air Balloon",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "ai-ml",
     "tags": [
       "air",
       "balloon"
@@ -650,7 +654,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-air-balloon-filled",
     "name": "Air Balloon Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "ai-ml",
     "tags": [
       "air",
       "balloon",
@@ -662,7 +666,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-air-conditioning",
     "name": "Air Conditioning",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "ai-ml",
     "tags": [
       "air",
       "conditioning"
@@ -673,7 +677,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-air-conditioning-disabled",
     "name": "Air Conditioning Disabled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "ai-ml",
     "tags": [
       "air",
       "conditioning",
@@ -685,7 +689,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-air-traffic-control",
     "name": "Air Traffic Control",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "ai-ml",
     "tags": [
       "air",
       "traffic",
@@ -697,7 +701,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-alarm",
     "name": "Alarm",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "alarm"
     ],
@@ -707,7 +711,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-alarm-average",
     "name": "Alarm Average",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "alarm",
       "average"
@@ -718,7 +722,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-alarm-filled",
     "name": "Alarm Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "alarm",
       "filled"
@@ -729,7 +733,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-alarm-minus",
     "name": "Alarm Minus",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "alarm",
       "minus"
@@ -740,7 +744,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-alarm-minus-filled",
     "name": "Alarm Minus Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "alarm",
       "minus",
@@ -752,7 +756,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-alarm-off",
     "name": "Alarm Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "alarm",
       "off"
@@ -763,7 +767,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-alarm-plus",
     "name": "Alarm Plus",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "alarm",
       "plus"
@@ -774,7 +778,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-alarm-plus-filled",
     "name": "Alarm Plus Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "alarm",
       "plus",
@@ -786,7 +790,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-alarm-smoke",
     "name": "Alarm Smoke",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "alarm",
       "smoke"
@@ -797,7 +801,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-alarm-snooze",
     "name": "Alarm Snooze",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "alarm",
       "snooze"
@@ -808,7 +812,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-alarm-snooze-filled",
     "name": "Alarm Snooze Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "alarm",
       "snooze",
@@ -841,7 +845,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-alert-circle",
     "name": "Alert Circle",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "alert",
       "circle"
@@ -852,7 +856,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-alert-circle-filled",
     "name": "Alert Circle Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "alert",
       "circle",
@@ -864,7 +868,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-alert-circle-off",
     "name": "Alert Circle Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "alert",
       "circle",
@@ -876,7 +880,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-alert-hexagon",
     "name": "Alert Hexagon",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "alert",
       "hexagon"
@@ -887,7 +891,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-alert-hexagon-filled",
     "name": "Alert Hexagon Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "alert",
       "hexagon",
@@ -899,7 +903,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-alert-hexagon-off",
     "name": "Alert Hexagon Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "alert",
       "hexagon",
@@ -911,7 +915,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-alert-octagon",
     "name": "Alert Octagon",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "alert",
       "octagon"
@@ -922,7 +926,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-alert-octagon-filled",
     "name": "Alert Octagon Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "alert",
       "octagon",
@@ -934,7 +938,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-alert-small",
     "name": "Alert Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "alert",
       "small"
@@ -945,7 +949,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-alert-small-off",
     "name": "Alert Small Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "alert",
       "small",
@@ -957,7 +961,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-alert-square",
     "name": "Alert Square",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "alert",
       "square"
@@ -968,7 +972,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-alert-square-filled",
     "name": "Alert Square Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "alert",
       "square",
@@ -980,7 +984,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-alert-square-rounded",
     "name": "Alert Square Rounded",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "alert",
       "square",
@@ -992,7 +996,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-alert-square-rounded-filled",
     "name": "Alert Square Rounded Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "alert",
       "square",
@@ -1005,7 +1009,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-alert-square-rounded-off",
     "name": "Alert Square Rounded Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "alert",
       "square",
@@ -1018,7 +1022,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-alert-triangle",
     "name": "Alert Triangle",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "alert",
       "triangle"
@@ -1029,7 +1033,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-alert-triangle-filled",
     "name": "Alert Triangle Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "alert",
       "triangle",
@@ -1041,7 +1045,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-alert-triangle-off",
     "name": "Alert Triangle Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "alert",
       "triangle",
@@ -1101,12 +1105,14 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-align-box-bottom-left",
     "name": "Align Box Bottom Left",
     "set": "tabler",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "align",
       "box",
       "bottom",
-      "left"
+      "left",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconAlignBoxBottomLeft"
   },
@@ -1114,7 +1120,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-align-box-bottom-left-filled",
     "name": "Align Box Bottom Left Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "align",
       "box",
@@ -1128,12 +1134,14 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-align-box-bottom-right",
     "name": "Align Box Bottom Right",
     "set": "tabler",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "align",
       "box",
       "bottom",
-      "right"
+      "right",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconAlignBoxBottomRight"
   },
@@ -1141,7 +1149,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-align-box-bottom-right-filled",
     "name": "Align Box Bottom Right Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "align",
       "box",
@@ -1221,7 +1229,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-align-box-left-bottom",
     "name": "Align Box Left Bottom",
     "set": "tabler",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "align",
       "box",
@@ -1234,7 +1242,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-align-box-left-bottom-filled",
     "name": "Align Box Left Bottom Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "align",
       "box",
@@ -1248,7 +1256,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-align-box-left-middle",
     "name": "Align Box Left Middle",
     "set": "tabler",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "align",
       "box",
@@ -1261,7 +1269,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-align-box-left-middle-filled",
     "name": "Align Box Left Middle Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "align",
       "box",
@@ -1275,7 +1283,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-align-box-left-stretch",
     "name": "Align Box Left Stretch",
     "set": "tabler",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "align",
       "box",
@@ -1288,7 +1296,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-align-box-left-top",
     "name": "Align Box Left Top",
     "set": "tabler",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "align",
       "box",
@@ -1301,7 +1309,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-align-box-left-top-filled",
     "name": "Align Box Left Top Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "align",
       "box",
@@ -1315,7 +1323,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-align-box-right-bottom",
     "name": "Align Box Right Bottom",
     "set": "tabler",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "align",
       "box",
@@ -1328,7 +1336,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-align-box-right-bottom-filled",
     "name": "Align Box Right Bottom Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "align",
       "box",
@@ -1342,7 +1350,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-align-box-right-middle",
     "name": "Align Box Right Middle",
     "set": "tabler",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "align",
       "box",
@@ -1355,7 +1363,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-align-box-right-middle-filled",
     "name": "Align Box Right Middle Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "align",
       "box",
@@ -1369,7 +1377,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-align-box-right-stretch",
     "name": "Align Box Right Stretch",
     "set": "tabler",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "align",
       "box",
@@ -1382,7 +1390,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-align-box-right-top",
     "name": "Align Box Right Top",
     "set": "tabler",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "align",
       "box",
@@ -1395,7 +1403,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-align-box-right-top-filled",
     "name": "Align Box Right Top Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "align",
       "box",
@@ -1436,12 +1444,14 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-align-box-top-left",
     "name": "Align Box Top Left",
     "set": "tabler",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "align",
       "box",
       "top",
-      "left"
+      "left",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconAlignBoxTopLeft"
   },
@@ -1449,7 +1459,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-align-box-top-left-filled",
     "name": "Align Box Top Left Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "align",
       "box",
@@ -1463,12 +1473,14 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-align-box-top-right",
     "name": "Align Box Top Right",
     "set": "tabler",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "align",
       "box",
       "top",
-      "right"
+      "right",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconAlignBoxTopRight"
   },
@@ -1476,7 +1488,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-align-box-top-right-filled",
     "name": "Align Box Top Right Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "align",
       "box",
@@ -1512,10 +1524,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-align-left",
     "name": "Align Left",
     "set": "tabler",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "align",
-      "left"
+      "left",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconAlignLeft"
   },
@@ -1523,7 +1537,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-align-left2",
     "name": "Align Left2",
     "set": "tabler",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "align",
       "left2"
@@ -1534,10 +1548,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-align-right",
     "name": "Align Right",
     "set": "tabler",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "align",
-      "right"
+      "right",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconAlignRight"
   },
@@ -1545,7 +1561,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-align-right2",
     "name": "Align Right2",
     "set": "tabler",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "align",
       "right2"
@@ -1738,7 +1754,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-anchor",
     "name": "Anchor",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "navigation",
     "tags": [
       "anchor"
     ],
@@ -1748,7 +1764,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-anchor-off",
     "name": "Anchor Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "navigation",
     "tags": [
       "anchor",
       "off"
@@ -1779,7 +1795,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-antenna",
     "name": "Antenna",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "antenna"
     ],
@@ -1789,7 +1805,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-antenna-bars1",
     "name": "Antenna Bars1",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "antenna",
       "bars1"
@@ -1800,7 +1816,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-antenna-bars2",
     "name": "Antenna Bars2",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "antenna",
       "bars2"
@@ -1811,7 +1827,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-antenna-bars3",
     "name": "Antenna Bars3",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "antenna",
       "bars3"
@@ -1822,7 +1838,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-antenna-bars4",
     "name": "Antenna Bars4",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "antenna",
       "bars4"
@@ -1833,7 +1849,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-antenna-bars5",
     "name": "Antenna Bars5",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "antenna",
       "bars5"
@@ -1844,7 +1860,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-antenna-bars-off",
     "name": "Antenna Bars Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "antenna",
       "bars",
@@ -1856,7 +1872,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-antenna-off",
     "name": "Antenna Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "antenna",
       "off"
@@ -1867,7 +1883,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-aperture",
     "name": "Aperture",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "aperture"
     ],
@@ -1877,7 +1893,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-aperture-off",
     "name": "Aperture Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "aperture",
       "off"
@@ -1943,7 +1959,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-app-window",
     "name": "App Window",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "app",
       "window"
@@ -1954,7 +1970,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-app-window-filled",
     "name": "App Window Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "app",
       "window",
@@ -1966,7 +1982,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-apple",
     "name": "Apple",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "apple"
     ],
@@ -1976,7 +1992,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-apple-filled",
     "name": "Apple Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "apple",
       "filled"
@@ -1987,7 +2003,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-apps",
     "name": "Apps",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "apps"
     ],
@@ -1997,7 +2013,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-apps-filled",
     "name": "Apps Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "apps",
       "filled"
@@ -2008,7 +2024,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-apps-off",
     "name": "Apps Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "apps",
       "off"
@@ -2019,7 +2035,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-archery-arrow",
     "name": "Archery Arrow",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "archery",
       "arrow"
@@ -2030,7 +2046,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-archive",
     "name": "Archive",
     "set": "tabler",
-    "category": "storage-database",
+    "category": "diagram-primitives",
     "tags": [
       "archive"
     ],
@@ -2040,7 +2056,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-archive-filled",
     "name": "Archive Filled",
     "set": "tabler",
-    "category": "storage-database",
+    "category": "diagram-primitives",
     "tags": [
       "archive",
       "filled"
@@ -2051,7 +2067,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-archive-off",
     "name": "Archive Off",
     "set": "tabler",
-    "category": "storage-database",
+    "category": "diagram-primitives",
     "tags": [
       "archive",
       "off"
@@ -2133,7 +2149,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "tags": [
       "arrow",
       "autofit",
-      "down"
+      "down",
+      "direction"
     ],
     "tablerName": "IconArrowAutofitDown"
   },
@@ -2183,7 +2200,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "tags": [
       "arrow",
       "autofit",
-      "left"
+      "left",
+      "direction"
     ],
     "tablerName": "IconArrowAutofitLeft"
   },
@@ -2208,7 +2226,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "tags": [
       "arrow",
       "autofit",
-      "right"
+      "right",
+      "direction"
     ],
     "tablerName": "IconArrowAutofitRight"
   },
@@ -2233,7 +2252,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "tags": [
       "arrow",
       "autofit",
-      "up"
+      "up",
+      "direction"
     ],
     "tablerName": "IconArrowAutofitUp"
   },
@@ -2294,7 +2314,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "tags": [
       "arrow",
       "back",
-      "up"
+      "up",
+      "direction"
     ],
     "tablerName": "IconArrowBackUp"
   },
@@ -2319,7 +2340,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "tags": [
       "arrow",
       "badge",
-      "down"
+      "down",
+      "direction"
     ],
     "tablerName": "IconArrowBadgeDown"
   },
@@ -2344,7 +2366,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "tags": [
       "arrow",
       "badge",
-      "left"
+      "left",
+      "direction"
     ],
     "tablerName": "IconArrowBadgeLeft"
   },
@@ -2369,7 +2392,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "tags": [
       "arrow",
       "badge",
-      "right"
+      "right",
+      "direction"
     ],
     "tablerName": "IconArrowBadgeRight"
   },
@@ -2394,7 +2418,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "tags": [
       "arrow",
       "badge",
-      "up"
+      "up",
+      "direction"
     ],
     "tablerName": "IconArrowBadgeUp"
   },
@@ -2431,7 +2456,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "tags": [
       "arrow",
       "bar",
-      "down"
+      "down",
+      "direction"
     ],
     "tablerName": "IconArrowBarDown"
   },
@@ -2443,7 +2469,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "tags": [
       "arrow",
       "bar",
-      "left"
+      "left",
+      "direction"
     ],
     "tablerName": "IconArrowBarLeft"
   },
@@ -2455,7 +2482,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "tags": [
       "arrow",
       "bar",
-      "right"
+      "right",
+      "direction"
     ],
     "tablerName": "IconArrowBarRight"
   },
@@ -2468,7 +2496,8 @@ export const TABLER_ICONS: IconMeta[] = [
       "arrow",
       "bar",
       "to",
-      "down"
+      "down",
+      "direction"
     ],
     "tablerName": "IconArrowBarToDown"
   },
@@ -2495,7 +2524,8 @@ export const TABLER_ICONS: IconMeta[] = [
       "arrow",
       "bar",
       "to",
-      "left"
+      "left",
+      "direction"
     ],
     "tablerName": "IconArrowBarToLeft"
   },
@@ -2522,7 +2552,8 @@ export const TABLER_ICONS: IconMeta[] = [
       "arrow",
       "bar",
       "to",
-      "right"
+      "right",
+      "direction"
     ],
     "tablerName": "IconArrowBarToRight"
   },
@@ -2549,7 +2580,8 @@ export const TABLER_ICONS: IconMeta[] = [
       "arrow",
       "bar",
       "to",
-      "up"
+      "up",
+      "direction"
     ],
     "tablerName": "IconArrowBarToUp"
   },
@@ -2575,7 +2607,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "tags": [
       "arrow",
       "bar",
-      "up"
+      "up",
+      "direction"
     ],
     "tablerName": "IconArrowBarUp"
   },
@@ -2587,7 +2620,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "tags": [
       "arrow",
       "bear",
-      "left"
+      "left",
+      "direction"
     ],
     "tablerName": "IconArrowBearLeft"
   },
@@ -2611,7 +2645,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "tags": [
       "arrow",
       "bear",
-      "right"
+      "right",
+      "direction"
     ],
     "tablerName": "IconArrowBearRight"
   },
@@ -2635,7 +2670,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "tags": [
       "arrow",
       "big",
-      "down"
+      "down",
+      "direction"
     ],
     "tablerName": "IconArrowBigDown"
   },
@@ -2714,7 +2750,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "tags": [
       "arrow",
       "big",
-      "left"
+      "left",
+      "direction"
     ],
     "tablerName": "IconArrowBigLeft"
   },
@@ -2793,7 +2830,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "tags": [
       "arrow",
       "big",
-      "right"
+      "right",
+      "direction"
     ],
     "tablerName": "IconArrowBigRight"
   },
@@ -2872,7 +2910,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "tags": [
       "arrow",
       "big",
-      "up"
+      "up",
+      "direction"
     ],
     "tablerName": "IconArrowBigUp"
   },
@@ -2973,7 +3012,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "tags": [
       "arrow",
       "curve",
-      "left"
+      "left",
+      "direction"
     ],
     "tablerName": "IconArrowCurveLeft"
   },
@@ -2985,7 +3025,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "tags": [
       "arrow",
       "curve",
-      "right"
+      "right",
+      "direction"
     ],
     "tablerName": "IconArrowCurveRight"
   },
@@ -2996,7 +3037,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "category": "navigation",
     "tags": [
       "arrow",
-      "down"
+      "down",
+      "direction"
     ],
     "tablerName": "IconArrowDown"
   },
@@ -3070,7 +3112,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "tags": [
       "arrow",
       "down",
-      "left"
+      "left",
+      "direction"
     ],
     "tablerName": "IconArrowDownLeft"
   },
@@ -3120,7 +3163,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "tags": [
       "arrow",
       "down",
-      "right"
+      "right",
+      "direction"
     ],
     "tablerName": "IconArrowDownRight"
   },
@@ -3195,7 +3239,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "tags": [
       "arrow",
       "elbow",
-      "left"
+      "left",
+      "direction"
     ],
     "tablerName": "IconArrowElbowLeft"
   },
@@ -3207,7 +3252,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "tags": [
       "arrow",
       "elbow",
-      "right"
+      "right",
+      "direction"
     ],
     "tablerName": "IconArrowElbowRight"
   },
@@ -3241,7 +3287,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "tags": [
       "arrow",
       "forward",
-      "up"
+      "up",
+      "direction"
     ],
     "tablerName": "IconArrowForwardUp"
   },
@@ -3299,7 +3346,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "category": "navigation",
     "tags": [
       "arrow",
-      "left"
+      "left",
+      "direction"
     ],
     "tablerName": "IconArrowLeft"
   },
@@ -3398,7 +3446,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "tags": [
       "arrow",
       "left",
-      "right"
+      "right",
+      "direction"
     ],
     "tablerName": "IconArrowLeftRight"
   },
@@ -3460,7 +3509,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "tags": [
       "arrow",
       "loop",
-      "left"
+      "left",
+      "direction"
     ],
     "tablerName": "IconArrowLoopLeft"
   },
@@ -3484,7 +3534,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "tags": [
       "arrow",
       "loop",
-      "right"
+      "right",
+      "direction"
     ],
     "tablerName": "IconArrowLoopRight"
   },
@@ -3520,7 +3571,8 @@ export const TABLER_ICONS: IconMeta[] = [
       "arrow",
       "merge",
       "alt",
-      "left"
+      "left",
+      "direction"
     ],
     "tablerName": "IconArrowMergeAltLeft"
   },
@@ -3533,7 +3585,8 @@ export const TABLER_ICONS: IconMeta[] = [
       "arrow",
       "merge",
       "alt",
-      "right"
+      "right",
+      "direction"
     ],
     "tablerName": "IconArrowMergeAltRight"
   },
@@ -3557,7 +3610,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "tags": [
       "arrow",
       "merge",
-      "left"
+      "left",
+      "direction"
     ],
     "tablerName": "IconArrowMergeLeft"
   },
@@ -3569,7 +3623,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "tags": [
       "arrow",
       "merge",
-      "right"
+      "right",
+      "direction"
     ],
     "tablerName": "IconArrowMergeRight"
   },
@@ -3581,7 +3636,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "tags": [
       "arrow",
       "move",
-      "down"
+      "down",
+      "direction"
     ],
     "tablerName": "IconArrowMoveDown"
   },
@@ -3606,7 +3662,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "tags": [
       "arrow",
       "move",
-      "left"
+      "left",
+      "direction"
     ],
     "tablerName": "IconArrowMoveLeft"
   },
@@ -3631,7 +3688,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "tags": [
       "arrow",
       "move",
-      "right"
+      "right",
+      "direction"
     ],
     "tablerName": "IconArrowMoveRight"
   },
@@ -3656,7 +3714,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "tags": [
       "arrow",
       "move",
-      "up"
+      "up",
+      "direction"
     ],
     "tablerName": "IconArrowMoveUp"
   },
@@ -3681,7 +3740,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "tags": [
       "arrow",
       "narrow",
-      "down"
+      "down",
+      "direction"
     ],
     "tablerName": "IconArrowNarrowDown"
   },
@@ -3706,7 +3766,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "tags": [
       "arrow",
       "narrow",
-      "left"
+      "left",
+      "direction"
     ],
     "tablerName": "IconArrowNarrowLeft"
   },
@@ -3731,7 +3792,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "tags": [
       "arrow",
       "narrow",
-      "right"
+      "right",
+      "direction"
     ],
     "tablerName": "IconArrowNarrowRight"
   },
@@ -3756,7 +3818,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "tags": [
       "arrow",
       "narrow",
-      "up"
+      "up",
+      "direction"
     ],
     "tablerName": "IconArrowNarrowUp"
   },
@@ -3781,7 +3844,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "tags": [
       "arrow",
       "ramp",
-      "left"
+      "left",
+      "direction"
     ],
     "tablerName": "IconArrowRampLeft"
   },
@@ -3817,7 +3881,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "tags": [
       "arrow",
       "ramp",
-      "right"
+      "right",
+      "direction"
     ],
     "tablerName": "IconArrowRampRight"
   },
@@ -3852,7 +3917,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "category": "navigation",
     "tags": [
       "arrow",
-      "right"
+      "right",
+      "direction"
     ],
     "tablerName": "IconArrowRight"
   },
@@ -4002,7 +4068,8 @@ export const TABLER_ICONS: IconMeta[] = [
       "arrow",
       "rotary",
       "first",
-      "left"
+      "left",
+      "direction"
     ],
     "tablerName": "IconArrowRotaryFirstLeft"
   },
@@ -4015,7 +4082,8 @@ export const TABLER_ICONS: IconMeta[] = [
       "arrow",
       "rotary",
       "first",
-      "right"
+      "right",
+      "direction"
     ],
     "tablerName": "IconArrowRotaryFirstRight"
   },
@@ -4028,7 +4096,8 @@ export const TABLER_ICONS: IconMeta[] = [
       "arrow",
       "rotary",
       "last",
-      "left"
+      "left",
+      "direction"
     ],
     "tablerName": "IconArrowRotaryLastLeft"
   },
@@ -4041,7 +4110,8 @@ export const TABLER_ICONS: IconMeta[] = [
       "arrow",
       "rotary",
       "last",
-      "right"
+      "right",
+      "direction"
     ],
     "tablerName": "IconArrowRotaryLastRight"
   },
@@ -4053,7 +4123,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "tags": [
       "arrow",
       "rotary",
-      "left"
+      "left",
+      "direction"
     ],
     "tablerName": "IconArrowRotaryLeft"
   },
@@ -4065,7 +4136,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "tags": [
       "arrow",
       "rotary",
-      "right"
+      "right",
+      "direction"
     ],
     "tablerName": "IconArrowRotaryRight"
   },
@@ -4089,7 +4161,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "tags": [
       "arrow",
       "roundabout",
-      "left"
+      "left",
+      "direction"
     ],
     "tablerName": "IconArrowRoundaboutLeft"
   },
@@ -4101,7 +4174,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "tags": [
       "arrow",
       "roundabout",
-      "right"
+      "right",
+      "direction"
     ],
     "tablerName": "IconArrowRoundaboutRight"
   },
@@ -4114,7 +4188,8 @@ export const TABLER_ICONS: IconMeta[] = [
       "arrow",
       "sharp",
       "turn",
-      "left"
+      "left",
+      "direction"
     ],
     "tablerName": "IconArrowSharpTurnLeft"
   },
@@ -4127,7 +4202,8 @@ export const TABLER_ICONS: IconMeta[] = [
       "arrow",
       "sharp",
       "turn",
-      "right"
+      "right",
+      "direction"
     ],
     "tablerName": "IconArrowSharpTurnRight"
   },
@@ -4138,7 +4214,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "category": "navigation",
     "tags": [
       "arrow",
-      "up"
+      "up",
+      "direction"
     ],
     "tablerName": "IconArrowUp"
   },
@@ -4212,7 +4289,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "tags": [
       "arrow",
       "up",
-      "left"
+      "left",
+      "direction"
     ],
     "tablerName": "IconArrowUpLeft"
   },
@@ -4262,7 +4340,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "tags": [
       "arrow",
       "up",
-      "right"
+      "right",
+      "direction"
     ],
     "tablerName": "IconArrowUpRight"
   },
@@ -4338,7 +4417,8 @@ export const TABLER_ICONS: IconMeta[] = [
       "arrow",
       "wave",
       "left",
-      "down"
+      "down",
+      "direction"
     ],
     "tablerName": "IconArrowWaveLeftDown"
   },
@@ -4351,7 +4431,8 @@ export const TABLER_ICONS: IconMeta[] = [
       "arrow",
       "wave",
       "left",
-      "up"
+      "up",
+      "direction"
     ],
     "tablerName": "IconArrowWaveLeftUp"
   },
@@ -4364,7 +4445,8 @@ export const TABLER_ICONS: IconMeta[] = [
       "arrow",
       "wave",
       "right",
-      "down"
+      "down",
+      "direction"
     ],
     "tablerName": "IconArrowWaveRightDown"
   },
@@ -4377,7 +4459,8 @@ export const TABLER_ICONS: IconMeta[] = [
       "arrow",
       "wave",
       "right",
-      "up"
+      "up",
+      "direction"
     ],
     "tablerName": "IconArrowWaveRightUp"
   },
@@ -4520,7 +4603,9 @@ export const TABLER_ICONS: IconMeta[] = [
     "category": "navigation",
     "tags": [
       "arrows",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconArrowsDown"
   },
@@ -4532,7 +4617,9 @@ export const TABLER_ICONS: IconMeta[] = [
     "tags": [
       "arrows",
       "down",
-      "up"
+      "up",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconArrowsDownUp"
   },
@@ -4598,7 +4685,9 @@ export const TABLER_ICONS: IconMeta[] = [
     "category": "navigation",
     "tags": [
       "arrows",
-      "left"
+      "left",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconArrowsLeft"
   },
@@ -4610,7 +4699,9 @@ export const TABLER_ICONS: IconMeta[] = [
     "tags": [
       "arrows",
       "left",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconArrowsLeftDown"
   },
@@ -4622,7 +4713,9 @@ export const TABLER_ICONS: IconMeta[] = [
     "tags": [
       "arrows",
       "left",
-      "right"
+      "right",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconArrowsLeftRight"
   },
@@ -4701,7 +4794,9 @@ export const TABLER_ICONS: IconMeta[] = [
     "category": "navigation",
     "tags": [
       "arrows",
-      "right"
+      "right",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconArrowsRight"
   },
@@ -4713,7 +4808,9 @@ export const TABLER_ICONS: IconMeta[] = [
     "tags": [
       "arrows",
       "right",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconArrowsRightDown"
   },
@@ -4725,7 +4822,9 @@ export const TABLER_ICONS: IconMeta[] = [
     "tags": [
       "arrows",
       "right",
-      "left"
+      "left",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconArrowsRightLeft"
   },
@@ -4792,7 +4891,9 @@ export const TABLER_ICONS: IconMeta[] = [
     "tags": [
       "arrows",
       "transfer",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconArrowsTransferDown"
   },
@@ -4804,7 +4905,9 @@ export const TABLER_ICONS: IconMeta[] = [
     "tags": [
       "arrows",
       "transfer",
-      "up"
+      "up",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconArrowsTransferUp"
   },
@@ -4817,7 +4920,9 @@ export const TABLER_ICONS: IconMeta[] = [
       "arrows",
       "transfer",
       "up",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconArrowsTransferUpDown"
   },
@@ -4828,7 +4933,9 @@ export const TABLER_ICONS: IconMeta[] = [
     "category": "navigation",
     "tags": [
       "arrows",
-      "up"
+      "up",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconArrowsUp"
   },
@@ -4840,7 +4947,9 @@ export const TABLER_ICONS: IconMeta[] = [
     "tags": [
       "arrows",
       "up",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconArrowsUpDown"
   },
@@ -4852,7 +4961,9 @@ export const TABLER_ICONS: IconMeta[] = [
     "tags": [
       "arrows",
       "up",
-      "left"
+      "left",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconArrowsUpLeft"
   },
@@ -4864,7 +4975,9 @@ export const TABLER_ICONS: IconMeta[] = [
     "tags": [
       "arrows",
       "up",
-      "right"
+      "right",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconArrowsUpRight"
   },
@@ -4883,7 +4996,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-artboard",
     "name": "Artboard",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "artboard"
     ],
@@ -4893,7 +5006,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-artboard-filled",
     "name": "Artboard Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "artboard",
       "filled"
@@ -4904,7 +5017,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-artboard-off",
     "name": "Artboard Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "artboard",
       "off"
@@ -4915,7 +5028,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-article",
     "name": "Article",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "article"
     ],
@@ -4925,7 +5038,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-article-filled",
     "name": "Article Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "article",
       "filled"
@@ -4936,7 +5049,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-article-off",
     "name": "Article Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "article",
       "off"
@@ -5163,7 +5276,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-automatic-gearbox",
     "name": "Automatic Gearbox",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "ai-ml",
     "tags": [
       "automatic",
       "gearbox"
@@ -5174,7 +5287,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-automatic-gearbox-filled",
     "name": "Automatic Gearbox Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "ai-ml",
     "tags": [
       "automatic",
       "gearbox",
@@ -5186,7 +5299,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-automation",
     "name": "Automation",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "ai-ml",
     "tags": [
       "automation"
     ],
@@ -5206,7 +5319,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-award",
     "name": "Award",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "award"
     ],
@@ -5216,7 +5329,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-award-filled",
     "name": "Award Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "award",
       "filled"
@@ -5227,7 +5340,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-award-off",
     "name": "Award Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "award",
       "off"
@@ -5270,7 +5383,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-baby-bottle",
     "name": "Baby Bottle",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "baby",
       "bottle"
@@ -5281,7 +5394,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-baby-carriage",
     "name": "Baby Carriage",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "baby",
       "carriage"
@@ -5292,7 +5405,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-baby-carriage-filled",
     "name": "Baby Carriage Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "baby",
       "carriage",
@@ -5304,7 +5417,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-background",
     "name": "Background",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "background"
     ],
@@ -5314,7 +5427,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-backhoe",
     "name": "Backhoe",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "backhoe"
     ],
@@ -5324,7 +5437,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-backpack",
     "name": "Backpack",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "backpack"
     ],
@@ -5334,7 +5447,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-backpack-off",
     "name": "Backpack Off",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "backpack",
       "off"
@@ -5345,7 +5458,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-backslash",
     "name": "Backslash",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "backslash"
     ],
@@ -5355,7 +5468,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-backspace",
     "name": "Backspace",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "backspace"
     ],
@@ -5365,7 +5478,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-backspace-filled",
     "name": "Backspace Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "backspace",
       "filled"
@@ -6148,7 +6261,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-basket",
     "name": "Basket",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "finance",
     "tags": [
       "basket"
     ],
@@ -6158,7 +6271,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-basket-bolt",
     "name": "Basket Bolt",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "finance",
     "tags": [
       "basket",
       "bolt"
@@ -6169,7 +6282,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-basket-cancel",
     "name": "Basket Cancel",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "finance",
     "tags": [
       "basket",
       "cancel"
@@ -6180,7 +6293,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-basket-check",
     "name": "Basket Check",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "finance",
     "tags": [
       "basket",
       "check"
@@ -6191,7 +6304,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-basket-code",
     "name": "Basket Code",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "finance",
     "tags": [
       "basket",
       "code"
@@ -6202,7 +6315,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-basket-cog",
     "name": "Basket Cog",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "finance",
     "tags": [
       "basket",
       "cog"
@@ -6235,10 +6348,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-basket-down",
     "name": "Basket Down",
     "set": "tabler",
-    "category": "navigation",
+    "category": "finance",
     "tags": [
       "basket",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconBasketDown"
   },
@@ -6246,7 +6361,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-basket-exclamation",
     "name": "Basket Exclamation",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "finance",
     "tags": [
       "basket",
       "exclamation"
@@ -6257,7 +6372,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-basket-filled",
     "name": "Basket Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "finance",
     "tags": [
       "basket",
       "filled"
@@ -6268,7 +6383,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-basket-heart",
     "name": "Basket Heart",
     "set": "tabler",
-    "category": "people-social",
+    "category": "finance",
     "tags": [
       "basket",
       "heart"
@@ -6279,7 +6394,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-basket-minus",
     "name": "Basket Minus",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "finance",
     "tags": [
       "basket",
       "minus"
@@ -6290,7 +6405,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-basket-off",
     "name": "Basket Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "finance",
     "tags": [
       "basket",
       "off"
@@ -6301,7 +6416,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-basket-pause",
     "name": "Basket Pause",
     "set": "tabler",
-    "category": "media",
+    "category": "finance",
     "tags": [
       "basket",
       "pause"
@@ -6312,7 +6427,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-basket-pin",
     "name": "Basket Pin",
     "set": "tabler",
-    "category": "maps-location",
+    "category": "finance",
     "tags": [
       "basket",
       "pin"
@@ -6323,7 +6438,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-basket-plus",
     "name": "Basket Plus",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "finance",
     "tags": [
       "basket",
       "plus"
@@ -6334,7 +6449,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-basket-question",
     "name": "Basket Question",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "finance",
     "tags": [
       "basket",
       "question"
@@ -6345,7 +6460,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-basket-search",
     "name": "Basket Search",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "finance",
     "tags": [
       "basket",
       "search"
@@ -6356,7 +6471,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-basket-share",
     "name": "Basket Share",
     "set": "tabler",
-    "category": "people-social",
+    "category": "finance",
     "tags": [
       "basket",
       "share"
@@ -6367,7 +6482,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-basket-star",
     "name": "Basket Star",
     "set": "tabler",
-    "category": "people-social",
+    "category": "finance",
     "tags": [
       "basket",
       "star"
@@ -6378,10 +6493,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-basket-up",
     "name": "Basket Up",
     "set": "tabler",
-    "category": "navigation",
+    "category": "finance",
     "tags": [
       "basket",
-      "up"
+      "up",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconBasketUp"
   },
@@ -6389,7 +6506,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-basket-x",
     "name": "Basket X",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "finance",
     "tags": [
       "basket",
       "x"
@@ -6442,7 +6559,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-battery",
     "name": "Battery",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "compute",
     "tags": [
       "battery"
     ],
@@ -6452,7 +6569,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-battery1",
     "name": "Battery1",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "compute",
     "tags": [
       "battery1"
     ],
@@ -6462,7 +6579,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-battery1-filled",
     "name": "Battery1 Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "compute",
     "tags": [
       "battery1",
       "filled"
@@ -6473,7 +6590,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-battery2",
     "name": "Battery2",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "compute",
     "tags": [
       "battery2"
     ],
@@ -6483,7 +6600,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-battery2-filled",
     "name": "Battery2 Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "compute",
     "tags": [
       "battery2",
       "filled"
@@ -6494,7 +6611,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-battery3",
     "name": "Battery3",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "compute",
     "tags": [
       "battery3"
     ],
@@ -6504,7 +6621,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-battery3-filled",
     "name": "Battery3 Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "compute",
     "tags": [
       "battery3",
       "filled"
@@ -6515,7 +6632,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-battery4",
     "name": "Battery4",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "compute",
     "tags": [
       "battery4"
     ],
@@ -6525,7 +6642,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-battery4-filled",
     "name": "Battery4 Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "compute",
     "tags": [
       "battery4",
       "filled"
@@ -6536,7 +6653,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-battery-automotive",
     "name": "Battery Automotive",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "compute",
     "tags": [
       "battery",
       "automotive"
@@ -6547,7 +6664,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-battery-automotive-filled",
     "name": "Battery Automotive Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "compute",
     "tags": [
       "battery",
       "automotive",
@@ -6559,7 +6676,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-battery-charging",
     "name": "Battery Charging",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "compute",
     "tags": [
       "battery",
       "charging"
@@ -6570,7 +6687,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-battery-charging2",
     "name": "Battery Charging2",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "compute",
     "tags": [
       "battery",
       "charging2"
@@ -6581,7 +6698,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-battery-eco",
     "name": "Battery Eco",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "compute",
     "tags": [
       "battery",
       "eco"
@@ -6592,7 +6709,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-battery-exclamation",
     "name": "Battery Exclamation",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "compute",
     "tags": [
       "battery",
       "exclamation"
@@ -6603,7 +6720,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-battery-filled",
     "name": "Battery Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "compute",
     "tags": [
       "battery",
       "filled"
@@ -6614,7 +6731,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-battery-off",
     "name": "Battery Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "compute",
     "tags": [
       "battery",
       "off"
@@ -6625,7 +6742,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-battery-spark",
     "name": "Battery Spark",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "compute",
     "tags": [
       "battery",
       "spark"
@@ -6636,7 +6753,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-battery-vertical",
     "name": "Battery Vertical",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "compute",
     "tags": [
       "battery",
       "vertical"
@@ -6647,7 +6764,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-battery-vertical1",
     "name": "Battery Vertical1",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "compute",
     "tags": [
       "battery",
       "vertical1"
@@ -6658,7 +6775,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-battery-vertical1-filled",
     "name": "Battery Vertical1 Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "compute",
     "tags": [
       "battery",
       "vertical1",
@@ -6670,7 +6787,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-battery-vertical2",
     "name": "Battery Vertical2",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "compute",
     "tags": [
       "battery",
       "vertical2"
@@ -6681,7 +6798,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-battery-vertical2-filled",
     "name": "Battery Vertical2 Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "compute",
     "tags": [
       "battery",
       "vertical2",
@@ -6693,7 +6810,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-battery-vertical3",
     "name": "Battery Vertical3",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "compute",
     "tags": [
       "battery",
       "vertical3"
@@ -6704,7 +6821,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-battery-vertical3-filled",
     "name": "Battery Vertical3 Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "compute",
     "tags": [
       "battery",
       "vertical3",
@@ -6716,7 +6833,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-battery-vertical4",
     "name": "Battery Vertical4",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "compute",
     "tags": [
       "battery",
       "vertical4"
@@ -6727,7 +6844,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-battery-vertical4-filled",
     "name": "Battery Vertical4 Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "compute",
     "tags": [
       "battery",
       "vertical4",
@@ -6739,7 +6856,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-battery-vertical-charging",
     "name": "Battery Vertical Charging",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "compute",
     "tags": [
       "battery",
       "vertical",
@@ -6751,7 +6868,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-battery-vertical-charging2",
     "name": "Battery Vertical Charging2",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "compute",
     "tags": [
       "battery",
       "vertical",
@@ -6763,7 +6880,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-battery-vertical-eco",
     "name": "Battery Vertical Eco",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "compute",
     "tags": [
       "battery",
       "vertical",
@@ -6775,7 +6892,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-battery-vertical-exclamation",
     "name": "Battery Vertical Exclamation",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "compute",
     "tags": [
       "battery",
       "vertical",
@@ -6787,7 +6904,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-battery-vertical-filled",
     "name": "Battery Vertical Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "compute",
     "tags": [
       "battery",
       "vertical",
@@ -6799,7 +6916,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-battery-vertical-off",
     "name": "Battery Vertical Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "compute",
     "tags": [
       "battery",
       "vertical",
@@ -6811,7 +6928,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-beach",
     "name": "Beach",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "beach"
     ],
@@ -6821,7 +6938,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-beach-off",
     "name": "Beach Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "beach",
       "off"
@@ -6984,7 +7101,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-bell-dollar",
     "name": "Bell Dollar",
     "set": "tabler",
-    "category": "finance",
+    "category": "messaging-queue",
     "tags": [
       "bell",
       "dollar"
@@ -6995,10 +7112,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-bell-down",
     "name": "Bell Down",
     "set": "tabler",
-    "category": "navigation",
+    "category": "messaging-queue",
     "tags": [
       "bell",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconBellDown"
   },
@@ -7028,7 +7147,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-bell-heart",
     "name": "Bell Heart",
     "set": "tabler",
-    "category": "people-social",
+    "category": "messaging-queue",
     "tags": [
       "bell",
       "heart"
@@ -7073,7 +7192,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-bell-pause",
     "name": "Bell Pause",
     "set": "tabler",
-    "category": "media",
+    "category": "messaging-queue",
     "tags": [
       "bell",
       "pause"
@@ -7084,7 +7203,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-bell-pin",
     "name": "Bell Pin",
     "set": "tabler",
-    "category": "maps-location",
+    "category": "messaging-queue",
     "tags": [
       "bell",
       "pin"
@@ -7197,7 +7316,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-bell-share",
     "name": "Bell Share",
     "set": "tabler",
-    "category": "people-social",
+    "category": "messaging-queue",
     "tags": [
       "bell",
       "share"
@@ -7208,7 +7327,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-bell-star",
     "name": "Bell Star",
     "set": "tabler",
-    "category": "people-social",
+    "category": "messaging-queue",
     "tags": [
       "bell",
       "star"
@@ -7219,10 +7338,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-bell-up",
     "name": "Bell Up",
     "set": "tabler",
-    "category": "navigation",
+    "category": "messaging-queue",
     "tags": [
       "bell",
-      "up"
+      "up",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconBellUp"
   },
@@ -7296,7 +7417,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-bike",
     "name": "Bike",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "bike"
     ],
@@ -7306,7 +7427,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-bike-filled",
     "name": "Bike Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "bike",
       "filled"
@@ -7317,7 +7438,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-bike-off",
     "name": "Bike Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "bike",
       "off"
@@ -7839,7 +7960,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-book-download",
     "name": "Book Download",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "book",
       "download"
@@ -7872,7 +7993,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-book-upload",
     "name": "Book Upload",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "book",
       "upload"
@@ -8044,7 +8165,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-border-all",
     "name": "Border All",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "border",
       "all"
@@ -8055,7 +8176,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-border-bottom",
     "name": "Border Bottom",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "border",
       "bottom"
@@ -8066,7 +8187,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-border-bottom-plus",
     "name": "Border Bottom Plus",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "border",
       "bottom",
@@ -8078,7 +8199,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-border-corner-ios",
     "name": "Border Corner Ios",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "border",
       "corner",
@@ -8090,7 +8211,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-border-corner-pill",
     "name": "Border Corner Pill",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "border",
       "corner",
@@ -8102,7 +8223,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-border-corner-rounded",
     "name": "Border Corner Rounded",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "border",
       "corner",
@@ -8114,7 +8235,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-border-corner-square",
     "name": "Border Corner Square",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "border",
       "corner",
@@ -8126,7 +8247,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-border-corners",
     "name": "Border Corners",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "border",
       "corners"
@@ -8137,7 +8258,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-border-horizontal",
     "name": "Border Horizontal",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "border",
       "horizontal"
@@ -8148,7 +8269,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-border-inner",
     "name": "Border Inner",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "border",
       "inner"
@@ -8159,10 +8280,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-border-left",
     "name": "Border Left",
     "set": "tabler",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "border",
-      "left"
+      "left",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconBorderLeft"
   },
@@ -8170,7 +8293,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-border-left-plus",
     "name": "Border Left Plus",
     "set": "tabler",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "border",
       "left",
@@ -8182,7 +8305,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-border-none",
     "name": "Border None",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "border",
       "none"
@@ -8193,7 +8316,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-border-outer",
     "name": "Border Outer",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "border",
       "outer"
@@ -8204,7 +8327,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-border-radius",
     "name": "Border Radius",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "border",
       "radius"
@@ -8215,10 +8338,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-border-right",
     "name": "Border Right",
     "set": "tabler",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "border",
-      "right"
+      "right",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconBorderRight"
   },
@@ -8226,7 +8351,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-border-right-plus",
     "name": "Border Right Plus",
     "set": "tabler",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "border",
       "right",
@@ -8238,7 +8363,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-border-sides",
     "name": "Border Sides",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "border",
       "sides"
@@ -8249,7 +8374,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-border-style",
     "name": "Border Style",
     "set": "tabler",
-    "category": "frontend-client",
+    "category": "editor",
     "tags": [
       "border",
       "style"
@@ -8260,7 +8385,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-border-style2",
     "name": "Border Style2",
     "set": "tabler",
-    "category": "frontend-client",
+    "category": "editor",
     "tags": [
       "border",
       "style2"
@@ -8271,7 +8396,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-border-top",
     "name": "Border Top",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "border",
       "top"
@@ -8282,7 +8407,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-border-top-plus",
     "name": "Border Top Plus",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "border",
       "top",
@@ -8294,7 +8419,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-border-vertical",
     "name": "Border Vertical",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "border",
       "vertical"
@@ -8305,7 +8430,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-bot-id",
     "name": "Bot Id",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "ai-ml",
     "tags": [
       "bot",
       "id"
@@ -8316,7 +8441,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-bottle",
     "name": "Bottle",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "ai-ml",
     "tags": [
       "bottle"
     ],
@@ -8326,7 +8451,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-bottle-filled",
     "name": "Bottle Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "ai-ml",
     "tags": [
       "bottle",
       "filled"
@@ -8337,7 +8462,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-bottle-off",
     "name": "Bottle Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "ai-ml",
     "tags": [
       "bottle",
       "off"
@@ -8348,10 +8473,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-bounce-left",
     "name": "Bounce Left",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "bounce",
-      "left"
+      "left",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconBounceLeft"
   },
@@ -8359,7 +8486,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-bounce-left-filled",
     "name": "Bounce Left Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "bounce",
       "left",
@@ -8371,10 +8498,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-bounce-right",
     "name": "Bounce Right",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "bounce",
-      "right"
+      "right",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconBounceRight"
   },
@@ -8382,7 +8511,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-bounce-right-filled",
     "name": "Bounce Right Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "bounce",
       "right",
@@ -8502,7 +8631,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-box-align-bottom",
     "name": "Box Align Bottom",
     "set": "tabler",
-    "category": "editor",
+    "category": "general-ui",
     "tags": [
       "box",
       "align",
@@ -8514,7 +8643,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-box-align-bottom-filled",
     "name": "Box Align Bottom Filled",
     "set": "tabler",
-    "category": "editor",
+    "category": "general-ui",
     "tags": [
       "box",
       "align",
@@ -8527,12 +8656,14 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-box-align-bottom-left",
     "name": "Box Align Bottom Left",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "box",
       "align",
       "bottom",
-      "left"
+      "left",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconBoxAlignBottomLeft"
   },
@@ -8540,7 +8671,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-box-align-bottom-left-filled",
     "name": "Box Align Bottom Left Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "box",
       "align",
@@ -8554,12 +8685,14 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-box-align-bottom-right",
     "name": "Box Align Bottom Right",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "box",
       "align",
       "bottom",
-      "right"
+      "right",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconBoxAlignBottomRight"
   },
@@ -8567,7 +8700,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-box-align-bottom-right-filled",
     "name": "Box Align Bottom Right Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "box",
       "align",
@@ -8581,11 +8714,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-box-align-left",
     "name": "Box Align Left",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "box",
       "align",
-      "left"
+      "left",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconBoxAlignLeft"
   },
@@ -8593,7 +8728,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-box-align-left-filled",
     "name": "Box Align Left Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "box",
       "align",
@@ -8606,11 +8741,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-box-align-right",
     "name": "Box Align Right",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "box",
       "align",
-      "right"
+      "right",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconBoxAlignRight"
   },
@@ -8618,7 +8755,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-box-align-right-filled",
     "name": "Box Align Right Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "box",
       "align",
@@ -8631,7 +8768,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-box-align-top",
     "name": "Box Align Top",
     "set": "tabler",
-    "category": "editor",
+    "category": "general-ui",
     "tags": [
       "box",
       "align",
@@ -8643,7 +8780,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-box-align-top-filled",
     "name": "Box Align Top Filled",
     "set": "tabler",
-    "category": "editor",
+    "category": "general-ui",
     "tags": [
       "box",
       "align",
@@ -8656,12 +8793,14 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-box-align-top-left",
     "name": "Box Align Top Left",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "box",
       "align",
       "top",
-      "left"
+      "left",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconBoxAlignTopLeft"
   },
@@ -8669,7 +8808,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-box-align-top-left-filled",
     "name": "Box Align Top Left Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "box",
       "align",
@@ -8683,12 +8822,14 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-box-align-top-right",
     "name": "Box Align Top Right",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "box",
       "align",
       "top",
-      "right"
+      "right",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconBoxAlignTopRight"
   },
@@ -8696,7 +8837,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-box-align-top-right-filled",
     "name": "Box Align Top Right Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "box",
       "align",
@@ -8933,7 +9074,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-braces",
     "name": "Braces",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "braces"
     ],
@@ -8943,7 +9084,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-braces-off",
     "name": "Braces Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "braces",
       "off"
@@ -8954,7 +9095,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brackets",
     "name": "Brackets",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "brackets"
     ],
@@ -8964,7 +9105,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brackets-angle",
     "name": "Brackets Angle",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "brackets",
       "angle"
@@ -8975,7 +9116,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brackets-angle-off",
     "name": "Brackets Angle Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "brackets",
       "angle",
@@ -8987,7 +9128,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brackets-contain",
     "name": "Brackets Contain",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "brackets",
       "contain"
@@ -8998,7 +9139,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brackets-contain-end",
     "name": "Brackets Contain End",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "brackets",
       "contain",
@@ -9010,7 +9151,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brackets-contain-start",
     "name": "Brackets Contain Start",
     "set": "tabler",
-    "category": "people-social",
+    "category": "diagram-primitives",
     "tags": [
       "brackets",
       "contain",
@@ -9022,7 +9163,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brackets-off",
     "name": "Brackets Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "brackets",
       "off"
@@ -9053,7 +9194,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand4chan",
     "name": "Brand4chan",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand4chan"
     ],
@@ -9063,7 +9204,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-abstract",
     "name": "Brand Abstract",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "abstract"
@@ -9074,7 +9215,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-adobe",
     "name": "Brand Adobe",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "adobe"
@@ -9085,7 +9226,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-adobe-after-effect",
     "name": "Brand Adobe After Effect",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "adobe",
@@ -9098,7 +9239,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-adobe-illustrator",
     "name": "Brand Adobe Illustrator",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "adobe",
@@ -9110,7 +9251,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-adobe-indesign",
     "name": "Brand Adobe Indesign",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "adobe",
@@ -9122,7 +9263,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-adobe-photoshop",
     "name": "Brand Adobe Photoshop",
     "set": "tabler",
-    "category": "media",
+    "category": "brand",
     "tags": [
       "brand",
       "adobe",
@@ -9134,7 +9275,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-adobe-premier",
     "name": "Brand Adobe Premier",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "adobe",
@@ -9146,7 +9287,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-adobe-premiere",
     "name": "Brand Adobe Premiere",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "adobe",
@@ -9158,7 +9299,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-adobe-xd",
     "name": "Brand Adobe Xd",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "adobe",
@@ -9170,7 +9311,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-adonis-js",
     "name": "Brand Adonis Js",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "adonis",
@@ -9182,7 +9323,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-airbnb",
     "name": "Brand Airbnb",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "airbnb"
@@ -9193,7 +9334,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-airtable",
     "name": "Brand Airtable",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "airtable"
@@ -9204,7 +9345,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-algolia",
     "name": "Brand Algolia",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "algolia"
@@ -9215,7 +9356,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-alipay",
     "name": "Brand Alipay",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "alipay"
@@ -9226,7 +9367,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-alpine-js",
     "name": "Brand Alpine Js",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "alpine",
@@ -9238,7 +9379,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-amazon",
     "name": "Brand Amazon",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "amazon"
@@ -9249,7 +9390,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-amd",
     "name": "Brand Amd",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "amd"
@@ -9260,7 +9401,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-amie",
     "name": "Brand Amie",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "amie"
@@ -9271,7 +9412,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-amigo",
     "name": "Brand Amigo",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "amigo"
@@ -9282,7 +9423,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-among-us",
     "name": "Brand Among Us",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "among",
@@ -9294,7 +9435,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-android",
     "name": "Brand Android",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "android"
@@ -9305,7 +9446,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-angular",
     "name": "Brand Angular",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "angular"
@@ -9316,7 +9457,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-angular-filled",
     "name": "Brand Angular Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "angular",
@@ -9328,7 +9469,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-ansible",
     "name": "Brand Ansible",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "ansible"
@@ -9339,7 +9480,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-ao3",
     "name": "Brand Ao3",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "ao3"
@@ -9350,7 +9491,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-appgallery",
     "name": "Brand Appgallery",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "appgallery"
@@ -9361,7 +9502,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-apple",
     "name": "Brand Apple",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "apple"
@@ -9372,7 +9513,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-apple-arcade",
     "name": "Brand Apple Arcade",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "apple",
@@ -9384,7 +9525,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-apple-filled",
     "name": "Brand Apple Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "apple",
@@ -9396,7 +9537,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-apple-news",
     "name": "Brand Apple News",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "apple",
@@ -9408,7 +9549,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-apple-podcast",
     "name": "Brand Apple Podcast",
     "set": "tabler",
-    "category": "media",
+    "category": "brand",
     "tags": [
       "brand",
       "apple",
@@ -9420,7 +9561,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-appstore",
     "name": "Brand Appstore",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "appstore"
@@ -9431,7 +9572,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-arc",
     "name": "Brand Arc",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "arc"
@@ -9442,7 +9583,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-asana",
     "name": "Brand Asana",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "asana"
@@ -9453,7 +9594,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-astro",
     "name": "Brand Astro",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "astro"
@@ -9464,7 +9605,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-audible",
     "name": "Brand Audible",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "audible"
@@ -9475,7 +9616,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-auth0",
     "name": "Brand Auth0",
     "set": "tabler",
-    "category": "security-identity",
+    "category": "brand",
     "tags": [
       "brand",
       "auth0"
@@ -9486,7 +9627,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-aws",
     "name": "Brand Aws",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "aws"
@@ -9497,7 +9638,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-azure",
     "name": "Brand Azure",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "azure"
@@ -9508,7 +9649,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-backbone",
     "name": "Brand Backbone",
     "set": "tabler",
-    "category": "navigation",
+    "category": "brand",
     "tags": [
       "brand",
       "backbone"
@@ -9519,7 +9660,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-badoo",
     "name": "Brand Badoo",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "badoo"
@@ -9530,7 +9671,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-baidu",
     "name": "Brand Baidu",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "baidu"
@@ -9541,7 +9682,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-bandcamp",
     "name": "Brand Bandcamp",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "bandcamp"
@@ -9552,7 +9693,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-bandlab",
     "name": "Brand Bandlab",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "bandlab"
@@ -9563,7 +9704,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-beats",
     "name": "Brand Beats",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "beats"
@@ -9574,7 +9715,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-bebo",
     "name": "Brand Bebo",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "bebo"
@@ -9585,7 +9726,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-behance",
     "name": "Brand Behance",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "behance"
@@ -9596,7 +9737,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-bilibili",
     "name": "Brand Bilibili",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "bilibili"
@@ -9607,7 +9748,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-binance",
     "name": "Brand Binance",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "binance"
@@ -9618,7 +9759,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-bing",
     "name": "Brand Bing",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "bing"
@@ -9629,7 +9770,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-bitbucket",
     "name": "Brand Bitbucket",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "bitbucket"
@@ -9640,7 +9781,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-bitbucket-filled",
     "name": "Brand Bitbucket Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "bitbucket",
@@ -9652,7 +9793,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-blackberry",
     "name": "Brand Blackberry",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "blackberry"
@@ -9663,7 +9804,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-blender",
     "name": "Brand Blender",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "blender"
@@ -9674,7 +9815,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-blogger",
     "name": "Brand Blogger",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "blogger"
@@ -9685,7 +9826,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-bluesky",
     "name": "Brand Bluesky",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "bluesky"
@@ -9696,7 +9837,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-booking",
     "name": "Brand Booking",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "booking"
@@ -9707,7 +9848,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-bootstrap",
     "name": "Brand Bootstrap",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "bootstrap"
@@ -9718,7 +9859,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-bulma",
     "name": "Brand Bulma",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "bulma"
@@ -9729,7 +9870,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-bumble",
     "name": "Brand Bumble",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "bumble"
@@ -9740,7 +9881,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-bunpo",
     "name": "Brand Bunpo",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "bunpo"
@@ -9751,7 +9892,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-c-sharp",
     "name": "Brand C Sharp",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "c",
@@ -9763,7 +9904,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-cake",
     "name": "Brand Cake",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "cake"
@@ -9774,7 +9915,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-cakephp",
     "name": "Brand Cakephp",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "cakephp"
@@ -9785,7 +9926,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-campaignmonitor",
     "name": "Brand Campaignmonitor",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "campaignmonitor"
@@ -9796,7 +9937,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-carbon",
     "name": "Brand Carbon",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "carbon"
@@ -9807,7 +9948,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-cashapp",
     "name": "Brand Cashapp",
     "set": "tabler",
-    "category": "finance",
+    "category": "brand",
     "tags": [
       "brand",
       "cashapp"
@@ -9818,7 +9959,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-chrome",
     "name": "Brand Chrome",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "chrome"
@@ -9829,7 +9970,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-cinema4d",
     "name": "Brand Cinema4d",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "cinema4d"
@@ -9840,7 +9981,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-citymapper",
     "name": "Brand Citymapper",
     "set": "tabler",
-    "category": "maps-location",
+    "category": "brand",
     "tags": [
       "brand",
       "citymapper"
@@ -9851,7 +9992,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-cloudflare",
     "name": "Brand Cloudflare",
     "set": "tabler",
-    "category": "compute",
+    "category": "brand",
     "tags": [
       "brand",
       "cloudflare"
@@ -9862,7 +10003,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-codecov",
     "name": "Brand Codecov",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "codecov"
@@ -9873,7 +10014,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-codepen",
     "name": "Brand Codepen",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "codepen"
@@ -9884,7 +10025,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-codesandbox",
     "name": "Brand Codesandbox",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "codesandbox"
@@ -9895,7 +10036,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-cohost",
     "name": "Brand Cohost",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "cohost"
@@ -9906,7 +10047,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-coinbase",
     "name": "Brand Coinbase",
     "set": "tabler",
-    "category": "finance",
+    "category": "brand",
     "tags": [
       "brand",
       "coinbase"
@@ -9917,7 +10058,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-comedy-central",
     "name": "Brand Comedy Central",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "comedy",
@@ -9929,7 +10070,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-coreos",
     "name": "Brand Coreos",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "coreos"
@@ -9940,7 +10081,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-couchdb",
     "name": "Brand Couchdb",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "couchdb"
@@ -9951,7 +10092,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-couchsurfing",
     "name": "Brand Couchsurfing",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "couchsurfing"
@@ -9962,7 +10103,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-cpp",
     "name": "Brand Cpp",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "cpp"
@@ -9973,7 +10114,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-craft",
     "name": "Brand Craft",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "craft"
@@ -9984,7 +10125,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-crunchbase",
     "name": "Brand Crunchbase",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "crunchbase"
@@ -9995,7 +10136,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-css3",
     "name": "Brand Css3",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "css3"
@@ -10006,7 +10147,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-ctemplar",
     "name": "Brand Ctemplar",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "ctemplar"
@@ -10017,7 +10158,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-cucumber",
     "name": "Brand Cucumber",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "cucumber"
@@ -10028,7 +10169,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-cupra",
     "name": "Brand Cupra",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "cupra"
@@ -10039,7 +10180,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-cypress",
     "name": "Brand Cypress",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "cypress"
@@ -10050,7 +10191,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-d3",
     "name": "Brand D3",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "d3"
@@ -10061,7 +10202,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-databricks",
     "name": "Brand Databricks",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "databricks"
@@ -10072,7 +10213,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-days-counter",
     "name": "Brand Days Counter",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "days",
@@ -10084,7 +10225,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-dcos",
     "name": "Brand Dcos",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "dcos"
@@ -10095,7 +10236,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-debian",
     "name": "Brand Debian",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "debian"
@@ -10106,7 +10247,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-deezer",
     "name": "Brand Deezer",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "deezer"
@@ -10117,7 +10258,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-deliveroo",
     "name": "Brand Deliveroo",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "deliveroo"
@@ -10128,7 +10269,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-deno",
     "name": "Brand Deno",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "deno"
@@ -10139,7 +10280,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-denodo",
     "name": "Brand Denodo",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "denodo"
@@ -10150,7 +10291,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-deviantart",
     "name": "Brand Deviantart",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "deviantart"
@@ -10161,7 +10302,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-digg",
     "name": "Brand Digg",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "digg"
@@ -10172,7 +10313,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-dingtalk",
     "name": "Brand Dingtalk",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "dingtalk"
@@ -10183,7 +10324,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-discord",
     "name": "Brand Discord",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "discord"
@@ -10194,7 +10335,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-discord-filled",
     "name": "Brand Discord Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "discord",
@@ -10206,7 +10347,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-disney",
     "name": "Brand Disney",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "disney"
@@ -10217,7 +10358,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-disqus",
     "name": "Brand Disqus",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "disqus"
@@ -10228,7 +10369,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-django",
     "name": "Brand Django",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "django"
@@ -10239,7 +10380,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-docker",
     "name": "Brand Docker",
     "set": "tabler",
-    "category": "devops-cicd",
+    "category": "brand",
     "tags": [
       "brand",
       "docker"
@@ -10250,7 +10391,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-doctrine",
     "name": "Brand Doctrine",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "doctrine"
@@ -10261,7 +10402,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-dolby-digital",
     "name": "Brand Dolby Digital",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "dolby",
@@ -10273,7 +10414,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-douban",
     "name": "Brand Douban",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "douban"
@@ -10284,7 +10425,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-dribbble",
     "name": "Brand Dribbble",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "dribbble"
@@ -10295,7 +10436,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-dribbble-filled",
     "name": "Brand Dribbble Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "dribbble",
@@ -10307,7 +10448,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-dropbox",
     "name": "Brand Dropbox",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "dropbox"
@@ -10318,7 +10459,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-drops",
     "name": "Brand Drops",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "drops"
@@ -10329,7 +10470,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-drupal",
     "name": "Brand Drupal",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "drupal"
@@ -10340,7 +10481,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-edge",
     "name": "Brand Edge",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "edge"
@@ -10351,7 +10492,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-elastic",
     "name": "Brand Elastic",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "elastic"
@@ -10362,7 +10503,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-electronic-arts",
     "name": "Brand Electronic Arts",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "electronic",
@@ -10374,7 +10515,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-ember",
     "name": "Brand Ember",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "ember"
@@ -10385,7 +10526,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-envato",
     "name": "Brand Envato",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "envato"
@@ -10396,7 +10537,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-etsy",
     "name": "Brand Etsy",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "etsy"
@@ -10407,7 +10548,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-evernote",
     "name": "Brand Evernote",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "evernote"
@@ -10418,7 +10559,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-facebook",
     "name": "Brand Facebook",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "facebook"
@@ -10429,7 +10570,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-facebook-filled",
     "name": "Brand Facebook Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "facebook",
@@ -10441,7 +10582,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-feedly",
     "name": "Brand Feedly",
     "set": "tabler",
-    "category": "people-social",
+    "category": "brand",
     "tags": [
       "brand",
       "feedly"
@@ -10452,7 +10593,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-figma",
     "name": "Brand Figma",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "figma"
@@ -10463,7 +10604,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-filezilla",
     "name": "Brand Filezilla",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "filezilla"
@@ -10474,7 +10615,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-finder",
     "name": "Brand Finder",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "finder"
@@ -10485,7 +10626,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-firebase",
     "name": "Brand Firebase",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "firebase"
@@ -10496,7 +10637,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-firefox",
     "name": "Brand Firefox",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "firefox"
@@ -10507,7 +10648,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-fiverr",
     "name": "Brand Fiverr",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "fiverr"
@@ -10518,7 +10659,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-flickr",
     "name": "Brand Flickr",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "flickr"
@@ -10529,7 +10670,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-flightradar24",
     "name": "Brand Flightradar24",
     "set": "tabler",
-    "category": "maps-location",
+    "category": "brand",
     "tags": [
       "brand",
       "flightradar24"
@@ -10540,7 +10681,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-flipboard",
     "name": "Brand Flipboard",
     "set": "tabler",
-    "category": "editor",
+    "category": "brand",
     "tags": [
       "brand",
       "flipboard"
@@ -10551,7 +10692,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-flutter",
     "name": "Brand Flutter",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "flutter"
@@ -10562,7 +10703,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-fortnite",
     "name": "Brand Fortnite",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "fortnite"
@@ -10573,7 +10714,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-foursquare",
     "name": "Brand Foursquare",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "foursquare"
@@ -10584,7 +10725,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-framer",
     "name": "Brand Framer",
     "set": "tabler",
-    "category": "editor",
+    "category": "brand",
     "tags": [
       "brand",
       "framer"
@@ -10595,7 +10736,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-framer-motion",
     "name": "Brand Framer Motion",
     "set": "tabler",
-    "category": "editor",
+    "category": "brand",
     "tags": [
       "brand",
       "framer",
@@ -10607,7 +10748,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-funimation",
     "name": "Brand Funimation",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "funimation"
@@ -10618,7 +10759,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-gatsby",
     "name": "Brand Gatsby",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "gatsby"
@@ -10629,7 +10770,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-git",
     "name": "Brand Git",
     "set": "tabler",
-    "category": "devops-cicd",
+    "category": "brand",
     "tags": [
       "brand",
       "git"
@@ -10640,7 +10781,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-github",
     "name": "Brand Github",
     "set": "tabler",
-    "category": "devops-cicd",
+    "category": "brand",
     "tags": [
       "brand",
       "github"
@@ -10651,7 +10792,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-github-copilot",
     "name": "Brand Github Copilot",
     "set": "tabler",
-    "category": "devops-cicd",
+    "category": "brand",
     "tags": [
       "brand",
       "github",
@@ -10663,7 +10804,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-github-filled",
     "name": "Brand Github Filled",
     "set": "tabler",
-    "category": "devops-cicd",
+    "category": "brand",
     "tags": [
       "brand",
       "github",
@@ -10675,7 +10816,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-gitlab",
     "name": "Brand Gitlab",
     "set": "tabler",
-    "category": "devops-cicd",
+    "category": "brand",
     "tags": [
       "brand",
       "gitlab"
@@ -10686,7 +10827,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-gmail",
     "name": "Brand Gmail",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "gmail"
@@ -10697,7 +10838,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-golang",
     "name": "Brand Golang",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "golang"
@@ -10708,7 +10849,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-google",
     "name": "Brand Google",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "google"
@@ -10719,7 +10860,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-google-analytics",
     "name": "Brand Google Analytics",
     "set": "tabler",
-    "category": "monitoring-logging",
+    "category": "brand",
     "tags": [
       "brand",
       "google",
@@ -10731,7 +10872,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-google-big-query",
     "name": "Brand Google Big Query",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "google",
@@ -10744,7 +10885,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-google-drive",
     "name": "Brand Google Drive",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "google",
@@ -10756,7 +10897,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-google-filled",
     "name": "Brand Google Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "google",
@@ -10768,7 +10909,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-google-fit",
     "name": "Brand Google Fit",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "google",
@@ -10780,7 +10921,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-google-home",
     "name": "Brand Google Home",
     "set": "tabler",
-    "category": "navigation",
+    "category": "brand",
     "tags": [
       "brand",
       "google",
@@ -10792,7 +10933,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-google-maps",
     "name": "Brand Google Maps",
     "set": "tabler",
-    "category": "maps-location",
+    "category": "brand",
     "tags": [
       "brand",
       "google",
@@ -10804,7 +10945,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-google-one",
     "name": "Brand Google One",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "google",
@@ -10816,7 +10957,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-google-photos",
     "name": "Brand Google Photos",
     "set": "tabler",
-    "category": "media",
+    "category": "brand",
     "tags": [
       "brand",
       "google",
@@ -10828,7 +10969,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-google-play",
     "name": "Brand Google Play",
     "set": "tabler",
-    "category": "media",
+    "category": "brand",
     "tags": [
       "brand",
       "google",
@@ -10840,7 +10981,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-google-podcasts",
     "name": "Brand Google Podcasts",
     "set": "tabler",
-    "category": "media",
+    "category": "brand",
     "tags": [
       "brand",
       "google",
@@ -10852,7 +10993,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-grammarly",
     "name": "Brand Grammarly",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "grammarly"
@@ -10863,7 +11004,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-graphql",
     "name": "Brand Graphql",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "graphql"
@@ -10874,7 +11015,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-gravatar",
     "name": "Brand Gravatar",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "gravatar"
@@ -10885,7 +11026,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-grindr",
     "name": "Brand Grindr",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "grindr"
@@ -10896,7 +11037,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-guardian",
     "name": "Brand Guardian",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "guardian"
@@ -10907,7 +11048,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-gumroad",
     "name": "Brand Gumroad",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "gumroad"
@@ -10918,7 +11059,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-hackerrank",
     "name": "Brand Hackerrank",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "hackerrank"
@@ -10929,7 +11070,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-hbo",
     "name": "Brand Hbo",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "hbo"
@@ -10940,7 +11081,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-headlessui",
     "name": "Brand Headlessui",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "headlessui"
@@ -10951,7 +11092,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-hexo",
     "name": "Brand Hexo",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "hexo"
@@ -10962,7 +11103,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-hipchat",
     "name": "Brand Hipchat",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "hipchat"
@@ -10973,7 +11114,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-html5",
     "name": "Brand Html5",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "html5"
@@ -10984,7 +11125,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-inertia",
     "name": "Brand Inertia",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "inertia"
@@ -10995,7 +11136,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-infakt",
     "name": "Brand Infakt",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "infakt"
@@ -11006,7 +11147,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-instagram",
     "name": "Brand Instagram",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "instagram"
@@ -11017,7 +11158,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-instagram-filled",
     "name": "Brand Instagram Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "instagram",
@@ -11029,7 +11170,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-intercom",
     "name": "Brand Intercom",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "intercom"
@@ -11040,7 +11181,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-itch",
     "name": "Brand Itch",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "itch"
@@ -11051,7 +11192,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-javascript",
     "name": "Brand Javascript",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "javascript"
@@ -11062,7 +11203,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-jira",
     "name": "Brand Jira",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "jira"
@@ -11073,7 +11214,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-juejin",
     "name": "Brand Juejin",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "juejin"
@@ -11084,7 +11225,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-kako-talk",
     "name": "Brand Kako Talk",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "kako",
@@ -11096,7 +11237,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-kbin",
     "name": "Brand Kbin",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "kbin"
@@ -11107,7 +11248,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-kick",
     "name": "Brand Kick",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "kick"
@@ -11118,7 +11259,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-kick-filled",
     "name": "Brand Kick Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "kick",
@@ -11130,7 +11271,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-kickstarter",
     "name": "Brand Kickstarter",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "kickstarter"
@@ -11141,7 +11282,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-kotlin",
     "name": "Brand Kotlin",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "kotlin"
@@ -11152,7 +11293,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-laravel",
     "name": "Brand Laravel",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "laravel"
@@ -11163,7 +11304,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-lastfm",
     "name": "Brand Lastfm",
     "set": "tabler",
-    "category": "navigation",
+    "category": "brand",
     "tags": [
       "brand",
       "lastfm"
@@ -11174,7 +11315,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-leetcode",
     "name": "Brand Leetcode",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "leetcode"
@@ -11185,7 +11326,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-letterboxd",
     "name": "Brand Letterboxd",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "letterboxd"
@@ -11196,7 +11337,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-line",
     "name": "Brand Line",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "line"
@@ -11207,7 +11348,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-linkedin",
     "name": "Brand Linkedin",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "linkedin"
@@ -11218,7 +11359,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-linkedin-filled",
     "name": "Brand Linkedin Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "linkedin",
@@ -11230,7 +11371,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-linktree",
     "name": "Brand Linktree",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "linktree"
@@ -11241,7 +11382,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-linqpad",
     "name": "Brand Linqpad",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "linqpad"
@@ -11252,7 +11393,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-livewire",
     "name": "Brand Livewire",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "livewire"
@@ -11263,7 +11404,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-loom",
     "name": "Brand Loom",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "loom"
@@ -11274,7 +11415,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-mailgun",
     "name": "Brand Mailgun",
     "set": "tabler",
-    "category": "messaging-queue",
+    "category": "brand",
     "tags": [
       "brand",
       "mailgun"
@@ -11285,7 +11426,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-mantine",
     "name": "Brand Mantine",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "mantine"
@@ -11296,7 +11437,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-mastercard",
     "name": "Brand Mastercard",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "mastercard"
@@ -11307,7 +11448,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-mastodon",
     "name": "Brand Mastodon",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "mastodon"
@@ -11318,7 +11459,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-matrix",
     "name": "Brand Matrix",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "matrix"
@@ -11329,7 +11470,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-mcdonalds",
     "name": "Brand Mcdonalds",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "mcdonalds"
@@ -11340,7 +11481,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-medium",
     "name": "Brand Medium",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "medium"
@@ -11351,7 +11492,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-meetup",
     "name": "Brand Meetup",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "meetup"
@@ -11362,7 +11503,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-mercedes",
     "name": "Brand Mercedes",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "mercedes"
@@ -11373,7 +11514,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-messenger",
     "name": "Brand Messenger",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "messenger"
@@ -11384,7 +11525,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-messenger-filled",
     "name": "Brand Messenger Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "messenger",
@@ -11396,7 +11537,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-meta",
     "name": "Brand Meta",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "meta"
@@ -11407,7 +11548,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-metabrainz",
     "name": "Brand Metabrainz",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "metabrainz"
@@ -11418,7 +11559,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-minecraft",
     "name": "Brand Minecraft",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "minecraft"
@@ -11429,7 +11570,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-miniprogram",
     "name": "Brand Miniprogram",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "miniprogram"
@@ -11440,7 +11581,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-mixpanel",
     "name": "Brand Mixpanel",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "mixpanel"
@@ -11451,7 +11592,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-monday",
     "name": "Brand Monday",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "monday"
@@ -11462,7 +11603,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-mongodb",
     "name": "Brand Mongodb",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "mongodb"
@@ -11473,7 +11614,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-my-oppo",
     "name": "Brand My Oppo",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "my",
@@ -11485,7 +11626,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-mysql",
     "name": "Brand Mysql",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "mysql"
@@ -11496,7 +11637,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-national-geographic",
     "name": "Brand National Geographic",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "national",
@@ -11508,7 +11649,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-nem",
     "name": "Brand Nem",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "nem"
@@ -11519,7 +11660,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-netbeans",
     "name": "Brand Netbeans",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "netbeans"
@@ -11530,7 +11671,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-netease-music",
     "name": "Brand Netease Music",
     "set": "tabler",
-    "category": "media",
+    "category": "brand",
     "tags": [
       "brand",
       "netease",
@@ -11542,7 +11683,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-netflix",
     "name": "Brand Netflix",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "netflix"
@@ -11553,7 +11694,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-nexo",
     "name": "Brand Nexo",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "nexo"
@@ -11564,7 +11705,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-nextcloud",
     "name": "Brand Nextcloud",
     "set": "tabler",
-    "category": "navigation",
+    "category": "brand",
     "tags": [
       "brand",
       "nextcloud"
@@ -11575,7 +11716,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-nextjs",
     "name": "Brand Nextjs",
     "set": "tabler",
-    "category": "navigation",
+    "category": "brand",
     "tags": [
       "brand",
       "nextjs"
@@ -11586,7 +11727,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-nodejs",
     "name": "Brand Nodejs",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "nodejs"
@@ -11597,7 +11738,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-nord-vpn",
     "name": "Brand Nord Vpn",
     "set": "tabler",
-    "category": "networking",
+    "category": "brand",
     "tags": [
       "brand",
       "nord",
@@ -11609,7 +11750,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-notion",
     "name": "Brand Notion",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "notion"
@@ -11620,7 +11761,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-npm",
     "name": "Brand Npm",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "npm"
@@ -11631,7 +11772,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-nuxt",
     "name": "Brand Nuxt",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "nuxt"
@@ -11642,7 +11783,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-nytimes",
     "name": "Brand Nytimes",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "nytimes"
@@ -11653,7 +11794,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-oauth",
     "name": "Brand Oauth",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "oauth"
@@ -11664,7 +11805,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-office",
     "name": "Brand Office",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "office"
@@ -11675,7 +11816,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-ok-ru",
     "name": "Brand Ok Ru",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "ok",
@@ -11687,7 +11828,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-onedrive",
     "name": "Brand Onedrive",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "onedrive"
@@ -11698,7 +11839,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-onlyfans",
     "name": "Brand Onlyfans",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "onlyfans"
@@ -11709,7 +11850,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-open-source",
     "name": "Brand Open Source",
     "set": "tabler",
-    "category": "navigation",
+    "category": "brand",
     "tags": [
       "brand",
       "open",
@@ -11721,7 +11862,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-open-source-filled",
     "name": "Brand Open Source Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "brand",
     "tags": [
       "brand",
       "open",
@@ -11734,7 +11875,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-openai",
     "name": "Brand Openai",
     "set": "tabler",
-    "category": "navigation",
+    "category": "brand",
     "tags": [
       "brand",
       "openai"
@@ -11745,7 +11886,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-openvpn",
     "name": "Brand Openvpn",
     "set": "tabler",
-    "category": "navigation",
+    "category": "brand",
     "tags": [
       "brand",
       "openvpn"
@@ -11756,7 +11897,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-opera",
     "name": "Brand Opera",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "opera"
@@ -11767,7 +11908,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-opera-filled",
     "name": "Brand Opera Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "opera",
@@ -11779,7 +11920,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-pagekit",
     "name": "Brand Pagekit",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "pagekit"
@@ -11790,7 +11931,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-parsinta",
     "name": "Brand Parsinta",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "parsinta"
@@ -11801,7 +11942,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-patreon",
     "name": "Brand Patreon",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "patreon"
@@ -11812,7 +11953,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-patreon-filled",
     "name": "Brand Patreon Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "patreon",
@@ -11824,7 +11965,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-paypal",
     "name": "Brand Paypal",
     "set": "tabler",
-    "category": "finance",
+    "category": "brand",
     "tags": [
       "brand",
       "paypal"
@@ -11835,7 +11976,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-paypal-filled",
     "name": "Brand Paypal Filled",
     "set": "tabler",
-    "category": "finance",
+    "category": "brand",
     "tags": [
       "brand",
       "paypal",
@@ -11847,7 +11988,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-paypay",
     "name": "Brand Paypay",
     "set": "tabler",
-    "category": "finance",
+    "category": "brand",
     "tags": [
       "brand",
       "paypay"
@@ -11858,7 +11999,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-peanut",
     "name": "Brand Peanut",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "peanut"
@@ -11869,7 +12010,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-pepsi",
     "name": "Brand Pepsi",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "pepsi"
@@ -11880,7 +12021,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-php",
     "name": "Brand Php",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "php"
@@ -11891,7 +12032,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-picsart",
     "name": "Brand Picsart",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "picsart"
@@ -11902,7 +12043,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-pinterest",
     "name": "Brand Pinterest",
     "set": "tabler",
-    "category": "maps-location",
+    "category": "brand",
     "tags": [
       "brand",
       "pinterest"
@@ -11913,7 +12054,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-pinterest-filled",
     "name": "Brand Pinterest Filled",
     "set": "tabler",
-    "category": "maps-location",
+    "category": "brand",
     "tags": [
       "brand",
       "pinterest",
@@ -11925,7 +12066,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-planetscale",
     "name": "Brand Planetscale",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "planetscale"
@@ -11936,7 +12077,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-pnpm",
     "name": "Brand Pnpm",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "pnpm"
@@ -11947,7 +12088,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-pocket",
     "name": "Brand Pocket",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "pocket"
@@ -11958,7 +12099,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-polymer",
     "name": "Brand Polymer",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "polymer"
@@ -11969,7 +12110,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-powershell",
     "name": "Brand Powershell",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "powershell"
@@ -11980,7 +12121,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-printables",
     "name": "Brand Printables",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "printables"
@@ -11991,7 +12132,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-prisma",
     "name": "Brand Prisma",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "prisma"
@@ -12002,7 +12143,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-producthunt",
     "name": "Brand Producthunt",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "producthunt"
@@ -12013,7 +12154,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-pushbullet",
     "name": "Brand Pushbullet",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "pushbullet"
@@ -12024,7 +12165,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-pushover",
     "name": "Brand Pushover",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "pushover"
@@ -12035,7 +12176,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-python",
     "name": "Brand Python",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "python"
@@ -12046,7 +12187,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-qq",
     "name": "Brand Qq",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "qq"
@@ -12057,7 +12198,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-radix-ui",
     "name": "Brand Radix Ui",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "radix",
@@ -12069,7 +12210,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-react",
     "name": "Brand React",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "react"
@@ -12080,7 +12221,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-react-native",
     "name": "Brand React Native",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "react",
@@ -12092,7 +12233,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-reason",
     "name": "Brand Reason",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "reason"
@@ -12103,7 +12244,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-reddit",
     "name": "Brand Reddit",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "reddit"
@@ -12114,7 +12255,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-redhat",
     "name": "Brand Redhat",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "redhat"
@@ -12125,7 +12266,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-redux",
     "name": "Brand Redux",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "redux"
@@ -12136,7 +12277,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-revolut",
     "name": "Brand Revolut",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "revolut"
@@ -12147,7 +12288,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-rumble",
     "name": "Brand Rumble",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "rumble"
@@ -12158,7 +12299,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-rust",
     "name": "Brand Rust",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "rust"
@@ -12169,7 +12310,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-safari",
     "name": "Brand Safari",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "safari"
@@ -12180,7 +12321,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-samsungpass",
     "name": "Brand Samsungpass",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "samsungpass"
@@ -12191,7 +12332,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-sass",
     "name": "Brand Sass",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "sass"
@@ -12202,7 +12343,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-sentry",
     "name": "Brand Sentry",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "sentry"
@@ -12213,7 +12354,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-sharik",
     "name": "Brand Sharik",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "sharik"
@@ -12224,7 +12365,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-shazam",
     "name": "Brand Shazam",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "shazam"
@@ -12235,7 +12376,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-shopee",
     "name": "Brand Shopee",
     "set": "tabler",
-    "category": "finance",
+    "category": "brand",
     "tags": [
       "brand",
       "shopee"
@@ -12246,7 +12387,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-sketch",
     "name": "Brand Sketch",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "sketch"
@@ -12257,7 +12398,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-sketch-filled",
     "name": "Brand Sketch Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "sketch",
@@ -12269,7 +12410,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-skype",
     "name": "Brand Skype",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "skype"
@@ -12280,7 +12421,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-slack",
     "name": "Brand Slack",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "slack"
@@ -12291,7 +12432,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-snapchat",
     "name": "Brand Snapchat",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "snapchat"
@@ -12302,7 +12443,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-snapchat-filled",
     "name": "Brand Snapchat Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "snapchat",
@@ -12314,7 +12455,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-snapseed",
     "name": "Brand Snapseed",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "snapseed"
@@ -12325,7 +12466,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-snowflake",
     "name": "Brand Snowflake",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "snowflake"
@@ -12336,7 +12477,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-socket-io",
     "name": "Brand Socket Io",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "socket",
@@ -12348,7 +12489,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-solidjs",
     "name": "Brand Solidjs",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "solidjs"
@@ -12359,7 +12500,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-soundcloud",
     "name": "Brand Soundcloud",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "soundcloud"
@@ -12370,7 +12511,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-spacehey",
     "name": "Brand Spacehey",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "spacehey"
@@ -12381,7 +12522,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-speedtest",
     "name": "Brand Speedtest",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "speedtest"
@@ -12392,7 +12533,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-spotify",
     "name": "Brand Spotify",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "spotify"
@@ -12403,7 +12544,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-spotify-filled",
     "name": "Brand Spotify Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "spotify",
@@ -12415,7 +12556,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-stackoverflow",
     "name": "Brand Stackoverflow",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "stackoverflow"
@@ -12426,7 +12567,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-stackshare",
     "name": "Brand Stackshare",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "stackshare"
@@ -12437,7 +12578,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-steam",
     "name": "Brand Steam",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "steam"
@@ -12448,7 +12589,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-steam-filled",
     "name": "Brand Steam Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "steam",
@@ -12460,7 +12601,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-stellar",
     "name": "Brand Stellar",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "stellar"
@@ -12471,7 +12612,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-stocktwits",
     "name": "Brand Stocktwits",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "stocktwits"
@@ -12482,7 +12623,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-storj",
     "name": "Brand Storj",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "storj"
@@ -12493,7 +12634,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-storybook",
     "name": "Brand Storybook",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "storybook"
@@ -12504,7 +12645,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-storytel",
     "name": "Brand Storytel",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "storytel"
@@ -12515,7 +12656,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-strava",
     "name": "Brand Strava",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "strava"
@@ -12526,7 +12667,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-stripe",
     "name": "Brand Stripe",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "stripe"
@@ -12537,7 +12678,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-stripe-filled",
     "name": "Brand Stripe Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "stripe",
@@ -12549,7 +12690,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-sublime-text",
     "name": "Brand Sublime Text",
     "set": "tabler",
-    "category": "editor",
+    "category": "brand",
     "tags": [
       "brand",
       "sublime",
@@ -12561,7 +12702,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-sugarizer",
     "name": "Brand Sugarizer",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "sugarizer"
@@ -12572,7 +12713,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-supabase",
     "name": "Brand Supabase",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "supabase"
@@ -12583,7 +12724,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-superhuman",
     "name": "Brand Superhuman",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "superhuman"
@@ -12594,7 +12735,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-supernova",
     "name": "Brand Supernova",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "supernova"
@@ -12605,7 +12746,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-surfshark",
     "name": "Brand Surfshark",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "surfshark"
@@ -12616,7 +12757,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-svelte",
     "name": "Brand Svelte",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "svelte"
@@ -12627,7 +12768,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-swift",
     "name": "Brand Swift",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "swift"
@@ -12638,7 +12779,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-symfony",
     "name": "Brand Symfony",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "symfony"
@@ -12649,7 +12790,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-tabler",
     "name": "Brand Tabler",
     "set": "tabler",
-    "category": "navigation",
+    "category": "brand",
     "tags": [
       "brand",
       "tabler"
@@ -12660,7 +12801,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-tabler-filled",
     "name": "Brand Tabler Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "brand",
     "tags": [
       "brand",
       "tabler",
@@ -12672,7 +12813,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-tabnine",
     "name": "Brand Tabnine",
     "set": "tabler",
-    "category": "navigation",
+    "category": "brand",
     "tags": [
       "brand",
       "tabnine"
@@ -12683,7 +12824,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-tailwind",
     "name": "Brand Tailwind",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "tailwind"
@@ -12694,7 +12835,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-taobao",
     "name": "Brand Taobao",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "taobao"
@@ -12705,7 +12846,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-teams",
     "name": "Brand Teams",
     "set": "tabler",
-    "category": "people-social",
+    "category": "brand",
     "tags": [
       "brand",
       "teams"
@@ -12716,7 +12857,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-ted",
     "name": "Brand Ted",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "ted"
@@ -12727,7 +12868,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-telegram",
     "name": "Brand Telegram",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "telegram"
@@ -12738,7 +12879,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-terraform",
     "name": "Brand Terraform",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "terraform"
@@ -12749,7 +12890,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-tesla",
     "name": "Brand Tesla",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "tesla"
@@ -12760,7 +12901,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-tether",
     "name": "Brand Tether",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "tether"
@@ -12771,7 +12912,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-thingiverse",
     "name": "Brand Thingiverse",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "thingiverse"
@@ -12782,7 +12923,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-threads",
     "name": "Brand Threads",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "threads"
@@ -12793,7 +12934,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-threejs",
     "name": "Brand Threejs",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "threejs"
@@ -12804,7 +12945,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-tidal",
     "name": "Brand Tidal",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "tidal"
@@ -12815,7 +12956,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-tiktok",
     "name": "Brand Tiktok",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "tiktok"
@@ -12826,7 +12967,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-tiktok-filled",
     "name": "Brand Tiktok Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "tiktok",
@@ -12838,7 +12979,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-tinder",
     "name": "Brand Tinder",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "tinder"
@@ -12849,7 +12990,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-tinder-filled",
     "name": "Brand Tinder Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "tinder",
@@ -12861,7 +13002,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-topbuzz",
     "name": "Brand Topbuzz",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "topbuzz"
@@ -12872,7 +13013,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-torchain",
     "name": "Brand Torchain",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "torchain"
@@ -12883,7 +13024,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-toyota",
     "name": "Brand Toyota",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "toyota"
@@ -12894,7 +13035,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-trello",
     "name": "Brand Trello",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "trello"
@@ -12905,7 +13046,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-tripadvisor",
     "name": "Brand Tripadvisor",
     "set": "tabler",
-    "category": "maps-location",
+    "category": "brand",
     "tags": [
       "brand",
       "tripadvisor"
@@ -12916,7 +13057,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-tumblr",
     "name": "Brand Tumblr",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "tumblr"
@@ -12927,7 +13068,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-tumblr-filled",
     "name": "Brand Tumblr Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "tumblr",
@@ -12939,7 +13080,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-twilio",
     "name": "Brand Twilio",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "twilio"
@@ -12950,7 +13091,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-twitch",
     "name": "Brand Twitch",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "twitch"
@@ -12961,7 +13102,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-twitter",
     "name": "Brand Twitter",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "twitter"
@@ -12972,7 +13113,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-twitter-filled",
     "name": "Brand Twitter Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "twitter",
@@ -12984,7 +13125,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-typescript",
     "name": "Brand Typescript",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "typescript"
@@ -12995,7 +13136,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-uber",
     "name": "Brand Uber",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "uber"
@@ -13006,7 +13147,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-ubuntu",
     "name": "Brand Ubuntu",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "ubuntu"
@@ -13017,7 +13158,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-unity",
     "name": "Brand Unity",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "unity"
@@ -13028,7 +13169,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-unsplash",
     "name": "Brand Unsplash",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "unsplash"
@@ -13039,7 +13180,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-upwork",
     "name": "Brand Upwork",
     "set": "tabler",
-    "category": "navigation",
+    "category": "brand",
     "tags": [
       "brand",
       "upwork"
@@ -13050,7 +13191,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-valorant",
     "name": "Brand Valorant",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "valorant"
@@ -13061,7 +13202,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-vechain",
     "name": "Brand Vechain",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "vechain"
@@ -13072,7 +13213,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-vercel",
     "name": "Brand Vercel",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "vercel"
@@ -13083,7 +13224,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-vercel-filled",
     "name": "Brand Vercel Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "vercel",
@@ -13095,7 +13236,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-vimeo",
     "name": "Brand Vimeo",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "vimeo"
@@ -13106,7 +13247,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-vimeo-filled",
     "name": "Brand Vimeo Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "vimeo",
@@ -13118,7 +13259,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-vinted",
     "name": "Brand Vinted",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "vinted"
@@ -13129,7 +13270,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-visa",
     "name": "Brand Visa",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "visa"
@@ -13140,7 +13281,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-visual-studio",
     "name": "Brand Visual Studio",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "visual",
@@ -13152,7 +13293,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-vite",
     "name": "Brand Vite",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "vite"
@@ -13163,7 +13304,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-vivaldi",
     "name": "Brand Vivaldi",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "vivaldi"
@@ -13174,7 +13315,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-vk",
     "name": "Brand Vk",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "vk"
@@ -13185,7 +13326,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-vlc",
     "name": "Brand Vlc",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "vlc"
@@ -13196,7 +13337,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-volkswagen",
     "name": "Brand Volkswagen",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "volkswagen"
@@ -13207,7 +13348,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-vsco",
     "name": "Brand Vsco",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "vsco"
@@ -13218,7 +13359,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-vscode",
     "name": "Brand Vscode",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "vscode"
@@ -13229,7 +13370,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-vue",
     "name": "Brand Vue",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "vue"
@@ -13240,7 +13381,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-walmart",
     "name": "Brand Walmart",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "walmart"
@@ -13251,7 +13392,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-waze",
     "name": "Brand Waze",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "waze"
@@ -13262,7 +13403,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-webflow",
     "name": "Brand Webflow",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "webflow"
@@ -13273,7 +13414,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-wechat",
     "name": "Brand Wechat",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "wechat"
@@ -13284,7 +13425,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-weibo",
     "name": "Brand Weibo",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "weibo"
@@ -13295,7 +13436,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-weibo-filled",
     "name": "Brand Weibo Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "weibo",
@@ -13307,7 +13448,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-whatsapp",
     "name": "Brand Whatsapp",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "whatsapp"
@@ -13318,7 +13459,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-whatsapp-filled",
     "name": "Brand Whatsapp Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "whatsapp",
@@ -13330,7 +13471,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-wikipedia",
     "name": "Brand Wikipedia",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "wikipedia"
@@ -13341,7 +13482,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-windows",
     "name": "Brand Windows",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "windows"
@@ -13352,7 +13493,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-windows-filled",
     "name": "Brand Windows Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "windows",
@@ -13364,7 +13505,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-windy",
     "name": "Brand Windy",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "windy"
@@ -13375,7 +13516,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-wish",
     "name": "Brand Wish",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "wish"
@@ -13386,7 +13527,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-wix",
     "name": "Brand Wix",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "wix"
@@ -13397,7 +13538,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-wordpress",
     "name": "Brand Wordpress",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "wordpress"
@@ -13408,7 +13549,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-x",
     "name": "Brand X",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "x"
@@ -13419,7 +13560,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-x-filled",
     "name": "Brand X Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "x",
@@ -13431,7 +13572,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-xamarin",
     "name": "Brand Xamarin",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "xamarin"
@@ -13442,7 +13583,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-xbox",
     "name": "Brand Xbox",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "xbox"
@@ -13453,7 +13594,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-xdeep",
     "name": "Brand Xdeep",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "xdeep"
@@ -13464,7 +13605,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-xing",
     "name": "Brand Xing",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "xing"
@@ -13475,7 +13616,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-yahoo",
     "name": "Brand Yahoo",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "yahoo"
@@ -13486,7 +13627,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-yandex",
     "name": "Brand Yandex",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "yandex"
@@ -13497,7 +13638,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-yarn",
     "name": "Brand Yarn",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "yarn"
@@ -13508,7 +13649,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-yatse",
     "name": "Brand Yatse",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "yatse"
@@ -13519,7 +13660,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-ycombinator",
     "name": "Brand Ycombinator",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "ycombinator"
@@ -13530,7 +13671,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-youtube",
     "name": "Brand Youtube",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "youtube"
@@ -13541,7 +13682,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-youtube-filled",
     "name": "Brand Youtube Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "youtube",
@@ -13553,7 +13694,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-youtube-kids",
     "name": "Brand Youtube Kids",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "youtube",
@@ -13565,7 +13706,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-zalando",
     "name": "Brand Zalando",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "zalando"
@@ -13576,7 +13717,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-zapier",
     "name": "Brand Zapier",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "zapier"
@@ -13587,7 +13728,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-zeit",
     "name": "Brand Zeit",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "zeit"
@@ -13598,7 +13739,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-zhihu",
     "name": "Brand Zhihu",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "zhihu"
@@ -13609,7 +13750,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-zoom",
     "name": "Brand Zoom",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "zoom"
@@ -13620,7 +13761,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-zulip",
     "name": "Brand Zulip",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "zulip"
@@ -13631,7 +13772,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brand-zwift",
     "name": "Brand Zwift",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "brand",
     "tags": [
       "brand",
       "zwift"
@@ -13727,7 +13868,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brightness",
     "name": "Brightness",
     "set": "tabler",
-    "category": "media",
+    "category": "frontend-client",
     "tags": [
       "brightness"
     ],
@@ -13737,7 +13878,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brightness2",
     "name": "Brightness2",
     "set": "tabler",
-    "category": "media",
+    "category": "frontend-client",
     "tags": [
       "brightness2"
     ],
@@ -13747,7 +13888,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brightness-auto",
     "name": "Brightness Auto",
     "set": "tabler",
-    "category": "media",
+    "category": "frontend-client",
     "tags": [
       "brightness",
       "auto"
@@ -13758,7 +13899,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brightness-auto-filled",
     "name": "Brightness Auto Filled",
     "set": "tabler",
-    "category": "media",
+    "category": "frontend-client",
     "tags": [
       "brightness",
       "auto",
@@ -13770,10 +13911,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brightness-down",
     "name": "Brightness Down",
     "set": "tabler",
-    "category": "media",
+    "category": "frontend-client",
     "tags": [
       "brightness",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconBrightnessDown"
   },
@@ -13781,7 +13924,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brightness-down-filled",
     "name": "Brightness Down Filled",
     "set": "tabler",
-    "category": "media",
+    "category": "frontend-client",
     "tags": [
       "brightness",
       "down",
@@ -13793,7 +13936,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brightness-filled",
     "name": "Brightness Filled",
     "set": "tabler",
-    "category": "media",
+    "category": "frontend-client",
     "tags": [
       "brightness",
       "filled"
@@ -13804,7 +13947,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brightness-half",
     "name": "Brightness Half",
     "set": "tabler",
-    "category": "media",
+    "category": "frontend-client",
     "tags": [
       "brightness",
       "half"
@@ -13815,7 +13958,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brightness-off",
     "name": "Brightness Off",
     "set": "tabler",
-    "category": "media",
+    "category": "frontend-client",
     "tags": [
       "brightness",
       "off"
@@ -13826,10 +13969,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brightness-up",
     "name": "Brightness Up",
     "set": "tabler",
-    "category": "media",
+    "category": "frontend-client",
     "tags": [
       "brightness",
-      "up"
+      "up",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconBrightnessUp"
   },
@@ -13837,7 +13982,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-brightness-up-filled",
     "name": "Brightness Up Filled",
     "set": "tabler",
-    "category": "media",
+    "category": "frontend-client",
     "tags": [
       "brightness",
       "up",
@@ -13849,7 +13994,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-broadcast",
     "name": "Broadcast",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "broadcast"
     ],
@@ -13859,7 +14004,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-broadcast-off",
     "name": "Broadcast Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "broadcast",
       "off"
@@ -13935,7 +14080,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-browser-share",
     "name": "Browser Share",
     "set": "tabler",
-    "category": "people-social",
+    "category": "frontend-client",
     "tags": [
       "browser",
       "share"
@@ -14043,7 +14188,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-bubble-text",
     "name": "Bubble Text",
     "set": "tabler",
-    "category": "editor",
+    "category": "general-ui",
     "tags": [
       "bubble",
       "text"
@@ -14054,7 +14199,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-bubble-text-filled",
     "name": "Bubble Text Filled",
     "set": "tabler",
-    "category": "editor",
+    "category": "general-ui",
     "tags": [
       "bubble",
       "text",
@@ -14077,7 +14222,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-bucket",
     "name": "Bucket",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "bucket"
     ],
@@ -14087,7 +14232,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-bucket-droplet",
     "name": "Bucket Droplet",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "bucket",
       "droplet"
@@ -14098,7 +14243,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-bucket-off",
     "name": "Bucket Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "bucket",
       "off"
@@ -14109,7 +14254,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-bug",
     "name": "Bug",
     "set": "tabler",
-    "category": "devops-cicd",
+    "category": "general-ui",
     "tags": [
       "bug"
     ],
@@ -14119,7 +14264,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-bug-filled",
     "name": "Bug Filled",
     "set": "tabler",
-    "category": "devops-cicd",
+    "category": "general-ui",
     "tags": [
       "bug",
       "filled"
@@ -14130,7 +14275,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-bug-off",
     "name": "Bug Off",
     "set": "tabler",
-    "category": "devops-cicd",
+    "category": "general-ui",
     "tags": [
       "bug",
       "off"
@@ -14141,7 +14286,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-building",
     "name": "Building",
     "set": "tabler",
-    "category": "devops-cicd",
+    "category": "maps-location",
     "tags": [
       "building"
     ],
@@ -14151,7 +14296,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-building-airport",
     "name": "Building Airport",
     "set": "tabler",
-    "category": "devops-cicd",
+    "category": "maps-location",
     "tags": [
       "building",
       "airport"
@@ -14162,7 +14307,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-building-arch",
     "name": "Building Arch",
     "set": "tabler",
-    "category": "devops-cicd",
+    "category": "maps-location",
     "tags": [
       "building",
       "arch"
@@ -14173,7 +14318,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-building-bank",
     "name": "Building Bank",
     "set": "tabler",
-    "category": "finance",
+    "category": "maps-location",
     "tags": [
       "building",
       "bank"
@@ -14184,7 +14329,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-building-bridge",
     "name": "Building Bridge",
     "set": "tabler",
-    "category": "devops-cicd",
+    "category": "maps-location",
     "tags": [
       "building",
       "bridge"
@@ -14195,7 +14340,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-building-bridge2",
     "name": "Building Bridge2",
     "set": "tabler",
-    "category": "devops-cicd",
+    "category": "maps-location",
     "tags": [
       "building",
       "bridge2"
@@ -14206,7 +14351,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-building-bridge2-filled",
     "name": "Building Bridge2 Filled",
     "set": "tabler",
-    "category": "devops-cicd",
+    "category": "maps-location",
     "tags": [
       "building",
       "bridge2",
@@ -14218,7 +14363,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-building-broadcast-tower",
     "name": "Building Broadcast Tower",
     "set": "tabler",
-    "category": "devops-cicd",
+    "category": "maps-location",
     "tags": [
       "building",
       "broadcast",
@@ -14230,7 +14375,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-building-broadcast-tower-filled",
     "name": "Building Broadcast Tower Filled",
     "set": "tabler",
-    "category": "devops-cicd",
+    "category": "maps-location",
     "tags": [
       "building",
       "broadcast",
@@ -14243,7 +14388,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-building-burj-al-arab",
     "name": "Building Burj Al Arab",
     "set": "tabler",
-    "category": "devops-cicd",
+    "category": "maps-location",
     "tags": [
       "building",
       "burj",
@@ -14256,7 +14401,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-building-carousel",
     "name": "Building Carousel",
     "set": "tabler",
-    "category": "devops-cicd",
+    "category": "maps-location",
     "tags": [
       "building",
       "carousel"
@@ -14267,7 +14412,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-building-castle",
     "name": "Building Castle",
     "set": "tabler",
-    "category": "devops-cicd",
+    "category": "maps-location",
     "tags": [
       "building",
       "castle"
@@ -14278,7 +14423,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-building-church",
     "name": "Building Church",
     "set": "tabler",
-    "category": "devops-cicd",
+    "category": "maps-location",
     "tags": [
       "building",
       "church"
@@ -14289,7 +14434,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-building-circus",
     "name": "Building Circus",
     "set": "tabler",
-    "category": "devops-cicd",
+    "category": "maps-location",
     "tags": [
       "building",
       "circus"
@@ -14300,7 +14445,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-building-cog",
     "name": "Building Cog",
     "set": "tabler",
-    "category": "devops-cicd",
+    "category": "maps-location",
     "tags": [
       "building",
       "cog"
@@ -14311,7 +14456,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-building-community",
     "name": "Building Community",
     "set": "tabler",
-    "category": "people-social",
+    "category": "maps-location",
     "tags": [
       "building",
       "community"
@@ -14322,7 +14467,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-building-cottage",
     "name": "Building Cottage",
     "set": "tabler",
-    "category": "devops-cicd",
+    "category": "maps-location",
     "tags": [
       "building",
       "cottage"
@@ -14333,7 +14478,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-building-eiffel-tower",
     "name": "Building Eiffel Tower",
     "set": "tabler",
-    "category": "devops-cicd",
+    "category": "maps-location",
     "tags": [
       "building",
       "eiffel",
@@ -14345,7 +14490,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-building-estate",
     "name": "Building Estate",
     "set": "tabler",
-    "category": "devops-cicd",
+    "category": "maps-location",
     "tags": [
       "building",
       "estate"
@@ -14356,7 +14501,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-building-factory",
     "name": "Building Factory",
     "set": "tabler",
-    "category": "devops-cicd",
+    "category": "maps-location",
     "tags": [
       "building",
       "factory"
@@ -14367,7 +14512,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-building-factory2",
     "name": "Building Factory2",
     "set": "tabler",
-    "category": "devops-cicd",
+    "category": "maps-location",
     "tags": [
       "building",
       "factory2"
@@ -14378,7 +14523,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-building-fortress",
     "name": "Building Fortress",
     "set": "tabler",
-    "category": "devops-cicd",
+    "category": "maps-location",
     "tags": [
       "building",
       "fortress"
@@ -14389,7 +14534,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-building-hospital",
     "name": "Building Hospital",
     "set": "tabler",
-    "category": "devops-cicd",
+    "category": "maps-location",
     "tags": [
       "building",
       "hospital"
@@ -14400,7 +14545,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-building-lighthouse",
     "name": "Building Lighthouse",
     "set": "tabler",
-    "category": "devops-cicd",
+    "category": "maps-location",
     "tags": [
       "building",
       "lighthouse"
@@ -14411,7 +14556,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-building-minus",
     "name": "Building Minus",
     "set": "tabler",
-    "category": "devops-cicd",
+    "category": "maps-location",
     "tags": [
       "building",
       "minus"
@@ -14422,7 +14567,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-building-monument",
     "name": "Building Monument",
     "set": "tabler",
-    "category": "devops-cicd",
+    "category": "maps-location",
     "tags": [
       "building",
       "monument"
@@ -14433,7 +14578,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-building-mosque",
     "name": "Building Mosque",
     "set": "tabler",
-    "category": "devops-cicd",
+    "category": "maps-location",
     "tags": [
       "building",
       "mosque"
@@ -14444,7 +14589,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-building-off",
     "name": "Building Off",
     "set": "tabler",
-    "category": "devops-cicd",
+    "category": "maps-location",
     "tags": [
       "building",
       "off"
@@ -14455,7 +14600,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-building-pavilion",
     "name": "Building Pavilion",
     "set": "tabler",
-    "category": "devops-cicd",
+    "category": "maps-location",
     "tags": [
       "building",
       "pavilion"
@@ -14466,7 +14611,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-building-plus",
     "name": "Building Plus",
     "set": "tabler",
-    "category": "devops-cicd",
+    "category": "maps-location",
     "tags": [
       "building",
       "plus"
@@ -14477,7 +14622,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-building-skyscraper",
     "name": "Building Skyscraper",
     "set": "tabler",
-    "category": "devops-cicd",
+    "category": "maps-location",
     "tags": [
       "building",
       "skyscraper"
@@ -14488,7 +14633,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-building-stadium",
     "name": "Building Stadium",
     "set": "tabler",
-    "category": "devops-cicd",
+    "category": "maps-location",
     "tags": [
       "building",
       "stadium"
@@ -14499,7 +14644,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-building-store",
     "name": "Building Store",
     "set": "tabler",
-    "category": "finance",
+    "category": "maps-location",
     "tags": [
       "building",
       "store"
@@ -14510,7 +14655,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-building-tunnel",
     "name": "Building Tunnel",
     "set": "tabler",
-    "category": "devops-cicd",
+    "category": "maps-location",
     "tags": [
       "building",
       "tunnel"
@@ -14521,7 +14666,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-building-warehouse",
     "name": "Building Warehouse",
     "set": "tabler",
-    "category": "devops-cicd",
+    "category": "maps-location",
     "tags": [
       "building",
       "warehouse"
@@ -14532,7 +14677,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-building-wind-turbine",
     "name": "Building Wind Turbine",
     "set": "tabler",
-    "category": "devops-cicd",
+    "category": "maps-location",
     "tags": [
       "building",
       "wind",
@@ -14544,7 +14689,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-buildings",
     "name": "Buildings",
     "set": "tabler",
-    "category": "devops-cicd",
+    "category": "maps-location",
     "tags": [
       "buildings"
     ],
@@ -14606,7 +14751,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-bus",
     "name": "Bus",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "bus"
     ],
@@ -14616,7 +14761,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-bus-filled",
     "name": "Bus Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "bus",
       "filled"
@@ -14627,7 +14772,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-bus-off",
     "name": "Bus Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "bus",
       "off"
@@ -14638,7 +14783,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-bus-stop",
     "name": "Bus Stop",
     "set": "tabler",
-    "category": "media",
+    "category": "maps-location",
     "tags": [
       "bus",
       "stop"
@@ -14649,7 +14794,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-businessplan",
     "name": "Businessplan",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "businessplan"
     ],
@@ -14776,7 +14921,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-calendar",
     "name": "Calendar",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "calendar"
     ],
@@ -14786,7 +14931,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-calendar-bolt",
     "name": "Calendar Bolt",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "calendar",
       "bolt"
@@ -14797,7 +14942,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-calendar-cancel",
     "name": "Calendar Cancel",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "calendar",
       "cancel"
@@ -14808,7 +14953,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-calendar-check",
     "name": "Calendar Check",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "calendar",
       "check"
@@ -14819,7 +14964,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-calendar-clock",
     "name": "Calendar Clock",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "calendar",
       "clock"
@@ -14830,7 +14975,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-calendar-code",
     "name": "Calendar Code",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "calendar",
       "code"
@@ -14841,7 +14986,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-calendar-cog",
     "name": "Calendar Cog",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "calendar",
       "cog"
@@ -14852,7 +14997,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-calendar-dollar",
     "name": "Calendar Dollar",
     "set": "tabler",
-    "category": "finance",
+    "category": "messaging-queue",
     "tags": [
       "calendar",
       "dollar"
@@ -14863,7 +15008,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-calendar-dot",
     "name": "Calendar Dot",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "calendar",
       "dot"
@@ -14874,10 +15019,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-calendar-down",
     "name": "Calendar Down",
     "set": "tabler",
-    "category": "navigation",
+    "category": "messaging-queue",
     "tags": [
       "calendar",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconCalendarDown"
   },
@@ -14885,7 +15032,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-calendar-due",
     "name": "Calendar Due",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "calendar",
       "due"
@@ -14896,7 +15043,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-calendar-event",
     "name": "Calendar Event",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "calendar",
       "event"
@@ -14907,7 +15054,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-calendar-event-filled",
     "name": "Calendar Event Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "calendar",
       "event",
@@ -14919,7 +15066,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-calendar-exclamation",
     "name": "Calendar Exclamation",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "calendar",
       "exclamation"
@@ -14930,7 +15077,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-calendar-filled",
     "name": "Calendar Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "calendar",
       "filled"
@@ -14941,7 +15088,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-calendar-heart",
     "name": "Calendar Heart",
     "set": "tabler",
-    "category": "people-social",
+    "category": "messaging-queue",
     "tags": [
       "calendar",
       "heart"
@@ -14952,7 +15099,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-calendar-minus",
     "name": "Calendar Minus",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "calendar",
       "minus"
@@ -14963,7 +15110,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-calendar-month",
     "name": "Calendar Month",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "calendar",
       "month"
@@ -14974,7 +15121,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-calendar-month-filled",
     "name": "Calendar Month Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "calendar",
       "month",
@@ -14986,7 +15133,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-calendar-off",
     "name": "Calendar Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "calendar",
       "off"
@@ -14997,7 +15144,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-calendar-pause",
     "name": "Calendar Pause",
     "set": "tabler",
-    "category": "media",
+    "category": "messaging-queue",
     "tags": [
       "calendar",
       "pause"
@@ -15008,7 +15155,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-calendar-pin",
     "name": "Calendar Pin",
     "set": "tabler",
-    "category": "maps-location",
+    "category": "messaging-queue",
     "tags": [
       "calendar",
       "pin"
@@ -15019,7 +15166,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-calendar-plus",
     "name": "Calendar Plus",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "calendar",
       "plus"
@@ -15030,7 +15177,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-calendar-question",
     "name": "Calendar Question",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "calendar",
       "question"
@@ -15041,7 +15188,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-calendar-repeat",
     "name": "Calendar Repeat",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "calendar",
       "repeat"
@@ -15052,7 +15199,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-calendar-sad",
     "name": "Calendar Sad",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "calendar",
       "sad"
@@ -15063,7 +15210,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-calendar-search",
     "name": "Calendar Search",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "calendar",
       "search"
@@ -15074,7 +15221,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-calendar-share",
     "name": "Calendar Share",
     "set": "tabler",
-    "category": "people-social",
+    "category": "messaging-queue",
     "tags": [
       "calendar",
       "share"
@@ -15085,7 +15232,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-calendar-smile",
     "name": "Calendar Smile",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "calendar",
       "smile"
@@ -15096,7 +15243,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-calendar-star",
     "name": "Calendar Star",
     "set": "tabler",
-    "category": "people-social",
+    "category": "messaging-queue",
     "tags": [
       "calendar",
       "star"
@@ -15107,7 +15254,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-calendar-stats",
     "name": "Calendar Stats",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "calendar",
       "stats"
@@ -15118,7 +15265,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-calendar-time",
     "name": "Calendar Time",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "calendar",
       "time"
@@ -15129,10 +15276,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-calendar-up",
     "name": "Calendar Up",
     "set": "tabler",
-    "category": "navigation",
+    "category": "messaging-queue",
     "tags": [
       "calendar",
-      "up"
+      "up",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconCalendarUp"
   },
@@ -15140,7 +15289,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-calendar-user",
     "name": "Calendar User",
     "set": "tabler",
-    "category": "people-social",
+    "category": "messaging-queue",
     "tags": [
       "calendar",
       "user"
@@ -15151,7 +15300,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-calendar-week",
     "name": "Calendar Week",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "calendar",
       "week"
@@ -15162,7 +15311,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-calendar-week-filled",
     "name": "Calendar Week Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "calendar",
       "week",
@@ -15174,7 +15323,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-calendar-x",
     "name": "Calendar X",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "calendar",
       "x"
@@ -15286,7 +15435,9 @@ export const TABLER_ICONS: IconMeta[] = [
     "category": "media",
     "tags": [
       "camera",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconCameraDown"
   },
@@ -15473,7 +15624,9 @@ export const TABLER_ICONS: IconMeta[] = [
     "category": "media",
     "tags": [
       "camera",
-      "up"
+      "up",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconCameraUp"
   },
@@ -15533,7 +15686,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-cancel",
     "name": "Cancel",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "navigation",
     "tags": [
       "cancel"
     ],
@@ -15725,7 +15878,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-car",
     "name": "Car",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "car"
     ],
@@ -15735,7 +15888,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-car4wd",
     "name": "Car4wd",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "car4wd"
     ],
@@ -15745,7 +15898,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-car4wd-filled",
     "name": "Car4wd Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "car4wd",
       "filled"
@@ -15756,7 +15909,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-car-crane",
     "name": "Car Crane",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "car",
       "crane"
@@ -15767,7 +15920,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-car-crane-filled",
     "name": "Car Crane Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "car",
       "crane",
@@ -15779,7 +15932,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-car-crash",
     "name": "Car Crash",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "car",
       "crash"
@@ -15790,7 +15943,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-car-door",
     "name": "Car Door",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "car",
       "door"
@@ -15801,7 +15954,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-car-fan",
     "name": "Car Fan",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "car",
       "fan"
@@ -15812,7 +15965,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-car-fan1",
     "name": "Car Fan1",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "car",
       "fan1"
@@ -15823,7 +15976,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-car-fan2",
     "name": "Car Fan2",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "car",
       "fan2"
@@ -15834,7 +15987,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-car-fan3",
     "name": "Car Fan3",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "car",
       "fan3"
@@ -15845,7 +15998,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-car-fan-auto",
     "name": "Car Fan Auto",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "car",
       "fan",
@@ -15857,7 +16010,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-car-fan-filled",
     "name": "Car Fan Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "car",
       "fan",
@@ -15869,7 +16022,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-car-filled",
     "name": "Car Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "car",
       "filled"
@@ -15880,7 +16033,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-car-garage",
     "name": "Car Garage",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "car",
       "garage"
@@ -15891,7 +16044,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-car-lifter",
     "name": "Car Lifter",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "car",
       "lifter"
@@ -15902,7 +16055,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-car-off",
     "name": "Car Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "car",
       "off"
@@ -15913,7 +16066,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-car-off-road",
     "name": "Car Off Road",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "car",
       "off",
@@ -15925,7 +16078,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-car-suspension",
     "name": "Car Suspension",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "car",
       "suspension"
@@ -15936,7 +16089,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-car-suv",
     "name": "Car Suv",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "car",
       "suv"
@@ -15947,7 +16100,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-car-suv-filled",
     "name": "Car Suv Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "car",
       "suv",
@@ -15959,7 +16112,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-car-turbine",
     "name": "Car Turbine",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "car",
       "turbine"
@@ -15970,7 +16123,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-carambola",
     "name": "Carambola",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "carambola"
     ],
@@ -15980,7 +16133,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-carambola-filled",
     "name": "Carambola Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "carambola",
       "filled"
@@ -15991,7 +16144,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-caravan",
     "name": "Caravan",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "caravan"
     ],
@@ -16001,7 +16154,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-caravan-filled",
     "name": "Caravan Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "caravan",
       "filled"
@@ -16012,7 +16165,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-cardboards",
     "name": "Cardboards",
     "set": "tabler",
-    "category": "finance",
+    "category": "maps-location",
     "tags": [
       "cardboards"
     ],
@@ -16022,7 +16175,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-cardboards-filled",
     "name": "Cardboards Filled",
     "set": "tabler",
-    "category": "finance",
+    "category": "maps-location",
     "tags": [
       "cardboards",
       "filled"
@@ -16033,7 +16186,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-cardboards-off",
     "name": "Cardboards Off",
     "set": "tabler",
-    "category": "finance",
+    "category": "maps-location",
     "tags": [
       "cardboards",
       "off"
@@ -16044,7 +16197,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-cards",
     "name": "Cards",
     "set": "tabler",
-    "category": "finance",
+    "category": "maps-location",
     "tags": [
       "cards"
     ],
@@ -16054,7 +16207,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-cards-filled",
     "name": "Cards Filled",
     "set": "tabler",
-    "category": "finance",
+    "category": "maps-location",
     "tags": [
       "cards",
       "filled"
@@ -16068,7 +16221,9 @@ export const TABLER_ICONS: IconMeta[] = [
     "category": "navigation",
     "tags": [
       "caret",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconCaretDown"
   },
@@ -16091,7 +16246,9 @@ export const TABLER_ICONS: IconMeta[] = [
     "category": "navigation",
     "tags": [
       "caret",
-      "left"
+      "left",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconCaretLeft"
   },
@@ -16115,7 +16272,9 @@ export const TABLER_ICONS: IconMeta[] = [
     "tags": [
       "caret",
       "left",
-      "right"
+      "right",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconCaretLeftRight"
   },
@@ -16139,7 +16298,9 @@ export const TABLER_ICONS: IconMeta[] = [
     "category": "navigation",
     "tags": [
       "caret",
-      "right"
+      "right",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconCaretRight"
   },
@@ -16162,7 +16323,9 @@ export const TABLER_ICONS: IconMeta[] = [
     "category": "navigation",
     "tags": [
       "caret",
-      "up"
+      "up",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconCaretUp"
   },
@@ -16174,7 +16337,9 @@ export const TABLER_ICONS: IconMeta[] = [
     "tags": [
       "caret",
       "up",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconCaretUpDown"
   },
@@ -16207,7 +16372,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-carousel-horizontal",
     "name": "Carousel Horizontal",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "carousel",
       "horizontal"
@@ -16218,7 +16383,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-carousel-horizontal-filled",
     "name": "Carousel Horizontal Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "carousel",
       "horizontal",
@@ -16230,7 +16395,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-carousel-vertical",
     "name": "Carousel Vertical",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "carousel",
       "vertical"
@@ -16241,7 +16406,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-carousel-vertical-filled",
     "name": "Carousel Vertical Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "carousel",
       "vertical",
@@ -16253,7 +16418,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-carrot",
     "name": "Carrot",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "carrot"
     ],
@@ -16263,7 +16428,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-carrot-off",
     "name": "Carrot Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "carrot",
       "off"
@@ -16319,7 +16484,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-cash-banknote-heart",
     "name": "Cash Banknote Heart",
     "set": "tabler",
-    "category": "people-social",
+    "category": "finance",
     "tags": [
       "cash",
       "banknote",
@@ -16355,7 +16520,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-cash-banknote-move-back",
     "name": "Cash Banknote Move Back",
     "set": "tabler",
-    "category": "navigation",
+    "category": "finance",
     "tags": [
       "cash",
       "banknote",
@@ -16403,7 +16568,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-cash-heart",
     "name": "Cash Heart",
     "set": "tabler",
-    "category": "people-social",
+    "category": "finance",
     "tags": [
       "cash",
       "heart"
@@ -16436,7 +16601,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-cash-move-back",
     "name": "Cash Move Back",
     "set": "tabler",
-    "category": "navigation",
+    "category": "finance",
     "tags": [
       "cash",
       "move",
@@ -16663,7 +16828,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-certificate",
     "name": "Certificate",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "certificate"
     ],
@@ -16673,7 +16838,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-certificate2",
     "name": "Certificate2",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "certificate2"
     ],
@@ -16683,7 +16848,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-certificate2-off",
     "name": "Certificate2 Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "certificate2",
       "off"
@@ -16694,7 +16859,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-certificate-off",
     "name": "Certificate Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "certificate",
       "off"
@@ -16841,7 +17006,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-chart-arrows",
     "name": "Chart Arrows",
     "set": "tabler",
-    "category": "navigation",
+    "category": "monitoring-logging",
     "tags": [
       "chart",
       "arrows"
@@ -16852,7 +17017,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-chart-arrows-vertical",
     "name": "Chart Arrows Vertical",
     "set": "tabler",
-    "category": "navigation",
+    "category": "monitoring-logging",
     "tags": [
       "chart",
       "arrows",
@@ -17137,7 +17302,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-chart-grid-dots",
     "name": "Chart Grid Dots",
     "set": "tabler",
-    "category": "editor",
+    "category": "monitoring-logging",
     "tags": [
       "chart",
       "grid",
@@ -17149,7 +17314,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-chart-grid-dots-filled",
     "name": "Chart Grid Dots Filled",
     "set": "tabler",
-    "category": "editor",
+    "category": "monitoring-logging",
     "tags": [
       "chart",
       "grid",
@@ -17386,7 +17551,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-checkbox",
     "name": "Checkbox",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "checkbox"
     ],
@@ -17416,7 +17581,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-checkup-list",
     "name": "Checkup List",
     "set": "tabler",
-    "category": "editor",
+    "category": "general-ui",
     "tags": [
       "checkup",
       "list"
@@ -17633,7 +17798,9 @@ export const TABLER_ICONS: IconMeta[] = [
     "tags": [
       "chevron",
       "compact",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconChevronCompactDown"
   },
@@ -17645,7 +17812,9 @@ export const TABLER_ICONS: IconMeta[] = [
     "tags": [
       "chevron",
       "compact",
-      "left"
+      "left",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconChevronCompactLeft"
   },
@@ -17657,7 +17826,9 @@ export const TABLER_ICONS: IconMeta[] = [
     "tags": [
       "chevron",
       "compact",
-      "right"
+      "right",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconChevronCompactRight"
   },
@@ -17669,7 +17840,9 @@ export const TABLER_ICONS: IconMeta[] = [
     "tags": [
       "chevron",
       "compact",
-      "up"
+      "up",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconChevronCompactUp"
   },
@@ -17680,7 +17853,9 @@ export const TABLER_ICONS: IconMeta[] = [
     "category": "navigation",
     "tags": [
       "chevron",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconChevronDown"
   },
@@ -17704,7 +17879,9 @@ export const TABLER_ICONS: IconMeta[] = [
     "tags": [
       "chevron",
       "down",
-      "left"
+      "left",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconChevronDownLeft"
   },
@@ -17716,7 +17893,9 @@ export const TABLER_ICONS: IconMeta[] = [
     "tags": [
       "chevron",
       "down",
-      "right"
+      "right",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconChevronDownRight"
   },
@@ -17727,7 +17906,9 @@ export const TABLER_ICONS: IconMeta[] = [
     "category": "navigation",
     "tags": [
       "chevron",
-      "left"
+      "left",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconChevronLeft"
   },
@@ -17750,7 +17931,9 @@ export const TABLER_ICONS: IconMeta[] = [
     "category": "navigation",
     "tags": [
       "chevron",
-      "right"
+      "right",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconChevronRight"
   },
@@ -17785,7 +17968,9 @@ export const TABLER_ICONS: IconMeta[] = [
     "category": "navigation",
     "tags": [
       "chevron",
-      "up"
+      "up",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconChevronUp"
   },
@@ -17797,7 +17982,9 @@ export const TABLER_ICONS: IconMeta[] = [
     "tags": [
       "chevron",
       "up",
-      "left"
+      "left",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconChevronUpLeft"
   },
@@ -17809,7 +17996,9 @@ export const TABLER_ICONS: IconMeta[] = [
     "tags": [
       "chevron",
       "up",
-      "right"
+      "right",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconChevronUpRight"
   },
@@ -17820,7 +18009,9 @@ export const TABLER_ICONS: IconMeta[] = [
     "category": "navigation",
     "tags": [
       "chevrons",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconChevronsDown"
   },
@@ -17832,7 +18023,9 @@ export const TABLER_ICONS: IconMeta[] = [
     "tags": [
       "chevrons",
       "down",
-      "left"
+      "left",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconChevronsDownLeft"
   },
@@ -17844,7 +18037,9 @@ export const TABLER_ICONS: IconMeta[] = [
     "tags": [
       "chevrons",
       "down",
-      "right"
+      "right",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconChevronsDownRight"
   },
@@ -17855,7 +18050,9 @@ export const TABLER_ICONS: IconMeta[] = [
     "category": "navigation",
     "tags": [
       "chevrons",
-      "left"
+      "left",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconChevronsLeft"
   },
@@ -17866,7 +18063,9 @@ export const TABLER_ICONS: IconMeta[] = [
     "category": "navigation",
     "tags": [
       "chevrons",
-      "right"
+      "right",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconChevronsRight"
   },
@@ -17877,7 +18076,9 @@ export const TABLER_ICONS: IconMeta[] = [
     "category": "navigation",
     "tags": [
       "chevrons",
-      "up"
+      "up",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconChevronsUp"
   },
@@ -17889,7 +18090,9 @@ export const TABLER_ICONS: IconMeta[] = [
     "tags": [
       "chevrons",
       "up",
-      "left"
+      "left",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconChevronsUpLeft"
   },
@@ -17901,7 +18104,9 @@ export const TABLER_ICONS: IconMeta[] = [
     "tags": [
       "chevrons",
       "up",
-      "right"
+      "right",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconChevronsUpRight"
   },
@@ -17975,7 +18180,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle",
     "name": "Circle",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle"
     ],
@@ -17985,7 +18190,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle0",
     "name": "Circle0",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle0"
     ],
@@ -17995,7 +18200,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle1",
     "name": "Circle1",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle1"
     ],
@@ -18005,7 +18210,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle2",
     "name": "Circle2",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle2"
     ],
@@ -18015,7 +18220,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle3",
     "name": "Circle3",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle3"
     ],
@@ -18025,7 +18230,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle4",
     "name": "Circle4",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle4"
     ],
@@ -18035,7 +18240,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle5",
     "name": "Circle5",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle5"
     ],
@@ -18045,7 +18250,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle6",
     "name": "Circle6",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle6"
     ],
@@ -18055,7 +18260,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle7",
     "name": "Circle7",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle7"
     ],
@@ -18065,7 +18270,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle8",
     "name": "Circle8",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle8"
     ],
@@ -18075,7 +18280,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle9",
     "name": "Circle9",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle9"
     ],
@@ -18085,11 +18290,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-arrow-down",
     "name": "Circle Arrow Down",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "arrow",
-      "down"
+      "down",
+      "direction"
     ],
     "tablerName": "IconCircleArrowDown"
   },
@@ -18097,7 +18303,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-arrow-down-filled",
     "name": "Circle Arrow Down Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "arrow",
@@ -18110,12 +18316,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-arrow-down-left",
     "name": "Circle Arrow Down Left",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "arrow",
       "down",
-      "left"
+      "left",
+      "direction"
     ],
     "tablerName": "IconCircleArrowDownLeft"
   },
@@ -18123,7 +18330,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-arrow-down-left-filled",
     "name": "Circle Arrow Down Left Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "arrow",
@@ -18137,12 +18344,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-arrow-down-right",
     "name": "Circle Arrow Down Right",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "arrow",
       "down",
-      "right"
+      "right",
+      "direction"
     ],
     "tablerName": "IconCircleArrowDownRight"
   },
@@ -18150,7 +18358,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-arrow-down-right-filled",
     "name": "Circle Arrow Down Right Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "arrow",
@@ -18164,11 +18372,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-arrow-left",
     "name": "Circle Arrow Left",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "arrow",
-      "left"
+      "left",
+      "direction"
     ],
     "tablerName": "IconCircleArrowLeft"
   },
@@ -18176,7 +18385,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-arrow-left-filled",
     "name": "Circle Arrow Left Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "arrow",
@@ -18189,11 +18398,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-arrow-right",
     "name": "Circle Arrow Right",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "arrow",
-      "right"
+      "right",
+      "direction"
     ],
     "tablerName": "IconCircleArrowRight"
   },
@@ -18201,7 +18411,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-arrow-right-filled",
     "name": "Circle Arrow Right Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "arrow",
@@ -18214,11 +18424,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-arrow-up",
     "name": "Circle Arrow Up",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "arrow",
-      "up"
+      "up",
+      "direction"
     ],
     "tablerName": "IconCircleArrowUp"
   },
@@ -18226,7 +18437,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-arrow-up-filled",
     "name": "Circle Arrow Up Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "arrow",
@@ -18239,12 +18450,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-arrow-up-left",
     "name": "Circle Arrow Up Left",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "arrow",
       "up",
-      "left"
+      "left",
+      "direction"
     ],
     "tablerName": "IconCircleArrowUpLeft"
   },
@@ -18252,7 +18464,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-arrow-up-left-filled",
     "name": "Circle Arrow Up Left Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "arrow",
@@ -18266,12 +18478,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-arrow-up-right",
     "name": "Circle Arrow Up Right",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "arrow",
       "up",
-      "right"
+      "right",
+      "direction"
     ],
     "tablerName": "IconCircleArrowUpRight"
   },
@@ -18279,7 +18492,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-arrow-up-right-filled",
     "name": "Circle Arrow Up Right Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "arrow",
@@ -18293,7 +18506,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-asterisk",
     "name": "Circle Asterisk",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "asterisk"
@@ -18304,11 +18517,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-caret-down",
     "name": "Circle Caret Down",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "caret",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconCircleCaretDown"
   },
@@ -18316,7 +18531,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-caret-down-filled",
     "name": "Circle Caret Down Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "caret",
@@ -18329,11 +18544,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-caret-left",
     "name": "Circle Caret Left",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "caret",
-      "left"
+      "left",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconCircleCaretLeft"
   },
@@ -18341,7 +18558,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-caret-left-filled",
     "name": "Circle Caret Left Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "caret",
@@ -18354,11 +18571,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-caret-right",
     "name": "Circle Caret Right",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "caret",
-      "right"
+      "right",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconCircleCaretRight"
   },
@@ -18366,7 +18585,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-caret-right-filled",
     "name": "Circle Caret Right Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "caret",
@@ -18379,11 +18598,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-caret-up",
     "name": "Circle Caret Up",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "caret",
-      "up"
+      "up",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconCircleCaretUp"
   },
@@ -18391,7 +18612,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-caret-up-filled",
     "name": "Circle Caret Up Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "caret",
@@ -18404,7 +18625,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-check",
     "name": "Circle Check",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "check"
@@ -18415,7 +18636,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-check-filled",
     "name": "Circle Check Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "check",
@@ -18427,11 +18648,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-chevron-down",
     "name": "Circle Chevron Down",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "chevron",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconCircleChevronDown"
   },
@@ -18439,7 +18662,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-chevron-down-filled",
     "name": "Circle Chevron Down Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "chevron",
@@ -18452,11 +18675,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-chevron-left",
     "name": "Circle Chevron Left",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "chevron",
-      "left"
+      "left",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconCircleChevronLeft"
   },
@@ -18464,7 +18689,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-chevron-left-filled",
     "name": "Circle Chevron Left Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "chevron",
@@ -18477,11 +18702,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-chevron-right",
     "name": "Circle Chevron Right",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "chevron",
-      "right"
+      "right",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconCircleChevronRight"
   },
@@ -18489,7 +18716,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-chevron-right-filled",
     "name": "Circle Chevron Right Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "chevron",
@@ -18502,11 +18729,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-chevron-up",
     "name": "Circle Chevron Up",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "chevron",
-      "up"
+      "up",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconCircleChevronUp"
   },
@@ -18514,7 +18743,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-chevron-up-filled",
     "name": "Circle Chevron Up Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "chevron",
@@ -18527,11 +18756,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-chevrons-down",
     "name": "Circle Chevrons Down",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "chevrons",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconCircleChevronsDown"
   },
@@ -18539,7 +18770,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-chevrons-down-filled",
     "name": "Circle Chevrons Down Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "chevrons",
@@ -18552,11 +18783,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-chevrons-left",
     "name": "Circle Chevrons Left",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "chevrons",
-      "left"
+      "left",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconCircleChevronsLeft"
   },
@@ -18564,7 +18797,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-chevrons-left-filled",
     "name": "Circle Chevrons Left Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "chevrons",
@@ -18577,11 +18810,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-chevrons-right",
     "name": "Circle Chevrons Right",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "chevrons",
-      "right"
+      "right",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconCircleChevronsRight"
   },
@@ -18589,7 +18824,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-chevrons-right-filled",
     "name": "Circle Chevrons Right Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "chevrons",
@@ -18602,11 +18837,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-chevrons-up",
     "name": "Circle Chevrons Up",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "chevrons",
-      "up"
+      "up",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconCircleChevronsUp"
   },
@@ -18614,7 +18851,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-chevrons-up-filled",
     "name": "Circle Chevrons Up Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "chevrons",
@@ -18627,7 +18864,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-dashed",
     "name": "Circle Dashed",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "dashed"
@@ -18638,7 +18875,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-dashed-check",
     "name": "Circle Dashed Check",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "dashed",
@@ -18650,7 +18887,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-dashed-letter-a",
     "name": "Circle Dashed Letter A",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "dashed",
@@ -18663,7 +18900,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-dashed-letter-b",
     "name": "Circle Dashed Letter B",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "dashed",
@@ -18676,7 +18913,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-dashed-letter-c",
     "name": "Circle Dashed Letter C",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "dashed",
@@ -18689,7 +18926,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-dashed-letter-d",
     "name": "Circle Dashed Letter D",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "dashed",
@@ -18702,7 +18939,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-dashed-letter-e",
     "name": "Circle Dashed Letter E",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "dashed",
@@ -18715,7 +18952,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-dashed-letter-f",
     "name": "Circle Dashed Letter F",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "dashed",
@@ -18728,7 +18965,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-dashed-letter-g",
     "name": "Circle Dashed Letter G",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "dashed",
@@ -18741,7 +18978,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-dashed-letter-h",
     "name": "Circle Dashed Letter H",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "dashed",
@@ -18754,7 +18991,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-dashed-letter-i",
     "name": "Circle Dashed Letter I",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "dashed",
@@ -18767,7 +19004,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-dashed-letter-j",
     "name": "Circle Dashed Letter J",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "dashed",
@@ -18780,7 +19017,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-dashed-letter-k",
     "name": "Circle Dashed Letter K",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "dashed",
@@ -18793,7 +19030,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-dashed-letter-l",
     "name": "Circle Dashed Letter L",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "dashed",
@@ -18806,11 +19043,10 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-dashed-letter-letter-v",
     "name": "Circle Dashed Letter Letter V",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "dashed",
-      "letter",
       "letter",
       "v"
     ],
@@ -18820,7 +19056,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-dashed-letter-m",
     "name": "Circle Dashed Letter M",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "dashed",
@@ -18833,7 +19069,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-dashed-letter-n",
     "name": "Circle Dashed Letter N",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "dashed",
@@ -18846,7 +19082,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-dashed-letter-o",
     "name": "Circle Dashed Letter O",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "dashed",
@@ -18859,7 +19095,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-dashed-letter-p",
     "name": "Circle Dashed Letter P",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "dashed",
@@ -18872,7 +19108,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-dashed-letter-q",
     "name": "Circle Dashed Letter Q",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "dashed",
@@ -18885,7 +19121,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-dashed-letter-r",
     "name": "Circle Dashed Letter R",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "dashed",
@@ -18898,7 +19134,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-dashed-letter-s",
     "name": "Circle Dashed Letter S",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "dashed",
@@ -18911,7 +19147,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-dashed-letter-t",
     "name": "Circle Dashed Letter T",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "dashed",
@@ -18924,7 +19160,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-dashed-letter-u",
     "name": "Circle Dashed Letter U",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "dashed",
@@ -18937,7 +19173,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-dashed-letter-v",
     "name": "Circle Dashed Letter V",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "dashed",
@@ -18950,7 +19186,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-dashed-letter-w",
     "name": "Circle Dashed Letter W",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "dashed",
@@ -18963,7 +19199,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-dashed-letter-x",
     "name": "Circle Dashed Letter X",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "dashed",
@@ -18976,7 +19212,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-dashed-letter-y",
     "name": "Circle Dashed Letter Y",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "dashed",
@@ -18989,7 +19225,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-dashed-letter-z",
     "name": "Circle Dashed Letter Z",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "dashed",
@@ -19002,7 +19238,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-dashed-minus",
     "name": "Circle Dashed Minus",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "dashed",
@@ -19014,7 +19250,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-dashed-number0",
     "name": "Circle Dashed Number0",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "dashed",
@@ -19026,7 +19262,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-dashed-number1",
     "name": "Circle Dashed Number1",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "dashed",
@@ -19038,7 +19274,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-dashed-number2",
     "name": "Circle Dashed Number2",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "dashed",
@@ -19050,7 +19286,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-dashed-number3",
     "name": "Circle Dashed Number3",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "dashed",
@@ -19062,7 +19298,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-dashed-number4",
     "name": "Circle Dashed Number4",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "dashed",
@@ -19074,7 +19310,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-dashed-number5",
     "name": "Circle Dashed Number5",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "dashed",
@@ -19086,7 +19322,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-dashed-number6",
     "name": "Circle Dashed Number6",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "dashed",
@@ -19098,7 +19334,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-dashed-number7",
     "name": "Circle Dashed Number7",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "dashed",
@@ -19110,7 +19346,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-dashed-number8",
     "name": "Circle Dashed Number8",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "dashed",
@@ -19122,7 +19358,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-dashed-number9",
     "name": "Circle Dashed Number9",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "dashed",
@@ -19134,7 +19370,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-dashed-percentage",
     "name": "Circle Dashed Percentage",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "dashed",
@@ -19146,7 +19382,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-dashed-plus",
     "name": "Circle Dashed Plus",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "dashed",
@@ -19158,7 +19394,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-dashed-x",
     "name": "Circle Dashed X",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "dashed",
@@ -19170,7 +19406,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-dot",
     "name": "Circle Dot",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "dot"
@@ -19181,7 +19417,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-dot-filled",
     "name": "Circle Dot Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "dot",
@@ -19193,7 +19429,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-dotted",
     "name": "Circle Dotted",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "dotted"
@@ -19204,7 +19440,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-dotted-letter-a",
     "name": "Circle Dotted Letter A",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "dotted",
@@ -19217,7 +19453,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-dotted-letter-b",
     "name": "Circle Dotted Letter B",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "dotted",
@@ -19230,7 +19466,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-dotted-letter-c",
     "name": "Circle Dotted Letter C",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "dotted",
@@ -19243,7 +19479,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-dotted-letter-d",
     "name": "Circle Dotted Letter D",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "dotted",
@@ -19256,7 +19492,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-dotted-letter-e",
     "name": "Circle Dotted Letter E",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "dotted",
@@ -19269,7 +19505,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-dotted-letter-f",
     "name": "Circle Dotted Letter F",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "dotted",
@@ -19282,7 +19518,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-dotted-letter-g",
     "name": "Circle Dotted Letter G",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "dotted",
@@ -19295,7 +19531,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-dotted-letter-h",
     "name": "Circle Dotted Letter H",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "dotted",
@@ -19308,7 +19544,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-dotted-letter-i",
     "name": "Circle Dotted Letter I",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "dotted",
@@ -19321,7 +19557,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-dotted-letter-j",
     "name": "Circle Dotted Letter J",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "dotted",
@@ -19334,7 +19570,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-dotted-letter-k",
     "name": "Circle Dotted Letter K",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "dotted",
@@ -19347,7 +19583,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-dotted-letter-l",
     "name": "Circle Dotted Letter L",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "dotted",
@@ -19360,7 +19596,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-dotted-letter-m",
     "name": "Circle Dotted Letter M",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "dotted",
@@ -19373,7 +19609,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-dotted-letter-n",
     "name": "Circle Dotted Letter N",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "dotted",
@@ -19386,7 +19622,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-dotted-letter-o",
     "name": "Circle Dotted Letter O",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "dotted",
@@ -19399,7 +19635,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-dotted-letter-p",
     "name": "Circle Dotted Letter P",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "dotted",
@@ -19412,7 +19648,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-dotted-letter-q",
     "name": "Circle Dotted Letter Q",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "dotted",
@@ -19425,7 +19661,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-dotted-letter-r",
     "name": "Circle Dotted Letter R",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "dotted",
@@ -19438,7 +19674,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-dotted-letter-s",
     "name": "Circle Dotted Letter S",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "dotted",
@@ -19451,7 +19687,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-dotted-letter-t",
     "name": "Circle Dotted Letter T",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "dotted",
@@ -19464,7 +19700,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-dotted-letter-u",
     "name": "Circle Dotted Letter U",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "dotted",
@@ -19477,7 +19713,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-dotted-letter-v",
     "name": "Circle Dotted Letter V",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "dotted",
@@ -19490,7 +19726,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-dotted-letter-w",
     "name": "Circle Dotted Letter W",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "dotted",
@@ -19503,7 +19739,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-dotted-letter-x",
     "name": "Circle Dotted Letter X",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "dotted",
@@ -19516,7 +19752,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-dotted-letter-y",
     "name": "Circle Dotted Letter Y",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "dotted",
@@ -19529,7 +19765,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-dotted-letter-z",
     "name": "Circle Dotted Letter Z",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "dotted",
@@ -19542,7 +19778,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-filled",
     "name": "Circle Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "filled"
@@ -19553,7 +19789,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-half",
     "name": "Circle Half",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "half"
@@ -19564,7 +19800,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-half2",
     "name": "Circle Half2",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "half2"
@@ -19575,7 +19811,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-half-vertical",
     "name": "Circle Half Vertical",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "half",
@@ -19587,7 +19823,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-key",
     "name": "Circle Key",
     "set": "tabler",
-    "category": "security-identity",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "key"
@@ -19598,7 +19834,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-key-filled",
     "name": "Circle Key Filled",
     "set": "tabler",
-    "category": "security-identity",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "key",
@@ -19610,7 +19846,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-letter-a",
     "name": "Circle Letter A",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "letter",
@@ -19622,7 +19858,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-letter-a-filled",
     "name": "Circle Letter A Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "letter",
@@ -19635,7 +19871,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-letter-b",
     "name": "Circle Letter B",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "letter",
@@ -19647,7 +19883,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-letter-b-filled",
     "name": "Circle Letter B Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "letter",
@@ -19660,7 +19896,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-letter-c",
     "name": "Circle Letter C",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "letter",
@@ -19672,7 +19908,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-letter-c-filled",
     "name": "Circle Letter C Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "letter",
@@ -19685,7 +19921,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-letter-d",
     "name": "Circle Letter D",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "letter",
@@ -19697,7 +19933,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-letter-d-filled",
     "name": "Circle Letter D Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "letter",
@@ -19710,7 +19946,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-letter-e",
     "name": "Circle Letter E",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "letter",
@@ -19722,7 +19958,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-letter-e-filled",
     "name": "Circle Letter E Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "letter",
@@ -19735,7 +19971,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-letter-f",
     "name": "Circle Letter F",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "letter",
@@ -19747,7 +19983,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-letter-f-filled",
     "name": "Circle Letter F Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "letter",
@@ -19760,7 +19996,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-letter-g",
     "name": "Circle Letter G",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "letter",
@@ -19772,7 +20008,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-letter-g-filled",
     "name": "Circle Letter G Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "letter",
@@ -19785,7 +20021,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-letter-h",
     "name": "Circle Letter H",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "letter",
@@ -19797,7 +20033,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-letter-h-filled",
     "name": "Circle Letter H Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "letter",
@@ -19810,7 +20046,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-letter-i",
     "name": "Circle Letter I",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "letter",
@@ -19822,7 +20058,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-letter-i-filled",
     "name": "Circle Letter I Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "letter",
@@ -19835,7 +20071,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-letter-j",
     "name": "Circle Letter J",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "letter",
@@ -19847,7 +20083,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-letter-j-filled",
     "name": "Circle Letter J Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "letter",
@@ -19860,7 +20096,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-letter-k",
     "name": "Circle Letter K",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "letter",
@@ -19872,7 +20108,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-letter-k-filled",
     "name": "Circle Letter K Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "letter",
@@ -19885,7 +20121,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-letter-l",
     "name": "Circle Letter L",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "letter",
@@ -19897,7 +20133,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-letter-l-filled",
     "name": "Circle Letter L Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "letter",
@@ -19910,7 +20146,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-letter-m",
     "name": "Circle Letter M",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "letter",
@@ -19922,7 +20158,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-letter-m-filled",
     "name": "Circle Letter M Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "letter",
@@ -19935,7 +20171,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-letter-n",
     "name": "Circle Letter N",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "letter",
@@ -19947,7 +20183,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-letter-n-filled",
     "name": "Circle Letter N Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "letter",
@@ -19960,7 +20196,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-letter-o",
     "name": "Circle Letter O",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "letter",
@@ -19972,7 +20208,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-letter-o-filled",
     "name": "Circle Letter O Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "letter",
@@ -19985,7 +20221,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-letter-p",
     "name": "Circle Letter P",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "letter",
@@ -19997,7 +20233,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-letter-p-filled",
     "name": "Circle Letter P Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "letter",
@@ -20010,7 +20246,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-letter-q",
     "name": "Circle Letter Q",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "letter",
@@ -20022,7 +20258,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-letter-q-filled",
     "name": "Circle Letter Q Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "letter",
@@ -20035,7 +20271,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-letter-r",
     "name": "Circle Letter R",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "letter",
@@ -20047,7 +20283,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-letter-r-filled",
     "name": "Circle Letter R Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "letter",
@@ -20060,7 +20296,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-letter-s",
     "name": "Circle Letter S",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "letter",
@@ -20072,7 +20308,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-letter-s-filled",
     "name": "Circle Letter S Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "letter",
@@ -20085,7 +20321,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-letter-t",
     "name": "Circle Letter T",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "letter",
@@ -20097,7 +20333,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-letter-t-filled",
     "name": "Circle Letter T Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "letter",
@@ -20110,7 +20346,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-letter-u",
     "name": "Circle Letter U",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "letter",
@@ -20122,7 +20358,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-letter-u-filled",
     "name": "Circle Letter U Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "letter",
@@ -20135,7 +20371,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-letter-v",
     "name": "Circle Letter V",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "letter",
@@ -20147,7 +20383,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-letter-v-filled",
     "name": "Circle Letter V Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "letter",
@@ -20160,7 +20396,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-letter-w",
     "name": "Circle Letter W",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "letter",
@@ -20172,7 +20408,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-letter-w-filled",
     "name": "Circle Letter W Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "letter",
@@ -20185,7 +20421,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-letter-x",
     "name": "Circle Letter X",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "letter",
@@ -20197,7 +20433,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-letter-x-filled",
     "name": "Circle Letter X Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "letter",
@@ -20210,7 +20446,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-letter-y",
     "name": "Circle Letter Y",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "letter",
@@ -20222,7 +20458,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-letter-y-filled",
     "name": "Circle Letter Y Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "letter",
@@ -20235,7 +20471,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-letter-z",
     "name": "Circle Letter Z",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "letter",
@@ -20247,7 +20483,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-letter-z-filled",
     "name": "Circle Letter Z Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "letter",
@@ -20260,7 +20496,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-minus",
     "name": "Circle Minus",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "minus"
@@ -20271,7 +20507,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-minus2",
     "name": "Circle Minus2",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "minus2"
@@ -20282,7 +20518,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-number0",
     "name": "Circle Number0",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "number0"
@@ -20293,7 +20529,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-number0-filled",
     "name": "Circle Number0 Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "number0",
@@ -20305,7 +20541,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-number1",
     "name": "Circle Number1",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "number1"
@@ -20316,7 +20552,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-number1-filled",
     "name": "Circle Number1 Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "number1",
@@ -20328,7 +20564,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-number2",
     "name": "Circle Number2",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "number2"
@@ -20339,7 +20575,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-number2-filled",
     "name": "Circle Number2 Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "number2",
@@ -20351,7 +20587,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-number3",
     "name": "Circle Number3",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "number3"
@@ -20362,7 +20598,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-number3-filled",
     "name": "Circle Number3 Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "number3",
@@ -20374,7 +20610,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-number4",
     "name": "Circle Number4",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "number4"
@@ -20385,7 +20621,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-number4-filled",
     "name": "Circle Number4 Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "number4",
@@ -20397,7 +20633,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-number5",
     "name": "Circle Number5",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "number5"
@@ -20408,7 +20644,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-number5-filled",
     "name": "Circle Number5 Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "number5",
@@ -20420,7 +20656,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-number6",
     "name": "Circle Number6",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "number6"
@@ -20431,7 +20667,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-number6-filled",
     "name": "Circle Number6 Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "number6",
@@ -20443,7 +20679,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-number7",
     "name": "Circle Number7",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "number7"
@@ -20454,7 +20690,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-number7-filled",
     "name": "Circle Number7 Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "number7",
@@ -20466,7 +20702,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-number8",
     "name": "Circle Number8",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "number8"
@@ -20477,7 +20713,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-number8-filled",
     "name": "Circle Number8 Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "number8",
@@ -20489,7 +20725,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-number9",
     "name": "Circle Number9",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "number9"
@@ -20500,7 +20736,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-number9-filled",
     "name": "Circle Number9 Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "number9",
@@ -20512,7 +20748,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-off",
     "name": "Circle Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "off"
@@ -20523,12 +20759,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-open-arrow-down",
     "name": "Circle Open Arrow Down",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "open",
       "arrow",
-      "down"
+      "down",
+      "direction"
     ],
     "tablerName": "IconCircleOpenArrowDown"
   },
@@ -20536,12 +20773,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-open-arrow-left",
     "name": "Circle Open Arrow Left",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "open",
       "arrow",
-      "left"
+      "left",
+      "direction"
     ],
     "tablerName": "IconCircleOpenArrowLeft"
   },
@@ -20549,12 +20787,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-open-arrow-right",
     "name": "Circle Open Arrow Right",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "open",
       "arrow",
-      "right"
+      "right",
+      "direction"
     ],
     "tablerName": "IconCircleOpenArrowRight"
   },
@@ -20562,12 +20801,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-open-arrow-up",
     "name": "Circle Open Arrow Up",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "open",
       "arrow",
-      "up"
+      "up",
+      "direction"
     ],
     "tablerName": "IconCircleOpenArrowUp"
   },
@@ -20575,7 +20815,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-percentage",
     "name": "Circle Percentage",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "percentage"
@@ -20586,7 +20826,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-percentage-filled",
     "name": "Circle Percentage Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "percentage",
@@ -20598,7 +20838,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-plus",
     "name": "Circle Plus",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "plus"
@@ -20609,7 +20849,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-plus2",
     "name": "Circle Plus2",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "plus2"
@@ -20620,7 +20860,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-plus-filled",
     "name": "Circle Plus Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "plus",
@@ -20632,7 +20872,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-plus-minus",
     "name": "Circle Plus Minus",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "plus",
@@ -20644,7 +20884,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-rectangle",
     "name": "Circle Rectangle",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "rectangle"
@@ -20655,7 +20895,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-rectangle-filled",
     "name": "Circle Rectangle Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "rectangle",
@@ -20667,7 +20907,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-rectangle-off",
     "name": "Circle Rectangle Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "rectangle",
@@ -20679,7 +20919,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-square",
     "name": "Circle Square",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "square"
@@ -20690,7 +20930,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-triangle",
     "name": "Circle Triangle",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "triangle"
@@ -20701,7 +20941,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-x",
     "name": "Circle X",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "x"
@@ -20712,7 +20952,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circle-x-filled",
     "name": "Circle X Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circle",
       "x",
@@ -20724,7 +20964,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circles",
     "name": "Circles",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circles"
     ],
@@ -20734,7 +20974,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circles-filled",
     "name": "Circles Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circles",
       "filled"
@@ -20745,7 +20985,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circles-relation",
     "name": "Circles Relation",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "circles",
       "relation"
@@ -20756,7 +20996,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circuit-ammeter",
     "name": "Circuit Ammeter",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "devops-cicd",
     "tags": [
       "circuit",
       "ammeter"
@@ -20767,7 +21007,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circuit-battery",
     "name": "Circuit Battery",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "devops-cicd",
     "tags": [
       "circuit",
       "battery"
@@ -20778,7 +21018,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circuit-bulb",
     "name": "Circuit Bulb",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "devops-cicd",
     "tags": [
       "circuit",
       "bulb"
@@ -20789,7 +21029,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circuit-capacitor",
     "name": "Circuit Capacitor",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "devops-cicd",
     "tags": [
       "circuit",
       "capacitor"
@@ -20800,7 +21040,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circuit-capacitor-polarized",
     "name": "Circuit Capacitor Polarized",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "devops-cicd",
     "tags": [
       "circuit",
       "capacitor",
@@ -20812,7 +21052,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circuit-cell",
     "name": "Circuit Cell",
     "set": "tabler",
-    "category": "networking",
+    "category": "devops-cicd",
     "tags": [
       "circuit",
       "cell"
@@ -20823,7 +21063,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circuit-cell-plus",
     "name": "Circuit Cell Plus",
     "set": "tabler",
-    "category": "networking",
+    "category": "devops-cicd",
     "tags": [
       "circuit",
       "cell",
@@ -20835,7 +21075,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circuit-changeover",
     "name": "Circuit Changeover",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "devops-cicd",
     "tags": [
       "circuit",
       "changeover"
@@ -20846,7 +21086,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circuit-diode",
     "name": "Circuit Diode",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "devops-cicd",
     "tags": [
       "circuit",
       "diode"
@@ -20857,7 +21097,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circuit-diode-zener",
     "name": "Circuit Diode Zener",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "devops-cicd",
     "tags": [
       "circuit",
       "diode",
@@ -20869,7 +21109,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circuit-ground",
     "name": "Circuit Ground",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "devops-cicd",
     "tags": [
       "circuit",
       "ground"
@@ -20880,7 +21120,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circuit-ground-digital",
     "name": "Circuit Ground Digital",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "devops-cicd",
     "tags": [
       "circuit",
       "ground",
@@ -20892,7 +21132,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circuit-inductor",
     "name": "Circuit Inductor",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "devops-cicd",
     "tags": [
       "circuit",
       "inductor"
@@ -20903,7 +21143,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circuit-motor",
     "name": "Circuit Motor",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "devops-cicd",
     "tags": [
       "circuit",
       "motor"
@@ -20914,7 +21154,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circuit-pushbutton",
     "name": "Circuit Pushbutton",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "devops-cicd",
     "tags": [
       "circuit",
       "pushbutton"
@@ -20925,7 +21165,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circuit-resistor",
     "name": "Circuit Resistor",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "devops-cicd",
     "tags": [
       "circuit",
       "resistor"
@@ -20936,7 +21176,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circuit-switch-closed",
     "name": "Circuit Switch Closed",
     "set": "tabler",
-    "category": "navigation",
+    "category": "devops-cicd",
     "tags": [
       "circuit",
       "switch",
@@ -20948,7 +21188,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circuit-switch-open",
     "name": "Circuit Switch Open",
     "set": "tabler",
-    "category": "navigation",
+    "category": "devops-cicd",
     "tags": [
       "circuit",
       "switch",
@@ -20960,7 +21200,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-circuit-voltmeter",
     "name": "Circuit Voltmeter",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "devops-cicd",
     "tags": [
       "circuit",
       "voltmeter"
@@ -20982,7 +21222,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-clear-formatting",
     "name": "Clear Formatting",
     "set": "tabler",
-    "category": "editor",
+    "category": "general-ui",
     "tags": [
       "clear",
       "formatting"
@@ -21014,7 +21254,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-click",
     "name": "Click",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "navigation",
     "tags": [
       "click"
     ],
@@ -21024,7 +21264,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-click-filled",
     "name": "Click Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "navigation",
     "tags": [
       "click",
       "filled"
@@ -21079,7 +21319,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-clipboard-copy",
     "name": "Clipboard Copy",
     "set": "tabler",
-    "category": "editor",
+    "category": "general-ui",
     "tags": [
       "clipboard",
       "copy"
@@ -21124,7 +21364,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-clipboard-heart",
     "name": "Clipboard Heart",
     "set": "tabler",
-    "category": "people-social",
+    "category": "general-ui",
     "tags": [
       "clipboard",
       "heart"
@@ -21135,7 +21375,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-clipboard-list",
     "name": "Clipboard List",
     "set": "tabler",
-    "category": "editor",
+    "category": "general-ui",
     "tags": [
       "clipboard",
       "list"
@@ -21146,7 +21386,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-clipboard-list-filled",
     "name": "Clipboard List Filled",
     "set": "tabler",
-    "category": "editor",
+    "category": "general-ui",
     "tags": [
       "clipboard",
       "list",
@@ -21226,7 +21466,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-clipboard-text",
     "name": "Clipboard Text",
     "set": "tabler",
-    "category": "editor",
+    "category": "general-ui",
     "tags": [
       "clipboard",
       "text"
@@ -21237,7 +21477,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-clipboard-text-filled",
     "name": "Clipboard Text Filled",
     "set": "tabler",
-    "category": "editor",
+    "category": "general-ui",
     "tags": [
       "clipboard",
       "text",
@@ -21401,7 +21641,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-clock-dollar",
     "name": "Clock Dollar",
     "set": "tabler",
-    "category": "finance",
+    "category": "general-ui",
     "tags": [
       "clock",
       "dollar"
@@ -21412,10 +21652,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-clock-down",
     "name": "Clock Down",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "clock",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconClockDown"
   },
@@ -21423,7 +21665,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-clock-edit",
     "name": "Clock Edit",
     "set": "tabler",
-    "category": "editor",
+    "category": "general-ui",
     "tags": [
       "clock",
       "edit"
@@ -21456,7 +21698,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-clock-heart",
     "name": "Clock Heart",
     "set": "tabler",
-    "category": "people-social",
+    "category": "general-ui",
     "tags": [
       "clock",
       "heart"
@@ -21765,7 +22007,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-clock-pause",
     "name": "Clock Pause",
     "set": "tabler",
-    "category": "media",
+    "category": "general-ui",
     "tags": [
       "clock",
       "pause"
@@ -21776,7 +22018,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-clock-pin",
     "name": "Clock Pin",
     "set": "tabler",
-    "category": "maps-location",
+    "category": "general-ui",
     "tags": [
       "clock",
       "pin"
@@ -21787,7 +22029,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-clock-play",
     "name": "Clock Play",
     "set": "tabler",
-    "category": "media",
+    "category": "general-ui",
     "tags": [
       "clock",
       "play"
@@ -21820,7 +22062,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-clock-record",
     "name": "Clock Record",
     "set": "tabler",
-    "category": "media",
+    "category": "general-ui",
     "tags": [
       "clock",
       "record"
@@ -21842,7 +22084,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-clock-share",
     "name": "Clock Share",
     "set": "tabler",
-    "category": "people-social",
+    "category": "general-ui",
     "tags": [
       "clock",
       "share"
@@ -21853,7 +22095,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-clock-shield",
     "name": "Clock Shield",
     "set": "tabler",
-    "category": "security-identity",
+    "category": "general-ui",
     "tags": [
       "clock",
       "shield"
@@ -21864,7 +22106,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-clock-star",
     "name": "Clock Star",
     "set": "tabler",
-    "category": "people-social",
+    "category": "general-ui",
     "tags": [
       "clock",
       "star"
@@ -21875,7 +22117,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-clock-stop",
     "name": "Clock Stop",
     "set": "tabler",
-    "category": "media",
+    "category": "general-ui",
     "tags": [
       "clock",
       "stop"
@@ -21886,10 +22128,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-clock-up",
     "name": "Clock Up",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "clock",
-      "up"
+      "up",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconClockUp"
   },
@@ -22055,7 +22299,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-cloud-dollar",
     "name": "Cloud Dollar",
     "set": "tabler",
-    "category": "finance",
+    "category": "compute",
     "tags": [
       "cloud",
       "dollar"
@@ -22066,10 +22310,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-cloud-down",
     "name": "Cloud Down",
     "set": "tabler",
-    "category": "navigation",
+    "category": "compute",
     "tags": [
       "cloud",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconCloudDown"
   },
@@ -22077,10 +22323,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-cloud-download",
     "name": "Cloud Download",
     "set": "tabler",
-    "category": "navigation",
+    "category": "compute",
     "tags": [
       "cloud",
-      "download"
+      "download",
+      "transfer",
+      "arrow"
     ],
     "tablerName": "IconCloudDownload"
   },
@@ -22121,7 +22369,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-cloud-heart",
     "name": "Cloud Heart",
     "set": "tabler",
-    "category": "people-social",
+    "category": "compute",
     "tags": [
       "cloud",
       "heart"
@@ -22143,7 +22391,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-cloud-lock-open",
     "name": "Cloud Lock Open",
     "set": "tabler",
-    "category": "navigation",
+    "category": "compute",
     "tags": [
       "cloud",
       "lock",
@@ -22188,7 +22436,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-cloud-pause",
     "name": "Cloud Pause",
     "set": "tabler",
-    "category": "media",
+    "category": "compute",
     "tags": [
       "cloud",
       "pause"
@@ -22199,7 +22447,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-cloud-pin",
     "name": "Cloud Pin",
     "set": "tabler",
-    "category": "maps-location",
+    "category": "compute",
     "tags": [
       "cloud",
       "pin"
@@ -22254,7 +22502,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-cloud-share",
     "name": "Cloud Share",
     "set": "tabler",
-    "category": "people-social",
+    "category": "compute",
     "tags": [
       "cloud",
       "share"
@@ -22276,7 +22524,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-cloud-star",
     "name": "Cloud Star",
     "set": "tabler",
-    "category": "people-social",
+    "category": "compute",
     "tags": [
       "cloud",
       "star"
@@ -22298,10 +22546,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-cloud-up",
     "name": "Cloud Up",
     "set": "tabler",
-    "category": "navigation",
+    "category": "compute",
     "tags": [
       "cloud",
-      "up"
+      "up",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconCloudUp"
   },
@@ -22309,10 +22559,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-cloud-upload",
     "name": "Cloud Upload",
     "set": "tabler",
-    "category": "navigation",
+    "category": "compute",
     "tags": [
       "cloud",
-      "upload"
+      "upload",
+      "transfer",
+      "arrow"
     ],
     "tablerName": "IconCloudUpload"
   },
@@ -22818,7 +23070,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-color-filter",
     "name": "Color Filter",
     "set": "tabler",
-    "category": "editor",
+    "category": "general-ui",
     "tags": [
       "color",
       "filter"
@@ -22829,7 +23081,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-color-picker",
     "name": "Color Picker",
     "set": "tabler",
-    "category": "editor",
+    "category": "general-ui",
     "tags": [
       "color",
       "picker"
@@ -22840,7 +23092,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-color-picker-off",
     "name": "Color Picker Off",
     "set": "tabler",
-    "category": "editor",
+    "category": "general-ui",
     "tags": [
       "color",
       "picker",
@@ -22852,7 +23104,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-color-swatch",
     "name": "Color Swatch",
     "set": "tabler",
-    "category": "editor",
+    "category": "general-ui",
     "tags": [
       "color",
       "swatch"
@@ -22863,7 +23115,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-color-swatch-off",
     "name": "Color Swatch Off",
     "set": "tabler",
-    "category": "editor",
+    "category": "general-ui",
     "tags": [
       "color",
       "swatch",
@@ -22875,11 +23127,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-column-insert-left",
     "name": "Column Insert Left",
     "set": "tabler",
-    "category": "navigation",
+    "category": "frontend-client",
     "tags": [
       "column",
       "insert",
-      "left"
+      "left",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconColumnInsertLeft"
   },
@@ -22887,11 +23141,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-column-insert-right",
     "name": "Column Insert Right",
     "set": "tabler",
-    "category": "navigation",
+    "category": "frontend-client",
     "tags": [
       "column",
       "insert",
-      "right"
+      "right",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconColumnInsertRight"
   },
@@ -22899,7 +23155,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-column-remove",
     "name": "Column Remove",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "column",
       "remove"
@@ -22910,7 +23166,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-columns",
     "name": "Columns",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "columns"
     ],
@@ -22920,7 +23176,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-columns1",
     "name": "Columns1",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "columns1"
     ],
@@ -22930,7 +23186,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-columns1-filled",
     "name": "Columns1 Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "columns1",
       "filled"
@@ -22941,7 +23197,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-columns2",
     "name": "Columns2",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "columns2"
     ],
@@ -22951,7 +23207,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-columns2-filled",
     "name": "Columns2 Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "columns2",
       "filled"
@@ -22962,7 +23218,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-columns3",
     "name": "Columns3",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "columns3"
     ],
@@ -22972,7 +23228,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-columns3-filled",
     "name": "Columns3 Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "columns3",
       "filled"
@@ -22983,7 +23239,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-columns-off",
     "name": "Columns Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "columns",
       "off"
@@ -23057,7 +23313,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-components",
     "name": "Components",
     "set": "tabler",
-    "category": "frontend-client",
+    "category": "general-ui",
     "tags": [
       "components"
     ],
@@ -23067,7 +23323,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-components-off",
     "name": "Components Off",
     "set": "tabler",
-    "category": "frontend-client",
+    "category": "general-ui",
     "tags": [
       "components",
       "off"
@@ -23078,7 +23334,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-cone",
     "name": "Cone",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "cone"
     ],
@@ -23088,7 +23344,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-cone2",
     "name": "Cone2",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "cone2"
     ],
@@ -23098,7 +23354,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-cone2-filled",
     "name": "Cone2 Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "cone2",
       "filled"
@@ -23109,7 +23365,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-cone-filled",
     "name": "Cone Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "cone",
       "filled"
@@ -23120,7 +23376,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-cone-off",
     "name": "Cone Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "cone",
       "off"
@@ -23131,7 +23387,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-cone-plus",
     "name": "Cone Plus",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "cone",
       "plus"
@@ -23205,7 +23461,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-container",
     "name": "Container",
     "set": "tabler",
-    "category": "devops-cicd",
+    "category": "diagram-primitives",
     "tags": [
       "container"
     ],
@@ -23215,7 +23471,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-container-filled",
     "name": "Container Filled",
     "set": "tabler",
-    "category": "devops-cicd",
+    "category": "diagram-primitives",
     "tags": [
       "container",
       "filled"
@@ -23226,7 +23482,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-container-off",
     "name": "Container Off",
     "set": "tabler",
-    "category": "devops-cicd",
+    "category": "diagram-primitives",
     "tags": [
       "container",
       "off"
@@ -23247,7 +23503,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-contrast",
     "name": "Contrast",
     "set": "tabler",
-    "category": "media",
+    "category": "frontend-client",
     "tags": [
       "contrast"
     ],
@@ -23257,7 +23513,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-contrast2",
     "name": "Contrast2",
     "set": "tabler",
-    "category": "media",
+    "category": "frontend-client",
     "tags": [
       "contrast2"
     ],
@@ -23267,7 +23523,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-contrast2-filled",
     "name": "Contrast2 Filled",
     "set": "tabler",
-    "category": "media",
+    "category": "frontend-client",
     "tags": [
       "contrast2",
       "filled"
@@ -23278,7 +23534,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-contrast2-off",
     "name": "Contrast2 Off",
     "set": "tabler",
-    "category": "media",
+    "category": "frontend-client",
     "tags": [
       "contrast2",
       "off"
@@ -23289,7 +23545,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-contrast-filled",
     "name": "Contrast Filled",
     "set": "tabler",
-    "category": "media",
+    "category": "frontend-client",
     "tags": [
       "contrast",
       "filled"
@@ -23300,7 +23556,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-contrast-off",
     "name": "Contrast Off",
     "set": "tabler",
-    "category": "media",
+    "category": "frontend-client",
     "tags": [
       "contrast",
       "off"
@@ -23564,11 +23820,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-corner-down-left",
     "name": "Corner Down Left",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "corner",
       "down",
-      "left"
+      "left",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconCornerDownLeft"
   },
@@ -23576,7 +23834,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-corner-down-left-double",
     "name": "Corner Down Left Double",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "corner",
       "down",
@@ -23589,11 +23847,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-corner-down-right",
     "name": "Corner Down Right",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "corner",
       "down",
-      "right"
+      "right",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconCornerDownRight"
   },
@@ -23601,7 +23861,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-corner-down-right-double",
     "name": "Corner Down Right Double",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "corner",
       "down",
@@ -23614,11 +23874,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-corner-left-down",
     "name": "Corner Left Down",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "corner",
       "left",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconCornerLeftDown"
   },
@@ -23626,7 +23888,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-corner-left-down-double",
     "name": "Corner Left Down Double",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "corner",
       "left",
@@ -23639,11 +23901,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-corner-left-up",
     "name": "Corner Left Up",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "corner",
       "left",
-      "up"
+      "up",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconCornerLeftUp"
   },
@@ -23651,7 +23915,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-corner-left-up-double",
     "name": "Corner Left Up Double",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "corner",
       "left",
@@ -23664,11 +23928,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-corner-right-down",
     "name": "Corner Right Down",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "corner",
       "right",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconCornerRightDown"
   },
@@ -23676,7 +23942,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-corner-right-down-double",
     "name": "Corner Right Down Double",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "corner",
       "right",
@@ -23689,11 +23955,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-corner-right-up",
     "name": "Corner Right Up",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "corner",
       "right",
-      "up"
+      "up",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconCornerRightUp"
   },
@@ -23701,7 +23969,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-corner-right-up-double",
     "name": "Corner Right Up Double",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "corner",
       "right",
@@ -23714,11 +23982,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-corner-up-left",
     "name": "Corner Up Left",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "corner",
       "up",
-      "left"
+      "left",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconCornerUpLeft"
   },
@@ -23726,7 +23996,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-corner-up-left-double",
     "name": "Corner Up Left Double",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "corner",
       "up",
@@ -23739,11 +24009,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-corner-up-right",
     "name": "Corner Up Right",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "corner",
       "up",
-      "right"
+      "right",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconCornerUpRight"
   },
@@ -23751,7 +24023,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-corner-up-right-double",
     "name": "Corner Up Right Double",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "corner",
       "up",
@@ -24183,7 +24455,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-crosshair",
     "name": "Crosshair",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "crosshair"
     ],
@@ -24193,7 +24465,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-crown",
     "name": "Crown",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "crown"
     ],
@@ -24203,7 +24475,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-crown-filled",
     "name": "Crown Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "crown",
       "filled"
@@ -24214,7 +24486,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-crown-off",
     "name": "Crown Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "crown",
       "off"
@@ -24267,7 +24539,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-cube",
     "name": "Cube",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "cube"
     ],
@@ -24277,7 +24549,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-cube3d-sphere",
     "name": "Cube3d Sphere",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "cube3d",
       "sphere"
@@ -24288,7 +24560,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-cube3d-sphere-off",
     "name": "Cube3d Sphere Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "cube3d",
       "sphere",
@@ -24300,7 +24572,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-cube-off",
     "name": "Cube Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "cube",
       "off"
@@ -24311,7 +24583,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-cube-plus",
     "name": "Cube Plus",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "cube",
       "plus"
@@ -24322,7 +24594,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-cube-send",
     "name": "Cube Send",
     "set": "tabler",
-    "category": "messaging-queue",
+    "category": "diagram-primitives",
     "tags": [
       "cube",
       "send"
@@ -24333,7 +24605,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-cube-spark",
     "name": "Cube Spark",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "cube",
       "spark"
@@ -24344,7 +24616,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-cube-unfolded",
     "name": "Cube Unfolded",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "cube",
       "unfolded"
@@ -25181,7 +25453,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-current-location",
     "name": "Current Location",
     "set": "tabler",
-    "category": "maps-location",
+    "category": "general-ui",
     "tags": [
       "current",
       "location"
@@ -25192,7 +25464,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-current-location-filled",
     "name": "Current Location Filled",
     "set": "tabler",
-    "category": "maps-location",
+    "category": "general-ui",
     "tags": [
       "current",
       "location",
@@ -25204,7 +25476,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-current-location-off",
     "name": "Current Location Off",
     "set": "tabler",
-    "category": "maps-location",
+    "category": "general-ui",
     "tags": [
       "current",
       "location",
@@ -25216,7 +25488,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-cursor-off",
     "name": "Cursor Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "navigation",
     "tags": [
       "cursor",
       "off"
@@ -25227,7 +25499,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-cursor-text",
     "name": "Cursor Text",
     "set": "tabler",
-    "category": "editor",
+    "category": "navigation",
     "tags": [
       "cursor",
       "text"
@@ -25248,7 +25520,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-cylinder",
     "name": "Cylinder",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "cylinder"
     ],
@@ -25258,7 +25530,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-cylinder-off",
     "name": "Cylinder Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "cylinder",
       "off"
@@ -25269,7 +25541,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-cylinder-plus",
     "name": "Cylinder Plus",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "cylinder",
       "plus"
@@ -25280,7 +25552,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-dashboard",
     "name": "Dashboard",
     "set": "tabler",
-    "category": "monitoring-logging",
+    "category": "diagram-primitives",
     "tags": [
       "dashboard"
     ],
@@ -25290,7 +25562,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-dashboard-filled",
     "name": "Dashboard Filled",
     "set": "tabler",
-    "category": "monitoring-logging",
+    "category": "diagram-primitives",
     "tags": [
       "dashboard",
       "filled"
@@ -25301,7 +25573,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-dashboard-off",
     "name": "Dashboard Off",
     "set": "tabler",
-    "category": "monitoring-logging",
+    "category": "diagram-primitives",
     "tags": [
       "dashboard",
       "off"
@@ -25333,7 +25605,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-database-dollar",
     "name": "Database Dollar",
     "set": "tabler",
-    "category": "finance",
+    "category": "storage-database",
     "tags": [
       "database",
       "dollar"
@@ -25344,7 +25616,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-database-edit",
     "name": "Database Edit",
     "set": "tabler",
-    "category": "editor",
+    "category": "storage-database",
     "tags": [
       "database",
       "edit"
@@ -25388,7 +25660,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-database-heart",
     "name": "Database Heart",
     "set": "tabler",
-    "category": "people-social",
+    "category": "storage-database",
     "tags": [
       "database",
       "heart"
@@ -25465,7 +25737,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-database-share",
     "name": "Database Share",
     "set": "tabler",
-    "category": "people-social",
+    "category": "storage-database",
     "tags": [
       "database",
       "share"
@@ -25487,7 +25759,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-database-star",
     "name": "Database Star",
     "set": "tabler",
-    "category": "people-social",
+    "category": "storage-database",
     "tags": [
       "database",
       "star"
@@ -25622,7 +25894,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device3d-camera",
     "name": "Device3d Camera",
     "set": "tabler",
-    "category": "media",
+    "category": "general-ui",
     "tags": [
       "device3d",
       "camera"
@@ -25678,7 +25950,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-analytics",
     "name": "Device Analytics",
     "set": "tabler",
-    "category": "monitoring-logging",
+    "category": "general-ui",
     "tags": [
       "device",
       "analytics"
@@ -25689,7 +25961,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-audio-tape",
     "name": "Device Audio Tape",
     "set": "tabler",
-    "category": "media",
+    "category": "general-ui",
     "tags": [
       "device",
       "audio",
@@ -25701,7 +25973,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-camera-phone",
     "name": "Device Camera Phone",
     "set": "tabler",
-    "category": "media",
+    "category": "general-ui",
     "tags": [
       "device",
       "camera",
@@ -25748,7 +26020,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-computer-camera",
     "name": "Device Computer Camera",
     "set": "tabler",
-    "category": "media",
+    "category": "general-ui",
     "tags": [
       "device",
       "computer",
@@ -25760,7 +26032,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-computer-camera2",
     "name": "Device Computer Camera2",
     "set": "tabler",
-    "category": "media",
+    "category": "general-ui",
     "tags": [
       "device",
       "computer",
@@ -25772,7 +26044,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-computer-camera-off",
     "name": "Device Computer Camera Off",
     "set": "tabler",
-    "category": "media",
+    "category": "general-ui",
     "tags": [
       "device",
       "computer",
@@ -25785,7 +26057,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-desktop",
     "name": "Device Desktop",
     "set": "tabler",
-    "category": "compute",
+    "category": "general-ui",
     "tags": [
       "device",
       "desktop"
@@ -25796,7 +26068,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-desktop-analytics",
     "name": "Device Desktop Analytics",
     "set": "tabler",
-    "category": "compute",
+    "category": "general-ui",
     "tags": [
       "device",
       "desktop",
@@ -25808,7 +26080,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-desktop-bolt",
     "name": "Device Desktop Bolt",
     "set": "tabler",
-    "category": "compute",
+    "category": "general-ui",
     "tags": [
       "device",
       "desktop",
@@ -25820,7 +26092,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-desktop-cancel",
     "name": "Device Desktop Cancel",
     "set": "tabler",
-    "category": "compute",
+    "category": "general-ui",
     "tags": [
       "device",
       "desktop",
@@ -25832,7 +26104,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-desktop-check",
     "name": "Device Desktop Check",
     "set": "tabler",
-    "category": "compute",
+    "category": "general-ui",
     "tags": [
       "device",
       "desktop",
@@ -25844,7 +26116,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-desktop-code",
     "name": "Device Desktop Code",
     "set": "tabler",
-    "category": "compute",
+    "category": "general-ui",
     "tags": [
       "device",
       "desktop",
@@ -25856,7 +26128,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-desktop-cog",
     "name": "Device Desktop Cog",
     "set": "tabler",
-    "category": "compute",
+    "category": "general-ui",
     "tags": [
       "device",
       "desktop",
@@ -25868,7 +26140,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-desktop-dollar",
     "name": "Device Desktop Dollar",
     "set": "tabler",
-    "category": "finance",
+    "category": "general-ui",
     "tags": [
       "device",
       "desktop",
@@ -25880,11 +26152,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-desktop-down",
     "name": "Device Desktop Down",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "device",
       "desktop",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconDeviceDesktopDown"
   },
@@ -25892,7 +26166,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-desktop-exclamation",
     "name": "Device Desktop Exclamation",
     "set": "tabler",
-    "category": "compute",
+    "category": "general-ui",
     "tags": [
       "device",
       "desktop",
@@ -25904,7 +26178,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-desktop-filled",
     "name": "Device Desktop Filled",
     "set": "tabler",
-    "category": "compute",
+    "category": "general-ui",
     "tags": [
       "device",
       "desktop",
@@ -25916,7 +26190,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-desktop-heart",
     "name": "Device Desktop Heart",
     "set": "tabler",
-    "category": "people-social",
+    "category": "general-ui",
     "tags": [
       "device",
       "desktop",
@@ -25928,7 +26202,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-desktop-minus",
     "name": "Device Desktop Minus",
     "set": "tabler",
-    "category": "compute",
+    "category": "general-ui",
     "tags": [
       "device",
       "desktop",
@@ -25940,7 +26214,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-desktop-off",
     "name": "Device Desktop Off",
     "set": "tabler",
-    "category": "compute",
+    "category": "general-ui",
     "tags": [
       "device",
       "desktop",
@@ -25952,7 +26226,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-desktop-pause",
     "name": "Device Desktop Pause",
     "set": "tabler",
-    "category": "media",
+    "category": "general-ui",
     "tags": [
       "device",
       "desktop",
@@ -25964,7 +26238,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-desktop-pin",
     "name": "Device Desktop Pin",
     "set": "tabler",
-    "category": "maps-location",
+    "category": "general-ui",
     "tags": [
       "device",
       "desktop",
@@ -25976,7 +26250,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-desktop-plus",
     "name": "Device Desktop Plus",
     "set": "tabler",
-    "category": "compute",
+    "category": "general-ui",
     "tags": [
       "device",
       "desktop",
@@ -25988,7 +26262,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-desktop-question",
     "name": "Device Desktop Question",
     "set": "tabler",
-    "category": "compute",
+    "category": "general-ui",
     "tags": [
       "device",
       "desktop",
@@ -26000,7 +26274,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-desktop-search",
     "name": "Device Desktop Search",
     "set": "tabler",
-    "category": "compute",
+    "category": "general-ui",
     "tags": [
       "device",
       "desktop",
@@ -26012,7 +26286,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-desktop-share",
     "name": "Device Desktop Share",
     "set": "tabler",
-    "category": "people-social",
+    "category": "general-ui",
     "tags": [
       "device",
       "desktop",
@@ -26024,7 +26298,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-desktop-star",
     "name": "Device Desktop Star",
     "set": "tabler",
-    "category": "people-social",
+    "category": "general-ui",
     "tags": [
       "device",
       "desktop",
@@ -26036,11 +26310,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-desktop-up",
     "name": "Device Desktop Up",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "device",
       "desktop",
-      "up"
+      "up",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconDeviceDesktopUp"
   },
@@ -26048,7 +26324,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-desktop-x",
     "name": "Device Desktop X",
     "set": "tabler",
-    "category": "compute",
+    "category": "general-ui",
     "tags": [
       "device",
       "desktop",
@@ -26152,7 +26428,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-heart-monitor",
     "name": "Device Heart Monitor",
     "set": "tabler",
-    "category": "people-social",
+    "category": "general-ui",
     "tags": [
       "device",
       "heart",
@@ -26164,7 +26440,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-heart-monitor-filled",
     "name": "Device Heart Monitor Filled",
     "set": "tabler",
-    "category": "people-social",
+    "category": "general-ui",
     "tags": [
       "device",
       "heart",
@@ -26248,7 +26524,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-imac-dollar",
     "name": "Device Imac Dollar",
     "set": "tabler",
-    "category": "finance",
+    "category": "general-ui",
     "tags": [
       "device",
       "imac",
@@ -26260,11 +26536,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-imac-down",
     "name": "Device Imac Down",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "device",
       "imac",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconDeviceImacDown"
   },
@@ -26296,7 +26574,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-imac-heart",
     "name": "Device Imac Heart",
     "set": "tabler",
-    "category": "people-social",
+    "category": "general-ui",
     "tags": [
       "device",
       "imac",
@@ -26332,7 +26610,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-imac-pause",
     "name": "Device Imac Pause",
     "set": "tabler",
-    "category": "media",
+    "category": "general-ui",
     "tags": [
       "device",
       "imac",
@@ -26344,7 +26622,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-imac-pin",
     "name": "Device Imac Pin",
     "set": "tabler",
-    "category": "maps-location",
+    "category": "general-ui",
     "tags": [
       "device",
       "imac",
@@ -26392,7 +26670,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-imac-share",
     "name": "Device Imac Share",
     "set": "tabler",
-    "category": "people-social",
+    "category": "general-ui",
     "tags": [
       "device",
       "imac",
@@ -26404,7 +26682,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-imac-star",
     "name": "Device Imac Star",
     "set": "tabler",
-    "category": "people-social",
+    "category": "general-ui",
     "tags": [
       "device",
       "imac",
@@ -26416,11 +26694,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-imac-up",
     "name": "Device Imac Up",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "device",
       "imac",
-      "up"
+      "up",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconDeviceImacUp"
   },
@@ -26511,7 +26791,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-ipad-dollar",
     "name": "Device Ipad Dollar",
     "set": "tabler",
-    "category": "finance",
+    "category": "general-ui",
     "tags": [
       "device",
       "ipad",
@@ -26523,11 +26803,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-ipad-down",
     "name": "Device Ipad Down",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "device",
       "ipad",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconDeviceIpadDown"
   },
@@ -26559,7 +26841,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-ipad-heart",
     "name": "Device Ipad Heart",
     "set": "tabler",
-    "category": "people-social",
+    "category": "general-ui",
     "tags": [
       "device",
       "ipad",
@@ -26648,7 +26930,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-ipad-horizontal-dollar",
     "name": "Device Ipad Horizontal Dollar",
     "set": "tabler",
-    "category": "finance",
+    "category": "general-ui",
     "tags": [
       "device",
       "ipad",
@@ -26661,12 +26943,14 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-ipad-horizontal-down",
     "name": "Device Ipad Horizontal Down",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "device",
       "ipad",
       "horizontal",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconDeviceIpadHorizontalDown"
   },
@@ -26687,7 +26971,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-ipad-horizontal-heart",
     "name": "Device Ipad Horizontal Heart",
     "set": "tabler",
-    "category": "people-social",
+    "category": "general-ui",
     "tags": [
       "device",
       "ipad",
@@ -26726,7 +27010,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-ipad-horizontal-pause",
     "name": "Device Ipad Horizontal Pause",
     "set": "tabler",
-    "category": "media",
+    "category": "general-ui",
     "tags": [
       "device",
       "ipad",
@@ -26739,7 +27023,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-ipad-horizontal-pin",
     "name": "Device Ipad Horizontal Pin",
     "set": "tabler",
-    "category": "maps-location",
+    "category": "general-ui",
     "tags": [
       "device",
       "ipad",
@@ -26791,7 +27075,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-ipad-horizontal-share",
     "name": "Device Ipad Horizontal Share",
     "set": "tabler",
-    "category": "people-social",
+    "category": "general-ui",
     "tags": [
       "device",
       "ipad",
@@ -26804,7 +27088,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-ipad-horizontal-star",
     "name": "Device Ipad Horizontal Star",
     "set": "tabler",
-    "category": "people-social",
+    "category": "general-ui",
     "tags": [
       "device",
       "ipad",
@@ -26817,12 +27101,14 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-ipad-horizontal-up",
     "name": "Device Ipad Horizontal Up",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "device",
       "ipad",
       "horizontal",
-      "up"
+      "up",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconDeviceIpadHorizontalUp"
   },
@@ -26867,7 +27153,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-ipad-pause",
     "name": "Device Ipad Pause",
     "set": "tabler",
-    "category": "media",
+    "category": "general-ui",
     "tags": [
       "device",
       "ipad",
@@ -26879,7 +27165,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-ipad-pin",
     "name": "Device Ipad Pin",
     "set": "tabler",
-    "category": "maps-location",
+    "category": "general-ui",
     "tags": [
       "device",
       "ipad",
@@ -26927,7 +27213,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-ipad-share",
     "name": "Device Ipad Share",
     "set": "tabler",
-    "category": "people-social",
+    "category": "general-ui",
     "tags": [
       "device",
       "ipad",
@@ -26939,7 +27225,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-ipad-star",
     "name": "Device Ipad Star",
     "set": "tabler",
-    "category": "people-social",
+    "category": "general-ui",
     "tags": [
       "device",
       "ipad",
@@ -26951,11 +27237,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-ipad-up",
     "name": "Device Ipad Up",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "device",
       "ipad",
-      "up"
+      "up",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconDeviceIpadUp"
   },
@@ -26975,7 +27263,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-landline-phone",
     "name": "Device Landline Phone",
     "set": "tabler",
-    "category": "networking",
+    "category": "general-ui",
     "tags": [
       "device",
       "landline",
@@ -26987,7 +27275,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-laptop",
     "name": "Device Laptop",
     "set": "tabler",
-    "category": "compute",
+    "category": "general-ui",
     "tags": [
       "device",
       "laptop"
@@ -26998,7 +27286,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-laptop-off",
     "name": "Device Laptop Off",
     "set": "tabler",
-    "category": "compute",
+    "category": "general-ui",
     "tags": [
       "device",
       "laptop",
@@ -27010,7 +27298,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-mobile",
     "name": "Device Mobile",
     "set": "tabler",
-    "category": "frontend-client",
+    "category": "general-ui",
     "tags": [
       "device",
       "mobile"
@@ -27021,7 +27309,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-mobile-bolt",
     "name": "Device Mobile Bolt",
     "set": "tabler",
-    "category": "frontend-client",
+    "category": "general-ui",
     "tags": [
       "device",
       "mobile",
@@ -27033,7 +27321,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-mobile-cancel",
     "name": "Device Mobile Cancel",
     "set": "tabler",
-    "category": "frontend-client",
+    "category": "general-ui",
     "tags": [
       "device",
       "mobile",
@@ -27045,7 +27333,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-mobile-charging",
     "name": "Device Mobile Charging",
     "set": "tabler",
-    "category": "frontend-client",
+    "category": "general-ui",
     "tags": [
       "device",
       "mobile",
@@ -27057,7 +27345,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-mobile-check",
     "name": "Device Mobile Check",
     "set": "tabler",
-    "category": "frontend-client",
+    "category": "general-ui",
     "tags": [
       "device",
       "mobile",
@@ -27069,7 +27357,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-mobile-code",
     "name": "Device Mobile Code",
     "set": "tabler",
-    "category": "frontend-client",
+    "category": "general-ui",
     "tags": [
       "device",
       "mobile",
@@ -27081,7 +27369,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-mobile-cog",
     "name": "Device Mobile Cog",
     "set": "tabler",
-    "category": "frontend-client",
+    "category": "general-ui",
     "tags": [
       "device",
       "mobile",
@@ -27093,7 +27381,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-mobile-dollar",
     "name": "Device Mobile Dollar",
     "set": "tabler",
-    "category": "finance",
+    "category": "general-ui",
     "tags": [
       "device",
       "mobile",
@@ -27105,11 +27393,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-mobile-down",
     "name": "Device Mobile Down",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "device",
       "mobile",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconDeviceMobileDown"
   },
@@ -27117,7 +27407,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-mobile-exclamation",
     "name": "Device Mobile Exclamation",
     "set": "tabler",
-    "category": "frontend-client",
+    "category": "general-ui",
     "tags": [
       "device",
       "mobile",
@@ -27129,7 +27419,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-mobile-filled",
     "name": "Device Mobile Filled",
     "set": "tabler",
-    "category": "frontend-client",
+    "category": "general-ui",
     "tags": [
       "device",
       "mobile",
@@ -27141,7 +27431,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-mobile-heart",
     "name": "Device Mobile Heart",
     "set": "tabler",
-    "category": "people-social",
+    "category": "general-ui",
     "tags": [
       "device",
       "mobile",
@@ -27153,7 +27443,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-mobile-message",
     "name": "Device Mobile Message",
     "set": "tabler",
-    "category": "messaging-queue",
+    "category": "general-ui",
     "tags": [
       "device",
       "mobile",
@@ -27165,7 +27455,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-mobile-minus",
     "name": "Device Mobile Minus",
     "set": "tabler",
-    "category": "frontend-client",
+    "category": "general-ui",
     "tags": [
       "device",
       "mobile",
@@ -27177,7 +27467,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-mobile-off",
     "name": "Device Mobile Off",
     "set": "tabler",
-    "category": "frontend-client",
+    "category": "general-ui",
     "tags": [
       "device",
       "mobile",
@@ -27189,7 +27479,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-mobile-pause",
     "name": "Device Mobile Pause",
     "set": "tabler",
-    "category": "media",
+    "category": "general-ui",
     "tags": [
       "device",
       "mobile",
@@ -27201,7 +27491,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-mobile-pin",
     "name": "Device Mobile Pin",
     "set": "tabler",
-    "category": "maps-location",
+    "category": "general-ui",
     "tags": [
       "device",
       "mobile",
@@ -27213,7 +27503,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-mobile-plus",
     "name": "Device Mobile Plus",
     "set": "tabler",
-    "category": "frontend-client",
+    "category": "general-ui",
     "tags": [
       "device",
       "mobile",
@@ -27225,7 +27515,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-mobile-question",
     "name": "Device Mobile Question",
     "set": "tabler",
-    "category": "frontend-client",
+    "category": "general-ui",
     "tags": [
       "device",
       "mobile",
@@ -27237,7 +27527,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-mobile-rotated",
     "name": "Device Mobile Rotated",
     "set": "tabler",
-    "category": "editor",
+    "category": "general-ui",
     "tags": [
       "device",
       "mobile",
@@ -27249,7 +27539,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-mobile-search",
     "name": "Device Mobile Search",
     "set": "tabler",
-    "category": "frontend-client",
+    "category": "general-ui",
     "tags": [
       "device",
       "mobile",
@@ -27261,7 +27551,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-mobile-share",
     "name": "Device Mobile Share",
     "set": "tabler",
-    "category": "people-social",
+    "category": "general-ui",
     "tags": [
       "device",
       "mobile",
@@ -27273,7 +27563,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-mobile-star",
     "name": "Device Mobile Star",
     "set": "tabler",
-    "category": "people-social",
+    "category": "general-ui",
     "tags": [
       "device",
       "mobile",
@@ -27285,11 +27575,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-mobile-up",
     "name": "Device Mobile Up",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "device",
       "mobile",
-      "up"
+      "up",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconDeviceMobileUp"
   },
@@ -27297,7 +27589,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-mobile-vibration",
     "name": "Device Mobile Vibration",
     "set": "tabler",
-    "category": "frontend-client",
+    "category": "general-ui",
     "tags": [
       "device",
       "mobile",
@@ -27309,7 +27601,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-mobile-x",
     "name": "Device Mobile X",
     "set": "tabler",
-    "category": "frontend-client",
+    "category": "general-ui",
     "tags": [
       "device",
       "mobile",
@@ -27378,7 +27670,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-screen",
     "name": "Device Screen",
     "set": "tabler",
-    "category": "media",
+    "category": "general-ui",
     "tags": [
       "device",
       "screen"
@@ -27389,7 +27681,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-sd-card",
     "name": "Device Sd Card",
     "set": "tabler",
-    "category": "finance",
+    "category": "general-ui",
     "tags": [
       "device",
       "sd",
@@ -27445,7 +27737,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-speaker",
     "name": "Device Speaker",
     "set": "tabler",
-    "category": "media",
+    "category": "general-ui",
     "tags": [
       "device",
       "speaker"
@@ -27456,7 +27748,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-speaker-filled",
     "name": "Device Speaker Filled",
     "set": "tabler",
-    "category": "media",
+    "category": "general-ui",
     "tags": [
       "device",
       "speaker",
@@ -27468,7 +27760,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-speaker-off",
     "name": "Device Speaker Off",
     "set": "tabler",
-    "category": "media",
+    "category": "general-ui",
     "tags": [
       "device",
       "speaker",
@@ -27480,7 +27772,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-tablet",
     "name": "Device Tablet",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "device",
       "tablet"
@@ -27491,7 +27783,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-tablet-bolt",
     "name": "Device Tablet Bolt",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "device",
       "tablet",
@@ -27503,7 +27795,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-tablet-cancel",
     "name": "Device Tablet Cancel",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "device",
       "tablet",
@@ -27515,7 +27807,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-tablet-check",
     "name": "Device Tablet Check",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "device",
       "tablet",
@@ -27527,7 +27819,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-tablet-code",
     "name": "Device Tablet Code",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "device",
       "tablet",
@@ -27539,7 +27831,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-tablet-cog",
     "name": "Device Tablet Cog",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "device",
       "tablet",
@@ -27551,7 +27843,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-tablet-dollar",
     "name": "Device Tablet Dollar",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "device",
       "tablet",
@@ -27563,11 +27855,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-tablet-down",
     "name": "Device Tablet Down",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "device",
       "tablet",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconDeviceTabletDown"
   },
@@ -27575,7 +27869,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-tablet-exclamation",
     "name": "Device Tablet Exclamation",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "device",
       "tablet",
@@ -27587,7 +27881,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-tablet-filled",
     "name": "Device Tablet Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "device",
       "tablet",
@@ -27599,7 +27893,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-tablet-heart",
     "name": "Device Tablet Heart",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "device",
       "tablet",
@@ -27611,7 +27905,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-tablet-minus",
     "name": "Device Tablet Minus",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "device",
       "tablet",
@@ -27623,7 +27917,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-tablet-off",
     "name": "Device Tablet Off",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "device",
       "tablet",
@@ -27635,7 +27929,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-tablet-pause",
     "name": "Device Tablet Pause",
     "set": "tabler",
-    "category": "media",
+    "category": "general-ui",
     "tags": [
       "device",
       "tablet",
@@ -27647,7 +27941,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-tablet-pin",
     "name": "Device Tablet Pin",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "device",
       "tablet",
@@ -27659,7 +27953,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-tablet-plus",
     "name": "Device Tablet Plus",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "device",
       "tablet",
@@ -27671,7 +27965,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-tablet-question",
     "name": "Device Tablet Question",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "device",
       "tablet",
@@ -27683,7 +27977,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-tablet-search",
     "name": "Device Tablet Search",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "device",
       "tablet",
@@ -27695,7 +27989,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-tablet-share",
     "name": "Device Tablet Share",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "device",
       "tablet",
@@ -27707,7 +28001,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-tablet-star",
     "name": "Device Tablet Star",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "device",
       "tablet",
@@ -27719,11 +28013,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-tablet-up",
     "name": "Device Tablet Up",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "device",
       "tablet",
-      "up"
+      "up",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconDeviceTabletUp"
   },
@@ -27731,7 +28027,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-tablet-x",
     "name": "Device Tablet X",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "device",
       "tablet",
@@ -27743,7 +28039,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-tv",
     "name": "Device Tv",
     "set": "tabler",
-    "category": "media",
+    "category": "general-ui",
     "tags": [
       "device",
       "tv"
@@ -27754,7 +28050,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-tv-filled",
     "name": "Device Tv Filled",
     "set": "tabler",
-    "category": "media",
+    "category": "general-ui",
     "tags": [
       "device",
       "tv",
@@ -27766,7 +28062,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-tv-off",
     "name": "Device Tv Off",
     "set": "tabler",
-    "category": "media",
+    "category": "general-ui",
     "tags": [
       "device",
       "tv",
@@ -27778,7 +28074,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-tv-old",
     "name": "Device Tv Old",
     "set": "tabler",
-    "category": "media",
+    "category": "general-ui",
     "tags": [
       "device",
       "tv",
@@ -27790,7 +28086,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-tv-old-filled",
     "name": "Device Tv Old Filled",
     "set": "tabler",
-    "category": "media",
+    "category": "general-ui",
     "tags": [
       "device",
       "tv",
@@ -27826,7 +28122,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-usb",
     "name": "Device Usb",
     "set": "tabler",
-    "category": "storage-database",
+    "category": "general-ui",
     "tags": [
       "device",
       "usb"
@@ -27837,7 +28133,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-usb-filled",
     "name": "Device Usb Filled",
     "set": "tabler",
-    "category": "storage-database",
+    "category": "general-ui",
     "tags": [
       "device",
       "usb",
@@ -27945,7 +28241,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-watch-dollar",
     "name": "Device Watch Dollar",
     "set": "tabler",
-    "category": "finance",
+    "category": "general-ui",
     "tags": [
       "device",
       "watch",
@@ -27957,11 +28253,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-watch-down",
     "name": "Device Watch Down",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "device",
       "watch",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconDeviceWatchDown"
   },
@@ -27993,7 +28291,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-watch-heart",
     "name": "Device Watch Heart",
     "set": "tabler",
-    "category": "people-social",
+    "category": "general-ui",
     "tags": [
       "device",
       "watch",
@@ -28029,7 +28327,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-watch-pause",
     "name": "Device Watch Pause",
     "set": "tabler",
-    "category": "media",
+    "category": "general-ui",
     "tags": [
       "device",
       "watch",
@@ -28041,7 +28339,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-watch-pin",
     "name": "Device Watch Pin",
     "set": "tabler",
-    "category": "maps-location",
+    "category": "general-ui",
     "tags": [
       "device",
       "watch",
@@ -28089,7 +28387,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-watch-share",
     "name": "Device Watch Share",
     "set": "tabler",
-    "category": "people-social",
+    "category": "general-ui",
     "tags": [
       "device",
       "watch",
@@ -28101,7 +28399,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-watch-star",
     "name": "Device Watch Star",
     "set": "tabler",
-    "category": "people-social",
+    "category": "general-ui",
     "tags": [
       "device",
       "watch",
@@ -28137,11 +28435,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-device-watch-up",
     "name": "Device Watch Up",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "device",
       "watch",
-      "up"
+      "up",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconDeviceWatchUp"
   },
@@ -28161,7 +28461,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-devices",
     "name": "Devices",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "devices"
     ],
@@ -28171,7 +28471,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-devices2",
     "name": "Devices2",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "devices2"
     ],
@@ -28181,7 +28481,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-devices-bolt",
     "name": "Devices Bolt",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "devices",
       "bolt"
@@ -28192,7 +28492,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-devices-cancel",
     "name": "Devices Cancel",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "devices",
       "cancel"
@@ -28203,7 +28503,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-devices-check",
     "name": "Devices Check",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "devices",
       "check"
@@ -28214,7 +28514,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-devices-code",
     "name": "Devices Code",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "devices",
       "code"
@@ -28225,7 +28525,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-devices-cog",
     "name": "Devices Cog",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "devices",
       "cog"
@@ -28236,7 +28536,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-devices-dollar",
     "name": "Devices Dollar",
     "set": "tabler",
-    "category": "finance",
+    "category": "frontend-client",
     "tags": [
       "devices",
       "dollar"
@@ -28247,10 +28547,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-devices-down",
     "name": "Devices Down",
     "set": "tabler",
-    "category": "navigation",
+    "category": "frontend-client",
     "tags": [
       "devices",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconDevicesDown"
   },
@@ -28258,7 +28560,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-devices-exclamation",
     "name": "Devices Exclamation",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "devices",
       "exclamation"
@@ -28269,7 +28571,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-devices-heart",
     "name": "Devices Heart",
     "set": "tabler",
-    "category": "people-social",
+    "category": "frontend-client",
     "tags": [
       "devices",
       "heart"
@@ -28280,7 +28582,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-devices-minus",
     "name": "Devices Minus",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "devices",
       "minus"
@@ -28291,7 +28593,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-devices-off",
     "name": "Devices Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "devices",
       "off"
@@ -28302,7 +28604,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-devices-pause",
     "name": "Devices Pause",
     "set": "tabler",
-    "category": "media",
+    "category": "frontend-client",
     "tags": [
       "devices",
       "pause"
@@ -28313,7 +28615,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-devices-pc",
     "name": "Devices Pc",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "devices",
       "pc"
@@ -28324,7 +28626,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-devices-pc-off",
     "name": "Devices Pc Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "devices",
       "pc",
@@ -28336,7 +28638,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-devices-pin",
     "name": "Devices Pin",
     "set": "tabler",
-    "category": "maps-location",
+    "category": "frontend-client",
     "tags": [
       "devices",
       "pin"
@@ -28347,7 +28649,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-devices-plus",
     "name": "Devices Plus",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "devices",
       "plus"
@@ -28358,7 +28660,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-devices-question",
     "name": "Devices Question",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "devices",
       "question"
@@ -28369,7 +28671,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-devices-search",
     "name": "Devices Search",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "devices",
       "search"
@@ -28380,7 +28682,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-devices-share",
     "name": "Devices Share",
     "set": "tabler",
-    "category": "people-social",
+    "category": "frontend-client",
     "tags": [
       "devices",
       "share"
@@ -28391,7 +28693,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-devices-star",
     "name": "Devices Star",
     "set": "tabler",
-    "category": "people-social",
+    "category": "frontend-client",
     "tags": [
       "devices",
       "star"
@@ -28402,10 +28704,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-devices-up",
     "name": "Devices Up",
     "set": "tabler",
-    "category": "navigation",
+    "category": "frontend-client",
     "tags": [
       "devices",
-      "up"
+      "up",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconDevicesUp"
   },
@@ -28413,7 +28717,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-devices-x",
     "name": "Devices X",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "devices",
       "x"
@@ -28456,7 +28760,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-dialpad",
     "name": "Dialpad",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "dialpad"
     ],
@@ -28466,7 +28770,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-dialpad-filled",
     "name": "Dialpad Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "dialpad",
       "filled"
@@ -28477,7 +28781,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-dialpad-off",
     "name": "Dialpad Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "dialpad",
       "off"
@@ -28488,7 +28792,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-diamond",
     "name": "Diamond",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "diamond"
     ],
@@ -28498,7 +28802,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-diamond-filled",
     "name": "Diamond Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "diamond",
       "filled"
@@ -28509,7 +28813,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-diamond-off",
     "name": "Diamond Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "diamond",
       "off"
@@ -28520,7 +28824,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-diamonds",
     "name": "Diamonds",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "diamonds"
     ],
@@ -28530,7 +28834,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-diamonds-filled",
     "name": "Diamonds Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "diamonds",
       "filled"
@@ -28850,7 +29154,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-disc",
     "name": "Disc",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "disc"
     ],
@@ -28860,7 +29164,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-disc-filled",
     "name": "Disc Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "disc",
       "filled"
@@ -28871,7 +29175,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-disc-golf",
     "name": "Disc Golf",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "disc",
       "golf"
@@ -28882,7 +29186,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-disc-off",
     "name": "Disc Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "disc",
       "off"
@@ -28893,7 +29197,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-discount",
     "name": "Discount",
     "set": "tabler",
-    "category": "finance",
+    "category": "media",
     "tags": [
       "discount"
     ],
@@ -28903,7 +29207,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-discount2",
     "name": "Discount2",
     "set": "tabler",
-    "category": "finance",
+    "category": "media",
     "tags": [
       "discount2"
     ],
@@ -28913,7 +29217,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-discount2-off",
     "name": "Discount2 Off",
     "set": "tabler",
-    "category": "finance",
+    "category": "media",
     "tags": [
       "discount2",
       "off"
@@ -28924,7 +29228,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-discount-check",
     "name": "Discount Check",
     "set": "tabler",
-    "category": "finance",
+    "category": "media",
     "tags": [
       "discount",
       "check"
@@ -28935,7 +29239,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-discount-check-filled",
     "name": "Discount Check Filled",
     "set": "tabler",
-    "category": "finance",
+    "category": "media",
     "tags": [
       "discount",
       "check",
@@ -28947,7 +29251,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-discount-filled",
     "name": "Discount Filled",
     "set": "tabler",
-    "category": "finance",
+    "category": "media",
     "tags": [
       "discount",
       "filled"
@@ -28958,7 +29262,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-discount-off",
     "name": "Discount Off",
     "set": "tabler",
-    "category": "finance",
+    "category": "media",
     "tags": [
       "discount",
       "off"
@@ -29052,7 +29356,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-door-enter",
     "name": "Door Enter",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "door",
       "enter"
@@ -29063,7 +29367,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-door-exit",
     "name": "Door Exit",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "door",
       "exit"
@@ -29174,9 +29478,11 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-download",
     "name": "Download",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
-      "download"
+      "download",
+      "transfer",
+      "arrow"
     ],
     "tablerName": "IconDownload"
   },
@@ -29184,10 +29490,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-download-filled",
     "name": "Download Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "download",
-      "filled"
+      "filled",
+      "transfer",
+      "arrow"
     ],
     "tablerName": "IconDownloadFilled"
   },
@@ -29195,10 +29503,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-download-off",
     "name": "Download Off",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "download",
-      "off"
+      "off",
+      "transfer",
+      "arrow"
     ],
     "tablerName": "IconDownloadOff"
   },
@@ -29206,7 +29516,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-drag-drop",
     "name": "Drag Drop",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "navigation",
     "tags": [
       "drag",
       "drop"
@@ -29217,7 +29527,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-drag-drop2",
     "name": "Drag Drop2",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "navigation",
     "tags": [
       "drag",
       "drop2"
@@ -29337,7 +29647,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-droplet-dollar",
     "name": "Droplet Dollar",
     "set": "tabler",
-    "category": "finance",
+    "category": "general-ui",
     "tags": [
       "droplet",
       "dollar"
@@ -29348,10 +29658,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-droplet-down",
     "name": "Droplet Down",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "droplet",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconDropletDown"
   },
@@ -29427,7 +29739,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-droplet-heart",
     "name": "Droplet Heart",
     "set": "tabler",
-    "category": "people-social",
+    "category": "general-ui",
     "tags": [
       "droplet",
       "heart"
@@ -29460,7 +29772,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-droplet-pause",
     "name": "Droplet Pause",
     "set": "tabler",
-    "category": "media",
+    "category": "general-ui",
     "tags": [
       "droplet",
       "pause"
@@ -29471,7 +29783,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-droplet-pin",
     "name": "Droplet Pin",
     "set": "tabler",
-    "category": "maps-location",
+    "category": "general-ui",
     "tags": [
       "droplet",
       "pin"
@@ -29515,7 +29827,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-droplet-share",
     "name": "Droplet Share",
     "set": "tabler",
-    "category": "people-social",
+    "category": "general-ui",
     "tags": [
       "droplet",
       "share"
@@ -29526,7 +29838,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-droplet-star",
     "name": "Droplet Star",
     "set": "tabler",
-    "category": "people-social",
+    "category": "general-ui",
     "tags": [
       "droplet",
       "star"
@@ -29537,10 +29849,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-droplet-up",
     "name": "Droplet Up",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "droplet",
-      "up"
+      "up",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconDropletUp"
   },
@@ -29580,7 +29894,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-dual-screen",
     "name": "Dual Screen",
     "set": "tabler",
-    "category": "media",
+    "category": "general-ui",
     "tags": [
       "dual",
       "screen"
@@ -29591,7 +29905,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-dual-screen-filled",
     "name": "Dual Screen Filled",
     "set": "tabler",
-    "category": "media",
+    "category": "general-ui",
     "tags": [
       "dual",
       "screen",
@@ -29677,7 +29991,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-earphone-bluetooth",
     "name": "Earphone Bluetooth",
     "set": "tabler",
-    "category": "networking",
+    "category": "general-ui",
     "tags": [
       "earphone",
       "bluetooth"
@@ -30149,10 +30463,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-escalator-down",
     "name": "Escalator Down",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "escalator",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconEscalatorDown"
   },
@@ -30160,7 +30476,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-escalator-down-filled",
     "name": "Escalator Down Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "escalator",
       "down",
@@ -30183,10 +30499,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-escalator-up",
     "name": "Escalator Up",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "escalator",
-      "up"
+      "up",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconEscalatorUp"
   },
@@ -30194,7 +30512,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-escalator-up-filled",
     "name": "Escalator Up Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "escalator",
       "up",
@@ -30206,7 +30524,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-exchange",
     "name": "Exchange",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "api-integration",
     "tags": [
       "exchange"
     ],
@@ -30216,7 +30534,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-exchange-filled",
     "name": "Exchange Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "api-integration",
     "tags": [
       "exchange",
       "filled"
@@ -30227,7 +30545,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-exchange-off",
     "name": "Exchange Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "api-integration",
     "tags": [
       "exchange",
       "off"
@@ -30502,7 +30820,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-eye-closed",
     "name": "Eye Closed",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "eye",
       "closed"
@@ -30535,7 +30853,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-eye-discount",
     "name": "Eye Discount",
     "set": "tabler",
-    "category": "finance",
+    "category": "general-ui",
     "tags": [
       "eye",
       "discount"
@@ -30546,7 +30864,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-eye-dollar",
     "name": "Eye Dollar",
     "set": "tabler",
-    "category": "finance",
+    "category": "general-ui",
     "tags": [
       "eye",
       "dollar"
@@ -30568,10 +30886,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-eye-down",
     "name": "Eye Down",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "eye",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconEyeDown"
   },
@@ -30579,7 +30899,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-eye-edit",
     "name": "Eye Edit",
     "set": "tabler",
-    "category": "editor",
+    "category": "general-ui",
     "tags": [
       "eye",
       "edit"
@@ -30612,7 +30932,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-eye-heart",
     "name": "Eye Heart",
     "set": "tabler",
-    "category": "people-social",
+    "category": "general-ui",
     "tags": [
       "eye",
       "heart"
@@ -30645,7 +30965,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-eye-pause",
     "name": "Eye Pause",
     "set": "tabler",
-    "category": "media",
+    "category": "general-ui",
     "tags": [
       "eye",
       "pause"
@@ -30656,7 +30976,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-eye-pin",
     "name": "Eye Pin",
     "set": "tabler",
-    "category": "maps-location",
+    "category": "general-ui",
     "tags": [
       "eye",
       "pin"
@@ -30700,7 +31020,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-eye-share",
     "name": "Eye Share",
     "set": "tabler",
-    "category": "people-social",
+    "category": "general-ui",
     "tags": [
       "eye",
       "share"
@@ -30722,7 +31042,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-eye-star",
     "name": "Eye Star",
     "set": "tabler",
-    "category": "people-social",
+    "category": "general-ui",
     "tags": [
       "eye",
       "star"
@@ -30733,7 +31053,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-eye-table",
     "name": "Eye Table",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "eye",
       "table"
@@ -30744,7 +31064,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-eye-table-filled",
     "name": "Eye Table Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "eye",
       "table",
@@ -30756,10 +31076,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-eye-up",
     "name": "Eye Up",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "eye",
-      "up"
+      "up",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconEyeUp"
   },
@@ -30831,7 +31153,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-face-id",
     "name": "Face Id",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "security-identity",
     "tags": [
       "face",
       "id"
@@ -30842,7 +31164,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-face-id-error",
     "name": "Face Id Error",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "security-identity",
     "tags": [
       "face",
       "id",
@@ -31028,7 +31350,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file",
     "name": "File",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file"
     ],
@@ -31038,7 +31360,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file3d",
     "name": "File3d",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file3d"
     ],
@@ -31048,7 +31370,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-ai",
     "name": "File Ai",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "ai"
@@ -31059,7 +31381,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-alert",
     "name": "File Alert",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "alert"
@@ -31070,7 +31392,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-analytics",
     "name": "File Analytics",
     "set": "tabler",
-    "category": "monitoring-logging",
+    "category": "storage-database",
     "tags": [
       "file",
       "analytics"
@@ -31081,7 +31403,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-analytics-filled",
     "name": "File Analytics Filled",
     "set": "tabler",
-    "category": "monitoring-logging",
+    "category": "storage-database",
     "tags": [
       "file",
       "analytics",
@@ -31093,11 +31415,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-arrow-left",
     "name": "File Arrow Left",
     "set": "tabler",
-    "category": "navigation",
+    "category": "storage-database",
     "tags": [
       "file",
       "arrow",
-      "left"
+      "left",
+      "direction"
     ],
     "tablerName": "IconFileArrowLeft"
   },
@@ -31105,11 +31428,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-arrow-right",
     "name": "File Arrow Right",
     "set": "tabler",
-    "category": "navigation",
+    "category": "storage-database",
     "tags": [
       "file",
       "arrow",
-      "right"
+      "right",
+      "direction"
     ],
     "tablerName": "IconFileArrowRight"
   },
@@ -31117,7 +31441,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-barcode",
     "name": "File Barcode",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "barcode"
@@ -31128,7 +31452,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-bitcoin",
     "name": "File Bitcoin",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "bitcoin"
@@ -31139,7 +31463,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-broken",
     "name": "File Broken",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "broken"
@@ -31150,7 +31474,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-certificate",
     "name": "File Certificate",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "certificate"
@@ -31161,7 +31485,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-chart",
     "name": "File Chart",
     "set": "tabler",
-    "category": "monitoring-logging",
+    "category": "storage-database",
     "tags": [
       "file",
       "chart"
@@ -31172,7 +31496,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-check",
     "name": "File Check",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "check"
@@ -31183,7 +31507,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-check-filled",
     "name": "File Check Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "check",
@@ -31195,7 +31519,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-code",
     "name": "File Code",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "code"
@@ -31206,7 +31530,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-code2",
     "name": "File Code2",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "code2"
@@ -31217,7 +31541,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-code2-filled",
     "name": "File Code2 Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "code2",
@@ -31229,7 +31553,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-code-filled",
     "name": "File Code Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "code",
@@ -31241,7 +31565,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-cv",
     "name": "File Cv",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "cv"
@@ -31252,7 +31576,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-cv-filled",
     "name": "File Cv Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "cv",
@@ -31275,7 +31599,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-delta",
     "name": "File Delta",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "delta"
@@ -31286,7 +31610,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-delta-filled",
     "name": "File Delta Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "delta",
@@ -31298,7 +31622,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-description",
     "name": "File Description",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "description"
@@ -31309,7 +31633,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-description-filled",
     "name": "File Description Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "description",
@@ -31321,7 +31645,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-diff",
     "name": "File Diff",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "diff"
@@ -31332,7 +31656,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-diff-filled",
     "name": "File Diff Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "diff",
@@ -31344,7 +31668,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-digit",
     "name": "File Digit",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "digit"
@@ -31355,7 +31679,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-digit-filled",
     "name": "File Digit Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "digit",
@@ -31367,7 +31691,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-dislike",
     "name": "File Dislike",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "dislike"
@@ -31378,7 +31702,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-dollar",
     "name": "File Dollar",
     "set": "tabler",
-    "category": "finance",
+    "category": "storage-database",
     "tags": [
       "file",
       "dollar"
@@ -31389,7 +31713,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-dollar-filled",
     "name": "File Dollar Filled",
     "set": "tabler",
-    "category": "finance",
+    "category": "storage-database",
     "tags": [
       "file",
       "dollar",
@@ -31401,7 +31725,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-dots",
     "name": "File Dots",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "dots"
@@ -31412,7 +31736,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-dots-filled",
     "name": "File Dots Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "dots",
@@ -31424,7 +31748,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-download",
     "name": "File Download",
     "set": "tabler",
-    "category": "navigation",
+    "category": "storage-database",
     "tags": [
       "file",
       "download"
@@ -31435,7 +31759,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-download-filled",
     "name": "File Download Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "storage-database",
     "tags": [
       "file",
       "download",
@@ -31447,7 +31771,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-euro",
     "name": "File Euro",
     "set": "tabler",
-    "category": "finance",
+    "category": "storage-database",
     "tags": [
       "file",
       "euro"
@@ -31458,7 +31782,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-euro-filled",
     "name": "File Euro Filled",
     "set": "tabler",
-    "category": "finance",
+    "category": "storage-database",
     "tags": [
       "file",
       "euro",
@@ -31470,7 +31794,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-excel",
     "name": "File Excel",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "excel"
@@ -31481,7 +31805,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-export",
     "name": "File Export",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "export"
@@ -31492,7 +31816,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-filled",
     "name": "File Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "filled"
@@ -31503,7 +31827,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-function",
     "name": "File Function",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "function"
@@ -31514,7 +31838,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-function-filled",
     "name": "File Function Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "function",
@@ -31526,7 +31850,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-horizontal",
     "name": "File Horizontal",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "horizontal"
@@ -31537,7 +31861,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-horizontal-filled",
     "name": "File Horizontal Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "horizontal",
@@ -31549,7 +31873,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-import",
     "name": "File Import",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "import"
@@ -31560,7 +31884,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-infinity",
     "name": "File Infinity",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "infinity"
@@ -31571,7 +31895,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-info",
     "name": "File Info",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "info"
@@ -31582,7 +31906,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-info-filled",
     "name": "File Info Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "info",
@@ -31594,7 +31918,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-invoice",
     "name": "File Invoice",
     "set": "tabler",
-    "category": "finance",
+    "category": "storage-database",
     "tags": [
       "file",
       "invoice"
@@ -31605,7 +31929,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-invoice-filled",
     "name": "File Invoice Filled",
     "set": "tabler",
-    "category": "finance",
+    "category": "storage-database",
     "tags": [
       "file",
       "invoice",
@@ -31617,7 +31941,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-isr",
     "name": "File Isr",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "isr"
@@ -31628,7 +31952,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-lambda",
     "name": "File Lambda",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "lambda"
@@ -31639,7 +31963,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-lambda-filled",
     "name": "File Lambda Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "lambda",
@@ -31651,7 +31975,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-like",
     "name": "File Like",
     "set": "tabler",
-    "category": "people-social",
+    "category": "storage-database",
     "tags": [
       "file",
       "like"
@@ -31662,7 +31986,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-minus",
     "name": "File Minus",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "minus"
@@ -31673,7 +31997,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-minus-filled",
     "name": "File Minus Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "minus",
@@ -31685,7 +32009,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-music",
     "name": "File Music",
     "set": "tabler",
-    "category": "media",
+    "category": "storage-database",
     "tags": [
       "file",
       "music"
@@ -31696,7 +32020,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-music-filled",
     "name": "File Music Filled",
     "set": "tabler",
-    "category": "media",
+    "category": "storage-database",
     "tags": [
       "file",
       "music",
@@ -31708,7 +32032,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-neutral",
     "name": "File Neutral",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "neutral"
@@ -31719,7 +32043,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-neutral-filled",
     "name": "File Neutral Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "neutral",
@@ -31731,7 +32055,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-off",
     "name": "File Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "off"
@@ -31742,7 +32066,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-orientation",
     "name": "File Orientation",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "orientation"
@@ -31753,7 +32077,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-pencil",
     "name": "File Pencil",
     "set": "tabler",
-    "category": "editor",
+    "category": "storage-database",
     "tags": [
       "file",
       "pencil"
@@ -31764,7 +32088,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-pencil-filled",
     "name": "File Pencil Filled",
     "set": "tabler",
-    "category": "editor",
+    "category": "storage-database",
     "tags": [
       "file",
       "pencil",
@@ -31776,7 +32100,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-percent",
     "name": "File Percent",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "percent"
@@ -31787,7 +32111,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-percent-filled",
     "name": "File Percent Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "percent",
@@ -31799,7 +32123,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-phone",
     "name": "File Phone",
     "set": "tabler",
-    "category": "frontend-client",
+    "category": "storage-database",
     "tags": [
       "file",
       "phone"
@@ -31810,7 +32134,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-phone-filled",
     "name": "File Phone Filled",
     "set": "tabler",
-    "category": "frontend-client",
+    "category": "storage-database",
     "tags": [
       "file",
       "phone",
@@ -31822,7 +32146,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-plus",
     "name": "File Plus",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "plus"
@@ -31833,7 +32157,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-power",
     "name": "File Power",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "power"
@@ -31844,7 +32168,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-power-filled",
     "name": "File Power Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "power",
@@ -31856,7 +32180,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-report",
     "name": "File Report",
     "set": "tabler",
-    "category": "monitoring-logging",
+    "category": "storage-database",
     "tags": [
       "file",
       "report"
@@ -31867,7 +32191,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-rss",
     "name": "File Rss",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "rss"
@@ -31878,7 +32202,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-rss-filled",
     "name": "File Rss Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "rss",
@@ -31890,7 +32214,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-sad",
     "name": "File Sad",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "sad"
@@ -31901,7 +32225,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-sad-filled",
     "name": "File Sad Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "sad",
@@ -31913,7 +32237,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-scissors",
     "name": "File Scissors",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "scissors"
@@ -31924,7 +32248,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-scissors-filled",
     "name": "File Scissors Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "scissors",
@@ -31936,7 +32260,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-search",
     "name": "File Search",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "search"
@@ -31947,7 +32271,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-settings",
     "name": "File Settings",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "settings"
@@ -31958,7 +32282,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-settings-filled",
     "name": "File Settings Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "settings",
@@ -31970,7 +32294,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-shredder",
     "name": "File Shredder",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "shredder"
@@ -31981,7 +32305,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-signal",
     "name": "File Signal",
     "set": "tabler",
-    "category": "networking",
+    "category": "storage-database",
     "tags": [
       "file",
       "signal"
@@ -31992,7 +32316,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-signal-filled",
     "name": "File Signal Filled",
     "set": "tabler",
-    "category": "networking",
+    "category": "storage-database",
     "tags": [
       "file",
       "signal",
@@ -32004,7 +32328,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-smile",
     "name": "File Smile",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "smile"
@@ -32015,7 +32339,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-smile-filled",
     "name": "File Smile Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "smile",
@@ -32027,7 +32351,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-spark",
     "name": "File Spark",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "spark"
@@ -32038,7 +32362,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-spreadsheet",
     "name": "File Spreadsheet",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "spreadsheet"
@@ -32049,7 +32373,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-stack",
     "name": "File Stack",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "stack"
@@ -32060,7 +32384,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-star",
     "name": "File Star",
     "set": "tabler",
-    "category": "people-social",
+    "category": "storage-database",
     "tags": [
       "file",
       "star"
@@ -32071,7 +32395,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-star-filled",
     "name": "File Star Filled",
     "set": "tabler",
-    "category": "people-social",
+    "category": "storage-database",
     "tags": [
       "file",
       "star",
@@ -32083,7 +32407,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-symlink",
     "name": "File Symlink",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "symlink"
@@ -32094,7 +32418,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-text",
     "name": "File Text",
     "set": "tabler",
-    "category": "editor",
+    "category": "storage-database",
     "tags": [
       "file",
       "text"
@@ -32105,7 +32429,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-text-ai",
     "name": "File Text Ai",
     "set": "tabler",
-    "category": "editor",
+    "category": "storage-database",
     "tags": [
       "file",
       "text",
@@ -32117,7 +32441,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-text-filled",
     "name": "File Text Filled",
     "set": "tabler",
-    "category": "editor",
+    "category": "storage-database",
     "tags": [
       "file",
       "text",
@@ -32129,7 +32453,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-text-shield",
     "name": "File Text Shield",
     "set": "tabler",
-    "category": "editor",
+    "category": "storage-database",
     "tags": [
       "file",
       "text",
@@ -32141,7 +32465,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-text-spark",
     "name": "File Text Spark",
     "set": "tabler",
-    "category": "editor",
+    "category": "storage-database",
     "tags": [
       "file",
       "text",
@@ -32153,7 +32477,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-time",
     "name": "File Time",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "time"
@@ -32164,7 +32488,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-time-filled",
     "name": "File Time Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "time",
@@ -32176,7 +32500,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-type-bmp",
     "name": "File Type Bmp",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "type",
@@ -32188,7 +32512,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-type-css",
     "name": "File Type Css",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "type",
@@ -32200,7 +32524,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-type-csv",
     "name": "File Type Csv",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "type",
@@ -32212,7 +32536,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-type-doc",
     "name": "File Type Doc",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "type",
@@ -32224,7 +32548,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-type-docx",
     "name": "File Type Docx",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "type",
@@ -32236,7 +32560,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-type-html",
     "name": "File Type Html",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "type",
@@ -32248,7 +32572,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-type-jpg",
     "name": "File Type Jpg",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "type",
@@ -32260,7 +32584,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-type-js",
     "name": "File Type Js",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "type",
@@ -32272,7 +32596,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-type-jsx",
     "name": "File Type Jsx",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "type",
@@ -32284,7 +32608,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-type-pdf",
     "name": "File Type Pdf",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "type",
@@ -32296,7 +32620,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-type-php",
     "name": "File Type Php",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "type",
@@ -32308,7 +32632,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-type-png",
     "name": "File Type Png",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "type",
@@ -32320,7 +32644,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-type-ppt",
     "name": "File Type Ppt",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "type",
@@ -32332,7 +32656,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-type-rs",
     "name": "File Type Rs",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "type",
@@ -32344,7 +32668,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-type-sql",
     "name": "File Type Sql",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "type",
@@ -32356,7 +32680,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-type-svg",
     "name": "File Type Svg",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "type",
@@ -32368,7 +32692,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-type-ts",
     "name": "File Type Ts",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "type",
@@ -32380,7 +32704,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-type-tsx",
     "name": "File Type Tsx",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "type",
@@ -32392,7 +32716,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-type-txt",
     "name": "File Type Txt",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "type",
@@ -32404,7 +32728,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-type-vue",
     "name": "File Type Vue",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "type",
@@ -32416,7 +32740,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-type-xls",
     "name": "File Type Xls",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "type",
@@ -32428,7 +32752,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-type-xml",
     "name": "File Type Xml",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "type",
@@ -32440,7 +32764,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-type-zip",
     "name": "File Type Zip",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "type",
@@ -32452,7 +32776,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-typography",
     "name": "File Typography",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "typography"
@@ -32463,7 +32787,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-typography-filled",
     "name": "File Typography Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "typography",
@@ -32475,7 +32799,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-unknown",
     "name": "File Unknown",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "unknown"
@@ -32486,7 +32810,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-unknown-filled",
     "name": "File Unknown Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "unknown",
@@ -32498,7 +32822,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-upload",
     "name": "File Upload",
     "set": "tabler",
-    "category": "navigation",
+    "category": "storage-database",
     "tags": [
       "file",
       "upload"
@@ -32509,7 +32833,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-upload-filled",
     "name": "File Upload Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "storage-database",
     "tags": [
       "file",
       "upload",
@@ -32521,7 +32845,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-vector",
     "name": "File Vector",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "vector"
@@ -32532,7 +32856,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-vector-filled",
     "name": "File Vector Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "vector",
@@ -32544,7 +32868,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-word",
     "name": "File Word",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "word"
@@ -32555,7 +32879,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-x",
     "name": "File X",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "x"
@@ -32566,7 +32890,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-x-filled",
     "name": "File X Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "x",
@@ -32578,7 +32902,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-file-zip",
     "name": "File Zip",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "file",
       "zip"
@@ -32589,7 +32913,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-files",
     "name": "Files",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "files"
     ],
@@ -32599,7 +32923,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-files-filled",
     "name": "Files Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "files",
       "filled"
@@ -32610,7 +32934,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-files-off",
     "name": "Files Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "files",
       "off"
@@ -32621,7 +32945,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-filter",
     "name": "Filter",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "filter"
     ],
@@ -32631,7 +32955,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-filter2",
     "name": "Filter2",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "filter2"
     ],
@@ -32641,7 +32965,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-filter2-bolt",
     "name": "Filter2 Bolt",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "filter2",
       "bolt"
@@ -32652,7 +32976,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-filter2-cancel",
     "name": "Filter2 Cancel",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "filter2",
       "cancel"
@@ -32663,7 +32987,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-filter2-check",
     "name": "Filter2 Check",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "filter2",
       "check"
@@ -32674,7 +32998,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-filter2-code",
     "name": "Filter2 Code",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "filter2",
       "code"
@@ -32685,7 +33009,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-filter2-cog",
     "name": "Filter2 Cog",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "filter2",
       "cog"
@@ -32696,7 +33020,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-filter2-discount",
     "name": "Filter2 Discount",
     "set": "tabler",
-    "category": "finance",
+    "category": "editor",
     "tags": [
       "filter2",
       "discount"
@@ -32707,7 +33031,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-filter2-dollar",
     "name": "Filter2 Dollar",
     "set": "tabler",
-    "category": "finance",
+    "category": "editor",
     "tags": [
       "filter2",
       "dollar"
@@ -32718,10 +33042,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-filter2-down",
     "name": "Filter2 Down",
     "set": "tabler",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "filter2",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconFilter2Down"
   },
@@ -32740,7 +33066,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-filter2-exclamation",
     "name": "Filter2 Exclamation",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "filter2",
       "exclamation"
@@ -32751,7 +33077,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-filter2-minus",
     "name": "Filter2 Minus",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "filter2",
       "minus"
@@ -32762,7 +33088,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-filter2-pause",
     "name": "Filter2 Pause",
     "set": "tabler",
-    "category": "media",
+    "category": "editor",
     "tags": [
       "filter2",
       "pause"
@@ -32773,7 +33099,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-filter2-pin",
     "name": "Filter2 Pin",
     "set": "tabler",
-    "category": "maps-location",
+    "category": "editor",
     "tags": [
       "filter2",
       "pin"
@@ -32784,7 +33110,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-filter2-plus",
     "name": "Filter2 Plus",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "filter2",
       "plus"
@@ -32795,7 +33121,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-filter2-question",
     "name": "Filter2 Question",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "filter2",
       "question"
@@ -32806,7 +33132,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-filter2-search",
     "name": "Filter2 Search",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "filter2",
       "search"
@@ -32817,7 +33143,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-filter2-share",
     "name": "Filter2 Share",
     "set": "tabler",
-    "category": "people-social",
+    "category": "editor",
     "tags": [
       "filter2",
       "share"
@@ -32828,7 +33154,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-filter2-spark",
     "name": "Filter2 Spark",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "filter2",
       "spark"
@@ -32839,10 +33165,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-filter2-up",
     "name": "Filter2 Up",
     "set": "tabler",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "filter2",
-      "up"
+      "up",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconFilter2Up"
   },
@@ -32850,7 +33178,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-filter2-x",
     "name": "Filter2 X",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "filter2",
       "x"
@@ -32861,7 +33189,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-filter-bolt",
     "name": "Filter Bolt",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "filter",
       "bolt"
@@ -32872,7 +33200,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-filter-cancel",
     "name": "Filter Cancel",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "filter",
       "cancel"
@@ -32883,7 +33211,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-filter-check",
     "name": "Filter Check",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "filter",
       "check"
@@ -32894,7 +33222,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-filter-code",
     "name": "Filter Code",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "filter",
       "code"
@@ -32905,7 +33233,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-filter-cog",
     "name": "Filter Cog",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "filter",
       "cog"
@@ -32916,7 +33244,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-filter-discount",
     "name": "Filter Discount",
     "set": "tabler",
-    "category": "finance",
+    "category": "editor",
     "tags": [
       "filter",
       "discount"
@@ -32927,7 +33255,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-filter-dollar",
     "name": "Filter Dollar",
     "set": "tabler",
-    "category": "finance",
+    "category": "editor",
     "tags": [
       "filter",
       "dollar"
@@ -32938,10 +33266,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-filter-down",
     "name": "Filter Down",
     "set": "tabler",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "filter",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconFilterDown"
   },
@@ -32960,7 +33290,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-filter-exclamation",
     "name": "Filter Exclamation",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "filter",
       "exclamation"
@@ -32971,7 +33301,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-filter-filled",
     "name": "Filter Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "filter",
       "filled"
@@ -32982,7 +33312,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-filter-heart",
     "name": "Filter Heart",
     "set": "tabler",
-    "category": "people-social",
+    "category": "editor",
     "tags": [
       "filter",
       "heart"
@@ -32993,7 +33323,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-filter-minus",
     "name": "Filter Minus",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "filter",
       "minus"
@@ -33004,7 +33334,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-filter-off",
     "name": "Filter Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "filter",
       "off"
@@ -33015,7 +33345,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-filter-pause",
     "name": "Filter Pause",
     "set": "tabler",
-    "category": "media",
+    "category": "editor",
     "tags": [
       "filter",
       "pause"
@@ -33026,7 +33356,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-filter-pin",
     "name": "Filter Pin",
     "set": "tabler",
-    "category": "maps-location",
+    "category": "editor",
     "tags": [
       "filter",
       "pin"
@@ -33037,7 +33367,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-filter-plus",
     "name": "Filter Plus",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "filter",
       "plus"
@@ -33048,7 +33378,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-filter-question",
     "name": "Filter Question",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "filter",
       "question"
@@ -33059,7 +33389,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-filter-search",
     "name": "Filter Search",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "filter",
       "search"
@@ -33070,7 +33400,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-filter-share",
     "name": "Filter Share",
     "set": "tabler",
-    "category": "people-social",
+    "category": "editor",
     "tags": [
       "filter",
       "share"
@@ -33081,7 +33411,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-filter-spark",
     "name": "Filter Spark",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "filter",
       "spark"
@@ -33092,7 +33422,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-filter-star",
     "name": "Filter Star",
     "set": "tabler",
-    "category": "people-social",
+    "category": "editor",
     "tags": [
       "filter",
       "star"
@@ -33103,10 +33433,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-filter-up",
     "name": "Filter Up",
     "set": "tabler",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "filter",
-      "up"
+      "up",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconFilterUp"
   },
@@ -33114,7 +33446,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-filter-x",
     "name": "Filter X",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "filter",
       "x"
@@ -33125,7 +33457,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-filters",
     "name": "Filters",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "filters"
     ],
@@ -33135,7 +33467,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-filters-filled",
     "name": "Filters Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "filters",
       "filled"
@@ -33148,7 +33480,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "set": "tabler",
     "category": "security-identity",
     "tags": [
-      "fingerprint"
+      "fingerprint",
+      "security"
     ],
     "tablerName": "IconFingerprint"
   },
@@ -33159,7 +33492,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "category": "security-identity",
     "tags": [
       "fingerprint",
-      "off"
+      "off",
+      "security"
     ],
     "tablerName": "IconFingerprintOff"
   },
@@ -33170,7 +33504,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "category": "security-identity",
     "tags": [
       "fingerprint",
-      "scan"
+      "scan",
+      "security"
     ],
     "tablerName": "IconFingerprintScan"
   },
@@ -33222,7 +33557,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-firewall-check",
     "name": "Firewall Check",
     "set": "tabler",
-    "category": "networking",
+    "category": "general-ui",
     "tags": [
       "firewall",
       "check"
@@ -33233,7 +33568,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-firewall-flame",
     "name": "Firewall Flame",
     "set": "tabler",
-    "category": "networking",
+    "category": "general-ui",
     "tags": [
       "firewall",
       "flame"
@@ -33347,7 +33682,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-flag",
     "name": "Flag",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "flag"
     ],
@@ -33357,7 +33692,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-flag2",
     "name": "Flag2",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "flag2"
     ],
@@ -33367,7 +33702,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-flag2-filled",
     "name": "Flag2 Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "flag2",
       "filled"
@@ -33378,7 +33713,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-flag2-off",
     "name": "Flag2 Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "flag2",
       "off"
@@ -33389,7 +33724,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-flag3",
     "name": "Flag3",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "flag3"
     ],
@@ -33399,7 +33734,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-flag3-filled",
     "name": "Flag3 Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "flag3",
       "filled"
@@ -33410,7 +33745,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-flag-bitcoin",
     "name": "Flag Bitcoin",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "flag",
       "bitcoin"
@@ -33421,7 +33756,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-flag-bolt",
     "name": "Flag Bolt",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "flag",
       "bolt"
@@ -33432,7 +33767,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-flag-cancel",
     "name": "Flag Cancel",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "flag",
       "cancel"
@@ -33443,7 +33778,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-flag-check",
     "name": "Flag Check",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "flag",
       "check"
@@ -33454,7 +33789,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-flag-code",
     "name": "Flag Code",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "flag",
       "code"
@@ -33465,7 +33800,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-flag-cog",
     "name": "Flag Cog",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "flag",
       "cog"
@@ -33476,7 +33811,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-flag-discount",
     "name": "Flag Discount",
     "set": "tabler",
-    "category": "finance",
+    "category": "maps-location",
     "tags": [
       "flag",
       "discount"
@@ -33487,7 +33822,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-flag-dollar",
     "name": "Flag Dollar",
     "set": "tabler",
-    "category": "finance",
+    "category": "maps-location",
     "tags": [
       "flag",
       "dollar"
@@ -33498,10 +33833,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-flag-down",
     "name": "Flag Down",
     "set": "tabler",
-    "category": "navigation",
+    "category": "maps-location",
     "tags": [
       "flag",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconFlagDown"
   },
@@ -33509,7 +33846,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-flag-exclamation",
     "name": "Flag Exclamation",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "flag",
       "exclamation"
@@ -33520,7 +33857,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-flag-filled",
     "name": "Flag Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "flag",
       "filled"
@@ -33531,7 +33868,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-flag-heart",
     "name": "Flag Heart",
     "set": "tabler",
-    "category": "people-social",
+    "category": "maps-location",
     "tags": [
       "flag",
       "heart"
@@ -33542,7 +33879,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-flag-minus",
     "name": "Flag Minus",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "flag",
       "minus"
@@ -33553,7 +33890,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-flag-off",
     "name": "Flag Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "flag",
       "off"
@@ -33564,7 +33901,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-flag-pause",
     "name": "Flag Pause",
     "set": "tabler",
-    "category": "media",
+    "category": "maps-location",
     "tags": [
       "flag",
       "pause"
@@ -33586,7 +33923,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-flag-plus",
     "name": "Flag Plus",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "flag",
       "plus"
@@ -33597,7 +33934,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-flag-question",
     "name": "Flag Question",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "flag",
       "question"
@@ -33608,7 +33945,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-flag-search",
     "name": "Flag Search",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "flag",
       "search"
@@ -33619,7 +33956,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-flag-share",
     "name": "Flag Share",
     "set": "tabler",
-    "category": "people-social",
+    "category": "maps-location",
     "tags": [
       "flag",
       "share"
@@ -33630,7 +33967,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-flag-spark",
     "name": "Flag Spark",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "flag",
       "spark"
@@ -33641,7 +33978,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-flag-star",
     "name": "Flag Star",
     "set": "tabler",
-    "category": "people-social",
+    "category": "maps-location",
     "tags": [
       "flag",
       "star"
@@ -33652,10 +33989,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-flag-up",
     "name": "Flag Up",
     "set": "tabler",
-    "category": "navigation",
+    "category": "maps-location",
     "tags": [
       "flag",
-      "up"
+      "up",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconFlagUp"
   },
@@ -33663,7 +34002,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-flag-x",
     "name": "Flag X",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "flag",
       "x"
@@ -33791,10 +34130,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-flip-flops",
     "name": "Flip Flops",
     "set": "tabler",
-    "category": "editor",
+    "category": "navigation",
     "tags": [
       "flip",
-      "flops"
+      "flops",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconFlipFlops"
   },
@@ -33802,10 +34143,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-flip-horizontal",
     "name": "Flip Horizontal",
     "set": "tabler",
-    "category": "editor",
+    "category": "navigation",
     "tags": [
       "flip",
-      "horizontal"
+      "horizontal",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconFlipHorizontal"
   },
@@ -33813,10 +34156,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-flip-vertical",
     "name": "Flip Vertical",
     "set": "tabler",
-    "category": "editor",
+    "category": "navigation",
     "tags": [
       "flip",
-      "vertical"
+      "vertical",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconFlipVertical"
   },
@@ -33835,10 +34180,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-float-left",
     "name": "Float Left",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "float",
-      "left"
+      "left",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconFloatLeft"
   },
@@ -33857,10 +34204,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-float-right",
     "name": "Float Right",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "float",
-      "right"
+      "right",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconFloatRight"
   },
@@ -33910,7 +34259,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-focus",
     "name": "Focus",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "focus"
     ],
@@ -33920,7 +34269,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-focus2",
     "name": "Focus2",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "focus2"
     ],
@@ -33930,7 +34279,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-focus-auto",
     "name": "Focus Auto",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "focus",
       "auto"
@@ -33941,7 +34290,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-focus-centered",
     "name": "Focus Centered",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "focus",
       "centered"
@@ -33962,10 +34311,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-fold-down",
     "name": "Fold Down",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "fold",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconFoldDown"
   },
@@ -33973,10 +34324,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-fold-up",
     "name": "Fold Up",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "fold",
-      "up"
+      "up",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconFoldUp"
   },
@@ -34049,7 +34402,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-folder-dollar",
     "name": "Folder Dollar",
     "set": "tabler",
-    "category": "finance",
+    "category": "storage-database",
     "tags": [
       "folder",
       "dollar"
@@ -34060,10 +34413,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-folder-down",
     "name": "Folder Down",
     "set": "tabler",
-    "category": "navigation",
+    "category": "storage-database",
     "tags": [
       "folder",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconFolderDown"
   },
@@ -34093,7 +34448,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-folder-heart",
     "name": "Folder Heart",
     "set": "tabler",
-    "category": "people-social",
+    "category": "storage-database",
     "tags": [
       "folder",
       "heart"
@@ -34126,7 +34481,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-folder-open",
     "name": "Folder Open",
     "set": "tabler",
-    "category": "navigation",
+    "category": "storage-database",
     "tags": [
       "folder",
       "open"
@@ -34137,7 +34492,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-folder-open-filled",
     "name": "Folder Open Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "storage-database",
     "tags": [
       "folder",
       "open",
@@ -34149,7 +34504,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-folder-pause",
     "name": "Folder Pause",
     "set": "tabler",
-    "category": "media",
+    "category": "storage-database",
     "tags": [
       "folder",
       "pause"
@@ -34160,7 +34515,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-folder-pin",
     "name": "Folder Pin",
     "set": "tabler",
-    "category": "maps-location",
+    "category": "storage-database",
     "tags": [
       "folder",
       "pin"
@@ -34215,7 +34570,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-folder-share",
     "name": "Folder Share",
     "set": "tabler",
-    "category": "people-social",
+    "category": "storage-database",
     "tags": [
       "folder",
       "share"
@@ -34226,7 +34581,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-folder-star",
     "name": "Folder Star",
     "set": "tabler",
-    "category": "people-social",
+    "category": "storage-database",
     "tags": [
       "folder",
       "star"
@@ -34248,10 +34603,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-folder-up",
     "name": "Folder Up",
     "set": "tabler",
-    "category": "navigation",
+    "category": "storage-database",
     "tags": [
       "folder",
-      "up"
+      "up",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconFolderUp"
   },
@@ -34354,7 +34711,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-forklift",
     "name": "Forklift",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "devops-cicd",
     "tags": [
       "forklift"
     ],
@@ -34364,7 +34721,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-forms",
     "name": "Forms",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "forms"
     ],
@@ -34427,7 +34784,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-free-rights",
     "name": "Free Rights",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "free",
       "rights"
@@ -34588,7 +34945,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-garden-cart",
     "name": "Garden Cart",
     "set": "tabler",
-    "category": "finance",
+    "category": "general-ui",
     "tags": [
       "garden",
       "cart"
@@ -34599,7 +34956,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-garden-cart-filled",
     "name": "Garden Cart Filled",
     "set": "tabler",
-    "category": "finance",
+    "category": "general-ui",
     "tags": [
       "garden",
       "cart",
@@ -34611,7 +34968,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-garden-cart-off",
     "name": "Garden Cart Off",
     "set": "tabler",
-    "category": "finance",
+    "category": "general-ui",
     "tags": [
       "garden",
       "cart",
@@ -34658,7 +35015,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-gauge",
     "name": "Gauge",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "gauge"
     ],
@@ -34668,7 +35025,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-gauge-filled",
     "name": "Gauge Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "gauge",
       "filled"
@@ -34679,7 +35036,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-gauge-off",
     "name": "Gauge Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "gauge",
       "off"
@@ -34982,7 +35339,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-gif",
     "name": "Gif",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "gif"
     ],
@@ -34992,7 +35349,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-gift",
     "name": "Gift",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "gift"
     ],
@@ -35002,7 +35359,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-gift-card",
     "name": "Gift Card",
     "set": "tabler",
-    "category": "finance",
+    "category": "media",
     "tags": [
       "gift",
       "card"
@@ -35013,7 +35370,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-gift-card-filled",
     "name": "Gift Card Filled",
     "set": "tabler",
-    "category": "finance",
+    "category": "media",
     "tags": [
       "gift",
       "card",
@@ -35025,7 +35382,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-gift-filled",
     "name": "Gift Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "gift",
       "filled"
@@ -35036,7 +35393,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-gift-off",
     "name": "Gift Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "gift",
       "off"
@@ -35138,7 +35495,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-git-pull-request-closed",
     "name": "Git Pull Request Closed",
     "set": "tabler",
-    "category": "navigation",
+    "category": "devops-cicd",
     "tags": [
       "git",
       "pull",
@@ -35275,7 +35632,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-globe",
     "name": "Globe",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "globe"
     ],
@@ -35285,7 +35642,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-globe-filled",
     "name": "Globe Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "globe",
       "filled"
@@ -35296,7 +35653,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-globe-off",
     "name": "Globe Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "globe",
       "off"
@@ -35318,7 +35675,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-golf",
     "name": "Golf",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "golf"
     ],
@@ -35328,7 +35685,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-golf-filled",
     "name": "Golf Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "golf",
       "filled"
@@ -35339,7 +35696,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-golf-off",
     "name": "Golf Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "golf",
       "off"
@@ -35401,7 +35758,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-graph",
     "name": "Graph",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "graph"
     ],
@@ -35411,7 +35768,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-graph-filled",
     "name": "Graph Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "graph",
       "filled"
@@ -35422,7 +35779,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-graph-off",
     "name": "Graph Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "graph",
       "off"
@@ -35763,11 +36120,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hand-finger-down",
     "name": "Hand Finger Down",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "hand",
       "finger",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconHandFingerDown"
   },
@@ -35775,11 +36134,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hand-finger-left",
     "name": "Hand Finger Left",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "hand",
       "finger",
-      "left"
+      "left",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconHandFingerLeft"
   },
@@ -35799,11 +36160,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hand-finger-right",
     "name": "Hand Finger Right",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "hand",
       "finger",
-      "right"
+      "right",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconHandFingerRight"
   },
@@ -35834,7 +36197,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hand-love-you",
     "name": "Hand Love You",
     "set": "tabler",
-    "category": "people-social",
+    "category": "general-ui",
     "tags": [
       "hand",
       "love",
@@ -35914,7 +36277,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hand-stop",
     "name": "Hand Stop",
     "set": "tabler",
-    "category": "media",
+    "category": "general-ui",
     "tags": [
       "hand",
       "stop"
@@ -36022,7 +36385,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hdr",
     "name": "Hdr",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "hdr"
     ],
@@ -36032,7 +36395,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-heading",
     "name": "Heading",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "heading"
     ],
@@ -36042,7 +36405,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-heading-off",
     "name": "Heading Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "heading",
       "off"
@@ -36249,10 +36612,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-heart-down",
     "name": "Heart Down",
     "set": "tabler",
-    "category": "navigation",
+    "category": "people-social",
     "tags": [
       "heart",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconHeartDown"
   },
@@ -36315,7 +36680,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-heart-pause",
     "name": "Heart Pause",
     "set": "tabler",
-    "category": "media",
+    "category": "people-social",
     "tags": [
       "heart",
       "pause"
@@ -36415,10 +36780,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-heart-up",
     "name": "Heart Up",
     "set": "tabler",
-    "category": "navigation",
+    "category": "people-social",
     "tags": [
       "heart",
-      "up"
+      "up",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconHeartUp"
   },
@@ -36489,7 +36856,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-helicopter-landing",
     "name": "Helicopter Landing",
     "set": "tabler",
-    "category": "networking",
+    "category": "general-ui",
     "tags": [
       "helicopter",
       "landing"
@@ -36500,7 +36867,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-helicopter-landing-filled",
     "name": "Helicopter Landing Filled",
     "set": "tabler",
-    "category": "networking",
+    "category": "general-ui",
     "tags": [
       "helicopter",
       "landing",
@@ -36512,7 +36879,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-helmet",
     "name": "Helmet",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "devops-cicd",
     "tags": [
       "helmet"
     ],
@@ -36522,7 +36889,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-helmet-off",
     "name": "Helmet Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "devops-cicd",
     "tags": [
       "helmet",
       "off"
@@ -36748,7 +37115,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon",
     "name": "Hexagon",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon"
     ],
@@ -36758,7 +37125,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon0",
     "name": "Hexagon0",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon0"
     ],
@@ -36768,7 +37135,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon1",
     "name": "Hexagon1",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon1"
     ],
@@ -36778,7 +37145,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon2",
     "name": "Hexagon2",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon2"
     ],
@@ -36788,7 +37155,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon3",
     "name": "Hexagon3",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon3"
     ],
@@ -36798,7 +37165,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon3d",
     "name": "Hexagon3d",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon3d"
     ],
@@ -36808,7 +37175,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon4",
     "name": "Hexagon4",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon4"
     ],
@@ -36818,7 +37185,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon5",
     "name": "Hexagon5",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon5"
     ],
@@ -36828,7 +37195,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon6",
     "name": "Hexagon6",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon6"
     ],
@@ -36838,7 +37205,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon7",
     "name": "Hexagon7",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon7"
     ],
@@ -36848,7 +37215,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon8",
     "name": "Hexagon8",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon8"
     ],
@@ -36858,7 +37225,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon9",
     "name": "Hexagon9",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon9"
     ],
@@ -36868,7 +37235,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon-asterisk",
     "name": "Hexagon Asterisk",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon",
       "asterisk"
@@ -36879,7 +37246,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon-filled",
     "name": "Hexagon Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon",
       "filled"
@@ -36890,7 +37257,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon-letter-a",
     "name": "Hexagon Letter A",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon",
       "letter",
@@ -36902,7 +37269,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon-letter-a-filled",
     "name": "Hexagon Letter A Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon",
       "letter",
@@ -36915,7 +37282,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon-letter-b",
     "name": "Hexagon Letter B",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon",
       "letter",
@@ -36927,7 +37294,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon-letter-b-filled",
     "name": "Hexagon Letter B Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon",
       "letter",
@@ -36940,7 +37307,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon-letter-c",
     "name": "Hexagon Letter C",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon",
       "letter",
@@ -36952,7 +37319,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon-letter-c-filled",
     "name": "Hexagon Letter C Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon",
       "letter",
@@ -36965,7 +37332,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon-letter-d",
     "name": "Hexagon Letter D",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon",
       "letter",
@@ -36977,7 +37344,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon-letter-d-filled",
     "name": "Hexagon Letter D Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon",
       "letter",
@@ -36990,7 +37357,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon-letter-e",
     "name": "Hexagon Letter E",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon",
       "letter",
@@ -37002,7 +37369,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon-letter-e-filled",
     "name": "Hexagon Letter E Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon",
       "letter",
@@ -37015,7 +37382,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon-letter-f",
     "name": "Hexagon Letter F",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon",
       "letter",
@@ -37027,7 +37394,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon-letter-f-filled",
     "name": "Hexagon Letter F Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon",
       "letter",
@@ -37040,7 +37407,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon-letter-g",
     "name": "Hexagon Letter G",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon",
       "letter",
@@ -37052,7 +37419,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon-letter-g-filled",
     "name": "Hexagon Letter G Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon",
       "letter",
@@ -37065,7 +37432,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon-letter-h",
     "name": "Hexagon Letter H",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon",
       "letter",
@@ -37077,7 +37444,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon-letter-h-filled",
     "name": "Hexagon Letter H Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon",
       "letter",
@@ -37090,7 +37457,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon-letter-i",
     "name": "Hexagon Letter I",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon",
       "letter",
@@ -37102,7 +37469,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon-letter-i-filled",
     "name": "Hexagon Letter I Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon",
       "letter",
@@ -37115,7 +37482,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon-letter-j",
     "name": "Hexagon Letter J",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon",
       "letter",
@@ -37127,7 +37494,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon-letter-j-filled",
     "name": "Hexagon Letter J Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon",
       "letter",
@@ -37140,7 +37507,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon-letter-k",
     "name": "Hexagon Letter K",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon",
       "letter",
@@ -37152,7 +37519,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon-letter-k-filled",
     "name": "Hexagon Letter K Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon",
       "letter",
@@ -37165,7 +37532,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon-letter-l",
     "name": "Hexagon Letter L",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon",
       "letter",
@@ -37177,7 +37544,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon-letter-l-filled",
     "name": "Hexagon Letter L Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon",
       "letter",
@@ -37190,7 +37557,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon-letter-m",
     "name": "Hexagon Letter M",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon",
       "letter",
@@ -37202,7 +37569,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon-letter-m-filled",
     "name": "Hexagon Letter M Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon",
       "letter",
@@ -37215,7 +37582,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon-letter-n",
     "name": "Hexagon Letter N",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon",
       "letter",
@@ -37227,7 +37594,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon-letter-n-filled",
     "name": "Hexagon Letter N Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon",
       "letter",
@@ -37240,7 +37607,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon-letter-o",
     "name": "Hexagon Letter O",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon",
       "letter",
@@ -37252,7 +37619,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon-letter-o-filled",
     "name": "Hexagon Letter O Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon",
       "letter",
@@ -37265,7 +37632,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon-letter-p",
     "name": "Hexagon Letter P",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon",
       "letter",
@@ -37277,7 +37644,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon-letter-p-filled",
     "name": "Hexagon Letter P Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon",
       "letter",
@@ -37290,7 +37657,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon-letter-q",
     "name": "Hexagon Letter Q",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon",
       "letter",
@@ -37302,7 +37669,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon-letter-q-filled",
     "name": "Hexagon Letter Q Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon",
       "letter",
@@ -37315,7 +37682,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon-letter-r",
     "name": "Hexagon Letter R",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon",
       "letter",
@@ -37327,7 +37694,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon-letter-r-filled",
     "name": "Hexagon Letter R Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon",
       "letter",
@@ -37340,7 +37707,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon-letter-s",
     "name": "Hexagon Letter S",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon",
       "letter",
@@ -37352,7 +37719,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon-letter-s-filled",
     "name": "Hexagon Letter S Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon",
       "letter",
@@ -37365,7 +37732,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon-letter-t",
     "name": "Hexagon Letter T",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon",
       "letter",
@@ -37377,7 +37744,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon-letter-t-filled",
     "name": "Hexagon Letter T Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon",
       "letter",
@@ -37390,7 +37757,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon-letter-u",
     "name": "Hexagon Letter U",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon",
       "letter",
@@ -37402,7 +37769,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon-letter-u-filled",
     "name": "Hexagon Letter U Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon",
       "letter",
@@ -37415,7 +37782,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon-letter-v",
     "name": "Hexagon Letter V",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon",
       "letter",
@@ -37427,7 +37794,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon-letter-v-filled",
     "name": "Hexagon Letter V Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon",
       "letter",
@@ -37440,7 +37807,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon-letter-w",
     "name": "Hexagon Letter W",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon",
       "letter",
@@ -37452,7 +37819,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon-letter-w-filled",
     "name": "Hexagon Letter W Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon",
       "letter",
@@ -37465,7 +37832,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon-letter-x",
     "name": "Hexagon Letter X",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon",
       "letter",
@@ -37477,7 +37844,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon-letter-x-filled",
     "name": "Hexagon Letter X Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon",
       "letter",
@@ -37490,7 +37857,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon-letter-y",
     "name": "Hexagon Letter Y",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon",
       "letter",
@@ -37502,7 +37869,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon-letter-y-filled",
     "name": "Hexagon Letter Y Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon",
       "letter",
@@ -37515,7 +37882,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon-letter-z",
     "name": "Hexagon Letter Z",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon",
       "letter",
@@ -37527,7 +37894,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon-letter-z-filled",
     "name": "Hexagon Letter Z Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon",
       "letter",
@@ -37540,7 +37907,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon-minus",
     "name": "Hexagon Minus",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon",
       "minus"
@@ -37551,7 +37918,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon-minus2",
     "name": "Hexagon Minus2",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon",
       "minus2"
@@ -37562,7 +37929,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon-minus-filled",
     "name": "Hexagon Minus Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon",
       "minus",
@@ -37574,7 +37941,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon-number0",
     "name": "Hexagon Number0",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon",
       "number0"
@@ -37585,7 +37952,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon-number0-filled",
     "name": "Hexagon Number0 Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon",
       "number0",
@@ -37597,7 +37964,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon-number1",
     "name": "Hexagon Number1",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon",
       "number1"
@@ -37608,7 +37975,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon-number1-filled",
     "name": "Hexagon Number1 Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon",
       "number1",
@@ -37620,7 +37987,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon-number2",
     "name": "Hexagon Number2",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon",
       "number2"
@@ -37631,7 +37998,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon-number2-filled",
     "name": "Hexagon Number2 Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon",
       "number2",
@@ -37643,7 +38010,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon-number3",
     "name": "Hexagon Number3",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon",
       "number3"
@@ -37654,7 +38021,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon-number3-filled",
     "name": "Hexagon Number3 Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon",
       "number3",
@@ -37666,7 +38033,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon-number4",
     "name": "Hexagon Number4",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon",
       "number4"
@@ -37677,7 +38044,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon-number4-filled",
     "name": "Hexagon Number4 Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon",
       "number4",
@@ -37689,7 +38056,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon-number5",
     "name": "Hexagon Number5",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon",
       "number5"
@@ -37700,7 +38067,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon-number5-filled",
     "name": "Hexagon Number5 Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon",
       "number5",
@@ -37712,7 +38079,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon-number6",
     "name": "Hexagon Number6",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon",
       "number6"
@@ -37723,7 +38090,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon-number6-filled",
     "name": "Hexagon Number6 Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon",
       "number6",
@@ -37735,7 +38102,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon-number7",
     "name": "Hexagon Number7",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon",
       "number7"
@@ -37746,7 +38113,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon-number7-filled",
     "name": "Hexagon Number7 Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon",
       "number7",
@@ -37758,7 +38125,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon-number8",
     "name": "Hexagon Number8",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon",
       "number8"
@@ -37769,7 +38136,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon-number8-filled",
     "name": "Hexagon Number8 Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon",
       "number8",
@@ -37781,7 +38148,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon-number9",
     "name": "Hexagon Number9",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon",
       "number9"
@@ -37792,7 +38159,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon-number9-filled",
     "name": "Hexagon Number9 Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon",
       "number9",
@@ -37804,7 +38171,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon-off",
     "name": "Hexagon Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon",
       "off"
@@ -37815,7 +38182,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon-plus",
     "name": "Hexagon Plus",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon",
       "plus"
@@ -37826,7 +38193,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon-plus2",
     "name": "Hexagon Plus2",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon",
       "plus2"
@@ -37837,7 +38204,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagon-plus-filled",
     "name": "Hexagon Plus Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagon",
       "plus",
@@ -37849,7 +38216,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagonal-prism",
     "name": "Hexagonal Prism",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagonal",
       "prism"
@@ -37860,7 +38227,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagonal-prism-off",
     "name": "Hexagonal Prism Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagonal",
       "prism",
@@ -37872,7 +38239,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagonal-prism-plus",
     "name": "Hexagonal Prism Plus",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagonal",
       "prism",
@@ -37884,7 +38251,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagonal-pyramid",
     "name": "Hexagonal Pyramid",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagonal",
       "pyramid"
@@ -37895,7 +38262,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagonal-pyramid-off",
     "name": "Hexagonal Pyramid Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagonal",
       "pyramid",
@@ -37907,7 +38274,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagonal-pyramid-plus",
     "name": "Hexagonal Pyramid Plus",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagonal",
       "pyramid",
@@ -37919,7 +38286,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagons",
     "name": "Hexagons",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagons"
     ],
@@ -37929,7 +38296,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hexagons-off",
     "name": "Hexagons Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "hexagons",
       "off"
@@ -38145,7 +38512,9 @@ export const TABLER_ICONS: IconMeta[] = [
     "category": "navigation",
     "tags": [
       "home",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconHomeDown"
   },
@@ -38398,7 +38767,9 @@ export const TABLER_ICONS: IconMeta[] = [
     "category": "navigation",
     "tags": [
       "home",
-      "up"
+      "up",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconHomeUp"
   },
@@ -38448,7 +38819,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hospital",
     "name": "Hospital",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "hospital"
     ],
@@ -38458,7 +38829,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hospital-circle",
     "name": "Hospital Circle",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "hospital",
       "circle"
@@ -38469,7 +38840,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-hospital-circle-filled",
     "name": "Hospital Circle Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "hospital",
       "circle",
@@ -38725,7 +39096,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-http-post",
     "name": "Http Post",
     "set": "tabler",
-    "category": "people-social",
+    "category": "api-integration",
     "tags": [
       "http",
       "post"
@@ -38736,7 +39107,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-http-post-off",
     "name": "Http Post Off",
     "set": "tabler",
-    "category": "people-social",
+    "category": "api-integration",
     "tags": [
       "http",
       "post",
@@ -38925,7 +39296,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-id-badge",
     "name": "Id Badge",
     "set": "tabler",
-    "category": "people-social",
+    "category": "general-ui",
     "tags": [
       "id",
       "badge"
@@ -38936,7 +39307,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-id-badge2",
     "name": "Id Badge2",
     "set": "tabler",
-    "category": "people-social",
+    "category": "general-ui",
     "tags": [
       "id",
       "badge2"
@@ -38947,7 +39318,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-id-badge-off",
     "name": "Id Badge Off",
     "set": "tabler",
-    "category": "people-social",
+    "category": "general-ui",
     "tags": [
       "id",
       "badge",
@@ -39057,7 +39428,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-infinity",
     "name": "Infinity",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "infinity"
     ],
@@ -39067,7 +39438,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-infinity2",
     "name": "Infinity2",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "infinity2"
     ],
@@ -39077,7 +39448,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-infinity-off",
     "name": "Infinity Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "infinity",
       "off"
@@ -39264,12 +39635,14 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-inner-shadow-bottom-left",
     "name": "Inner Shadow Bottom Left",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "inner",
       "shadow",
       "bottom",
-      "left"
+      "left",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconInnerShadowBottomLeft"
   },
@@ -39277,7 +39650,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-inner-shadow-bottom-left-filled",
     "name": "Inner Shadow Bottom Left Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "inner",
       "shadow",
@@ -39291,12 +39664,14 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-inner-shadow-bottom-right",
     "name": "Inner Shadow Bottom Right",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "inner",
       "shadow",
       "bottom",
-      "right"
+      "right",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconInnerShadowBottomRight"
   },
@@ -39304,7 +39679,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-inner-shadow-bottom-right-filled",
     "name": "Inner Shadow Bottom Right Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "inner",
       "shadow",
@@ -39318,11 +39693,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-inner-shadow-left",
     "name": "Inner Shadow Left",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "inner",
       "shadow",
-      "left"
+      "left",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconInnerShadowLeft"
   },
@@ -39330,7 +39707,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-inner-shadow-left-filled",
     "name": "Inner Shadow Left Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "inner",
       "shadow",
@@ -39343,11 +39720,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-inner-shadow-right",
     "name": "Inner Shadow Right",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "inner",
       "shadow",
-      "right"
+      "right",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconInnerShadowRight"
   },
@@ -39355,7 +39734,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-inner-shadow-right-filled",
     "name": "Inner Shadow Right Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "inner",
       "shadow",
@@ -39393,12 +39772,14 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-inner-shadow-top-left",
     "name": "Inner Shadow Top Left",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "inner",
       "shadow",
       "top",
-      "left"
+      "left",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconInnerShadowTopLeft"
   },
@@ -39406,7 +39787,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-inner-shadow-top-left-filled",
     "name": "Inner Shadow Top Left Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "inner",
       "shadow",
@@ -39420,12 +39801,14 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-inner-shadow-top-right",
     "name": "Inner Shadow Top Right",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "inner",
       "shadow",
       "top",
-      "right"
+      "right",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconInnerShadowTopRight"
   },
@@ -39433,7 +39816,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-inner-shadow-top-right-filled",
     "name": "Inner Shadow Top Right Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "inner",
       "shadow",
@@ -39447,7 +39830,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-input-ai",
     "name": "Input Ai",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "input",
       "ai"
@@ -39458,7 +39841,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-input-check",
     "name": "Input Check",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "input",
       "check"
@@ -39469,7 +39852,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-input-search",
     "name": "Input Search",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "input",
       "search"
@@ -39480,7 +39863,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-input-spark",
     "name": "Input Spark",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "input",
       "spark"
@@ -39491,7 +39874,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-input-x",
     "name": "Input X",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "input",
       "x"
@@ -39728,7 +40111,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-jewish-star",
     "name": "Jewish Star",
     "set": "tabler",
-    "category": "people-social",
+    "category": "general-ui",
     "tags": [
       "jewish",
       "star"
@@ -39739,7 +40122,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-jewish-star-filled",
     "name": "Jewish Star Filled",
     "set": "tabler",
-    "category": "people-social",
+    "category": "general-ui",
     "tags": [
       "jewish",
       "star",
@@ -39794,7 +40177,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-jpg",
     "name": "Jpg",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "jpg"
     ],
@@ -39814,7 +40197,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-jump-rope",
     "name": "Jump Rope",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "navigation",
     "tags": [
       "jump",
       "rope"
@@ -39867,7 +40250,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "set": "tabler",
     "category": "security-identity",
     "tags": [
-      "key"
+      "key",
+      "security"
     ],
     "tablerName": "IconKey"
   },
@@ -39878,7 +40262,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "category": "security-identity",
     "tags": [
       "key",
-      "filled"
+      "filled",
+      "security"
     ],
     "tablerName": "IconKeyFilled"
   },
@@ -39889,7 +40274,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "category": "security-identity",
     "tags": [
       "key",
-      "off"
+      "off",
+      "security"
     ],
     "tablerName": "IconKeyOff"
   },
@@ -39899,7 +40285,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "set": "tabler",
     "category": "security-identity",
     "tags": [
-      "keyboard"
+      "keyboard",
+      "security"
     ],
     "tablerName": "IconKeyboard"
   },
@@ -39910,7 +40297,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "category": "security-identity",
     "tags": [
       "keyboard",
-      "filled"
+      "filled",
+      "security"
     ],
     "tablerName": "IconKeyboardFilled"
   },
@@ -39921,7 +40309,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "category": "security-identity",
     "tags": [
       "keyboard",
-      "hide"
+      "hide",
+      "security"
     ],
     "tablerName": "IconKeyboardHide"
   },
@@ -39932,7 +40321,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "category": "security-identity",
     "tags": [
       "keyboard",
-      "off"
+      "off",
+      "security"
     ],
     "tablerName": "IconKeyboardOff"
   },
@@ -39943,7 +40333,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "category": "security-identity",
     "tags": [
       "keyboard",
-      "show"
+      "show",
+      "security"
     ],
     "tablerName": "IconKeyboardShow"
   },
@@ -39953,7 +40344,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "set": "tabler",
     "category": "security-identity",
     "tags": [
-      "keyframe"
+      "keyframe",
+      "security"
     ],
     "tablerName": "IconKeyframe"
   },
@@ -39961,11 +40353,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-keyframe-align-center",
     "name": "Keyframe Align Center",
     "set": "tabler",
-    "category": "editor",
+    "category": "security-identity",
     "tags": [
       "keyframe",
       "align",
-      "center"
+      "center",
+      "security"
     ],
     "tablerName": "IconKeyframeAlignCenter"
   },
@@ -39973,12 +40366,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-keyframe-align-center-filled",
     "name": "Keyframe Align Center Filled",
     "set": "tabler",
-    "category": "editor",
+    "category": "security-identity",
     "tags": [
       "keyframe",
       "align",
       "center",
-      "filled"
+      "filled",
+      "security"
     ],
     "tablerName": "IconKeyframeAlignCenterFilled"
   },
@@ -39986,11 +40380,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-keyframe-align-horizontal",
     "name": "Keyframe Align Horizontal",
     "set": "tabler",
-    "category": "editor",
+    "category": "security-identity",
     "tags": [
       "keyframe",
       "align",
-      "horizontal"
+      "horizontal",
+      "security"
     ],
     "tablerName": "IconKeyframeAlignHorizontal"
   },
@@ -39998,12 +40393,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-keyframe-align-horizontal-filled",
     "name": "Keyframe Align Horizontal Filled",
     "set": "tabler",
-    "category": "editor",
+    "category": "security-identity",
     "tags": [
       "keyframe",
       "align",
       "horizontal",
-      "filled"
+      "filled",
+      "security"
     ],
     "tablerName": "IconKeyframeAlignHorizontalFilled"
   },
@@ -40011,11 +40407,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-keyframe-align-vertical",
     "name": "Keyframe Align Vertical",
     "set": "tabler",
-    "category": "editor",
+    "category": "security-identity",
     "tags": [
       "keyframe",
       "align",
-      "vertical"
+      "vertical",
+      "security"
     ],
     "tablerName": "IconKeyframeAlignVertical"
   },
@@ -40023,12 +40420,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-keyframe-align-vertical-filled",
     "name": "Keyframe Align Vertical Filled",
     "set": "tabler",
-    "category": "editor",
+    "category": "security-identity",
     "tags": [
       "keyframe",
       "align",
       "vertical",
-      "filled"
+      "filled",
+      "security"
     ],
     "tablerName": "IconKeyframeAlignVerticalFilled"
   },
@@ -40039,7 +40437,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "category": "security-identity",
     "tags": [
       "keyframe",
-      "filled"
+      "filled",
+      "security"
     ],
     "tablerName": "IconKeyframeFilled"
   },
@@ -40049,7 +40448,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "set": "tabler",
     "category": "security-identity",
     "tags": [
-      "keyframes"
+      "keyframes",
+      "security"
     ],
     "tablerName": "IconKeyframes"
   },
@@ -40060,7 +40460,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "category": "security-identity",
     "tags": [
       "keyframes",
-      "filled"
+      "filled",
+      "security"
     ],
     "tablerName": "IconKeyframesFilled"
   },
@@ -40495,7 +40896,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-layout",
     "name": "Layout",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "layout"
     ],
@@ -40505,7 +40906,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-layout2",
     "name": "Layout2",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "layout2"
     ],
@@ -40515,7 +40916,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-layout2-filled",
     "name": "Layout2 Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "layout2",
       "filled"
@@ -40526,7 +40927,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-layout-align-bottom",
     "name": "Layout Align Bottom",
     "set": "tabler",
-    "category": "editor",
+    "category": "frontend-client",
     "tags": [
       "layout",
       "align",
@@ -40538,7 +40939,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-layout-align-bottom-filled",
     "name": "Layout Align Bottom Filled",
     "set": "tabler",
-    "category": "editor",
+    "category": "frontend-client",
     "tags": [
       "layout",
       "align",
@@ -40551,7 +40952,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-layout-align-center",
     "name": "Layout Align Center",
     "set": "tabler",
-    "category": "editor",
+    "category": "frontend-client",
     "tags": [
       "layout",
       "align",
@@ -40563,7 +40964,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-layout-align-center-filled",
     "name": "Layout Align Center Filled",
     "set": "tabler",
-    "category": "editor",
+    "category": "frontend-client",
     "tags": [
       "layout",
       "align",
@@ -40576,11 +40977,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-layout-align-left",
     "name": "Layout Align Left",
     "set": "tabler",
-    "category": "navigation",
+    "category": "frontend-client",
     "tags": [
       "layout",
       "align",
-      "left"
+      "left",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconLayoutAlignLeft"
   },
@@ -40588,7 +40991,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-layout-align-left-filled",
     "name": "Layout Align Left Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "frontend-client",
     "tags": [
       "layout",
       "align",
@@ -40601,7 +41004,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-layout-align-middle",
     "name": "Layout Align Middle",
     "set": "tabler",
-    "category": "editor",
+    "category": "frontend-client",
     "tags": [
       "layout",
       "align",
@@ -40613,7 +41016,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-layout-align-middle-filled",
     "name": "Layout Align Middle Filled",
     "set": "tabler",
-    "category": "editor",
+    "category": "frontend-client",
     "tags": [
       "layout",
       "align",
@@ -40626,11 +41029,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-layout-align-right",
     "name": "Layout Align Right",
     "set": "tabler",
-    "category": "navigation",
+    "category": "frontend-client",
     "tags": [
       "layout",
       "align",
-      "right"
+      "right",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconLayoutAlignRight"
   },
@@ -40638,7 +41043,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-layout-align-right-filled",
     "name": "Layout Align Right Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "frontend-client",
     "tags": [
       "layout",
       "align",
@@ -40651,7 +41056,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-layout-align-top",
     "name": "Layout Align Top",
     "set": "tabler",
-    "category": "editor",
+    "category": "frontend-client",
     "tags": [
       "layout",
       "align",
@@ -40663,7 +41068,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-layout-align-top-filled",
     "name": "Layout Align Top Filled",
     "set": "tabler",
-    "category": "editor",
+    "category": "frontend-client",
     "tags": [
       "layout",
       "align",
@@ -40676,7 +41081,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-layout-board",
     "name": "Layout Board",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "layout",
       "board"
@@ -40687,7 +41092,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-layout-board-filled",
     "name": "Layout Board Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "layout",
       "board",
@@ -40699,7 +41104,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-layout-board-split",
     "name": "Layout Board Split",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "layout",
       "board",
@@ -40711,7 +41116,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-layout-board-split-filled",
     "name": "Layout Board Split Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "layout",
       "board",
@@ -40724,7 +41129,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-layout-bottombar",
     "name": "Layout Bottombar",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "layout",
       "bottombar"
@@ -40735,7 +41140,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-layout-bottombar-collapse",
     "name": "Layout Bottombar Collapse",
     "set": "tabler",
-    "category": "navigation",
+    "category": "frontend-client",
     "tags": [
       "layout",
       "bottombar",
@@ -40747,7 +41152,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-layout-bottombar-collapse-filled",
     "name": "Layout Bottombar Collapse Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "frontend-client",
     "tags": [
       "layout",
       "bottombar",
@@ -40760,7 +41165,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-layout-bottombar-expand",
     "name": "Layout Bottombar Expand",
     "set": "tabler",
-    "category": "navigation",
+    "category": "frontend-client",
     "tags": [
       "layout",
       "bottombar",
@@ -40772,7 +41177,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-layout-bottombar-expand-filled",
     "name": "Layout Bottombar Expand Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "frontend-client",
     "tags": [
       "layout",
       "bottombar",
@@ -40785,7 +41190,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-layout-bottombar-filled",
     "name": "Layout Bottombar Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "layout",
       "bottombar",
@@ -40797,7 +41202,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-layout-bottombar-inactive",
     "name": "Layout Bottombar Inactive",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "layout",
       "bottombar",
@@ -40809,7 +41214,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-layout-cards",
     "name": "Layout Cards",
     "set": "tabler",
-    "category": "finance",
+    "category": "frontend-client",
     "tags": [
       "layout",
       "cards"
@@ -40820,7 +41225,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-layout-cards-filled",
     "name": "Layout Cards Filled",
     "set": "tabler",
-    "category": "finance",
+    "category": "frontend-client",
     "tags": [
       "layout",
       "cards",
@@ -40832,7 +41237,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-layout-collage",
     "name": "Layout Collage",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "layout",
       "collage"
@@ -40843,7 +41248,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-layout-columns",
     "name": "Layout Columns",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "layout",
       "columns"
@@ -40854,7 +41259,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-layout-dashboard",
     "name": "Layout Dashboard",
     "set": "tabler",
-    "category": "monitoring-logging",
+    "category": "frontend-client",
     "tags": [
       "layout",
       "dashboard"
@@ -40865,7 +41270,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-layout-dashboard-filled",
     "name": "Layout Dashboard Filled",
     "set": "tabler",
-    "category": "monitoring-logging",
+    "category": "frontend-client",
     "tags": [
       "layout",
       "dashboard",
@@ -40877,7 +41282,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-layout-distribute-horizontal",
     "name": "Layout Distribute Horizontal",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "layout",
       "distribute",
@@ -40889,7 +41294,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-layout-distribute-horizontal-filled",
     "name": "Layout Distribute Horizontal Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "layout",
       "distribute",
@@ -40902,7 +41307,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-layout-distribute-vertical",
     "name": "Layout Distribute Vertical",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "layout",
       "distribute",
@@ -40914,7 +41319,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-layout-distribute-vertical-filled",
     "name": "Layout Distribute Vertical Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "layout",
       "distribute",
@@ -40927,7 +41332,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-layout-filled",
     "name": "Layout Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "layout",
       "filled"
@@ -40938,7 +41343,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-layout-grid",
     "name": "Layout Grid",
     "set": "tabler",
-    "category": "editor",
+    "category": "frontend-client",
     "tags": [
       "layout",
       "grid"
@@ -40949,7 +41354,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-layout-grid-add",
     "name": "Layout Grid Add",
     "set": "tabler",
-    "category": "editor",
+    "category": "frontend-client",
     "tags": [
       "layout",
       "grid",
@@ -40961,7 +41366,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-layout-grid-filled",
     "name": "Layout Grid Filled",
     "set": "tabler",
-    "category": "editor",
+    "category": "frontend-client",
     "tags": [
       "layout",
       "grid",
@@ -40973,7 +41378,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-layout-grid-remove",
     "name": "Layout Grid Remove",
     "set": "tabler",
-    "category": "editor",
+    "category": "frontend-client",
     "tags": [
       "layout",
       "grid",
@@ -40985,7 +41390,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-layout-kanban",
     "name": "Layout Kanban",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "layout",
       "kanban"
@@ -40996,7 +41401,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-layout-kanban-filled",
     "name": "Layout Kanban Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "layout",
       "kanban",
@@ -41008,7 +41413,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-layout-list",
     "name": "Layout List",
     "set": "tabler",
-    "category": "editor",
+    "category": "frontend-client",
     "tags": [
       "layout",
       "list"
@@ -41019,7 +41424,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-layout-list-filled",
     "name": "Layout List Filled",
     "set": "tabler",
-    "category": "editor",
+    "category": "frontend-client",
     "tags": [
       "layout",
       "list",
@@ -41031,7 +41436,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-layout-navbar",
     "name": "Layout Navbar",
     "set": "tabler",
-    "category": "navigation",
+    "category": "frontend-client",
     "tags": [
       "layout",
       "navbar"
@@ -41042,7 +41447,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-layout-navbar-collapse",
     "name": "Layout Navbar Collapse",
     "set": "tabler",
-    "category": "navigation",
+    "category": "frontend-client",
     "tags": [
       "layout",
       "navbar",
@@ -41054,7 +41459,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-layout-navbar-collapse-filled",
     "name": "Layout Navbar Collapse Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "frontend-client",
     "tags": [
       "layout",
       "navbar",
@@ -41067,7 +41472,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-layout-navbar-expand",
     "name": "Layout Navbar Expand",
     "set": "tabler",
-    "category": "navigation",
+    "category": "frontend-client",
     "tags": [
       "layout",
       "navbar",
@@ -41079,7 +41484,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-layout-navbar-expand-filled",
     "name": "Layout Navbar Expand Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "frontend-client",
     "tags": [
       "layout",
       "navbar",
@@ -41092,7 +41497,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-layout-navbar-filled",
     "name": "Layout Navbar Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "frontend-client",
     "tags": [
       "layout",
       "navbar",
@@ -41104,7 +41509,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-layout-navbar-inactive",
     "name": "Layout Navbar Inactive",
     "set": "tabler",
-    "category": "navigation",
+    "category": "frontend-client",
     "tags": [
       "layout",
       "navbar",
@@ -41116,7 +41521,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-layout-off",
     "name": "Layout Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "layout",
       "off"
@@ -41127,7 +41532,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-layout-rows",
     "name": "Layout Rows",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "layout",
       "rows"
@@ -41138,7 +41543,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-layout-sidebar",
     "name": "Layout Sidebar",
     "set": "tabler",
-    "category": "navigation",
+    "category": "frontend-client",
     "tags": [
       "layout",
       "sidebar"
@@ -41149,7 +41554,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-layout-sidebar-filled",
     "name": "Layout Sidebar Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "frontend-client",
     "tags": [
       "layout",
       "sidebar",
@@ -41161,7 +41566,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-layout-sidebar-inactive",
     "name": "Layout Sidebar Inactive",
     "set": "tabler",
-    "category": "navigation",
+    "category": "frontend-client",
     "tags": [
       "layout",
       "sidebar",
@@ -41173,7 +41578,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-layout-sidebar-left-collapse",
     "name": "Layout Sidebar Left Collapse",
     "set": "tabler",
-    "category": "navigation",
+    "category": "frontend-client",
     "tags": [
       "layout",
       "sidebar",
@@ -41186,7 +41591,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-layout-sidebar-left-collapse-filled",
     "name": "Layout Sidebar Left Collapse Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "frontend-client",
     "tags": [
       "layout",
       "sidebar",
@@ -41200,7 +41605,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-layout-sidebar-left-expand",
     "name": "Layout Sidebar Left Expand",
     "set": "tabler",
-    "category": "navigation",
+    "category": "frontend-client",
     "tags": [
       "layout",
       "sidebar",
@@ -41213,7 +41618,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-layout-sidebar-left-expand-filled",
     "name": "Layout Sidebar Left Expand Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "frontend-client",
     "tags": [
       "layout",
       "sidebar",
@@ -41227,11 +41632,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-layout-sidebar-right",
     "name": "Layout Sidebar Right",
     "set": "tabler",
-    "category": "navigation",
+    "category": "frontend-client",
     "tags": [
       "layout",
       "sidebar",
-      "right"
+      "right",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconLayoutSidebarRight"
   },
@@ -41239,7 +41646,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-layout-sidebar-right-collapse",
     "name": "Layout Sidebar Right Collapse",
     "set": "tabler",
-    "category": "navigation",
+    "category": "frontend-client",
     "tags": [
       "layout",
       "sidebar",
@@ -41252,7 +41659,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-layout-sidebar-right-collapse-filled",
     "name": "Layout Sidebar Right Collapse Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "frontend-client",
     "tags": [
       "layout",
       "sidebar",
@@ -41266,7 +41673,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-layout-sidebar-right-expand",
     "name": "Layout Sidebar Right Expand",
     "set": "tabler",
-    "category": "navigation",
+    "category": "frontend-client",
     "tags": [
       "layout",
       "sidebar",
@@ -41279,7 +41686,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-layout-sidebar-right-expand-filled",
     "name": "Layout Sidebar Right Expand Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "frontend-client",
     "tags": [
       "layout",
       "sidebar",
@@ -41293,7 +41700,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-layout-sidebar-right-filled",
     "name": "Layout Sidebar Right Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "frontend-client",
     "tags": [
       "layout",
       "sidebar",
@@ -41306,7 +41713,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-layout-sidebar-right-inactive",
     "name": "Layout Sidebar Right Inactive",
     "set": "tabler",
-    "category": "navigation",
+    "category": "frontend-client",
     "tags": [
       "layout",
       "sidebar",
@@ -41350,7 +41757,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-leaf-maple",
     "name": "Leaf Maple",
     "set": "tabler",
-    "category": "maps-location",
+    "category": "general-ui",
     "tags": [
       "leaf",
       "maple"
@@ -41539,7 +41946,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-letter-case-upper",
     "name": "Letter Case Upper",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "letter",
       "case",
@@ -42123,7 +42530,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-library-photo",
     "name": "Library Photo",
     "set": "tabler",
-    "category": "media",
+    "category": "general-ui",
     "tags": [
       "library",
       "photo"
@@ -42220,7 +42627,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-line",
     "name": "Line",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "line"
     ],
@@ -42230,7 +42637,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-line-dashed",
     "name": "Line Dashed",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "line",
       "dashed"
@@ -42241,7 +42648,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-line-dotted",
     "name": "Line Dotted",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "line",
       "dotted"
@@ -42252,7 +42659,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-line-height",
     "name": "Line Height",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "line",
       "height"
@@ -42263,7 +42670,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-line-scan",
     "name": "Line Scan",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "line",
       "scan"
@@ -42328,7 +42735,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-list",
     "name": "List",
     "set": "tabler",
-    "category": "editor",
+    "category": "general-ui",
     "tags": [
       "list"
     ],
@@ -42338,7 +42745,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-list-check",
     "name": "List Check",
     "set": "tabler",
-    "category": "editor",
+    "category": "general-ui",
     "tags": [
       "list",
       "check"
@@ -42349,7 +42756,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-list-check-filled",
     "name": "List Check Filled",
     "set": "tabler",
-    "category": "editor",
+    "category": "general-ui",
     "tags": [
       "list",
       "check",
@@ -42361,7 +42768,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-list-details",
     "name": "List Details",
     "set": "tabler",
-    "category": "editor",
+    "category": "general-ui",
     "tags": [
       "list",
       "details"
@@ -42372,7 +42779,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-list-details-filled",
     "name": "List Details Filled",
     "set": "tabler",
-    "category": "editor",
+    "category": "general-ui",
     "tags": [
       "list",
       "details",
@@ -42384,7 +42791,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-list-filled",
     "name": "List Filled",
     "set": "tabler",
-    "category": "editor",
+    "category": "general-ui",
     "tags": [
       "list",
       "filled"
@@ -42395,7 +42802,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-list-letters",
     "name": "List Letters",
     "set": "tabler",
-    "category": "editor",
+    "category": "general-ui",
     "tags": [
       "list",
       "letters"
@@ -42406,7 +42813,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-list-numbers",
     "name": "List Numbers",
     "set": "tabler",
-    "category": "editor",
+    "category": "general-ui",
     "tags": [
       "list",
       "numbers"
@@ -42417,7 +42824,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-list-search",
     "name": "List Search",
     "set": "tabler",
-    "category": "editor",
+    "category": "general-ui",
     "tags": [
       "list",
       "search"
@@ -42428,7 +42835,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-list-tree",
     "name": "List Tree",
     "set": "tabler",
-    "category": "editor",
+    "category": "general-ui",
     "tags": [
       "list",
       "tree"
@@ -42439,7 +42846,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-live-photo",
     "name": "Live Photo",
     "set": "tabler",
-    "category": "media",
+    "category": "general-ui",
     "tags": [
       "live",
       "photo"
@@ -42450,7 +42857,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-live-photo-filled",
     "name": "Live Photo Filled",
     "set": "tabler",
-    "category": "media",
+    "category": "general-ui",
     "tags": [
       "live",
       "photo",
@@ -42462,7 +42869,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-live-photo-off",
     "name": "Live Photo Off",
     "set": "tabler",
-    "category": "media",
+    "category": "general-ui",
     "tags": [
       "live",
       "photo",
@@ -42657,10 +43064,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-location-down",
     "name": "Location Down",
     "set": "tabler",
-    "category": "navigation",
+    "category": "maps-location",
     "tags": [
       "location",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconLocationDown"
   },
@@ -42690,7 +43099,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-location-heart",
     "name": "Location Heart",
     "set": "tabler",
-    "category": "people-social",
+    "category": "maps-location",
     "tags": [
       "location",
       "heart"
@@ -42723,7 +43132,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-location-pause",
     "name": "Location Pause",
     "set": "tabler",
-    "category": "media",
+    "category": "maps-location",
     "tags": [
       "location",
       "pause"
@@ -42778,7 +43187,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-location-share",
     "name": "Location Share",
     "set": "tabler",
-    "category": "people-social",
+    "category": "maps-location",
     "tags": [
       "location",
       "share"
@@ -42789,7 +43198,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-location-star",
     "name": "Location Star",
     "set": "tabler",
-    "category": "people-social",
+    "category": "maps-location",
     "tags": [
       "location",
       "star"
@@ -42800,10 +43209,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-location-up",
     "name": "Location Up",
     "set": "tabler",
-    "category": "navigation",
+    "category": "maps-location",
     "tags": [
       "location",
-      "up"
+      "up",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconLocationUp"
   },
@@ -42824,7 +43235,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "set": "tabler",
     "category": "security-identity",
     "tags": [
-      "lock"
+      "lock",
+      "security"
     ],
     "tablerName": "IconLock"
   },
@@ -42835,7 +43247,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "category": "security-identity",
     "tags": [
       "lock",
-      "access"
+      "access",
+      "security"
     ],
     "tablerName": "IconLockAccess"
   },
@@ -42847,7 +43260,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "tags": [
       "lock",
       "access",
-      "off"
+      "off",
+      "security"
     ],
     "tablerName": "IconLockAccessOff"
   },
@@ -42858,7 +43272,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "category": "security-identity",
     "tags": [
       "lock",
-      "bitcoin"
+      "bitcoin",
+      "security"
     ],
     "tablerName": "IconLockBitcoin"
   },
@@ -42869,7 +43284,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "category": "security-identity",
     "tags": [
       "lock",
-      "bolt"
+      "bolt",
+      "security"
     ],
     "tablerName": "IconLockBolt"
   },
@@ -42880,7 +43296,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "category": "security-identity",
     "tags": [
       "lock",
-      "cancel"
+      "cancel",
+      "security"
     ],
     "tablerName": "IconLockCancel"
   },
@@ -42891,7 +43308,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "category": "security-identity",
     "tags": [
       "lock",
-      "check"
+      "check",
+      "security"
     ],
     "tablerName": "IconLockCheck"
   },
@@ -42902,7 +43320,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "category": "security-identity",
     "tags": [
       "lock",
-      "code"
+      "code",
+      "security"
     ],
     "tablerName": "IconLockCode"
   },
@@ -42913,7 +43332,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "category": "security-identity",
     "tags": [
       "lock",
-      "cog"
+      "cog",
+      "security"
     ],
     "tablerName": "IconLockCog"
   },
@@ -42921,10 +43341,11 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-lock-dollar",
     "name": "Lock Dollar",
     "set": "tabler",
-    "category": "finance",
+    "category": "security-identity",
     "tags": [
       "lock",
-      "dollar"
+      "dollar",
+      "security"
     ],
     "tablerName": "IconLockDollar"
   },
@@ -42932,10 +43353,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-lock-down",
     "name": "Lock Down",
     "set": "tabler",
-    "category": "navigation",
+    "category": "security-identity",
     "tags": [
       "lock",
-      "down"
+      "down",
+      "arrow",
+      "direction",
+      "security"
     ],
     "tablerName": "IconLockDown"
   },
@@ -42946,7 +43370,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "category": "security-identity",
     "tags": [
       "lock",
-      "exclamation"
+      "exclamation",
+      "security"
     ],
     "tablerName": "IconLockExclamation"
   },
@@ -42957,7 +43382,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "category": "security-identity",
     "tags": [
       "lock",
-      "filled"
+      "filled",
+      "security"
     ],
     "tablerName": "IconLockFilled"
   },
@@ -42965,10 +43391,11 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-lock-heart",
     "name": "Lock Heart",
     "set": "tabler",
-    "category": "people-social",
+    "category": "security-identity",
     "tags": [
       "lock",
-      "heart"
+      "heart",
+      "security"
     ],
     "tablerName": "IconLockHeart"
   },
@@ -42979,7 +43406,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "category": "security-identity",
     "tags": [
       "lock",
-      "minus"
+      "minus",
+      "security"
     ],
     "tablerName": "IconLockMinus"
   },
@@ -42990,7 +43418,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "category": "security-identity",
     "tags": [
       "lock",
-      "off"
+      "off",
+      "security"
     ],
     "tablerName": "IconLockOff"
   },
@@ -42998,10 +43427,11 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-lock-open",
     "name": "Lock Open",
     "set": "tabler",
-    "category": "navigation",
+    "category": "security-identity",
     "tags": [
       "lock",
-      "open"
+      "open",
+      "security"
     ],
     "tablerName": "IconLockOpen"
   },
@@ -43009,10 +43439,11 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-lock-open2",
     "name": "Lock Open2",
     "set": "tabler",
-    "category": "navigation",
+    "category": "security-identity",
     "tags": [
       "lock",
-      "open2"
+      "open2",
+      "security"
     ],
     "tablerName": "IconLockOpen2"
   },
@@ -43020,11 +43451,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-lock-open-off",
     "name": "Lock Open Off",
     "set": "tabler",
-    "category": "navigation",
+    "category": "security-identity",
     "tags": [
       "lock",
       "open",
-      "off"
+      "off",
+      "security"
     ],
     "tablerName": "IconLockOpenOff"
   },
@@ -43035,7 +43467,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "category": "security-identity",
     "tags": [
       "lock",
-      "password"
+      "password",
+      "security"
     ],
     "tablerName": "IconLockPassword"
   },
@@ -43043,10 +43476,11 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-lock-pause",
     "name": "Lock Pause",
     "set": "tabler",
-    "category": "media",
+    "category": "security-identity",
     "tags": [
       "lock",
-      "pause"
+      "pause",
+      "security"
     ],
     "tablerName": "IconLockPause"
   },
@@ -43054,10 +43488,11 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-lock-pin",
     "name": "Lock Pin",
     "set": "tabler",
-    "category": "maps-location",
+    "category": "security-identity",
     "tags": [
       "lock",
-      "pin"
+      "pin",
+      "security"
     ],
     "tablerName": "IconLockPin"
   },
@@ -43068,7 +43503,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "category": "security-identity",
     "tags": [
       "lock",
-      "plus"
+      "plus",
+      "security"
     ],
     "tablerName": "IconLockPlus"
   },
@@ -43079,7 +43515,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "category": "security-identity",
     "tags": [
       "lock",
-      "question"
+      "question",
+      "security"
     ],
     "tablerName": "IconLockQuestion"
   },
@@ -43090,7 +43527,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "category": "security-identity",
     "tags": [
       "lock",
-      "search"
+      "search",
+      "security"
     ],
     "tablerName": "IconLockSearch"
   },
@@ -43098,10 +43536,11 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-lock-share",
     "name": "Lock Share",
     "set": "tabler",
-    "category": "people-social",
+    "category": "security-identity",
     "tags": [
       "lock",
-      "share"
+      "share",
+      "security"
     ],
     "tablerName": "IconLockShare"
   },
@@ -43112,7 +43551,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "category": "security-identity",
     "tags": [
       "lock",
-      "square"
+      "square",
+      "security"
     ],
     "tablerName": "IconLockSquare"
   },
@@ -43124,7 +43564,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "tags": [
       "lock",
       "square",
-      "rounded"
+      "rounded",
+      "security"
     ],
     "tablerName": "IconLockSquareRounded"
   },
@@ -43137,7 +43578,8 @@ export const TABLER_ICONS: IconMeta[] = [
       "lock",
       "square",
       "rounded",
-      "filled"
+      "filled",
+      "security"
     ],
     "tablerName": "IconLockSquareRoundedFilled"
   },
@@ -43145,10 +43587,11 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-lock-star",
     "name": "Lock Star",
     "set": "tabler",
-    "category": "people-social",
+    "category": "security-identity",
     "tags": [
       "lock",
-      "star"
+      "star",
+      "security"
     ],
     "tablerName": "IconLockStar"
   },
@@ -43156,10 +43599,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-lock-up",
     "name": "Lock Up",
     "set": "tabler",
-    "category": "navigation",
+    "category": "security-identity",
     "tags": [
       "lock",
-      "up"
+      "up",
+      "arrow",
+      "direction",
+      "security"
     ],
     "tablerName": "IconLockUp"
   },
@@ -43170,7 +43616,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "category": "security-identity",
     "tags": [
       "lock",
-      "x"
+      "x",
+      "security"
     ],
     "tablerName": "IconLockX"
   },
@@ -43551,7 +43998,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-mail-dollar",
     "name": "Mail Dollar",
     "set": "tabler",
-    "category": "finance",
+    "category": "messaging-queue",
     "tags": [
       "mail",
       "dollar"
@@ -43562,10 +44009,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-mail-down",
     "name": "Mail Down",
     "set": "tabler",
-    "category": "navigation",
+    "category": "messaging-queue",
     "tags": [
       "mail",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconMailDown"
   },
@@ -43606,7 +44055,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-mail-forward",
     "name": "Mail Forward",
     "set": "tabler",
-    "category": "navigation",
+    "category": "messaging-queue",
     "tags": [
       "mail",
       "forward"
@@ -43617,7 +44066,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-mail-heart",
     "name": "Mail Heart",
     "set": "tabler",
-    "category": "people-social",
+    "category": "messaging-queue",
     "tags": [
       "mail",
       "heart"
@@ -43650,7 +44099,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-mail-opened",
     "name": "Mail Opened",
     "set": "tabler",
-    "category": "navigation",
+    "category": "messaging-queue",
     "tags": [
       "mail",
       "opened"
@@ -43661,7 +44110,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-mail-opened-filled",
     "name": "Mail Opened Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "messaging-queue",
     "tags": [
       "mail",
       "opened",
@@ -43673,7 +44122,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-mail-pause",
     "name": "Mail Pause",
     "set": "tabler",
-    "category": "media",
+    "category": "messaging-queue",
     "tags": [
       "mail",
       "pause"
@@ -43684,7 +44133,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-mail-pin",
     "name": "Mail Pin",
     "set": "tabler",
-    "category": "maps-location",
+    "category": "messaging-queue",
     "tags": [
       "mail",
       "pin"
@@ -43728,7 +44177,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-mail-share",
     "name": "Mail Share",
     "set": "tabler",
-    "category": "people-social",
+    "category": "messaging-queue",
     "tags": [
       "mail",
       "share"
@@ -43750,7 +44199,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-mail-star",
     "name": "Mail Star",
     "set": "tabler",
-    "category": "people-social",
+    "category": "messaging-queue",
     "tags": [
       "mail",
       "star"
@@ -43761,10 +44210,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-mail-up",
     "name": "Mail Up",
     "set": "tabler",
-    "category": "navigation",
+    "category": "messaging-queue",
     "tags": [
       "mail",
-      "up"
+      "up",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconMailUp"
   },
@@ -43804,7 +44255,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-man",
     "name": "Man",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "man"
     ],
@@ -43814,7 +44265,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-man-filled",
     "name": "Man Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "man",
       "filled"
@@ -43825,7 +44276,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-manual-gearbox",
     "name": "Manual Gearbox",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "manual",
       "gearbox"
@@ -43836,7 +44287,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-manual-gearbox-filled",
     "name": "Manual Gearbox Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "manual",
       "gearbox",
@@ -43945,10 +44396,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-map-down",
     "name": "Map Down",
     "set": "tabler",
-    "category": "navigation",
+    "category": "maps-location",
     "tags": [
       "map",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconMapDown"
   },
@@ -43978,7 +44431,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-map-heart",
     "name": "Map Heart",
     "set": "tabler",
-    "category": "people-social",
+    "category": "maps-location",
     "tags": [
       "map",
       "heart"
@@ -44033,7 +44486,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-map-pause",
     "name": "Map Pause",
     "set": "tabler",
-    "category": "media",
+    "category": "maps-location",
     "tags": [
       "map",
       "pause"
@@ -44138,11 +44591,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-map-pin-down",
     "name": "Map Pin Down",
     "set": "tabler",
-    "category": "navigation",
+    "category": "maps-location",
     "tags": [
       "map",
       "pin",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconMapPinDown"
   },
@@ -44174,7 +44629,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-map-pin-heart",
     "name": "Map Pin Heart",
     "set": "tabler",
-    "category": "people-social",
+    "category": "maps-location",
     "tags": [
       "map",
       "pin",
@@ -44210,7 +44665,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-map-pin-pause",
     "name": "Map Pin Pause",
     "set": "tabler",
-    "category": "media",
+    "category": "maps-location",
     "tags": [
       "map",
       "pin",
@@ -44225,7 +44680,6 @@ export const TABLER_ICONS: IconMeta[] = [
     "category": "maps-location",
     "tags": [
       "map",
-      "pin",
       "pin"
     ],
     "tablerName": "IconMapPinPin"
@@ -44270,7 +44724,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-map-pin-share",
     "name": "Map Pin Share",
     "set": "tabler",
-    "category": "people-social",
+    "category": "maps-location",
     "tags": [
       "map",
       "pin",
@@ -44282,7 +44736,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-map-pin-star",
     "name": "Map Pin Star",
     "set": "tabler",
-    "category": "people-social",
+    "category": "maps-location",
     "tags": [
       "map",
       "pin",
@@ -44294,11 +44748,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-map-pin-up",
     "name": "Map Pin Up",
     "set": "tabler",
-    "category": "navigation",
+    "category": "maps-location",
     "tags": [
       "map",
       "pin",
-      "up"
+      "up",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconMapPinUp"
   },
@@ -44373,7 +44829,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-map-share",
     "name": "Map Share",
     "set": "tabler",
-    "category": "people-social",
+    "category": "maps-location",
     "tags": [
       "map",
       "share"
@@ -44406,7 +44862,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-map-star",
     "name": "Map Star",
     "set": "tabler",
-    "category": "people-social",
+    "category": "maps-location",
     "tags": [
       "map",
       "star"
@@ -44417,10 +44873,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-map-up",
     "name": "Map Up",
     "set": "tabler",
-    "category": "navigation",
+    "category": "maps-location",
     "tags": [
       "map",
-      "up"
+      "up",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconMapUp"
   },
@@ -44533,7 +44991,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-masks-theater",
     "name": "Masks Theater",
     "set": "tabler",
-    "category": "media",
+    "category": "general-ui",
     "tags": [
       "masks",
       "theater"
@@ -44544,7 +45002,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-masks-theater-off",
     "name": "Masks Theater Off",
     "set": "tabler",
-    "category": "media",
+    "category": "general-ui",
     "tags": [
       "masks",
       "theater",
@@ -44935,8 +45393,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "tags": [
       "math",
       "x",
-      "minus",
-      "x"
+      "minus"
     ],
     "tablerName": "IconMathXMinusX"
   },
@@ -44961,8 +45418,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "tags": [
       "math",
       "x",
-      "plus",
-      "x"
+      "plus"
     ],
     "tablerName": "IconMathXPlusX"
   },
@@ -44998,8 +45454,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "tags": [
       "math",
       "y",
-      "minus",
-      "y"
+      "minus"
     ],
     "tablerName": "IconMathYMinusY"
   },
@@ -45011,8 +45466,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "tags": [
       "math",
       "y",
-      "plus",
-      "y"
+      "plus"
     ],
     "tablerName": "IconMathYPlusY"
   },
@@ -45030,7 +45484,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-maximize",
     "name": "Maximize",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "navigation",
     "tags": [
       "maximize"
     ],
@@ -45040,7 +45494,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-maximize-off",
     "name": "Maximize Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "navigation",
     "tags": [
       "maximize",
       "off"
@@ -45072,7 +45526,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-medal",
     "name": "Medal",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "medal"
     ],
@@ -45082,7 +45536,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-medal2",
     "name": "Medal2",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "medal2"
     ],
@@ -45275,7 +45729,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-mesh",
     "name": "Mesh",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "networking",
     "tags": [
       "mesh"
     ],
@@ -45360,7 +45814,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-message2-dollar",
     "name": "Message2 Dollar",
     "set": "tabler",
-    "category": "finance",
+    "category": "messaging-queue",
     "tags": [
       "message2",
       "dollar"
@@ -45371,10 +45825,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-message2-down",
     "name": "Message2 Down",
     "set": "tabler",
-    "category": "navigation",
+    "category": "messaging-queue",
     "tags": [
       "message2",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconMessage2Down"
   },
@@ -45404,7 +45860,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-message2-heart",
     "name": "Message2 Heart",
     "set": "tabler",
-    "category": "people-social",
+    "category": "messaging-queue",
     "tags": [
       "message2",
       "heart"
@@ -45437,7 +45893,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-message2-pause",
     "name": "Message2 Pause",
     "set": "tabler",
-    "category": "media",
+    "category": "messaging-queue",
     "tags": [
       "message2",
       "pause"
@@ -45448,7 +45904,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-message2-pin",
     "name": "Message2 Pin",
     "set": "tabler",
-    "category": "maps-location",
+    "category": "messaging-queue",
     "tags": [
       "message2",
       "pin"
@@ -45492,7 +45948,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-message2-share",
     "name": "Message2 Share",
     "set": "tabler",
-    "category": "people-social",
+    "category": "messaging-queue",
     "tags": [
       "message2",
       "share"
@@ -45503,7 +45959,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-message2-star",
     "name": "Message2 Star",
     "set": "tabler",
-    "category": "people-social",
+    "category": "messaging-queue",
     "tags": [
       "message2",
       "star"
@@ -45514,10 +45970,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-message2-up",
     "name": "Message2 Up",
     "set": "tabler",
-    "category": "navigation",
+    "category": "messaging-queue",
     "tags": [
       "message2",
-      "up"
+      "up",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconMessage2Up"
   },
@@ -45686,7 +46144,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-message-circle-dollar",
     "name": "Message Circle Dollar",
     "set": "tabler",
-    "category": "finance",
+    "category": "messaging-queue",
     "tags": [
       "message",
       "circle",
@@ -45698,11 +46156,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-message-circle-down",
     "name": "Message Circle Down",
     "set": "tabler",
-    "category": "navigation",
+    "category": "messaging-queue",
     "tags": [
       "message",
       "circle",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconMessageCircleDown"
   },
@@ -45734,7 +46194,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-message-circle-heart",
     "name": "Message Circle Heart",
     "set": "tabler",
-    "category": "people-social",
+    "category": "messaging-queue",
     "tags": [
       "message",
       "circle",
@@ -45770,7 +46230,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-message-circle-pause",
     "name": "Message Circle Pause",
     "set": "tabler",
-    "category": "media",
+    "category": "messaging-queue",
     "tags": [
       "message",
       "circle",
@@ -45782,7 +46242,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-message-circle-pin",
     "name": "Message Circle Pin",
     "set": "tabler",
-    "category": "maps-location",
+    "category": "messaging-queue",
     "tags": [
       "message",
       "circle",
@@ -45830,7 +46290,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-message-circle-share",
     "name": "Message Circle Share",
     "set": "tabler",
-    "category": "people-social",
+    "category": "messaging-queue",
     "tags": [
       "message",
       "circle",
@@ -45842,7 +46302,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-message-circle-star",
     "name": "Message Circle Star",
     "set": "tabler",
-    "category": "people-social",
+    "category": "messaging-queue",
     "tags": [
       "message",
       "circle",
@@ -45854,11 +46314,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-message-circle-up",
     "name": "Message Circle Up",
     "set": "tabler",
-    "category": "navigation",
+    "category": "messaging-queue",
     "tags": [
       "message",
       "circle",
-      "up"
+      "up",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconMessageCircleUp"
   },
@@ -45866,7 +46328,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-message-circle-user",
     "name": "Message Circle User",
     "set": "tabler",
-    "category": "people-social",
+    "category": "messaging-queue",
     "tags": [
       "message",
       "circle",
@@ -45912,7 +46374,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-message-dollar",
     "name": "Message Dollar",
     "set": "tabler",
-    "category": "finance",
+    "category": "messaging-queue",
     "tags": [
       "message",
       "dollar"
@@ -45934,10 +46396,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-message-down",
     "name": "Message Down",
     "set": "tabler",
-    "category": "navigation",
+    "category": "messaging-queue",
     "tags": [
       "message",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconMessageDown"
   },
@@ -45967,7 +46431,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-message-forward",
     "name": "Message Forward",
     "set": "tabler",
-    "category": "navigation",
+    "category": "messaging-queue",
     "tags": [
       "message",
       "forward"
@@ -45978,7 +46442,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-message-heart",
     "name": "Message Heart",
     "set": "tabler",
-    "category": "people-social",
+    "category": "messaging-queue",
     "tags": [
       "message",
       "heart"
@@ -45989,7 +46453,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-message-language",
     "name": "Message Language",
     "set": "tabler",
-    "category": "networking",
+    "category": "messaging-queue",
     "tags": [
       "message",
       "language"
@@ -46022,7 +46486,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-message-pause",
     "name": "Message Pause",
     "set": "tabler",
-    "category": "media",
+    "category": "messaging-queue",
     "tags": [
       "message",
       "pause"
@@ -46033,7 +46497,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-message-pin",
     "name": "Message Pin",
     "set": "tabler",
-    "category": "maps-location",
+    "category": "messaging-queue",
     "tags": [
       "message",
       "pin"
@@ -46077,7 +46541,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-message-report",
     "name": "Message Report",
     "set": "tabler",
-    "category": "monitoring-logging",
+    "category": "messaging-queue",
     "tags": [
       "message",
       "report"
@@ -46088,7 +46552,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-message-report-filled",
     "name": "Message Report Filled",
     "set": "tabler",
-    "category": "monitoring-logging",
+    "category": "messaging-queue",
     "tags": [
       "message",
       "report",
@@ -46111,7 +46575,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-message-share",
     "name": "Message Share",
     "set": "tabler",
-    "category": "people-social",
+    "category": "messaging-queue",
     "tags": [
       "message",
       "share"
@@ -46122,7 +46586,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-message-star",
     "name": "Message Star",
     "set": "tabler",
-    "category": "people-social",
+    "category": "messaging-queue",
     "tags": [
       "message",
       "star"
@@ -46133,10 +46597,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-message-up",
     "name": "Message Up",
     "set": "tabler",
-    "category": "navigation",
+    "category": "messaging-queue",
     "tags": [
       "message",
-      "up"
+      "up",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconMessageUp"
   },
@@ -46144,7 +46610,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-message-user",
     "name": "Message User",
     "set": "tabler",
-    "category": "people-social",
+    "category": "messaging-queue",
     "tags": [
       "message",
       "user"
@@ -46543,7 +47009,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-minimize",
     "name": "Minimize",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "navigation",
     "tags": [
       "minimize"
     ],
@@ -46637,7 +47103,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-moneybag-heart",
     "name": "Moneybag Heart",
     "set": "tabler",
-    "category": "people-social",
+    "category": "finance",
     "tags": [
       "moneybag",
       "heart"
@@ -46670,7 +47136,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-moneybag-move-back",
     "name": "Moneybag Move Back",
     "set": "tabler",
-    "category": "navigation",
+    "category": "finance",
     "tags": [
       "moneybag",
       "move",
@@ -46851,7 +47317,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-mood-dollar",
     "name": "Mood Dollar",
     "set": "tabler",
-    "category": "finance",
+    "category": "general-ui",
     "tags": [
       "mood",
       "dollar"
@@ -46862,7 +47328,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-mood-edit",
     "name": "Mood Edit",
     "set": "tabler",
-    "category": "editor",
+    "category": "general-ui",
     "tags": [
       "mood",
       "edit"
@@ -46919,7 +47385,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-mood-heart",
     "name": "Mood Heart",
     "set": "tabler",
-    "category": "people-social",
+    "category": "general-ui",
     "tags": [
       "mood",
       "heart"
@@ -46953,11 +47419,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-mood-look-down",
     "name": "Mood Look Down",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "mood",
       "look",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconMoodLookDown"
   },
@@ -46965,11 +47433,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-mood-look-left",
     "name": "Mood Look Left",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "mood",
       "look",
-      "left"
+      "left",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconMoodLookLeft"
   },
@@ -46977,11 +47447,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-mood-look-right",
     "name": "Mood Look Right",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "mood",
       "look",
-      "right"
+      "right",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconMoodLookRight"
   },
@@ -46989,11 +47461,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-mood-look-up",
     "name": "Mood Look Up",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "mood",
       "look",
-      "up"
+      "up",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconMoodLookUp"
   },
@@ -47068,7 +47542,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-mood-pin",
     "name": "Mood Pin",
     "set": "tabler",
-    "category": "maps-location",
+    "category": "general-ui",
     "tags": [
       "mood",
       "pin"
@@ -47170,7 +47644,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-mood-share",
     "name": "Mood Share",
     "set": "tabler",
-    "category": "people-social",
+    "category": "general-ui",
     "tags": [
       "mood",
       "share"
@@ -47340,10 +47814,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-mood-up",
     "name": "Mood Up",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "mood",
-      "up"
+      "up",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconMoodUp"
   },
@@ -47460,7 +47936,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-moon-stars",
     "name": "Moon Stars",
     "set": "tabler",
-    "category": "people-social",
+    "category": "general-ui",
     "tags": [
       "moon",
       "stars"
@@ -47512,7 +47988,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-mountain",
     "name": "Mountain",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "mountain"
     ],
@@ -47522,7 +47998,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-mountain-filled",
     "name": "Mountain Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "mountain",
       "filled"
@@ -47533,7 +48009,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-mountain-off",
     "name": "Mountain Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "mountain",
       "off"
@@ -47811,7 +48287,9 @@ export const TABLER_ICONS: IconMeta[] = [
     "category": "media",
     "tags": [
       "music",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconMusicDown"
   },
@@ -47943,7 +48421,9 @@ export const TABLER_ICONS: IconMeta[] = [
     "category": "media",
     "tags": [
       "music",
-      "up"
+      "up",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconMusicUp"
   },
@@ -48052,7 +48532,9 @@ export const TABLER_ICONS: IconMeta[] = [
     "category": "navigation",
     "tags": [
       "navigation",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconNavigationDown"
   },
@@ -48137,7 +48619,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-navigation-pause",
     "name": "Navigation Pause",
     "set": "tabler",
-    "category": "media",
+    "category": "navigation",
     "tags": [
       "navigation",
       "pause"
@@ -48239,7 +48721,9 @@ export const TABLER_ICONS: IconMeta[] = [
     "category": "navigation",
     "tags": [
       "navigation",
-      "up"
+      "up",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconNavigationUp"
   },
@@ -48364,7 +48848,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-no-copyright",
     "name": "No Copyright",
     "set": "tabler",
-    "category": "editor",
+    "category": "general-ui",
     "tags": [
       "no",
       "copyright"
@@ -48409,7 +48893,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-north-star",
     "name": "North Star",
     "set": "tabler",
-    "category": "people-social",
+    "category": "general-ui",
     "tags": [
       "north",
       "star"
@@ -48430,7 +48914,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-note",
     "name": "Note",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "note"
     ],
@@ -48440,7 +48924,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-note-off",
     "name": "Note Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "note",
       "off"
@@ -48451,7 +48935,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-notebook",
     "name": "Notebook",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "notebook"
     ],
@@ -48461,7 +48945,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-notebook-off",
     "name": "Notebook Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "notebook",
       "off"
@@ -48472,7 +48956,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-notes",
     "name": "Notes",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "notes"
     ],
@@ -48482,7 +48966,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-notes-off",
     "name": "Notes Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "notes",
       "off"
@@ -48514,7 +48998,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number",
     "name": "Number",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number"
     ],
@@ -48524,7 +49008,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number0",
     "name": "Number0",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number0"
     ],
@@ -48534,7 +49018,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number0-small",
     "name": "Number0 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number0",
       "small"
@@ -48545,7 +49029,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number1",
     "name": "Number1",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number1"
     ],
@@ -48555,7 +49039,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number10",
     "name": "Number10",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number10"
     ],
@@ -48565,7 +49049,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number100-small",
     "name": "Number100 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number100",
       "small"
@@ -48576,7 +49060,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number10-small",
     "name": "Number10 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number10",
       "small"
@@ -48587,7 +49071,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number11",
     "name": "Number11",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number11"
     ],
@@ -48597,7 +49081,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number11-small",
     "name": "Number11 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number11",
       "small"
@@ -48608,7 +49092,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number123",
     "name": "Number123",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number123"
     ],
@@ -48618,7 +49102,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number12-small",
     "name": "Number12 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number12",
       "small"
@@ -48629,7 +49113,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number13-small",
     "name": "Number13 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number13",
       "small"
@@ -48640,7 +49124,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number14-small",
     "name": "Number14 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number14",
       "small"
@@ -48651,7 +49135,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number15-small",
     "name": "Number15 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number15",
       "small"
@@ -48662,7 +49146,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number16-small",
     "name": "Number16 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number16",
       "small"
@@ -48673,7 +49157,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number17-small",
     "name": "Number17 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number17",
       "small"
@@ -48684,7 +49168,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number18-small",
     "name": "Number18 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number18",
       "small"
@@ -48695,7 +49179,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number19-small",
     "name": "Number19 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number19",
       "small"
@@ -48706,7 +49190,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number1-small",
     "name": "Number1 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number1",
       "small"
@@ -48717,7 +49201,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number2",
     "name": "Number2",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number2"
     ],
@@ -48727,7 +49211,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number20-small",
     "name": "Number20 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number20",
       "small"
@@ -48738,7 +49222,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number21-small",
     "name": "Number21 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number21",
       "small"
@@ -48749,7 +49233,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number22-small",
     "name": "Number22 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number22",
       "small"
@@ -48760,7 +49244,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number23-small",
     "name": "Number23 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number23",
       "small"
@@ -48771,7 +49255,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number24-small",
     "name": "Number24 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number24",
       "small"
@@ -48782,7 +49266,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number25-small",
     "name": "Number25 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number25",
       "small"
@@ -48793,7 +49277,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number26-small",
     "name": "Number26 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number26",
       "small"
@@ -48804,7 +49288,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number27-small",
     "name": "Number27 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number27",
       "small"
@@ -48815,7 +49299,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number28-small",
     "name": "Number28 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number28",
       "small"
@@ -48826,7 +49310,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number29-small",
     "name": "Number29 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number29",
       "small"
@@ -48837,7 +49321,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number2-small",
     "name": "Number2 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number2",
       "small"
@@ -48848,7 +49332,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number3",
     "name": "Number3",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number3"
     ],
@@ -48858,7 +49342,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number30-small",
     "name": "Number30 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number30",
       "small"
@@ -48869,7 +49353,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number31-small",
     "name": "Number31 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number31",
       "small"
@@ -48880,7 +49364,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number32-small",
     "name": "Number32 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number32",
       "small"
@@ -48891,7 +49375,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number33-small",
     "name": "Number33 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number33",
       "small"
@@ -48902,7 +49386,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number34-small",
     "name": "Number34 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number34",
       "small"
@@ -48913,7 +49397,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number35-small",
     "name": "Number35 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number35",
       "small"
@@ -48924,7 +49408,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number36-small",
     "name": "Number36 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number36",
       "small"
@@ -48935,7 +49419,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number37-small",
     "name": "Number37 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number37",
       "small"
@@ -48946,7 +49430,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number38-small",
     "name": "Number38 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number38",
       "small"
@@ -48957,7 +49441,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number39-small",
     "name": "Number39 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number39",
       "small"
@@ -48968,7 +49452,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number3-small",
     "name": "Number3 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number3",
       "small"
@@ -48979,7 +49463,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number4",
     "name": "Number4",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number4"
     ],
@@ -48989,7 +49473,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number40-small",
     "name": "Number40 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number40",
       "small"
@@ -49000,7 +49484,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number41-small",
     "name": "Number41 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number41",
       "small"
@@ -49011,7 +49495,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number42-small",
     "name": "Number42 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number42",
       "small"
@@ -49022,7 +49506,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number43-small",
     "name": "Number43 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number43",
       "small"
@@ -49033,7 +49517,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number44-small",
     "name": "Number44 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number44",
       "small"
@@ -49044,7 +49528,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number45-small",
     "name": "Number45 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number45",
       "small"
@@ -49055,7 +49539,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number46-small",
     "name": "Number46 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number46",
       "small"
@@ -49066,7 +49550,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number47-small",
     "name": "Number47 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number47",
       "small"
@@ -49077,7 +49561,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number48-small",
     "name": "Number48 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number48",
       "small"
@@ -49088,7 +49572,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number49-small",
     "name": "Number49 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number49",
       "small"
@@ -49099,7 +49583,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number4-small",
     "name": "Number4 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number4",
       "small"
@@ -49110,7 +49594,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number5",
     "name": "Number5",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number5"
     ],
@@ -49120,7 +49604,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number50-small",
     "name": "Number50 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number50",
       "small"
@@ -49131,7 +49615,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number51-small",
     "name": "Number51 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number51",
       "small"
@@ -49142,7 +49626,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number52-small",
     "name": "Number52 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number52",
       "small"
@@ -49153,7 +49637,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number53-small",
     "name": "Number53 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number53",
       "small"
@@ -49164,7 +49648,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number54-small",
     "name": "Number54 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number54",
       "small"
@@ -49175,7 +49659,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number55-small",
     "name": "Number55 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number55",
       "small"
@@ -49186,7 +49670,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number56-small",
     "name": "Number56 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number56",
       "small"
@@ -49197,7 +49681,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number57-small",
     "name": "Number57 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number57",
       "small"
@@ -49208,7 +49692,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number58-small",
     "name": "Number58 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number58",
       "small"
@@ -49219,7 +49703,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number59-small",
     "name": "Number59 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number59",
       "small"
@@ -49230,7 +49714,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number5-small",
     "name": "Number5 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number5",
       "small"
@@ -49241,7 +49725,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number6",
     "name": "Number6",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number6"
     ],
@@ -49251,7 +49735,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number60-small",
     "name": "Number60 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number60",
       "small"
@@ -49262,7 +49746,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number61-small",
     "name": "Number61 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number61",
       "small"
@@ -49273,7 +49757,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number62-small",
     "name": "Number62 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number62",
       "small"
@@ -49284,7 +49768,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number63-small",
     "name": "Number63 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number63",
       "small"
@@ -49295,7 +49779,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number64-small",
     "name": "Number64 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number64",
       "small"
@@ -49306,7 +49790,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number65-small",
     "name": "Number65 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number65",
       "small"
@@ -49317,7 +49801,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number66-small",
     "name": "Number66 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number66",
       "small"
@@ -49328,7 +49812,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number67-small",
     "name": "Number67 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number67",
       "small"
@@ -49339,7 +49823,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number68-small",
     "name": "Number68 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number68",
       "small"
@@ -49350,7 +49834,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number69-small",
     "name": "Number69 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number69",
       "small"
@@ -49361,7 +49845,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number6-small",
     "name": "Number6 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number6",
       "small"
@@ -49372,7 +49856,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number7",
     "name": "Number7",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number7"
     ],
@@ -49382,7 +49866,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number70-small",
     "name": "Number70 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number70",
       "small"
@@ -49393,7 +49877,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number71-small",
     "name": "Number71 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number71",
       "small"
@@ -49404,7 +49888,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number72-small",
     "name": "Number72 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number72",
       "small"
@@ -49415,7 +49899,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number73-small",
     "name": "Number73 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number73",
       "small"
@@ -49426,7 +49910,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number74-small",
     "name": "Number74 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number74",
       "small"
@@ -49437,7 +49921,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number75-small",
     "name": "Number75 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number75",
       "small"
@@ -49448,7 +49932,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number76-small",
     "name": "Number76 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number76",
       "small"
@@ -49459,7 +49943,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number77-small",
     "name": "Number77 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number77",
       "small"
@@ -49470,7 +49954,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number78-small",
     "name": "Number78 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number78",
       "small"
@@ -49481,7 +49965,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number79-small",
     "name": "Number79 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number79",
       "small"
@@ -49492,7 +49976,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number7-small",
     "name": "Number7 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number7",
       "small"
@@ -49503,7 +49987,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number8",
     "name": "Number8",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number8"
     ],
@@ -49513,7 +49997,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number80-small",
     "name": "Number80 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number80",
       "small"
@@ -49524,7 +50008,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number81-small",
     "name": "Number81 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number81",
       "small"
@@ -49535,7 +50019,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number82-small",
     "name": "Number82 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number82",
       "small"
@@ -49546,7 +50030,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number83-small",
     "name": "Number83 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number83",
       "small"
@@ -49557,7 +50041,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number84-small",
     "name": "Number84 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number84",
       "small"
@@ -49568,7 +50052,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number85-small",
     "name": "Number85 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number85",
       "small"
@@ -49579,7 +50063,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number86-small",
     "name": "Number86 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number86",
       "small"
@@ -49590,7 +50074,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number87-small",
     "name": "Number87 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number87",
       "small"
@@ -49601,7 +50085,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number88-small",
     "name": "Number88 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number88",
       "small"
@@ -49612,7 +50096,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number89-small",
     "name": "Number89 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number89",
       "small"
@@ -49623,7 +50107,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number8-small",
     "name": "Number8 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number8",
       "small"
@@ -49634,7 +50118,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number9",
     "name": "Number9",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number9"
     ],
@@ -49644,7 +50128,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number90-small",
     "name": "Number90 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number90",
       "small"
@@ -49655,7 +50139,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number91-small",
     "name": "Number91 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number91",
       "small"
@@ -49666,7 +50150,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number92-small",
     "name": "Number92 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number92",
       "small"
@@ -49677,7 +50161,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number93-small",
     "name": "Number93 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number93",
       "small"
@@ -49688,7 +50172,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number94-small",
     "name": "Number94 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number94",
       "small"
@@ -49699,7 +50183,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number95-small",
     "name": "Number95 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number95",
       "small"
@@ -49710,7 +50194,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number96-small",
     "name": "Number96 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number96",
       "small"
@@ -49721,7 +50205,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number97-small",
     "name": "Number97 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number97",
       "small"
@@ -49732,7 +50216,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number98-small",
     "name": "Number98 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number98",
       "small"
@@ -49743,7 +50227,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number99-small",
     "name": "Number99 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number99",
       "small"
@@ -49754,7 +50238,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-number9-small",
     "name": "Number9 Small",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "number9",
       "small"
@@ -49765,7 +50249,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-numbers",
     "name": "Numbers",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "numbers"
     ],
@@ -49817,7 +50301,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-octagon",
     "name": "Octagon",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "octagon"
     ],
@@ -49827,7 +50311,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-octagon-filled",
     "name": "Octagon Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "octagon",
       "filled"
@@ -49838,7 +50322,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-octagon-minus",
     "name": "Octagon Minus",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "octagon",
       "minus"
@@ -49849,7 +50333,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-octagon-minus2",
     "name": "Octagon Minus2",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "octagon",
       "minus2"
@@ -49860,7 +50344,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-octagon-minus-filled",
     "name": "Octagon Minus Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "octagon",
       "minus",
@@ -49872,7 +50356,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-octagon-off",
     "name": "Octagon Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "octagon",
       "off"
@@ -49883,7 +50367,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-octagon-plus",
     "name": "Octagon Plus",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "octagon",
       "plus"
@@ -49894,7 +50378,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-octagon-plus2",
     "name": "Octagon Plus2",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "octagon",
       "plus2"
@@ -49905,7 +50389,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-octagon-plus-filled",
     "name": "Octagon Plus Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "octagon",
       "plus",
@@ -50041,7 +50525,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-oval",
     "name": "Oval",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "oval"
     ],
@@ -50051,7 +50535,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-oval-filled",
     "name": "Oval Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "oval",
       "filled"
@@ -50062,7 +50546,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-oval-vertical",
     "name": "Oval Vertical",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "oval",
       "vertical"
@@ -50073,7 +50557,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-oval-vertical-filled",
     "name": "Oval Vertical Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "oval",
       "vertical",
@@ -50212,7 +50696,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-palette",
     "name": "Palette",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "palette"
     ],
@@ -50222,7 +50706,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-palette-filled",
     "name": "Palette Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "palette",
       "filled"
@@ -50233,7 +50717,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-palette-off",
     "name": "Palette Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "palette",
       "off"
@@ -50244,10 +50728,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-panorama-horizontal",
     "name": "Panorama Horizontal",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "panorama",
-      "horizontal"
+      "horizontal",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconPanoramaHorizontal"
   },
@@ -50255,11 +50741,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-panorama-horizontal-filled",
     "name": "Panorama Horizontal Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "panorama",
       "horizontal",
-      "filled"
+      "filled",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconPanoramaHorizontalFilled"
   },
@@ -50267,11 +50755,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-panorama-horizontal-off",
     "name": "Panorama Horizontal Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "panorama",
       "horizontal",
-      "off"
+      "off",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconPanoramaHorizontalOff"
   },
@@ -50279,10 +50769,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-panorama-vertical",
     "name": "Panorama Vertical",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "panorama",
-      "vertical"
+      "vertical",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconPanoramaVertical"
   },
@@ -50290,11 +50782,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-panorama-vertical-filled",
     "name": "Panorama Vertical Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "panorama",
       "vertical",
-      "filled"
+      "filled",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconPanoramaVerticalFilled"
   },
@@ -50302,11 +50796,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-panorama-vertical-off",
     "name": "Panorama Vertical Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "panorama",
       "vertical",
-      "off"
+      "off",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconPanoramaVerticalOff"
   },
@@ -50389,7 +50885,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-parking",
     "name": "Parking",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "parking"
     ],
@@ -50399,7 +50895,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-parking-circle",
     "name": "Parking Circle",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "parking",
       "circle"
@@ -50410,7 +50906,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-parking-circle-filled",
     "name": "Parking Circle Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "parking",
       "circle",
@@ -50422,7 +50918,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-parking-meter",
     "name": "Parking Meter",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "parking",
       "meter"
@@ -50433,7 +50929,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-parking-off",
     "name": "Parking Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "parking",
       "off"
@@ -50446,7 +50942,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "set": "tabler",
     "category": "security-identity",
     "tags": [
-      "password"
+      "password",
+      "security"
     ],
     "tablerName": "IconPassword"
   },
@@ -50457,7 +50954,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "category": "security-identity",
     "tags": [
       "password",
-      "fingerprint"
+      "fingerprint",
+      "security"
     ],
     "tablerName": "IconPasswordFingerprint"
   },
@@ -50469,7 +50967,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "tags": [
       "password",
       "mobile",
-      "phone"
+      "phone",
+      "security"
     ],
     "tablerName": "IconPasswordMobilePhone"
   },
@@ -50477,10 +50976,11 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-password-user",
     "name": "Password User",
     "set": "tabler",
-    "category": "people-social",
+    "category": "security-identity",
     "tags": [
       "password",
-      "user"
+      "user",
+      "security"
     ],
     "tablerName": "IconPasswordUser"
   },
@@ -50615,7 +51115,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-pencil-discount",
     "name": "Pencil Discount",
     "set": "tabler",
-    "category": "finance",
+    "category": "editor",
     "tags": [
       "pencil",
       "discount"
@@ -50626,7 +51126,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-pencil-dollar",
     "name": "Pencil Dollar",
     "set": "tabler",
-    "category": "finance",
+    "category": "editor",
     "tags": [
       "pencil",
       "dollar"
@@ -50637,10 +51137,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-pencil-down",
     "name": "Pencil Down",
     "set": "tabler",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "pencil",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconPencilDown"
   },
@@ -50670,7 +51172,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-pencil-heart",
     "name": "Pencil Heart",
     "set": "tabler",
-    "category": "people-social",
+    "category": "editor",
     "tags": [
       "pencil",
       "heart"
@@ -50703,7 +51205,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-pencil-pause",
     "name": "Pencil Pause",
     "set": "tabler",
-    "category": "media",
+    "category": "editor",
     "tags": [
       "pencil",
       "pause"
@@ -50714,7 +51216,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-pencil-pin",
     "name": "Pencil Pin",
     "set": "tabler",
-    "category": "maps-location",
+    "category": "editor",
     "tags": [
       "pencil",
       "pin"
@@ -50758,7 +51260,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-pencil-share",
     "name": "Pencil Share",
     "set": "tabler",
-    "category": "people-social",
+    "category": "editor",
     "tags": [
       "pencil",
       "share"
@@ -50769,7 +51271,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-pencil-star",
     "name": "Pencil Star",
     "set": "tabler",
-    "category": "people-social",
+    "category": "editor",
     "tags": [
       "pencil",
       "star"
@@ -50780,10 +51282,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-pencil-up",
     "name": "Pencil Up",
     "set": "tabler",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "pencil",
-      "up"
+      "up",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconPencilUp"
   },
@@ -51071,7 +51575,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-percentage",
     "name": "Percentage",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "finance",
     "tags": [
       "percentage"
     ],
@@ -51081,7 +51585,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-percentage0",
     "name": "Percentage0",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "finance",
     "tags": [
       "percentage0"
     ],
@@ -51091,7 +51595,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-percentage10",
     "name": "Percentage10",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "finance",
     "tags": [
       "percentage10"
     ],
@@ -51101,7 +51605,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-percentage100",
     "name": "Percentage100",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "finance",
     "tags": [
       "percentage100"
     ],
@@ -51111,7 +51615,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-percentage20",
     "name": "Percentage20",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "finance",
     "tags": [
       "percentage20"
     ],
@@ -51121,7 +51625,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-percentage25",
     "name": "Percentage25",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "finance",
     "tags": [
       "percentage25"
     ],
@@ -51131,7 +51635,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-percentage30",
     "name": "Percentage30",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "finance",
     "tags": [
       "percentage30"
     ],
@@ -51141,7 +51645,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-percentage33",
     "name": "Percentage33",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "finance",
     "tags": [
       "percentage33"
     ],
@@ -51151,7 +51655,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-percentage40",
     "name": "Percentage40",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "finance",
     "tags": [
       "percentage40"
     ],
@@ -51161,7 +51665,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-percentage50",
     "name": "Percentage50",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "finance",
     "tags": [
       "percentage50"
     ],
@@ -51171,7 +51675,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-percentage60",
     "name": "Percentage60",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "finance",
     "tags": [
       "percentage60"
     ],
@@ -51181,7 +51685,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-percentage66",
     "name": "Percentage66",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "finance",
     "tags": [
       "percentage66"
     ],
@@ -51191,7 +51695,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-percentage70",
     "name": "Percentage70",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "finance",
     "tags": [
       "percentage70"
     ],
@@ -51201,7 +51705,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-percentage75",
     "name": "Percentage75",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "finance",
     "tags": [
       "percentage75"
     ],
@@ -51211,7 +51715,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-percentage80",
     "name": "Percentage80",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "finance",
     "tags": [
       "percentage80"
     ],
@@ -51221,7 +51725,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-percentage90",
     "name": "Percentage90",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "finance",
     "tags": [
       "percentage90"
     ],
@@ -51407,7 +51911,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-phone-pause",
     "name": "Phone Pause",
     "set": "tabler",
-    "category": "media",
+    "category": "frontend-client",
     "tags": [
       "phone",
       "pause"
@@ -51621,7 +52125,9 @@ export const TABLER_ICONS: IconMeta[] = [
     "category": "media",
     "tags": [
       "photo",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconPhotoDown"
   },
@@ -51875,7 +52381,9 @@ export const TABLER_ICONS: IconMeta[] = [
     "category": "media",
     "tags": [
       "photo",
-      "up"
+      "up",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconPhotoUp"
   },
@@ -51935,7 +52443,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-picnic-table",
     "name": "Picnic Table",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "picnic",
       "table"
@@ -51946,11 +52454,10 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-picture-in-picture",
     "name": "Picture In Picture",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "picture",
-      "in",
-      "picture"
+      "in"
     ],
     "tablerName": "IconPictureInPicture"
   },
@@ -51958,11 +52465,10 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-picture-in-picture-filled",
     "name": "Picture In Picture Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "picture",
       "in",
-      "picture",
       "filled"
     ],
     "tablerName": "IconPictureInPictureFilled"
@@ -51971,11 +52477,10 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-picture-in-picture-off",
     "name": "Picture In Picture Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "picture",
       "in",
-      "picture",
       "off"
     ],
     "tablerName": "IconPictureInPictureOff"
@@ -51984,11 +52489,10 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-picture-in-picture-on",
     "name": "Picture In Picture On",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "picture",
       "in",
-      "picture",
       "on"
     ],
     "tablerName": "IconPictureInPictureOn"
@@ -51997,11 +52501,10 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-picture-in-picture-top",
     "name": "Picture In Picture Top",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "picture",
       "in",
-      "picture",
       "top"
     ],
     "tablerName": "IconPictureInPictureTop"
@@ -52010,11 +52513,10 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-picture-in-picture-top-filled",
     "name": "Picture In Picture Top Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "picture",
       "in",
-      "picture",
       "top",
       "filled"
     ],
@@ -52045,7 +52547,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-pig-money",
     "name": "Pig Money",
     "set": "tabler",
-    "category": "finance",
+    "category": "general-ui",
     "tags": [
       "pig",
       "money"
@@ -52077,10 +52579,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-pilcrow-left",
     "name": "Pilcrow Left",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "pilcrow",
-      "left"
+      "left",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconPilcrowLeft"
   },
@@ -52088,10 +52592,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-pilcrow-right",
     "name": "Pilcrow Right",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "pilcrow",
-      "right"
+      "right",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconPilcrowRight"
   },
@@ -52237,7 +52743,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-pipeline",
     "name": "Pipeline",
     "set": "tabler",
-    "category": "devops-cicd",
+    "category": "diagram-primitives",
     "tags": [
       "pipeline"
     ],
@@ -52289,7 +52795,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-plane",
     "name": "Plane",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "plane"
     ],
@@ -52299,7 +52805,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-plane-arrival",
     "name": "Plane Arrival",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "plane",
       "arrival"
@@ -52310,7 +52816,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-plane-arrival-filled",
     "name": "Plane Arrival Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "plane",
       "arrival",
@@ -52322,7 +52828,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-plane-departure",
     "name": "Plane Departure",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "plane",
       "departure"
@@ -52333,7 +52839,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-plane-departure-filled",
     "name": "Plane Departure Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "plane",
       "departure",
@@ -52345,7 +52851,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-plane-filled",
     "name": "Plane Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "plane",
       "filled"
@@ -52356,7 +52862,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-plane-inflight",
     "name": "Plane Inflight",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "plane",
       "inflight"
@@ -52367,7 +52873,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-plane-off",
     "name": "Plane Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "plane",
       "off"
@@ -52378,7 +52884,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-plane-tilt",
     "name": "Plane Tilt",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "plane",
       "tilt"
@@ -52389,7 +52895,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-plane-tilt-filled",
     "name": "Plane Tilt Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "plane",
       "tilt",
@@ -52401,7 +52907,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-planet",
     "name": "Planet",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "planet"
     ],
@@ -52411,7 +52917,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-planet-off",
     "name": "Planet Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "planet",
       "off"
@@ -53221,7 +53727,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-plug-connected",
     "name": "Plug Connected",
     "set": "tabler",
-    "category": "api-integration",
+    "category": "general-ui",
     "tags": [
       "plug",
       "connected"
@@ -53232,7 +53738,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-plug-connected-x",
     "name": "Plug Connected X",
     "set": "tabler",
-    "category": "api-integration",
+    "category": "general-ui",
     "tags": [
       "plug",
       "connected",
@@ -53319,7 +53825,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-png",
     "name": "Png",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "png"
     ],
@@ -53329,7 +53835,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-podium",
     "name": "Podium",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "compute",
     "tags": [
       "podium"
     ],
@@ -53339,7 +53845,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-podium-off",
     "name": "Podium Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "compute",
     "tags": [
       "podium",
       "off"
@@ -53382,7 +53888,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-pointer",
     "name": "Pointer",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "navigation",
     "tags": [
       "pointer"
     ],
@@ -53392,7 +53898,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-pointer2",
     "name": "Pointer2",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "navigation",
     "tags": [
       "pointer2"
     ],
@@ -53402,7 +53908,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-pointer-bolt",
     "name": "Pointer Bolt",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "navigation",
     "tags": [
       "pointer",
       "bolt"
@@ -53413,7 +53919,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-pointer-cancel",
     "name": "Pointer Cancel",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "navigation",
     "tags": [
       "pointer",
       "cancel"
@@ -53424,7 +53930,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-pointer-check",
     "name": "Pointer Check",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "navigation",
     "tags": [
       "pointer",
       "check"
@@ -53435,7 +53941,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-pointer-code",
     "name": "Pointer Code",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "navigation",
     "tags": [
       "pointer",
       "code"
@@ -53446,7 +53952,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-pointer-cog",
     "name": "Pointer Cog",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "navigation",
     "tags": [
       "pointer",
       "cog"
@@ -53457,7 +53963,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-pointer-collaboration",
     "name": "Pointer Collaboration",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "navigation",
     "tags": [
       "pointer",
       "collaboration"
@@ -53468,7 +53974,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-pointer-collaboration2",
     "name": "Pointer Collaboration2",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "navigation",
     "tags": [
       "pointer",
       "collaboration2"
@@ -53479,7 +53985,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-pointer-dollar",
     "name": "Pointer Dollar",
     "set": "tabler",
-    "category": "finance",
+    "category": "navigation",
     "tags": [
       "pointer",
       "dollar"
@@ -53493,7 +53999,9 @@ export const TABLER_ICONS: IconMeta[] = [
     "category": "navigation",
     "tags": [
       "pointer",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconPointerDown"
   },
@@ -53501,7 +54009,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-pointer-exclamation",
     "name": "Pointer Exclamation",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "navigation",
     "tags": [
       "pointer",
       "exclamation"
@@ -53512,7 +54020,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-pointer-filled",
     "name": "Pointer Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "navigation",
     "tags": [
       "pointer",
       "filled"
@@ -53523,7 +54031,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-pointer-heart",
     "name": "Pointer Heart",
     "set": "tabler",
-    "category": "people-social",
+    "category": "navigation",
     "tags": [
       "pointer",
       "heart"
@@ -53534,7 +54042,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-pointer-minus",
     "name": "Pointer Minus",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "navigation",
     "tags": [
       "pointer",
       "minus"
@@ -53545,7 +54053,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-pointer-off",
     "name": "Pointer Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "navigation",
     "tags": [
       "pointer",
       "off"
@@ -53556,7 +54064,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-pointer-pause",
     "name": "Pointer Pause",
     "set": "tabler",
-    "category": "media",
+    "category": "navigation",
     "tags": [
       "pointer",
       "pause"
@@ -53567,7 +54075,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-pointer-pin",
     "name": "Pointer Pin",
     "set": "tabler",
-    "category": "maps-location",
+    "category": "navigation",
     "tags": [
       "pointer",
       "pin"
@@ -53578,7 +54086,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-pointer-plus",
     "name": "Pointer Plus",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "navigation",
     "tags": [
       "pointer",
       "plus"
@@ -53589,7 +54097,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-pointer-question",
     "name": "Pointer Question",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "navigation",
     "tags": [
       "pointer",
       "question"
@@ -53600,7 +54108,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-pointer-search",
     "name": "Pointer Search",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "navigation",
     "tags": [
       "pointer",
       "search"
@@ -53611,7 +54119,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-pointer-share",
     "name": "Pointer Share",
     "set": "tabler",
-    "category": "people-social",
+    "category": "navigation",
     "tags": [
       "pointer",
       "share"
@@ -53622,7 +54130,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-pointer-star",
     "name": "Pointer Star",
     "set": "tabler",
-    "category": "people-social",
+    "category": "navigation",
     "tags": [
       "pointer",
       "star"
@@ -53636,7 +54144,9 @@ export const TABLER_ICONS: IconMeta[] = [
     "category": "navigation",
     "tags": [
       "pointer",
-      "up"
+      "up",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconPointerUp"
   },
@@ -53644,7 +54154,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-pointer-x",
     "name": "Pointer X",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "navigation",
     "tags": [
       "pointer",
       "x"
@@ -53708,7 +54218,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-polygon",
     "name": "Polygon",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "polygon"
     ],
@@ -53718,7 +54228,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-polygon-off",
     "name": "Polygon Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "polygon",
       "off"
@@ -53750,7 +54260,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-pool",
     "name": "Pool",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "pool"
     ],
@@ -53760,7 +54270,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-pool-off",
     "name": "Pool Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "pool",
       "off"
@@ -53791,7 +54301,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-premium-rights",
     "name": "Premium Rights",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "premium",
       "rights"
@@ -53822,7 +54332,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-presentation-analytics",
     "name": "Presentation Analytics",
     "set": "tabler",
-    "category": "monitoring-logging",
+    "category": "general-ui",
     "tags": [
       "presentation",
       "analytics"
@@ -53833,7 +54343,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-presentation-analytics-filled",
     "name": "Presentation Analytics Filled",
     "set": "tabler",
-    "category": "monitoring-logging",
+    "category": "general-ui",
     "tags": [
       "presentation",
       "analytics",
@@ -53941,7 +54451,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-progress",
     "name": "Progress",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "progress"
     ],
@@ -53951,7 +54461,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-progress-alert",
     "name": "Progress Alert",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "progress",
       "alert"
@@ -53962,7 +54472,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-progress-bolt",
     "name": "Progress Bolt",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "progress",
       "bolt"
@@ -53973,7 +54483,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-progress-check",
     "name": "Progress Check",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "progress",
       "check"
@@ -53984,10 +54494,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-progress-down",
     "name": "Progress Down",
     "set": "tabler",
-    "category": "navigation",
+    "category": "monitoring-logging",
     "tags": [
       "progress",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconProgressDown"
   },
@@ -53995,7 +54507,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-progress-help",
     "name": "Progress Help",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "progress",
       "help"
@@ -54006,7 +54518,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-progress-x",
     "name": "Progress X",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "monitoring-logging",
     "tags": [
       "progress",
       "x"
@@ -54058,7 +54570,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-protocol",
     "name": "Protocol",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "networking",
     "tags": [
       "protocol"
     ],
@@ -54185,7 +54697,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-queue-pop-in",
     "name": "Queue Pop In",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "queue",
       "pop",
@@ -54197,7 +54709,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-queue-pop-out",
     "name": "Queue Pop Out",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "queue",
       "pop",
@@ -54209,7 +54721,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-quote",
     "name": "Quote",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "quote"
     ],
@@ -54219,7 +54731,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-quote-filled",
     "name": "Quote Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "quote",
       "filled"
@@ -54230,7 +54742,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-quote-off",
     "name": "Quote Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "quote",
       "off"
@@ -54241,7 +54753,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-quote-open",
     "name": "Quote Open",
     "set": "tabler",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "quote",
       "open"
@@ -54252,7 +54764,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-quotes",
     "name": "Quotes",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "quotes"
     ],
@@ -54357,11 +54869,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-radius-bottom-left",
     "name": "Radius Bottom Left",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "radius",
       "bottom",
-      "left"
+      "left",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconRadiusBottomLeft"
   },
@@ -54369,11 +54883,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-radius-bottom-right",
     "name": "Radius Bottom Right",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "radius",
       "bottom",
-      "right"
+      "right",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconRadiusBottomRight"
   },
@@ -54381,11 +54897,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-radius-top-left",
     "name": "Radius Top Left",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "radius",
       "top",
-      "left"
+      "left",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconRadiusTopLeft"
   },
@@ -54393,11 +54911,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-radius-top-right",
     "name": "Radius Top Right",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "radius",
       "top",
-      "right"
+      "right",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconRadiusTopRight"
   },
@@ -54748,7 +55268,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-rectangle",
     "name": "Rectangle",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "rectangle"
     ],
@@ -54758,7 +55278,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-rectangle-filled",
     "name": "Rectangle Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "rectangle",
       "filled"
@@ -54769,7 +55289,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-rectangle-rounded-bottom",
     "name": "Rectangle Rounded Bottom",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "rectangle",
       "rounded",
@@ -54781,7 +55301,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-rectangle-rounded-top",
     "name": "Rectangle Rounded Top",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "rectangle",
       "rounded",
@@ -54793,7 +55313,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-rectangle-vertical",
     "name": "Rectangle Vertical",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "rectangle",
       "vertical"
@@ -54804,7 +55324,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-rectangle-vertical-filled",
     "name": "Rectangle Vertical Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "rectangle",
       "vertical",
@@ -54874,7 +55394,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "set": "tabler",
     "category": "general-ui",
     "tags": [
-      "refresh"
+      "refresh",
+      "reload"
     ],
     "tablerName": "IconRefresh"
   },
@@ -54885,7 +55406,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "category": "general-ui",
     "tags": [
       "refresh",
-      "alert"
+      "alert",
+      "reload"
     ],
     "tablerName": "IconRefreshAlert"
   },
@@ -54896,7 +55418,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "category": "general-ui",
     "tags": [
       "refresh",
-      "dot"
+      "dot",
+      "reload"
     ],
     "tablerName": "IconRefreshDot"
   },
@@ -54907,7 +55430,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "category": "general-ui",
     "tags": [
       "refresh",
-      "off"
+      "off",
+      "reload"
     ],
     "tablerName": "IconRefreshOff"
   },
@@ -54961,8 +55485,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "tags": [
       "relation",
       "many",
-      "to",
-      "many"
+      "to"
     ],
     "tablerName": "IconRelationManyToMany"
   },
@@ -54975,7 +55498,6 @@ export const TABLER_ICONS: IconMeta[] = [
       "relation",
       "many",
       "to",
-      "many",
       "filled"
     ],
     "tablerName": "IconRelationManyToManyFilled"
@@ -55015,8 +55537,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "tags": [
       "relation",
       "one",
-      "to",
-      "one"
+      "to"
     ],
     "tablerName": "IconRelationOneToOne"
   },
@@ -55029,7 +55550,6 @@ export const TABLER_ICONS: IconMeta[] = [
       "relation",
       "one",
       "to",
-      "one",
       "filled"
     ],
     "tablerName": "IconRelationOneToOneFilled"
@@ -55040,7 +55560,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "set": "tabler",
     "category": "general-ui",
     "tags": [
-      "reload"
+      "reload",
+      "refresh"
     ],
     "tablerName": "IconReload"
   },
@@ -55090,7 +55611,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-replace",
     "name": "Replace",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "replace"
     ],
@@ -55100,7 +55621,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-replace-filled",
     "name": "Replace Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "replace",
       "filled"
@@ -55111,7 +55632,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-replace-off",
     "name": "Replace Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "replace",
       "off"
@@ -55122,7 +55643,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-replace-user",
     "name": "Replace User",
     "set": "tabler",
-    "category": "people-social",
+    "category": "editor",
     "tags": [
       "replace",
       "user"
@@ -55177,7 +55698,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-report-money",
     "name": "Report Money",
     "set": "tabler",
-    "category": "finance",
+    "category": "monitoring-logging",
     "tags": [
       "report",
       "money"
@@ -55188,7 +55709,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-report-money-filled",
     "name": "Report Money Filled",
     "set": "tabler",
-    "category": "finance",
+    "category": "monitoring-logging",
     "tags": [
       "report",
       "money",
@@ -55233,7 +55754,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-resize",
     "name": "Resize",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "resize"
     ],
@@ -55243,7 +55764,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-restore",
     "name": "Restore",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "api-integration",
     "tags": [
       "restore"
     ],
@@ -55253,7 +55774,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-rewind-backward10",
     "name": "Rewind Backward10",
     "set": "tabler",
-    "category": "navigation",
+    "category": "media",
     "tags": [
       "rewind",
       "backward10"
@@ -55264,7 +55785,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-rewind-backward15",
     "name": "Rewind Backward15",
     "set": "tabler",
-    "category": "navigation",
+    "category": "media",
     "tags": [
       "rewind",
       "backward15"
@@ -55275,7 +55796,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-rewind-backward20",
     "name": "Rewind Backward20",
     "set": "tabler",
-    "category": "navigation",
+    "category": "media",
     "tags": [
       "rewind",
       "backward20"
@@ -55286,7 +55807,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-rewind-backward30",
     "name": "Rewind Backward30",
     "set": "tabler",
-    "category": "navigation",
+    "category": "media",
     "tags": [
       "rewind",
       "backward30"
@@ -55297,7 +55818,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-rewind-backward40",
     "name": "Rewind Backward40",
     "set": "tabler",
-    "category": "navigation",
+    "category": "media",
     "tags": [
       "rewind",
       "backward40"
@@ -55308,7 +55829,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-rewind-backward5",
     "name": "Rewind Backward5",
     "set": "tabler",
-    "category": "navigation",
+    "category": "media",
     "tags": [
       "rewind",
       "backward5"
@@ -55319,7 +55840,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-rewind-backward50",
     "name": "Rewind Backward50",
     "set": "tabler",
-    "category": "navigation",
+    "category": "media",
     "tags": [
       "rewind",
       "backward50"
@@ -55330,7 +55851,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-rewind-backward60",
     "name": "Rewind Backward60",
     "set": "tabler",
-    "category": "navigation",
+    "category": "media",
     "tags": [
       "rewind",
       "backward60"
@@ -55341,7 +55862,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-rewind-forward10",
     "name": "Rewind Forward10",
     "set": "tabler",
-    "category": "navigation",
+    "category": "media",
     "tags": [
       "rewind",
       "forward10"
@@ -55352,7 +55873,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-rewind-forward15",
     "name": "Rewind Forward15",
     "set": "tabler",
-    "category": "navigation",
+    "category": "media",
     "tags": [
       "rewind",
       "forward15"
@@ -55363,7 +55884,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-rewind-forward20",
     "name": "Rewind Forward20",
     "set": "tabler",
-    "category": "navigation",
+    "category": "media",
     "tags": [
       "rewind",
       "forward20"
@@ -55374,7 +55895,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-rewind-forward30",
     "name": "Rewind Forward30",
     "set": "tabler",
-    "category": "navigation",
+    "category": "media",
     "tags": [
       "rewind",
       "forward30"
@@ -55385,7 +55906,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-rewind-forward40",
     "name": "Rewind Forward40",
     "set": "tabler",
-    "category": "navigation",
+    "category": "media",
     "tags": [
       "rewind",
       "forward40"
@@ -55396,7 +55917,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-rewind-forward5",
     "name": "Rewind Forward5",
     "set": "tabler",
-    "category": "navigation",
+    "category": "media",
     "tags": [
       "rewind",
       "forward5"
@@ -55407,7 +55928,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-rewind-forward50",
     "name": "Rewind Forward50",
     "set": "tabler",
-    "category": "navigation",
+    "category": "media",
     "tags": [
       "rewind",
       "forward50"
@@ -55418,7 +55939,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-rewind-forward60",
     "name": "Rewind Forward60",
     "set": "tabler",
-    "category": "navigation",
+    "category": "media",
     "tags": [
       "rewind",
       "forward60"
@@ -55440,7 +55961,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-rings",
     "name": "Rings",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "rings"
     ],
@@ -55460,10 +55981,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-ripple-down",
     "name": "Ripple Down",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "ripple",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconRippleDown"
   },
@@ -55482,10 +56005,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-ripple-up",
     "name": "Ripple Up",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "ripple",
-      "up"
+      "up",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconRippleUp"
   },
@@ -55493,7 +56018,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-road",
     "name": "Road",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "road"
     ],
@@ -55503,7 +56028,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-road-off",
     "name": "Road Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "road",
       "off"
@@ -55514,7 +56039,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-road-sign",
     "name": "Road Sign",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "road",
       "sign"
@@ -55525,7 +56050,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-robot",
     "name": "Robot",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "ai-ml",
     "tags": [
       "robot"
     ],
@@ -55535,7 +56060,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-robot-face",
     "name": "Robot Face",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "ai-ml",
     "tags": [
       "robot",
       "face"
@@ -55546,7 +56071,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-robot-off",
     "name": "Robot Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "ai-ml",
     "tags": [
       "robot",
       "off"
@@ -55642,7 +56167,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-rosette-discount",
     "name": "Rosette Discount",
     "set": "tabler",
-    "category": "finance",
+    "category": "general-ui",
     "tags": [
       "rosette",
       "discount"
@@ -55653,7 +56178,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-rosette-discount-check",
     "name": "Rosette Discount Check",
     "set": "tabler",
-    "category": "finance",
+    "category": "general-ui",
     "tags": [
       "rosette",
       "discount",
@@ -55665,7 +56190,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-rosette-discount-check-filled",
     "name": "Rosette Discount Check Filled",
     "set": "tabler",
-    "category": "finance",
+    "category": "general-ui",
     "tags": [
       "rosette",
       "discount",
@@ -55678,7 +56203,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-rosette-discount-check-off",
     "name": "Rosette Discount Check Off",
     "set": "tabler",
-    "category": "finance",
+    "category": "general-ui",
     "tags": [
       "rosette",
       "discount",
@@ -55691,7 +56216,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-rosette-discount-filled",
     "name": "Rosette Discount Filled",
     "set": "tabler",
-    "category": "finance",
+    "category": "general-ui",
     "tags": [
       "rosette",
       "discount",
@@ -55703,7 +56228,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-rosette-discount-off",
     "name": "Rosette Discount Off",
     "set": "tabler",
-    "category": "finance",
+    "category": "general-ui",
     "tags": [
       "rosette",
       "discount",
@@ -55836,9 +56361,11 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-rotate",
     "name": "Rotate",
     "set": "tabler",
-    "category": "editor",
+    "category": "navigation",
     "tags": [
-      "rotate"
+      "rotate",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconRotate"
   },
@@ -55846,9 +56373,11 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-rotate2",
     "name": "Rotate2",
     "set": "tabler",
-    "category": "editor",
+    "category": "navigation",
     "tags": [
-      "rotate2"
+      "rotate2",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconRotate2"
   },
@@ -55856,9 +56385,11 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-rotate360",
     "name": "Rotate360",
     "set": "tabler",
-    "category": "editor",
+    "category": "navigation",
     "tags": [
-      "rotate360"
+      "rotate360",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconRotate360"
   },
@@ -55866,9 +56397,11 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-rotate3d",
     "name": "Rotate3d",
     "set": "tabler",
-    "category": "editor",
+    "category": "navigation",
     "tags": [
-      "rotate3d"
+      "rotate3d",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconRotate3d"
   },
@@ -55876,10 +56409,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-rotate-clockwise",
     "name": "Rotate Clockwise",
     "set": "tabler",
-    "category": "editor",
+    "category": "navigation",
     "tags": [
       "rotate",
-      "clockwise"
+      "clockwise",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconRotateClockwise"
   },
@@ -55887,10 +56422,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-rotate-clockwise2",
     "name": "Rotate Clockwise2",
     "set": "tabler",
-    "category": "editor",
+    "category": "navigation",
     "tags": [
       "rotate",
-      "clockwise2"
+      "clockwise2",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconRotateClockwise2"
   },
@@ -55898,10 +56435,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-rotate-dot",
     "name": "Rotate Dot",
     "set": "tabler",
-    "category": "editor",
+    "category": "navigation",
     "tags": [
       "rotate",
-      "dot"
+      "dot",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconRotateDot"
   },
@@ -55909,10 +56448,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-rotate-rectangle",
     "name": "Rotate Rectangle",
     "set": "tabler",
-    "category": "editor",
+    "category": "navigation",
     "tags": [
       "rotate",
-      "rectangle"
+      "rectangle",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconRotateRectangle"
   },
@@ -55950,11 +56491,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-route-alt-left",
     "name": "Route Alt Left",
     "set": "tabler",
-    "category": "navigation",
+    "category": "maps-location",
     "tags": [
       "route",
       "alt",
-      "left"
+      "left",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconRouteAltLeft"
   },
@@ -55962,11 +56505,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-route-alt-right",
     "name": "Route Alt Right",
     "set": "tabler",
-    "category": "navigation",
+    "category": "maps-location",
     "tags": [
       "route",
       "alt",
-      "right"
+      "right",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconRouteAltRight"
   },
@@ -56061,7 +56606,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-row-insert-bottom",
     "name": "Row Insert Bottom",
     "set": "tabler",
-    "category": "editor",
+    "category": "frontend-client",
     "tags": [
       "row",
       "insert",
@@ -56073,7 +56618,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-row-insert-top",
     "name": "Row Insert Top",
     "set": "tabler",
-    "category": "editor",
+    "category": "frontend-client",
     "tags": [
       "row",
       "insert",
@@ -56085,7 +56630,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-row-remove",
     "name": "Row Remove",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "row",
       "remove"
@@ -56096,7 +56641,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-rss",
     "name": "Rss",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "messaging-queue",
     "tags": [
       "rss"
     ],
@@ -56234,11 +56779,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-s-turn-down",
     "name": "S Turn Down",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "s",
       "turn",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconSTurnDown"
   },
@@ -56246,11 +56793,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-s-turn-left",
     "name": "S Turn Left",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "s",
       "turn",
-      "left"
+      "left",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconSTurnLeft"
   },
@@ -56258,11 +56807,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-s-turn-right",
     "name": "S Turn Right",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "s",
       "turn",
-      "right"
+      "right",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconSTurnRight"
   },
@@ -56270,11 +56821,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-s-turn-up",
     "name": "S Turn Up",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "s",
       "turn",
-      "up"
+      "up",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconSTurnUp"
   },
@@ -56396,7 +56949,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-scale",
     "name": "Scale",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "scale"
     ],
@@ -56406,7 +56959,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-scale-filled",
     "name": "Scale Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "scale",
       "filled"
@@ -56417,7 +56970,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-scale-off",
     "name": "Scale Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "scale",
       "off"
@@ -56428,7 +56981,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-scale-outline",
     "name": "Scale Outline",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "scale",
       "outline"
@@ -56439,7 +56992,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-scale-outline-off",
     "name": "Scale Outline Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "scale",
       "outline",
@@ -56451,7 +57004,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-scan",
     "name": "Scan",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "devops-cicd",
     "tags": [
       "scan"
     ],
@@ -56461,7 +57014,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-scan-cube",
     "name": "Scan Cube",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "devops-cicd",
     "tags": [
       "scan",
       "cube"
@@ -56472,7 +57025,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-scan-eye",
     "name": "Scan Eye",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "devops-cicd",
     "tags": [
       "scan",
       "eye"
@@ -56483,7 +57036,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-scan-letter-a",
     "name": "Scan Letter A",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "devops-cicd",
     "tags": [
       "scan",
       "letter",
@@ -56495,7 +57048,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-scan-letter-t",
     "name": "Scan Letter T",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "devops-cicd",
     "tags": [
       "scan",
       "letter",
@@ -56507,7 +57060,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-scan-position",
     "name": "Scan Position",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "devops-cicd",
     "tags": [
       "scan",
       "position"
@@ -56518,7 +57071,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-scan-traces",
     "name": "Scan Traces",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "devops-cicd",
     "tags": [
       "scan",
       "traces"
@@ -56529,7 +57082,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-schema",
     "name": "Schema",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "schema"
     ],
@@ -56539,7 +57092,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-schema-off",
     "name": "Schema Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "storage-database",
     "tags": [
       "schema",
       "off"
@@ -56550,7 +57103,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-school",
     "name": "School",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "school"
     ],
@@ -56560,7 +57113,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-school-bell",
     "name": "School Bell",
     "set": "tabler",
-    "category": "messaging-queue",
+    "category": "maps-location",
     "tags": [
       "school",
       "bell"
@@ -56571,7 +57124,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-school-filled",
     "name": "School Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "school",
       "filled"
@@ -56582,7 +57135,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-school-off",
     "name": "School Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "school",
       "off"
@@ -56742,7 +57295,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-scuba-diving",
     "name": "Scuba Diving",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "scuba",
       "diving"
@@ -56753,7 +57306,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-scuba-diving-tank",
     "name": "Scuba Diving Tank",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "scuba",
       "diving",
@@ -56765,7 +57318,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-scuba-diving-tank-filled",
     "name": "Scuba Diving Tank Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "scuba",
       "diving",
@@ -56778,7 +57331,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-scuba-mask",
     "name": "Scuba Mask",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "scuba",
       "mask"
@@ -56789,7 +57342,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-scuba-mask-off",
     "name": "Scuba Mask Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "scuba",
       "mask",
@@ -56801,7 +57354,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-sdk",
     "name": "Sdk",
     "set": "tabler",
-    "category": "storage-database",
+    "category": "api-integration",
     "tags": [
       "sdk"
     ],
@@ -56843,7 +57396,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-section",
     "name": "Section",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "section"
     ],
@@ -56853,7 +57406,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-section-filled",
     "name": "Section Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "section",
       "filled"
@@ -56864,7 +57417,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-section-sign",
     "name": "Section Sign",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "section",
       "sign"
@@ -56949,7 +57502,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-select",
     "name": "Select",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "navigation",
     "tags": [
       "select"
     ],
@@ -56959,7 +57512,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-select-all",
     "name": "Select All",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "navigation",
     "tags": [
       "select",
       "all"
@@ -56970,7 +57523,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-selector",
     "name": "Selector",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "navigation",
     "tags": [
       "selector"
     ],
@@ -57148,7 +57701,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-settings",
     "name": "Settings",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "settings"
     ],
@@ -57158,7 +57711,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-settings2",
     "name": "Settings2",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "settings2"
     ],
@@ -57168,7 +57721,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-settings-ai",
     "name": "Settings Ai",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "settings",
       "ai"
@@ -57179,7 +57732,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-settings-automation",
     "name": "Settings Automation",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "settings",
       "automation"
@@ -57190,7 +57743,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-settings-bolt",
     "name": "Settings Bolt",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "settings",
       "bolt"
@@ -57201,7 +57754,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-settings-cancel",
     "name": "Settings Cancel",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "settings",
       "cancel"
@@ -57212,7 +57765,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-settings-check",
     "name": "Settings Check",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "settings",
       "check"
@@ -57223,7 +57776,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-settings-code",
     "name": "Settings Code",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "settings",
       "code"
@@ -57234,7 +57787,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-settings-cog",
     "name": "Settings Cog",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "settings",
       "cog"
@@ -57245,7 +57798,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-settings-dollar",
     "name": "Settings Dollar",
     "set": "tabler",
-    "category": "finance",
+    "category": "frontend-client",
     "tags": [
       "settings",
       "dollar"
@@ -57256,10 +57809,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-settings-down",
     "name": "Settings Down",
     "set": "tabler",
-    "category": "navigation",
+    "category": "frontend-client",
     "tags": [
       "settings",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconSettingsDown"
   },
@@ -57267,7 +57822,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-settings-exclamation",
     "name": "Settings Exclamation",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "settings",
       "exclamation"
@@ -57278,7 +57833,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-settings-filled",
     "name": "Settings Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "settings",
       "filled"
@@ -57289,7 +57844,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-settings-heart",
     "name": "Settings Heart",
     "set": "tabler",
-    "category": "people-social",
+    "category": "frontend-client",
     "tags": [
       "settings",
       "heart"
@@ -57300,7 +57855,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-settings-minus",
     "name": "Settings Minus",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "settings",
       "minus"
@@ -57311,7 +57866,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-settings-off",
     "name": "Settings Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "settings",
       "off"
@@ -57322,7 +57877,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-settings-pause",
     "name": "Settings Pause",
     "set": "tabler",
-    "category": "media",
+    "category": "frontend-client",
     "tags": [
       "settings",
       "pause"
@@ -57333,7 +57888,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-settings-pin",
     "name": "Settings Pin",
     "set": "tabler",
-    "category": "maps-location",
+    "category": "frontend-client",
     "tags": [
       "settings",
       "pin"
@@ -57344,7 +57899,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-settings-plus",
     "name": "Settings Plus",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "settings",
       "plus"
@@ -57355,7 +57910,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-settings-question",
     "name": "Settings Question",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "settings",
       "question"
@@ -57366,7 +57921,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-settings-search",
     "name": "Settings Search",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "settings",
       "search"
@@ -57377,7 +57932,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-settings-share",
     "name": "Settings Share",
     "set": "tabler",
-    "category": "people-social",
+    "category": "frontend-client",
     "tags": [
       "settings",
       "share"
@@ -57388,7 +57943,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-settings-spark",
     "name": "Settings Spark",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "settings",
       "spark"
@@ -57399,7 +57954,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-settings-star",
     "name": "Settings Star",
     "set": "tabler",
-    "category": "people-social",
+    "category": "frontend-client",
     "tags": [
       "settings",
       "star"
@@ -57410,10 +57965,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-settings-up",
     "name": "Settings Up",
     "set": "tabler",
-    "category": "navigation",
+    "category": "frontend-client",
     "tags": [
       "settings",
-      "up"
+      "up",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconSettingsUp"
   },
@@ -57421,7 +57978,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-settings-x",
     "name": "Settings X",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "settings",
       "x"
@@ -57558,7 +58115,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "set": "tabler",
     "category": "security-identity",
     "tags": [
-      "shield"
+      "shield",
+      "security"
     ],
     "tablerName": "IconShield"
   },
@@ -57569,7 +58127,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "category": "security-identity",
     "tags": [
       "shield",
-      "bolt"
+      "bolt",
+      "security"
     ],
     "tablerName": "IconShieldBolt"
   },
@@ -57580,7 +58139,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "category": "security-identity",
     "tags": [
       "shield",
-      "cancel"
+      "cancel",
+      "security"
     ],
     "tablerName": "IconShieldCancel"
   },
@@ -57591,7 +58151,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "category": "security-identity",
     "tags": [
       "shield",
-      "check"
+      "check",
+      "security"
     ],
     "tablerName": "IconShieldCheck"
   },
@@ -57603,7 +58164,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "tags": [
       "shield",
       "check",
-      "filled"
+      "filled",
+      "security"
     ],
     "tablerName": "IconShieldCheckFilled"
   },
@@ -57614,7 +58176,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "category": "security-identity",
     "tags": [
       "shield",
-      "checkered"
+      "checkered",
+      "security"
     ],
     "tablerName": "IconShieldCheckered"
   },
@@ -57626,7 +58189,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "tags": [
       "shield",
       "checkered",
-      "filled"
+      "filled",
+      "security"
     ],
     "tablerName": "IconShieldCheckeredFilled"
   },
@@ -57634,10 +58198,11 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-shield-chevron",
     "name": "Shield Chevron",
     "set": "tabler",
-    "category": "navigation",
+    "category": "security-identity",
     "tags": [
       "shield",
-      "chevron"
+      "chevron",
+      "security"
     ],
     "tablerName": "IconShieldChevron"
   },
@@ -57648,7 +58213,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "category": "security-identity",
     "tags": [
       "shield",
-      "code"
+      "code",
+      "security"
     ],
     "tablerName": "IconShieldCode"
   },
@@ -57659,7 +58225,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "category": "security-identity",
     "tags": [
       "shield",
-      "cog"
+      "cog",
+      "security"
     ],
     "tablerName": "IconShieldCog"
   },
@@ -57667,10 +58234,11 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-shield-dollar",
     "name": "Shield Dollar",
     "set": "tabler",
-    "category": "finance",
+    "category": "security-identity",
     "tags": [
       "shield",
-      "dollar"
+      "dollar",
+      "security"
     ],
     "tablerName": "IconShieldDollar"
   },
@@ -57678,10 +58246,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-shield-down",
     "name": "Shield Down",
     "set": "tabler",
-    "category": "navigation",
+    "category": "security-identity",
     "tags": [
       "shield",
-      "down"
+      "down",
+      "arrow",
+      "direction",
+      "security"
     ],
     "tablerName": "IconShieldDown"
   },
@@ -57692,7 +58263,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "category": "security-identity",
     "tags": [
       "shield",
-      "exclamation"
+      "exclamation",
+      "security"
     ],
     "tablerName": "IconShieldExclamation"
   },
@@ -57703,7 +58275,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "category": "security-identity",
     "tags": [
       "shield",
-      "filled"
+      "filled",
+      "security"
     ],
     "tablerName": "IconShieldFilled"
   },
@@ -57714,7 +58287,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "category": "security-identity",
     "tags": [
       "shield",
-      "half"
+      "half",
+      "security"
     ],
     "tablerName": "IconShieldHalf"
   },
@@ -57726,7 +58300,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "tags": [
       "shield",
       "half",
-      "filled"
+      "filled",
+      "security"
     ],
     "tablerName": "IconShieldHalfFilled"
   },
@@ -57734,10 +58309,11 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-shield-heart",
     "name": "Shield Heart",
     "set": "tabler",
-    "category": "people-social",
+    "category": "security-identity",
     "tags": [
       "shield",
-      "heart"
+      "heart",
+      "security"
     ],
     "tablerName": "IconShieldHeart"
   },
@@ -57748,7 +58324,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "category": "security-identity",
     "tags": [
       "shield",
-      "lock"
+      "lock",
+      "security"
     ],
     "tablerName": "IconShieldLock"
   },
@@ -57760,7 +58337,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "tags": [
       "shield",
       "lock",
-      "filled"
+      "filled",
+      "security"
     ],
     "tablerName": "IconShieldLockFilled"
   },
@@ -57771,7 +58349,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "category": "security-identity",
     "tags": [
       "shield",
-      "minus"
+      "minus",
+      "security"
     ],
     "tablerName": "IconShieldMinus"
   },
@@ -57782,7 +58361,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "category": "security-identity",
     "tags": [
       "shield",
-      "off"
+      "off",
+      "security"
     ],
     "tablerName": "IconShieldOff"
   },
@@ -57790,10 +58370,11 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-shield-pause",
     "name": "Shield Pause",
     "set": "tabler",
-    "category": "media",
+    "category": "security-identity",
     "tags": [
       "shield",
-      "pause"
+      "pause",
+      "security"
     ],
     "tablerName": "IconShieldPause"
   },
@@ -57801,10 +58382,11 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-shield-pin",
     "name": "Shield Pin",
     "set": "tabler",
-    "category": "maps-location",
+    "category": "security-identity",
     "tags": [
       "shield",
-      "pin"
+      "pin",
+      "security"
     ],
     "tablerName": "IconShieldPin"
   },
@@ -57815,7 +58397,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "category": "security-identity",
     "tags": [
       "shield",
-      "plus"
+      "plus",
+      "security"
     ],
     "tablerName": "IconShieldPlus"
   },
@@ -57826,7 +58409,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "category": "security-identity",
     "tags": [
       "shield",
-      "question"
+      "question",
+      "security"
     ],
     "tablerName": "IconShieldQuestion"
   },
@@ -57837,7 +58421,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "category": "security-identity",
     "tags": [
       "shield",
-      "search"
+      "search",
+      "security"
     ],
     "tablerName": "IconShieldSearch"
   },
@@ -57845,10 +58430,11 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-shield-share",
     "name": "Shield Share",
     "set": "tabler",
-    "category": "people-social",
+    "category": "security-identity",
     "tags": [
       "shield",
-      "share"
+      "share",
+      "security"
     ],
     "tablerName": "IconShieldShare"
   },
@@ -57856,10 +58442,11 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-shield-star",
     "name": "Shield Star",
     "set": "tabler",
-    "category": "people-social",
+    "category": "security-identity",
     "tags": [
       "shield",
-      "star"
+      "star",
+      "security"
     ],
     "tablerName": "IconShieldStar"
   },
@@ -57867,10 +58454,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-shield-up",
     "name": "Shield Up",
     "set": "tabler",
-    "category": "navigation",
+    "category": "security-identity",
     "tags": [
       "shield",
-      "up"
+      "up",
+      "arrow",
+      "direction",
+      "security"
     ],
     "tablerName": "IconShieldUp"
   },
@@ -57881,7 +58471,8 @@ export const TABLER_ICONS: IconMeta[] = [
     "category": "security-identity",
     "tags": [
       "shield",
-      "x"
+      "x",
+      "security"
     ],
     "tablerName": "IconShieldX"
   },
@@ -57889,7 +58480,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-ship",
     "name": "Ship",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "ship"
     ],
@@ -57899,7 +58490,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-ship-off",
     "name": "Ship Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "ship",
       "off"
@@ -58033,7 +58624,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-shopping-bag-heart",
     "name": "Shopping Bag Heart",
     "set": "tabler",
-    "category": "people-social",
+    "category": "finance",
     "tags": [
       "shopping",
       "bag",
@@ -58200,11 +58791,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-shopping-cart-down",
     "name": "Shopping Cart Down",
     "set": "tabler",
-    "category": "navigation",
+    "category": "finance",
     "tags": [
       "shopping",
       "cart",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconShoppingCartDown"
   },
@@ -58236,7 +58829,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-shopping-cart-heart",
     "name": "Shopping Cart Heart",
     "set": "tabler",
-    "category": "people-social",
+    "category": "finance",
     "tags": [
       "shopping",
       "cart",
@@ -58272,7 +58865,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-shopping-cart-pause",
     "name": "Shopping Cart Pause",
     "set": "tabler",
-    "category": "media",
+    "category": "finance",
     "tags": [
       "shopping",
       "cart",
@@ -58284,7 +58877,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-shopping-cart-pin",
     "name": "Shopping Cart Pin",
     "set": "tabler",
-    "category": "maps-location",
+    "category": "finance",
     "tags": [
       "shopping",
       "cart",
@@ -58332,7 +58925,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-shopping-cart-share",
     "name": "Shopping Cart Share",
     "set": "tabler",
-    "category": "people-social",
+    "category": "finance",
     "tags": [
       "shopping",
       "cart",
@@ -58344,7 +58937,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-shopping-cart-star",
     "name": "Shopping Cart Star",
     "set": "tabler",
-    "category": "people-social",
+    "category": "finance",
     "tags": [
       "shopping",
       "cart",
@@ -58356,11 +58949,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-shopping-cart-up",
     "name": "Shopping Cart Up",
     "set": "tabler",
-    "category": "navigation",
+    "category": "finance",
     "tags": [
       "shopping",
       "cart",
-      "up"
+      "up",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconShoppingCartUp"
   },
@@ -58411,10 +59006,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-sign-left",
     "name": "Sign Left",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "sign",
-      "left"
+      "left",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconSignLeft"
   },
@@ -58422,7 +59019,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-sign-left-filled",
     "name": "Sign Left Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "sign",
       "left",
@@ -58434,10 +59031,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-sign-right",
     "name": "Sign Right",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "sign",
-      "right"
+      "right",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconSignRight"
   },
@@ -58445,7 +59044,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-sign-right-filled",
     "name": "Sign Right Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "sign",
       "right",
@@ -58574,7 +59173,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-signature",
     "name": "Signature",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "signature"
     ],
@@ -58584,7 +59183,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-signature-off",
     "name": "Signature Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "signature",
       "off"
@@ -58648,7 +59247,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-skateboarding",
     "name": "Skateboarding",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "skateboarding"
     ],
@@ -58711,7 +59310,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-slash",
     "name": "Slash",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "slash"
     ],
@@ -58721,7 +59320,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-slashes",
     "name": "Slashes",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "slashes"
     ],
@@ -58761,7 +59360,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-smart-home",
     "name": "Smart Home",
     "set": "tabler",
-    "category": "navigation",
+    "category": "ai-ml",
     "tags": [
       "smart",
       "home"
@@ -58772,7 +59371,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-smart-home-off",
     "name": "Smart Home Off",
     "set": "tabler",
-    "category": "navigation",
+    "category": "ai-ml",
     "tags": [
       "smart",
       "home",
@@ -58805,7 +59404,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-snowboarding",
     "name": "Snowboarding",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "snowboarding"
     ],
@@ -58942,7 +59541,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-sort09",
     "name": "Sort09",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "sort09"
     ],
@@ -58952,7 +59551,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-sort90",
     "name": "Sort90",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "sort90"
     ],
@@ -58962,7 +59561,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-sort-a-z",
     "name": "Sort A Z",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "sort",
       "a",
@@ -58974,7 +59573,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-sort-ascending",
     "name": "Sort Ascending",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "sort",
       "ascending"
@@ -58985,7 +59584,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-sort-ascending2",
     "name": "Sort Ascending2",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "sort",
       "ascending2"
@@ -58996,7 +59595,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-sort-ascending2-filled",
     "name": "Sort Ascending2 Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "sort",
       "ascending2",
@@ -59008,7 +59607,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-sort-ascending-letters",
     "name": "Sort Ascending Letters",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "sort",
       "ascending",
@@ -59020,7 +59619,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-sort-ascending-numbers",
     "name": "Sort Ascending Numbers",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "sort",
       "ascending",
@@ -59032,7 +59631,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-sort-ascending-shapes",
     "name": "Sort Ascending Shapes",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "sort",
       "ascending",
@@ -59044,7 +59643,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-sort-ascending-shapes-filled",
     "name": "Sort Ascending Shapes Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "sort",
       "ascending",
@@ -59057,7 +59656,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-sort-ascending-small-big",
     "name": "Sort Ascending Small Big",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "sort",
       "ascending",
@@ -59070,7 +59669,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-sort-deacending-small-big",
     "name": "Sort Deacending Small Big",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "sort",
       "deacending",
@@ -59083,7 +59682,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-sort-descending",
     "name": "Sort Descending",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "sort",
       "descending"
@@ -59094,7 +59693,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-sort-descending2",
     "name": "Sort Descending2",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "sort",
       "descending2"
@@ -59105,7 +59704,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-sort-descending2-filled",
     "name": "Sort Descending2 Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "sort",
       "descending2",
@@ -59117,7 +59716,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-sort-descending-letters",
     "name": "Sort Descending Letters",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "sort",
       "descending",
@@ -59129,7 +59728,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-sort-descending-numbers",
     "name": "Sort Descending Numbers",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "sort",
       "descending",
@@ -59141,7 +59740,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-sort-descending-shapes",
     "name": "Sort Descending Shapes",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "sort",
       "descending",
@@ -59153,7 +59752,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-sort-descending-shapes-filled",
     "name": "Sort Descending Shapes Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "sort",
       "descending",
@@ -59166,7 +59765,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-sort-descending-small-big",
     "name": "Sort Descending Small Big",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "sort",
       "descending",
@@ -59179,7 +59778,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-sort-z-a",
     "name": "Sort Z A",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "sort",
       "z",
@@ -59244,7 +59843,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-space",
     "name": "Space",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "space"
     ],
@@ -59254,7 +59853,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-space-off",
     "name": "Space Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "space",
       "off"
@@ -59265,7 +59864,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-spaces",
     "name": "Spaces",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "spaces"
     ],
@@ -59275,7 +59874,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-spacing-horizontal",
     "name": "Spacing Horizontal",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "spacing",
       "horizontal"
@@ -59286,7 +59885,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-spacing-vertical",
     "name": "Spacing Vertical",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "spacing",
       "vertical"
@@ -59297,7 +59896,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-spade",
     "name": "Spade",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "spade"
     ],
@@ -59307,7 +59906,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-spade-filled",
     "name": "Spade Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "spade",
       "filled"
@@ -59318,7 +59917,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-sparkle",
     "name": "Sparkle",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "sparkle"
     ],
@@ -59328,7 +59927,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-sparkle2",
     "name": "Sparkle2",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "sparkle2"
     ],
@@ -59338,7 +59937,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-sparkle-highlight",
     "name": "Sparkle Highlight",
     "set": "tabler",
-    "category": "editor",
+    "category": "people-social",
     "tags": [
       "sparkle",
       "highlight"
@@ -59349,7 +59948,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-sparkles",
     "name": "Sparkles",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "sparkles"
     ],
@@ -59359,7 +59958,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-sparkles2",
     "name": "Sparkles2",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "sparkles2"
     ],
@@ -59369,7 +59968,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-sparkles2-filled",
     "name": "Sparkles2 Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "sparkles2",
       "filled"
@@ -59380,7 +59979,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-sparkles-filled",
     "name": "Sparkles Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "sparkles",
       "filled"
@@ -59422,7 +60021,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-sphere",
     "name": "Sphere",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "sphere"
     ],
@@ -59432,7 +60031,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-sphere2",
     "name": "Sphere2",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "sphere2"
     ],
@@ -59442,7 +60041,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-sphere-off",
     "name": "Sphere Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "sphere",
       "off"
@@ -59453,7 +60052,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-sphere-plus",
     "name": "Sphere Plus",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "sphere",
       "plus"
@@ -59558,7 +60157,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square",
     "name": "Square",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square"
     ],
@@ -59568,7 +60167,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square0",
     "name": "Square0",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square0"
     ],
@@ -59578,7 +60177,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square1",
     "name": "Square1",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square1"
     ],
@@ -59588,7 +60187,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square2",
     "name": "Square2",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square2"
     ],
@@ -59598,7 +60197,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square3",
     "name": "Square3",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square3"
     ],
@@ -59608,7 +60207,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square4",
     "name": "Square4",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square4"
     ],
@@ -59618,7 +60217,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square5",
     "name": "Square5",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square5"
     ],
@@ -59628,7 +60227,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square6",
     "name": "Square6",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square6"
     ],
@@ -59638,7 +60237,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square7",
     "name": "Square7",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square7"
     ],
@@ -59648,7 +60247,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square8",
     "name": "Square8",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square8"
     ],
@@ -59658,7 +60257,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square9",
     "name": "Square9",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square9"
     ],
@@ -59668,11 +60267,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-arrow-down",
     "name": "Square Arrow Down",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "arrow",
-      "down"
+      "down",
+      "direction"
     ],
     "tablerName": "IconSquareArrowDown"
   },
@@ -59680,7 +60280,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-arrow-down-filled",
     "name": "Square Arrow Down Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "arrow",
@@ -59693,11 +60293,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-arrow-left",
     "name": "Square Arrow Left",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "arrow",
-      "left"
+      "left",
+      "direction"
     ],
     "tablerName": "IconSquareArrowLeft"
   },
@@ -59705,7 +60306,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-arrow-left-filled",
     "name": "Square Arrow Left Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "arrow",
@@ -59718,11 +60319,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-arrow-right",
     "name": "Square Arrow Right",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "arrow",
-      "right"
+      "right",
+      "direction"
     ],
     "tablerName": "IconSquareArrowRight"
   },
@@ -59730,7 +60332,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-arrow-right-filled",
     "name": "Square Arrow Right Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "arrow",
@@ -59743,11 +60345,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-arrow-up",
     "name": "Square Arrow Up",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "arrow",
-      "up"
+      "up",
+      "direction"
     ],
     "tablerName": "IconSquareArrowUp"
   },
@@ -59755,7 +60358,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-arrow-up-filled",
     "name": "Square Arrow Up Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "arrow",
@@ -59768,7 +60371,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-asterisk",
     "name": "Square Asterisk",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "asterisk"
@@ -59779,7 +60382,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-asterisk-filled",
     "name": "Square Asterisk Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "asterisk",
@@ -59791,7 +60394,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-check",
     "name": "Square Check",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "check"
@@ -59802,7 +60405,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-check-filled",
     "name": "Square Check Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "check",
@@ -59814,11 +60417,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-chevron-down",
     "name": "Square Chevron Down",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "chevron",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconSquareChevronDown"
   },
@@ -59826,7 +60431,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-chevron-down-filled",
     "name": "Square Chevron Down Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "chevron",
@@ -59839,11 +60444,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-chevron-left",
     "name": "Square Chevron Left",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "chevron",
-      "left"
+      "left",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconSquareChevronLeft"
   },
@@ -59851,7 +60458,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-chevron-left-filled",
     "name": "Square Chevron Left Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "chevron",
@@ -59864,11 +60471,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-chevron-right",
     "name": "Square Chevron Right",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "chevron",
-      "right"
+      "right",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconSquareChevronRight"
   },
@@ -59876,7 +60485,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-chevron-right-filled",
     "name": "Square Chevron Right Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "chevron",
@@ -59889,11 +60498,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-chevron-up",
     "name": "Square Chevron Up",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "chevron",
-      "up"
+      "up",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconSquareChevronUp"
   },
@@ -59901,7 +60512,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-chevron-up-filled",
     "name": "Square Chevron Up Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "chevron",
@@ -59914,11 +60525,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-chevrons-down",
     "name": "Square Chevrons Down",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "chevrons",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconSquareChevronsDown"
   },
@@ -59926,7 +60539,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-chevrons-down-filled",
     "name": "Square Chevrons Down Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "chevrons",
@@ -59939,11 +60552,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-chevrons-left",
     "name": "Square Chevrons Left",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "chevrons",
-      "left"
+      "left",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconSquareChevronsLeft"
   },
@@ -59951,7 +60566,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-chevrons-left-filled",
     "name": "Square Chevrons Left Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "chevrons",
@@ -59964,11 +60579,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-chevrons-right",
     "name": "Square Chevrons Right",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "chevrons",
-      "right"
+      "right",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconSquareChevronsRight"
   },
@@ -59976,7 +60593,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-chevrons-right-filled",
     "name": "Square Chevrons Right Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "chevrons",
@@ -59989,11 +60606,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-chevrons-up",
     "name": "Square Chevrons Up",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "chevrons",
-      "up"
+      "up",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconSquareChevronsUp"
   },
@@ -60001,7 +60620,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-chevrons-up-filled",
     "name": "Square Chevrons Up Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "chevrons",
@@ -60014,7 +60633,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-dashed",
     "name": "Square Dashed",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "dashed"
@@ -60025,7 +60644,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-dot",
     "name": "Square Dot",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "dot"
@@ -60036,7 +60655,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-dot-filled",
     "name": "Square Dot Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "dot",
@@ -60048,7 +60667,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-f0",
     "name": "Square F0",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "f0"
@@ -60059,7 +60678,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-f0-filled",
     "name": "Square F0 Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "f0",
@@ -60071,7 +60690,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-f1",
     "name": "Square F1",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "f1"
@@ -60082,7 +60701,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-f1-filled",
     "name": "Square F1 Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "f1",
@@ -60094,7 +60713,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-f2",
     "name": "Square F2",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "f2"
@@ -60105,7 +60724,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-f2-filled",
     "name": "Square F2 Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "f2",
@@ -60117,7 +60736,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-f3",
     "name": "Square F3",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "f3"
@@ -60128,7 +60747,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-f3-filled",
     "name": "Square F3 Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "f3",
@@ -60140,7 +60759,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-f4",
     "name": "Square F4",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "f4"
@@ -60151,7 +60770,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-f4-filled",
     "name": "Square F4 Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "f4",
@@ -60163,7 +60782,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-f5",
     "name": "Square F5",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "f5"
@@ -60174,7 +60793,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-f5-filled",
     "name": "Square F5 Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "f5",
@@ -60186,7 +60805,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-f6",
     "name": "Square F6",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "f6"
@@ -60197,7 +60816,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-f6-filled",
     "name": "Square F6 Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "f6",
@@ -60209,7 +60828,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-f7",
     "name": "Square F7",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "f7"
@@ -60220,7 +60839,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-f7-filled",
     "name": "Square F7 Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "f7",
@@ -60232,7 +60851,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-f8",
     "name": "Square F8",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "f8"
@@ -60243,7 +60862,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-f8-filled",
     "name": "Square F8 Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "f8",
@@ -60255,7 +60874,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-f9",
     "name": "Square F9",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "f9"
@@ -60266,7 +60885,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-f9-filled",
     "name": "Square F9 Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "f9",
@@ -60278,7 +60897,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-filled",
     "name": "Square Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "filled"
@@ -60289,7 +60908,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-forbid",
     "name": "Square Forbid",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "forbid"
@@ -60300,7 +60919,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-forbid2",
     "name": "Square Forbid2",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "forbid2"
@@ -60311,7 +60930,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-half",
     "name": "Square Half",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "half"
@@ -60322,7 +60941,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-key",
     "name": "Square Key",
     "set": "tabler",
-    "category": "security-identity",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "key"
@@ -60333,7 +60952,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-letter-a",
     "name": "Square Letter A",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "letter",
@@ -60345,7 +60964,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-letter-a-filled",
     "name": "Square Letter A Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "letter",
@@ -60358,7 +60977,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-letter-b",
     "name": "Square Letter B",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "letter",
@@ -60370,7 +60989,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-letter-b-filled",
     "name": "Square Letter B Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "letter",
@@ -60383,7 +61002,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-letter-c",
     "name": "Square Letter C",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "letter",
@@ -60395,7 +61014,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-letter-c-filled",
     "name": "Square Letter C Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "letter",
@@ -60408,7 +61027,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-letter-d",
     "name": "Square Letter D",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "letter",
@@ -60420,7 +61039,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-letter-d-filled",
     "name": "Square Letter D Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "letter",
@@ -60433,7 +61052,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-letter-e",
     "name": "Square Letter E",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "letter",
@@ -60445,7 +61064,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-letter-e-filled",
     "name": "Square Letter E Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "letter",
@@ -60458,7 +61077,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-letter-f",
     "name": "Square Letter F",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "letter",
@@ -60470,7 +61089,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-letter-f-filled",
     "name": "Square Letter F Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "letter",
@@ -60483,7 +61102,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-letter-g",
     "name": "Square Letter G",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "letter",
@@ -60495,7 +61114,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-letter-g-filled",
     "name": "Square Letter G Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "letter",
@@ -60508,7 +61127,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-letter-h",
     "name": "Square Letter H",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "letter",
@@ -60520,7 +61139,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-letter-h-filled",
     "name": "Square Letter H Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "letter",
@@ -60533,7 +61152,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-letter-i",
     "name": "Square Letter I",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "letter",
@@ -60545,7 +61164,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-letter-i-filled",
     "name": "Square Letter I Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "letter",
@@ -60558,7 +61177,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-letter-j",
     "name": "Square Letter J",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "letter",
@@ -60570,7 +61189,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-letter-j-filled",
     "name": "Square Letter J Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "letter",
@@ -60583,7 +61202,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-letter-k",
     "name": "Square Letter K",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "letter",
@@ -60595,7 +61214,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-letter-k-filled",
     "name": "Square Letter K Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "letter",
@@ -60608,7 +61227,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-letter-l",
     "name": "Square Letter L",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "letter",
@@ -60620,7 +61239,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-letter-l-filled",
     "name": "Square Letter L Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "letter",
@@ -60633,7 +61252,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-letter-m",
     "name": "Square Letter M",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "letter",
@@ -60645,7 +61264,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-letter-m-filled",
     "name": "Square Letter M Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "letter",
@@ -60658,7 +61277,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-letter-n",
     "name": "Square Letter N",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "letter",
@@ -60670,7 +61289,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-letter-n-filled",
     "name": "Square Letter N Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "letter",
@@ -60683,7 +61302,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-letter-o",
     "name": "Square Letter O",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "letter",
@@ -60695,7 +61314,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-letter-o-filled",
     "name": "Square Letter O Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "letter",
@@ -60708,7 +61327,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-letter-p",
     "name": "Square Letter P",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "letter",
@@ -60720,7 +61339,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-letter-p-filled",
     "name": "Square Letter P Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "letter",
@@ -60733,7 +61352,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-letter-q",
     "name": "Square Letter Q",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "letter",
@@ -60745,7 +61364,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-letter-q-filled",
     "name": "Square Letter Q Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "letter",
@@ -60758,7 +61377,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-letter-r",
     "name": "Square Letter R",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "letter",
@@ -60770,7 +61389,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-letter-r-filled",
     "name": "Square Letter R Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "letter",
@@ -60783,7 +61402,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-letter-s",
     "name": "Square Letter S",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "letter",
@@ -60795,7 +61414,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-letter-s-filled",
     "name": "Square Letter S Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "letter",
@@ -60808,7 +61427,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-letter-t",
     "name": "Square Letter T",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "letter",
@@ -60820,7 +61439,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-letter-t-filled",
     "name": "Square Letter T Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "letter",
@@ -60833,7 +61452,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-letter-u",
     "name": "Square Letter U",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "letter",
@@ -60845,7 +61464,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-letter-u-filled",
     "name": "Square Letter U Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "letter",
@@ -60858,7 +61477,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-letter-v",
     "name": "Square Letter V",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "letter",
@@ -60870,7 +61489,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-letter-v-filled",
     "name": "Square Letter V Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "letter",
@@ -60883,7 +61502,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-letter-w",
     "name": "Square Letter W",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "letter",
@@ -60895,7 +61514,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-letter-w-filled",
     "name": "Square Letter W Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "letter",
@@ -60908,7 +61527,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-letter-x",
     "name": "Square Letter X",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "letter",
@@ -60920,7 +61539,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-letter-x-filled",
     "name": "Square Letter X Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "letter",
@@ -60933,7 +61552,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-letter-y",
     "name": "Square Letter Y",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "letter",
@@ -60945,7 +61564,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-letter-y-filled",
     "name": "Square Letter Y Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "letter",
@@ -60958,7 +61577,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-letter-z",
     "name": "Square Letter Z",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "letter",
@@ -60970,7 +61589,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-letter-z-filled",
     "name": "Square Letter Z Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "letter",
@@ -60983,7 +61602,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-minus",
     "name": "Square Minus",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "minus"
@@ -60994,7 +61613,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-minus2",
     "name": "Square Minus2",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "minus2"
@@ -61005,7 +61624,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-minus-filled",
     "name": "Square Minus Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "minus",
@@ -61017,7 +61636,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-number0",
     "name": "Square Number0",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "number0"
@@ -61028,7 +61647,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-number0-filled",
     "name": "Square Number0 Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "number0",
@@ -61040,7 +61659,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-number1",
     "name": "Square Number1",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "number1"
@@ -61051,7 +61670,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-number1-filled",
     "name": "Square Number1 Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "number1",
@@ -61063,7 +61682,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-number2",
     "name": "Square Number2",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "number2"
@@ -61074,7 +61693,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-number2-filled",
     "name": "Square Number2 Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "number2",
@@ -61086,7 +61705,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-number3",
     "name": "Square Number3",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "number3"
@@ -61097,7 +61716,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-number3-filled",
     "name": "Square Number3 Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "number3",
@@ -61109,7 +61728,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-number4",
     "name": "Square Number4",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "number4"
@@ -61120,7 +61739,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-number4-filled",
     "name": "Square Number4 Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "number4",
@@ -61132,7 +61751,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-number5",
     "name": "Square Number5",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "number5"
@@ -61143,7 +61762,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-number5-filled",
     "name": "Square Number5 Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "number5",
@@ -61155,7 +61774,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-number6",
     "name": "Square Number6",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "number6"
@@ -61166,7 +61785,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-number6-filled",
     "name": "Square Number6 Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "number6",
@@ -61178,7 +61797,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-number7",
     "name": "Square Number7",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "number7"
@@ -61189,7 +61808,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-number7-filled",
     "name": "Square Number7 Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "number7",
@@ -61201,7 +61820,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-number8",
     "name": "Square Number8",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "number8"
@@ -61212,7 +61831,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-number8-filled",
     "name": "Square Number8 Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "number8",
@@ -61224,7 +61843,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-number9",
     "name": "Square Number9",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "number9"
@@ -61235,7 +61854,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-number9-filled",
     "name": "Square Number9 Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "number9",
@@ -61247,7 +61866,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-off",
     "name": "Square Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "off"
@@ -61258,7 +61877,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-percentage",
     "name": "Square Percentage",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "percentage"
@@ -61269,7 +61888,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-plus",
     "name": "Square Plus",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "plus"
@@ -61280,7 +61899,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-plus2",
     "name": "Square Plus2",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "plus2"
@@ -61291,7 +61910,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-root",
     "name": "Square Root",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "root"
@@ -61302,7 +61921,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-root2",
     "name": "Square Root2",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "root2"
@@ -61313,7 +61932,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rotated",
     "name": "Square Rotated",
     "set": "tabler",
-    "category": "editor",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rotated"
@@ -61324,7 +61943,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rotated-asterisk",
     "name": "Square Rotated Asterisk",
     "set": "tabler",
-    "category": "editor",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rotated",
@@ -61336,7 +61955,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rotated-filled",
     "name": "Square Rotated Filled",
     "set": "tabler",
-    "category": "editor",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rotated",
@@ -61348,7 +61967,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rotated-forbid",
     "name": "Square Rotated Forbid",
     "set": "tabler",
-    "category": "editor",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rotated",
@@ -61360,7 +61979,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rotated-forbid2",
     "name": "Square Rotated Forbid2",
     "set": "tabler",
-    "category": "editor",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rotated",
@@ -61372,7 +61991,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rotated-off",
     "name": "Square Rotated Off",
     "set": "tabler",
-    "category": "editor",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rotated",
@@ -61384,7 +62003,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded",
     "name": "Square Rounded",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded"
@@ -61395,12 +62014,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-arrow-down",
     "name": "Square Rounded Arrow Down",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
       "arrow",
-      "down"
+      "down",
+      "direction"
     ],
     "tablerName": "IconSquareRoundedArrowDown"
   },
@@ -61408,7 +62028,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-arrow-down-filled",
     "name": "Square Rounded Arrow Down Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -61422,12 +62042,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-arrow-left",
     "name": "Square Rounded Arrow Left",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
       "arrow",
-      "left"
+      "left",
+      "direction"
     ],
     "tablerName": "IconSquareRoundedArrowLeft"
   },
@@ -61435,7 +62056,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-arrow-left-filled",
     "name": "Square Rounded Arrow Left Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -61449,12 +62070,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-arrow-right",
     "name": "Square Rounded Arrow Right",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
       "arrow",
-      "right"
+      "right",
+      "direction"
     ],
     "tablerName": "IconSquareRoundedArrowRight"
   },
@@ -61462,7 +62084,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-arrow-right-filled",
     "name": "Square Rounded Arrow Right Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -61476,12 +62098,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-arrow-up",
     "name": "Square Rounded Arrow Up",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
       "arrow",
-      "up"
+      "up",
+      "direction"
     ],
     "tablerName": "IconSquareRoundedArrowUp"
   },
@@ -61489,7 +62112,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-arrow-up-filled",
     "name": "Square Rounded Arrow Up Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -61503,7 +62126,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-check",
     "name": "Square Rounded Check",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -61515,7 +62138,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-check-filled",
     "name": "Square Rounded Check Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -61528,12 +62151,14 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-chevron-down",
     "name": "Square Rounded Chevron Down",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
       "chevron",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconSquareRoundedChevronDown"
   },
@@ -61541,7 +62166,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-chevron-down-filled",
     "name": "Square Rounded Chevron Down Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -61555,12 +62180,14 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-chevron-left",
     "name": "Square Rounded Chevron Left",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
       "chevron",
-      "left"
+      "left",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconSquareRoundedChevronLeft"
   },
@@ -61568,7 +62195,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-chevron-left-filled",
     "name": "Square Rounded Chevron Left Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -61582,12 +62209,14 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-chevron-right",
     "name": "Square Rounded Chevron Right",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
       "chevron",
-      "right"
+      "right",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconSquareRoundedChevronRight"
   },
@@ -61595,7 +62224,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-chevron-right-filled",
     "name": "Square Rounded Chevron Right Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -61609,12 +62238,14 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-chevron-up",
     "name": "Square Rounded Chevron Up",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
       "chevron",
-      "up"
+      "up",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconSquareRoundedChevronUp"
   },
@@ -61622,7 +62253,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-chevron-up-filled",
     "name": "Square Rounded Chevron Up Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -61636,12 +62267,14 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-chevrons-down",
     "name": "Square Rounded Chevrons Down",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
       "chevrons",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconSquareRoundedChevronsDown"
   },
@@ -61649,7 +62282,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-chevrons-down-filled",
     "name": "Square Rounded Chevrons Down Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -61663,12 +62296,14 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-chevrons-left",
     "name": "Square Rounded Chevrons Left",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
       "chevrons",
-      "left"
+      "left",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconSquareRoundedChevronsLeft"
   },
@@ -61676,7 +62311,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-chevrons-left-filled",
     "name": "Square Rounded Chevrons Left Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -61690,12 +62325,14 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-chevrons-right",
     "name": "Square Rounded Chevrons Right",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
       "chevrons",
-      "right"
+      "right",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconSquareRoundedChevronsRight"
   },
@@ -61703,7 +62340,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-chevrons-right-filled",
     "name": "Square Rounded Chevrons Right Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -61717,12 +62354,14 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-chevrons-up",
     "name": "Square Rounded Chevrons Up",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
       "chevrons",
-      "up"
+      "up",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconSquareRoundedChevronsUp"
   },
@@ -61730,7 +62369,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-chevrons-up-filled",
     "name": "Square Rounded Chevrons Up Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -61744,7 +62383,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-filled",
     "name": "Square Rounded Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -61756,7 +62395,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-letter-a",
     "name": "Square Rounded Letter A",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -61769,7 +62408,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-letter-a-filled",
     "name": "Square Rounded Letter A Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -61783,7 +62422,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-letter-b",
     "name": "Square Rounded Letter B",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -61796,7 +62435,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-letter-b-filled",
     "name": "Square Rounded Letter B Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -61810,7 +62449,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-letter-c",
     "name": "Square Rounded Letter C",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -61823,7 +62462,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-letter-c-filled",
     "name": "Square Rounded Letter C Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -61837,7 +62476,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-letter-d",
     "name": "Square Rounded Letter D",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -61850,7 +62489,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-letter-d-filled",
     "name": "Square Rounded Letter D Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -61864,7 +62503,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-letter-e",
     "name": "Square Rounded Letter E",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -61877,7 +62516,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-letter-e-filled",
     "name": "Square Rounded Letter E Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -61891,7 +62530,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-letter-f",
     "name": "Square Rounded Letter F",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -61904,7 +62543,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-letter-f-filled",
     "name": "Square Rounded Letter F Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -61918,7 +62557,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-letter-g",
     "name": "Square Rounded Letter G",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -61931,7 +62570,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-letter-g-filled",
     "name": "Square Rounded Letter G Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -61945,7 +62584,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-letter-h",
     "name": "Square Rounded Letter H",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -61958,7 +62597,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-letter-h-filled",
     "name": "Square Rounded Letter H Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -61972,7 +62611,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-letter-i",
     "name": "Square Rounded Letter I",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -61985,7 +62624,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-letter-i-filled",
     "name": "Square Rounded Letter I Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -61999,7 +62638,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-letter-j",
     "name": "Square Rounded Letter J",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -62012,7 +62651,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-letter-j-filled",
     "name": "Square Rounded Letter J Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -62026,7 +62665,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-letter-k",
     "name": "Square Rounded Letter K",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -62039,7 +62678,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-letter-k-filled",
     "name": "Square Rounded Letter K Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -62053,7 +62692,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-letter-l",
     "name": "Square Rounded Letter L",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -62066,7 +62705,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-letter-l-filled",
     "name": "Square Rounded Letter L Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -62080,7 +62719,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-letter-m",
     "name": "Square Rounded Letter M",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -62093,7 +62732,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-letter-m-filled",
     "name": "Square Rounded Letter M Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -62107,7 +62746,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-letter-n",
     "name": "Square Rounded Letter N",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -62120,7 +62759,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-letter-n-filled",
     "name": "Square Rounded Letter N Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -62134,7 +62773,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-letter-o",
     "name": "Square Rounded Letter O",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -62147,7 +62786,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-letter-o-filled",
     "name": "Square Rounded Letter O Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -62161,7 +62800,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-letter-p",
     "name": "Square Rounded Letter P",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -62174,7 +62813,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-letter-p-filled",
     "name": "Square Rounded Letter P Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -62188,7 +62827,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-letter-q",
     "name": "Square Rounded Letter Q",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -62201,7 +62840,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-letter-q-filled",
     "name": "Square Rounded Letter Q Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -62215,7 +62854,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-letter-r",
     "name": "Square Rounded Letter R",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -62228,7 +62867,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-letter-r-filled",
     "name": "Square Rounded Letter R Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -62242,7 +62881,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-letter-s",
     "name": "Square Rounded Letter S",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -62255,7 +62894,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-letter-s-filled",
     "name": "Square Rounded Letter S Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -62269,7 +62908,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-letter-t",
     "name": "Square Rounded Letter T",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -62282,7 +62921,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-letter-t-filled",
     "name": "Square Rounded Letter T Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -62296,7 +62935,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-letter-u",
     "name": "Square Rounded Letter U",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -62309,7 +62948,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-letter-u-filled",
     "name": "Square Rounded Letter U Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -62323,7 +62962,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-letter-v",
     "name": "Square Rounded Letter V",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -62336,7 +62975,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-letter-v-filled",
     "name": "Square Rounded Letter V Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -62350,7 +62989,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-letter-w",
     "name": "Square Rounded Letter W",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -62363,7 +63002,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-letter-w-filled",
     "name": "Square Rounded Letter W Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -62377,7 +63016,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-letter-x",
     "name": "Square Rounded Letter X",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -62390,7 +63029,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-letter-x-filled",
     "name": "Square Rounded Letter X Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -62404,7 +63043,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-letter-y",
     "name": "Square Rounded Letter Y",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -62417,7 +63056,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-letter-y-filled",
     "name": "Square Rounded Letter Y Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -62431,7 +63070,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-letter-z",
     "name": "Square Rounded Letter Z",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -62444,7 +63083,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-letter-z-filled",
     "name": "Square Rounded Letter Z Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -62458,7 +63097,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-minus",
     "name": "Square Rounded Minus",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -62470,7 +63109,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-minus2",
     "name": "Square Rounded Minus2",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -62482,7 +63121,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-minus-filled",
     "name": "Square Rounded Minus Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -62495,7 +63134,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-number0",
     "name": "Square Rounded Number0",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -62507,7 +63146,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-number0-filled",
     "name": "Square Rounded Number0 Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -62520,7 +63159,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-number1",
     "name": "Square Rounded Number1",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -62532,7 +63171,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-number1-filled",
     "name": "Square Rounded Number1 Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -62545,7 +63184,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-number2",
     "name": "Square Rounded Number2",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -62557,7 +63196,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-number2-filled",
     "name": "Square Rounded Number2 Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -62570,7 +63209,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-number3",
     "name": "Square Rounded Number3",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -62582,7 +63221,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-number3-filled",
     "name": "Square Rounded Number3 Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -62595,7 +63234,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-number4",
     "name": "Square Rounded Number4",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -62607,7 +63246,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-number4-filled",
     "name": "Square Rounded Number4 Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -62620,7 +63259,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-number5",
     "name": "Square Rounded Number5",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -62632,7 +63271,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-number5-filled",
     "name": "Square Rounded Number5 Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -62645,7 +63284,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-number6",
     "name": "Square Rounded Number6",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -62657,7 +63296,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-number6-filled",
     "name": "Square Rounded Number6 Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -62670,7 +63309,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-number7",
     "name": "Square Rounded Number7",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -62682,7 +63321,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-number7-filled",
     "name": "Square Rounded Number7 Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -62695,7 +63334,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-number8",
     "name": "Square Rounded Number8",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -62707,7 +63346,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-number8-filled",
     "name": "Square Rounded Number8 Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -62720,7 +63359,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-number9",
     "name": "Square Rounded Number9",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -62732,7 +63371,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-number9-filled",
     "name": "Square Rounded Number9 Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -62745,7 +63384,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-percentage",
     "name": "Square Rounded Percentage",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -62757,7 +63396,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-plus",
     "name": "Square Rounded Plus",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -62769,7 +63408,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-plus2",
     "name": "Square Rounded Plus2",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -62781,7 +63420,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-plus-filled",
     "name": "Square Rounded Plus Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -62794,7 +63433,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-x",
     "name": "Square Rounded X",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -62806,7 +63445,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-rounded-x-filled",
     "name": "Square Rounded X Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "rounded",
@@ -62819,7 +63458,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-toggle",
     "name": "Square Toggle",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "toggle"
@@ -62830,7 +63469,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-toggle-horizontal",
     "name": "Square Toggle Horizontal",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "toggle",
@@ -62842,7 +63481,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-x",
     "name": "Square X",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "x"
@@ -62853,7 +63492,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-square-x-filled",
     "name": "Square X Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "square",
       "x",
@@ -62865,7 +63504,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-squares",
     "name": "Squares",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "squares"
     ],
@@ -62875,7 +63514,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-squares-diagonal",
     "name": "Squares Diagonal",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "squares",
       "diagonal"
@@ -62886,7 +63525,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-squares-filled",
     "name": "Squares Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "squares",
       "filled"
@@ -62897,7 +63536,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-squares-selected",
     "name": "Squares Selected",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "squares",
       "selected"
@@ -62960,7 +63599,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-stack-back",
     "name": "Stack Back",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "stack",
       "back"
@@ -62971,7 +63610,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-stack-backward",
     "name": "Stack Backward",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "stack",
       "backward"
@@ -62993,7 +63632,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-stack-forward",
     "name": "Stack Forward",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "stack",
       "forward"
@@ -63058,10 +63697,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-stairs-down",
     "name": "Stairs Down",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "stairs",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconStairsDown"
   },
@@ -63069,10 +63710,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-stairs-up",
     "name": "Stairs Up",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "stairs",
-      "up"
+      "up",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconStairsUp"
   },
@@ -63328,9 +63971,11 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-stretching",
     "name": "Stretching",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "navigation",
     "tags": [
-      "stretching"
+      "stretching",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconStretching"
   },
@@ -63338,9 +63983,11 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-stretching2",
     "name": "Stretching2",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "navigation",
     "tags": [
-      "stretching2"
+      "stretching2",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconStretching2"
   },
@@ -63348,7 +63995,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-strikethrough",
     "name": "Strikethrough",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "strikethrough"
     ],
@@ -63401,7 +64048,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-subscript",
     "name": "Subscript",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "subscript"
     ],
@@ -63680,7 +64327,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-superscript",
     "name": "Superscript",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "superscript"
     ],
@@ -63690,7 +64337,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-svg",
     "name": "Svg",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "svg"
     ],
@@ -63710,7 +64357,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-swipe",
     "name": "Swipe",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "navigation",
     "tags": [
       "swipe"
     ],
@@ -63723,7 +64370,9 @@ export const TABLER_ICONS: IconMeta[] = [
     "category": "navigation",
     "tags": [
       "swipe",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconSwipeDown"
   },
@@ -63746,7 +64395,9 @@ export const TABLER_ICONS: IconMeta[] = [
     "category": "navigation",
     "tags": [
       "swipe",
-      "left"
+      "left",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconSwipeLeft"
   },
@@ -63769,7 +64420,9 @@ export const TABLER_ICONS: IconMeta[] = [
     "category": "navigation",
     "tags": [
       "swipe",
-      "right"
+      "right",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconSwipeRight"
   },
@@ -63792,7 +64445,9 @@ export const TABLER_ICONS: IconMeta[] = [
     "category": "navigation",
     "tags": [
       "swipe",
-      "up"
+      "up",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconSwipeUp"
   },
@@ -63812,7 +64467,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-switch",
     "name": "Switch",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "networking",
     "tags": [
       "switch"
     ],
@@ -63822,7 +64477,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-switch2",
     "name": "Switch2",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "networking",
     "tags": [
       "switch2"
     ],
@@ -63832,7 +64487,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-switch3",
     "name": "Switch3",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "networking",
     "tags": [
       "switch3"
     ],
@@ -63842,7 +64497,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-switch-horizontal",
     "name": "Switch Horizontal",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "networking",
     "tags": [
       "switch",
       "horizontal"
@@ -63853,7 +64508,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-switch-vertical",
     "name": "Switch Vertical",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "networking",
     "tags": [
       "switch",
       "vertical"
@@ -63895,7 +64550,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-table",
     "name": "Table",
     "set": "tabler",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "table"
     ],
@@ -63905,7 +64560,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-table-alias",
     "name": "Table Alias",
     "set": "tabler",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "table",
       "alias"
@@ -63916,7 +64571,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-table-column",
     "name": "Table Column",
     "set": "tabler",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "table",
       "column"
@@ -63927,7 +64582,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-table-dashed",
     "name": "Table Dashed",
     "set": "tabler",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "table",
       "dashed"
@@ -63938,10 +64593,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-table-down",
     "name": "Table Down",
     "set": "tabler",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "table",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconTableDown"
   },
@@ -63949,7 +64606,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-table-export",
     "name": "Table Export",
     "set": "tabler",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "table",
       "export"
@@ -63960,7 +64617,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-table-filled",
     "name": "Table Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "table",
       "filled"
@@ -63971,7 +64628,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-table-heart",
     "name": "Table Heart",
     "set": "tabler",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "table",
       "heart"
@@ -63982,7 +64639,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-table-import",
     "name": "Table Import",
     "set": "tabler",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "table",
       "import"
@@ -63993,7 +64650,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-table-minus",
     "name": "Table Minus",
     "set": "tabler",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "table",
       "minus"
@@ -64004,7 +64661,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-table-off",
     "name": "Table Off",
     "set": "tabler",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "table",
       "off"
@@ -64015,7 +64672,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-table-options",
     "name": "Table Options",
     "set": "tabler",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "table",
       "options"
@@ -64026,7 +64683,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-table-plus",
     "name": "Table Plus",
     "set": "tabler",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "table",
       "plus"
@@ -64037,7 +64694,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-table-row",
     "name": "Table Row",
     "set": "tabler",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "table",
       "row"
@@ -64048,7 +64705,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-table-share",
     "name": "Table Share",
     "set": "tabler",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "table",
       "share"
@@ -64059,7 +64716,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-table-shortcut",
     "name": "Table Shortcut",
     "set": "tabler",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "table",
       "shortcut"
@@ -64070,7 +64727,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-table-spark",
     "name": "Table Spark",
     "set": "tabler",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "table",
       "spark"
@@ -64081,7 +64738,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-tag",
     "name": "Tag",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "devops-cicd",
     "tags": [
       "tag"
     ],
@@ -64091,7 +64748,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-tag-filled",
     "name": "Tag Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "devops-cicd",
     "tags": [
       "tag",
       "filled"
@@ -64102,7 +64759,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-tag-minus",
     "name": "Tag Minus",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "devops-cicd",
     "tags": [
       "tag",
       "minus"
@@ -64113,7 +64770,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-tag-off",
     "name": "Tag Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "devops-cicd",
     "tags": [
       "tag",
       "off"
@@ -64124,7 +64781,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-tag-plus",
     "name": "Tag Plus",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "devops-cicd",
     "tags": [
       "tag",
       "plus"
@@ -64135,7 +64792,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-tag-starred",
     "name": "Tag Starred",
     "set": "tabler",
-    "category": "people-social",
+    "category": "devops-cicd",
     "tags": [
       "tag",
       "starred"
@@ -64146,7 +64803,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-tags",
     "name": "Tags",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "devops-cicd",
     "tags": [
       "tags"
     ],
@@ -64156,7 +64813,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-tags-filled",
     "name": "Tags Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "devops-cicd",
     "tags": [
       "tags",
       "filled"
@@ -64167,7 +64824,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-tags-off",
     "name": "Tags Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "devops-cicd",
     "tags": [
       "tags",
       "off"
@@ -64178,7 +64835,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-taiwan-dollar",
     "name": "Taiwan Dollar",
     "set": "tabler",
-    "category": "finance",
+    "category": "general-ui",
     "tags": [
       "taiwan",
       "dollar"
@@ -64269,7 +64926,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-target-arrow",
     "name": "Target Arrow",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "target",
       "arrow"
@@ -64497,7 +65154,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-tent",
     "name": "Tent",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "tent"
     ],
@@ -64507,7 +65164,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-tent-off",
     "name": "Tent Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "tent",
       "off"
@@ -64538,7 +65195,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-test-pipe",
     "name": "Test Pipe",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "devops-cicd",
     "tags": [
       "test",
       "pipe"
@@ -64549,7 +65206,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-test-pipe2",
     "name": "Test Pipe2",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "devops-cicd",
     "tags": [
       "test",
       "pipe2"
@@ -64560,7 +65217,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-test-pipe2-filled",
     "name": "Test Pipe2 Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "devops-cicd",
     "tags": [
       "test",
       "pipe2",
@@ -64572,7 +65229,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-test-pipe-off",
     "name": "Test Pipe Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "devops-cicd",
     "tags": [
       "test",
       "pipe",
@@ -64627,7 +65284,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-text-direction-ltr",
     "name": "Text Direction Ltr",
     "set": "tabler",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "text",
       "direction",
@@ -64639,7 +65296,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-text-direction-rtl",
     "name": "Text Direction Rtl",
     "set": "tabler",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "text",
       "direction",
@@ -64827,10 +65484,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-thumb-down",
     "name": "Thumb Down",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "thumb",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconThumbDown"
   },
@@ -64838,7 +65497,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-thumb-down-filled",
     "name": "Thumb Down Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "thumb",
       "down",
@@ -64850,7 +65509,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-thumb-down-off",
     "name": "Thumb Down Off",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "thumb",
       "down",
@@ -64862,10 +65521,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-thumb-up",
     "name": "Thumb Up",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "thumb",
-      "up"
+      "up",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconThumbUp"
   },
@@ -64873,7 +65534,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-thumb-up-filled",
     "name": "Thumb Up Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "thumb",
       "up",
@@ -64885,7 +65546,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-thumb-up-off",
     "name": "Thumb Up Off",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "thumb",
       "up",
@@ -65164,7 +65825,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-timeline-event-text",
     "name": "Timeline Event Text",
     "set": "tabler",
-    "category": "editor",
+    "category": "monitoring-logging",
     "tags": [
       "timeline",
       "event",
@@ -65209,7 +65870,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-tip-jar-euro",
     "name": "Tip Jar Euro",
     "set": "tabler",
-    "category": "finance",
+    "category": "general-ui",
     "tags": [
       "tip",
       "jar",
@@ -65243,10 +65904,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-toggle-left",
     "name": "Toggle Left",
     "set": "tabler",
-    "category": "navigation",
+    "category": "frontend-client",
     "tags": [
       "toggle",
-      "left"
+      "left",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconToggleLeft"
   },
@@ -65254,7 +65917,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-toggle-left-filled",
     "name": "Toggle Left Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "frontend-client",
     "tags": [
       "toggle",
       "left",
@@ -65266,10 +65929,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-toggle-right",
     "name": "Toggle Right",
     "set": "tabler",
-    "category": "navigation",
+    "category": "frontend-client",
     "tags": [
       "toggle",
-      "right"
+      "right",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconToggleRight"
   },
@@ -65277,7 +65942,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-toggle-right-filled",
     "name": "Toggle Right Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "frontend-client",
     "tags": [
       "toggle",
       "right",
@@ -65422,7 +66087,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-tooltip",
     "name": "Tooltip",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "tooltip"
     ],
@@ -65432,7 +66097,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-topology-bus",
     "name": "Topology Bus",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "networking",
     "tags": [
       "topology",
       "bus"
@@ -65443,7 +66108,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-topology-complex",
     "name": "Topology Complex",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "networking",
     "tags": [
       "topology",
       "complex"
@@ -65454,7 +66119,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-topology-full",
     "name": "Topology Full",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "networking",
     "tags": [
       "topology",
       "full"
@@ -65465,7 +66130,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-topology-full-hierarchy",
     "name": "Topology Full Hierarchy",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "networking",
     "tags": [
       "topology",
       "full",
@@ -65477,7 +66142,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-topology-ring",
     "name": "Topology Ring",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "networking",
     "tags": [
       "topology",
       "ring"
@@ -65488,7 +66153,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-topology-ring2",
     "name": "Topology Ring2",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "networking",
     "tags": [
       "topology",
       "ring2"
@@ -65499,7 +66164,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-topology-ring3",
     "name": "Topology Ring3",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "networking",
     "tags": [
       "topology",
       "ring3"
@@ -65510,7 +66175,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-topology-star",
     "name": "Topology Star",
     "set": "tabler",
-    "category": "people-social",
+    "category": "networking",
     "tags": [
       "topology",
       "star"
@@ -65521,7 +66186,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-topology-star2",
     "name": "Topology Star2",
     "set": "tabler",
-    "category": "people-social",
+    "category": "networking",
     "tags": [
       "topology",
       "star2"
@@ -65532,7 +66197,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-topology-star3",
     "name": "Topology Star3",
     "set": "tabler",
-    "category": "people-social",
+    "category": "networking",
     "tags": [
       "topology",
       "star3"
@@ -65543,7 +66208,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-topology-star-ring",
     "name": "Topology Star Ring",
     "set": "tabler",
-    "category": "people-social",
+    "category": "networking",
     "tags": [
       "topology",
       "star",
@@ -65555,7 +66220,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-topology-star-ring2",
     "name": "Topology Star Ring2",
     "set": "tabler",
-    "category": "people-social",
+    "category": "networking",
     "tags": [
       "topology",
       "star",
@@ -65567,7 +66232,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-topology-star-ring3",
     "name": "Topology Star Ring3",
     "set": "tabler",
-    "category": "people-social",
+    "category": "networking",
     "tags": [
       "topology",
       "star",
@@ -65706,7 +66371,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-train",
     "name": "Train",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "train"
     ],
@@ -65716,7 +66381,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-train-filled",
     "name": "Train Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "train",
       "filled"
@@ -65804,7 +66469,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-transfer",
     "name": "Transfer",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "api-integration",
     "tags": [
       "transfer"
     ],
@@ -65814,7 +66479,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-transfer-in",
     "name": "Transfer In",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "api-integration",
     "tags": [
       "transfer",
       "in"
@@ -65825,7 +66490,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-transfer-out",
     "name": "Transfer Out",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "api-integration",
     "tags": [
       "transfer",
       "out"
@@ -65836,7 +66501,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-transfer-vertical",
     "name": "Transfer Vertical",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "api-integration",
     "tags": [
       "transfer",
       "vertical"
@@ -65847,7 +66512,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-transform",
     "name": "Transform",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "transform"
     ],
@@ -65857,7 +66522,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-transform-filled",
     "name": "Transform Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "transform",
       "filled"
@@ -65868,7 +66533,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-transform-point",
     "name": "Transform Point",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "transform",
       "point"
@@ -65879,12 +66544,14 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-transform-point-bottom-left",
     "name": "Transform Point Bottom Left",
     "set": "tabler",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "transform",
       "point",
       "bottom",
-      "left"
+      "left",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconTransformPointBottomLeft"
   },
@@ -65892,12 +66559,14 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-transform-point-bottom-right",
     "name": "Transform Point Bottom Right",
     "set": "tabler",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "transform",
       "point",
       "bottom",
-      "right"
+      "right",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconTransformPointBottomRight"
   },
@@ -65905,12 +66574,14 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-transform-point-top-left",
     "name": "Transform Point Top Left",
     "set": "tabler",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "transform",
       "point",
       "top",
-      "left"
+      "left",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconTransformPointTopLeft"
   },
@@ -65918,12 +66589,14 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-transform-point-top-right",
     "name": "Transform Point Top Right",
     "set": "tabler",
-    "category": "navigation",
+    "category": "editor",
     "tags": [
       "transform",
       "point",
       "top",
-      "right"
+      "right",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconTransformPointTopRight"
   },
@@ -65954,10 +66627,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-transition-left",
     "name": "Transition Left",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "transition",
-      "left"
+      "left",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconTransitionLeft"
   },
@@ -65965,7 +66640,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-transition-left-filled",
     "name": "Transition Left Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "transition",
       "left",
@@ -65977,10 +66652,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-transition-right",
     "name": "Transition Right",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "transition",
-      "right"
+      "right",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconTransitionRight"
   },
@@ -65988,7 +66665,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-transition-right-filled",
     "name": "Transition Right Filled",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "transition",
       "right",
@@ -66118,10 +66795,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-trending-down",
     "name": "Trending Down",
     "set": "tabler",
-    "category": "navigation",
+    "category": "monitoring-logging",
     "tags": [
       "trending",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconTrendingDown"
   },
@@ -66129,7 +66808,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-trending-down2",
     "name": "Trending Down2",
     "set": "tabler",
-    "category": "navigation",
+    "category": "monitoring-logging",
     "tags": [
       "trending",
       "down2"
@@ -66140,7 +66819,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-trending-down3",
     "name": "Trending Down3",
     "set": "tabler",
-    "category": "navigation",
+    "category": "monitoring-logging",
     "tags": [
       "trending",
       "down3"
@@ -66151,10 +66830,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-trending-up",
     "name": "Trending Up",
     "set": "tabler",
-    "category": "navigation",
+    "category": "monitoring-logging",
     "tags": [
       "trending",
-      "up"
+      "up",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconTrendingUp"
   },
@@ -66162,7 +66843,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-trending-up2",
     "name": "Trending Up2",
     "set": "tabler",
-    "category": "navigation",
+    "category": "monitoring-logging",
     "tags": [
       "trending",
       "up2"
@@ -66173,7 +66854,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-trending-up3",
     "name": "Trending Up3",
     "set": "tabler",
-    "category": "navigation",
+    "category": "monitoring-logging",
     "tags": [
       "trending",
       "up3"
@@ -66184,11 +66865,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-trending-up-down",
     "name": "Trending Up Down",
     "set": "tabler",
-    "category": "navigation",
+    "category": "monitoring-logging",
     "tags": [
       "trending",
       "up",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconTrendingUpDown"
   },
@@ -66196,7 +66879,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-triangle",
     "name": "Triangle",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "triangle"
     ],
@@ -66206,7 +66889,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-triangle-filled",
     "name": "Triangle Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "triangle",
       "filled"
@@ -66217,7 +66900,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-triangle-inverted",
     "name": "Triangle Inverted",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "triangle",
       "inverted"
@@ -66228,7 +66911,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-triangle-inverted-filled",
     "name": "Triangle Inverted Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "triangle",
       "inverted",
@@ -66240,7 +66923,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-triangle-minus",
     "name": "Triangle Minus",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "triangle",
       "minus"
@@ -66251,7 +66934,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-triangle-minus2",
     "name": "Triangle Minus2",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "triangle",
       "minus2"
@@ -66262,7 +66945,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-triangle-off",
     "name": "Triangle Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "triangle",
       "off"
@@ -66273,7 +66956,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-triangle-plus",
     "name": "Triangle Plus",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "triangle",
       "plus"
@@ -66284,7 +66967,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-triangle-plus2",
     "name": "Triangle Plus2",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "triangle",
       "plus2"
@@ -66295,7 +66978,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-triangle-square-circle",
     "name": "Triangle Square Circle",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "triangle",
       "square",
@@ -66307,7 +66990,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-triangle-square-circle-filled",
     "name": "Triangle Square Circle Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "triangle",
       "square",
@@ -66320,7 +67003,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-triangles",
     "name": "Triangles",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "diagram-primitives",
     "tags": [
       "triangles"
     ],
@@ -66361,7 +67044,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-trophy",
     "name": "Trophy",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "trophy"
     ],
@@ -66371,7 +67054,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-trophy-filled",
     "name": "Trophy Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "trophy",
       "filled"
@@ -66382,7 +67065,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-trophy-off",
     "name": "Trophy Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "trophy",
       "off"
@@ -66509,11 +67192,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-u-turn-left",
     "name": "U Turn Left",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "u",
       "turn",
-      "left"
+      "left",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconUTurnLeft"
   },
@@ -66521,11 +67206,13 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-u-turn-right",
     "name": "U Turn Right",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "u",
       "turn",
-      "right"
+      "right",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconUTurnRight"
   },
@@ -66595,7 +67282,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-umbrella-closed",
     "name": "Umbrella Closed",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "umbrella",
       "closed"
@@ -66606,7 +67293,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-umbrella-closed2",
     "name": "Umbrella Closed2",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
       "umbrella",
       "closed2"
@@ -66679,9 +67366,11 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-upload",
     "name": "Upload",
     "set": "tabler",
-    "category": "navigation",
+    "category": "general-ui",
     "tags": [
-      "upload"
+      "upload",
+      "transfer",
+      "arrow"
     ],
     "tablerName": "IconUpload"
   },
@@ -66807,10 +67496,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-user-down",
     "name": "User Down",
     "set": "tabler",
-    "category": "navigation",
+    "category": "people-social",
     "tags": [
       "user",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconUserDown"
   },
@@ -66906,7 +67597,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-user-pause",
     "name": "User Pause",
     "set": "tabler",
-    "category": "media",
+    "category": "people-social",
     "tags": [
       "user",
       "pause"
@@ -66972,7 +67663,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-user-screen",
     "name": "User Screen",
     "set": "tabler",
-    "category": "media",
+    "category": "people-social",
     "tags": [
       "user",
       "screen"
@@ -67050,10 +67741,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-user-up",
     "name": "User Up",
     "set": "tabler",
-    "category": "navigation",
+    "category": "people-social",
     "tags": [
       "user",
-      "up"
+      "up",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconUserUp"
   },
@@ -67235,7 +67928,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-vector",
     "name": "Vector",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "vector"
     ],
@@ -67245,7 +67938,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-vector-bezier",
     "name": "Vector Bezier",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "vector",
       "bezier"
@@ -67256,7 +67949,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-vector-bezier2",
     "name": "Vector Bezier2",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "vector",
       "bezier2"
@@ -67267,7 +67960,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-vector-bezier-arc",
     "name": "Vector Bezier Arc",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "vector",
       "bezier",
@@ -67279,7 +67972,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-vector-bezier-circle",
     "name": "Vector Bezier Circle",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "vector",
       "bezier",
@@ -67291,7 +67984,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-vector-off",
     "name": "Vector Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "vector",
       "off"
@@ -67302,7 +67995,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-vector-spline",
     "name": "Vector Spline",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "vector",
       "spline"
@@ -67313,7 +68006,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-vector-triangle",
     "name": "Vector Triangle",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "vector",
       "triangle"
@@ -67324,7 +68017,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-vector-triangle-off",
     "name": "Vector Triangle Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "vector",
       "triangle",
@@ -67346,7 +68039,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-versions",
     "name": "Versions",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "devops-cicd",
     "tags": [
       "versions"
     ],
@@ -67356,7 +68049,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-versions-filled",
     "name": "Versions Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "devops-cicd",
     "tags": [
       "versions",
       "filled"
@@ -67367,7 +68060,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-versions-off",
     "name": "Versions Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "devops-cicd",
     "tags": [
       "versions",
       "off"
@@ -67456,7 +68149,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-view360",
     "name": "View360",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "view360"
     ],
@@ -67466,7 +68159,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-view360-arrow",
     "name": "View360 Arrow",
     "set": "tabler",
-    "category": "navigation",
+    "category": "frontend-client",
     "tags": [
       "view360",
       "arrow"
@@ -67477,7 +68170,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-view360-number",
     "name": "View360 Number",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "view360",
       "number"
@@ -67488,7 +68181,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-view360-off",
     "name": "View360 Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "view360",
       "off"
@@ -67499,7 +68192,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-viewfinder",
     "name": "Viewfinder",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "viewfinder"
     ],
@@ -67509,7 +68202,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-viewfinder-off",
     "name": "Viewfinder Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "viewfinder",
       "off"
@@ -67520,7 +68213,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-viewport-narrow",
     "name": "Viewport Narrow",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "viewport",
       "narrow"
@@ -67531,7 +68224,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-viewport-short",
     "name": "Viewport Short",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "viewport",
       "short"
@@ -67542,7 +68235,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-viewport-tall",
     "name": "Viewport Tall",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "viewport",
       "tall"
@@ -67553,7 +68246,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-viewport-wide",
     "name": "Viewport Wide",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "viewport",
       "wide"
@@ -67574,7 +68267,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-vinyl",
     "name": "Vinyl",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "vinyl"
     ],
@@ -67739,7 +68432,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-walk",
     "name": "Walk",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "walk"
     ],
@@ -67812,7 +68505,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-wand",
     "name": "Wand",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "wand"
     ],
@@ -67822,7 +68515,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-wand-off",
     "name": "Wand Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "editor",
     "tags": [
       "wand",
       "off"
@@ -68229,7 +68922,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-webhook",
     "name": "Webhook",
     "set": "tabler",
-    "category": "api-integration",
+    "category": "messaging-queue",
     "tags": [
       "webhook"
     ],
@@ -68239,7 +68932,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-webhook-off",
     "name": "Webhook Off",
     "set": "tabler",
-    "category": "api-integration",
+    "category": "messaging-queue",
     "tags": [
       "webhook",
       "off"
@@ -68447,7 +69140,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-window",
     "name": "Window",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "window"
     ],
@@ -68457,7 +69150,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-window-maximize",
     "name": "Window Maximize",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "window",
       "maximize"
@@ -68468,7 +69161,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-window-minimize",
     "name": "Window Minimize",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "window",
       "minimize"
@@ -68479,7 +69172,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-window-off",
     "name": "Window Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "frontend-client",
     "tags": [
       "window",
       "off"
@@ -68532,7 +69225,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-woman",
     "name": "Woman",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "woman"
     ],
@@ -68542,7 +69235,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-woman-filled",
     "name": "Woman Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "people-social",
     "tags": [
       "woman",
       "filled"
@@ -68563,7 +69256,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-world",
     "name": "World",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "world"
     ],
@@ -68573,7 +69266,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-world-bolt",
     "name": "World Bolt",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "world",
       "bolt"
@@ -68584,7 +69277,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-world-cancel",
     "name": "World Cancel",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "world",
       "cancel"
@@ -68595,7 +69288,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-world-check",
     "name": "World Check",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "world",
       "check"
@@ -68606,7 +69299,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-world-code",
     "name": "World Code",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "world",
       "code"
@@ -68617,7 +69310,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-world-cog",
     "name": "World Cog",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "world",
       "cog"
@@ -68628,7 +69321,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-world-dollar",
     "name": "World Dollar",
     "set": "tabler",
-    "category": "finance",
+    "category": "maps-location",
     "tags": [
       "world",
       "dollar"
@@ -68639,10 +69332,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-world-down",
     "name": "World Down",
     "set": "tabler",
-    "category": "navigation",
+    "category": "maps-location",
     "tags": [
       "world",
-      "down"
+      "down",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconWorldDown"
   },
@@ -68650,7 +69345,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-world-download",
     "name": "World Download",
     "set": "tabler",
-    "category": "navigation",
+    "category": "maps-location",
     "tags": [
       "world",
       "download"
@@ -68661,7 +69356,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-world-exclamation",
     "name": "World Exclamation",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "world",
       "exclamation"
@@ -68672,7 +69367,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-world-filled",
     "name": "World Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "world",
       "filled"
@@ -68683,7 +69378,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-world-heart",
     "name": "World Heart",
     "set": "tabler",
-    "category": "people-social",
+    "category": "maps-location",
     "tags": [
       "world",
       "heart"
@@ -68694,7 +69389,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-world-latitude",
     "name": "World Latitude",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "world",
       "latitude"
@@ -68705,7 +69400,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-world-longitude",
     "name": "World Longitude",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "world",
       "longitude"
@@ -68727,7 +69422,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-world-minus",
     "name": "World Minus",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "world",
       "minus"
@@ -68738,7 +69433,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-world-off",
     "name": "World Off",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "world",
       "off"
@@ -68749,7 +69444,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-world-pause",
     "name": "World Pause",
     "set": "tabler",
-    "category": "media",
+    "category": "maps-location",
     "tags": [
       "world",
       "pause"
@@ -68771,7 +69466,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-world-plus",
     "name": "World Plus",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "world",
       "plus"
@@ -68782,7 +69477,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-world-question",
     "name": "World Question",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "world",
       "question"
@@ -68793,7 +69488,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-world-search",
     "name": "World Search",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "world",
       "search"
@@ -68804,7 +69499,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-world-share",
     "name": "World Share",
     "set": "tabler",
-    "category": "people-social",
+    "category": "maps-location",
     "tags": [
       "world",
       "share"
@@ -68815,7 +69510,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-world-star",
     "name": "World Star",
     "set": "tabler",
-    "category": "people-social",
+    "category": "maps-location",
     "tags": [
       "world",
       "star"
@@ -68826,10 +69521,12 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-world-up",
     "name": "World Up",
     "set": "tabler",
-    "category": "navigation",
+    "category": "maps-location",
     "tags": [
       "world",
-      "up"
+      "up",
+      "arrow",
+      "direction"
     ],
     "tablerName": "IconWorldUp"
   },
@@ -68837,7 +69534,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-world-upload",
     "name": "World Upload",
     "set": "tabler",
-    "category": "navigation",
+    "category": "maps-location",
     "tags": [
       "world",
       "upload"
@@ -68848,7 +69545,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-world-www",
     "name": "World Www",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "world",
       "www"
@@ -68859,7 +69556,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-world-x",
     "name": "World X",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "maps-location",
     "tags": [
       "world",
       "x"
@@ -69322,7 +70019,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-zoom",
     "name": "Zoom",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "zoom"
     ],
@@ -69332,7 +70029,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-zoom-cancel",
     "name": "Zoom Cancel",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "zoom",
       "cancel"
@@ -69343,7 +70040,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-zoom-cancel-filled",
     "name": "Zoom Cancel Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "zoom",
       "cancel",
@@ -69355,7 +70052,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-zoom-check",
     "name": "Zoom Check",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "zoom",
       "check"
@@ -69366,7 +70063,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-zoom-check-filled",
     "name": "Zoom Check Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "zoom",
       "check",
@@ -69378,7 +70075,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-zoom-code",
     "name": "Zoom Code",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "zoom",
       "code"
@@ -69389,7 +70086,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-zoom-code-filled",
     "name": "Zoom Code Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "zoom",
       "code",
@@ -69401,7 +70098,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-zoom-exclamation",
     "name": "Zoom Exclamation",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "zoom",
       "exclamation"
@@ -69412,7 +70109,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-zoom-exclamation-filled",
     "name": "Zoom Exclamation Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "zoom",
       "exclamation",
@@ -69424,7 +70121,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-zoom-filled",
     "name": "Zoom Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "zoom",
       "filled"
@@ -69435,7 +70132,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-zoom-in",
     "name": "Zoom In",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "zoom",
       "in"
@@ -69446,7 +70143,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-zoom-in-area",
     "name": "Zoom In Area",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "zoom",
       "in",
@@ -69458,7 +70155,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-zoom-in-area-filled",
     "name": "Zoom In Area Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "zoom",
       "in",
@@ -69471,7 +70168,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-zoom-in-filled",
     "name": "Zoom In Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "zoom",
       "in",
@@ -69483,7 +70180,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-zoom-money",
     "name": "Zoom Money",
     "set": "tabler",
-    "category": "finance",
+    "category": "media",
     "tags": [
       "zoom",
       "money"
@@ -69494,7 +70191,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-zoom-money-filled",
     "name": "Zoom Money Filled",
     "set": "tabler",
-    "category": "finance",
+    "category": "media",
     "tags": [
       "zoom",
       "money",
@@ -69506,7 +70203,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-zoom-out",
     "name": "Zoom Out",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "zoom",
       "out"
@@ -69517,7 +70214,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-zoom-out-area",
     "name": "Zoom Out Area",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "zoom",
       "out",
@@ -69529,7 +70226,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-zoom-out-area-filled",
     "name": "Zoom Out Area Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "zoom",
       "out",
@@ -69542,7 +70239,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-zoom-out-filled",
     "name": "Zoom Out Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "zoom",
       "out",
@@ -69554,7 +70251,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-zoom-pan",
     "name": "Zoom Pan",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "zoom",
       "pan"
@@ -69565,7 +70262,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-zoom-pan-filled",
     "name": "Zoom Pan Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "zoom",
       "pan",
@@ -69577,7 +70274,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-zoom-question",
     "name": "Zoom Question",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "zoom",
       "question"
@@ -69588,7 +70285,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-zoom-question-filled",
     "name": "Zoom Question Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "zoom",
       "question",
@@ -69600,7 +70297,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-zoom-replace",
     "name": "Zoom Replace",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "zoom",
       "replace"
@@ -69611,7 +70308,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-zoom-reset",
     "name": "Zoom Reset",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "zoom",
       "reset"
@@ -69622,7 +70319,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-zoom-scan",
     "name": "Zoom Scan",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "zoom",
       "scan"
@@ -69633,7 +70330,7 @@ export const TABLER_ICONS: IconMeta[] = [
     "id": "tabler-zoom-scan-filled",
     "name": "Zoom Scan Filled",
     "set": "tabler",
-    "category": "general-ui",
+    "category": "media",
     "tags": [
       "zoom",
       "scan",

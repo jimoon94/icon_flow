@@ -56,7 +56,7 @@ export default function Home() {
   return (
     <div className="flex min-h-screen bg-white dark:bg-gray-950">
       {/* Left Sidebar */}
-      <div className="w-56 flex-shrink-0 border-r border-gray-100 dark:border-gray-800 p-5 overflow-y-auto h-screen sticky top-0 bg-white dark:bg-gray-950">
+      <div className="w-64 flex-shrink-0 border-r border-gray-100 dark:border-gray-800 p-5 overflow-y-auto h-screen sticky top-0 bg-white dark:bg-gray-950">
         <h1 className="text-base font-bold text-gray-900 dark:text-white mb-6">IconFlow</h1>
 
         {tab === "explore" ? (
