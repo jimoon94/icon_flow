@@ -3,6 +3,7 @@
 import { useMemo } from "react";
 import { ICONS } from "@/data/icons";
 import { IconSet, Category, IconMeta } from "@/types/icon";
+import { CATEGORY_LABELS } from "@/lib/categories";
 
 const ICON_SETS: { value: IconSet; label: string }[] = [
   { value: "gcp", label: "GCP" },
@@ -12,28 +13,7 @@ const ICON_SETS: { value: IconSet; label: string }[] = [
   { value: "material", label: "Material" },
 ];
 
-const CATEGORIES: { value: Category; label: string }[] = [
-  { value: "compute", label: "Compute" },
-  { value: "storage-database", label: "Storage & Database" },
-  { value: "networking", label: "Networking" },
-  { value: "security-identity", label: "Security & Identity" },
-  { value: "messaging-queue", label: "Messaging & Queue" },
-  { value: "monitoring-logging", label: "Monitoring & Logging" },
-  { value: "ai-ml", label: "AI & ML" },
-  { value: "data-pipeline", label: "Data Pipeline" },
-  { value: "api-integration", label: "API & Integration" },
-  { value: "devops-cicd", label: "DevOps & CI/CD" },
-  { value: "frontend-client", label: "Frontend & Client" },
-  { value: "media", label: "Media" },
-  { value: "navigation", label: "Navigation" },
-  { value: "people-social", label: "People & Social" },
-  { value: "maps-location", label: "Maps & Location" },
-  { value: "finance", label: "Finance" },
-  { value: "editor", label: "Editor" },
-  { value: "brand", label: "Brand" },
-  { value: "general-ui", label: "General UI" },
-  { value: "diagram-primitives", label: "Diagram Primitives" },
-];
+const CATEGORIES = CATEGORY_LABELS;
 
 interface SidebarProps {
   selectedSets: IconSet[];

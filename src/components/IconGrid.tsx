@@ -5,6 +5,7 @@ import { useWindowVirtualizer } from "@tanstack/react-virtual";
 import { IconMeta } from "@/types/icon";
 import IconCard from "./IconCard";
 import { loadTabler, loadLucide, loadMaterial, getTablerIcon, getLucideIcon, getMaterialIcon } from "@/lib/iconLoader";
+import { CATEGORY_LABEL_MAP } from "@/lib/categories";
 
 const CARD_SIZE = 72;
 const GAP = 4;
@@ -16,15 +17,6 @@ const SET_BADGE: Record<string, { label: string; className: string }> = {
   tabler: { label: "Tabler", className: "bg-purple-100 text-purple-700 dark:bg-purple-900/40 dark:text-purple-300" },
   lucide: { label: "Lucide", className: "bg-green-100 text-green-700 dark:bg-green-900/40 dark:text-green-300" },
   material: { label: "Material", className: "bg-red-100 text-red-700 dark:bg-red-900/40 dark:text-red-300" },
-};
-
-const CATEGORY_LABEL: Record<string, string> = {
-  "compute": "Compute", "storage-database": "Storage", "networking": "Networking",
-  "security-identity": "Security", "messaging-queue": "Messaging", "monitoring-logging": "Monitoring",
-  "ai-ml": "AI/ML", "data-pipeline": "Data", "api-integration": "API", "devops-cicd": "DevOps",
-  "frontend-client": "Frontend", "media": "Media", "navigation": "Navigation",
-  "people-social": "Social", "maps-location": "Maps", "finance": "Finance",
-  "editor": "Editor", "brand": "Brand", "general-ui": "General", "diagram-primitives": "Diagram",
 };
 
 function SmallIcon({ icon }: { icon: IconMeta }) {
@@ -74,7 +66,7 @@ const IconListRow = memo(function IconListRow({
         {badge?.label ?? icon.set}
       </span>
       <span className="text-[10px] text-gray-400 dark:text-gray-500 flex-shrink-0 w-16 text-right">
-        {CATEGORY_LABEL[icon.category] ?? icon.category}
+        {CATEGORY_LABEL_MAP[icon.category] ?? icon.category}
       </span>
       {onToggleFavorite && (
         <button

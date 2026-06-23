@@ -5,6 +5,7 @@ import { useTheme } from "next-themes";
 import { saveAs } from "file-saver";
 import { IconMeta } from "@/types/icon";
 import { loadTabler, loadLucide, loadMaterial, getTablerIcon, getLucideIcon, getMaterialIcon } from "@/lib/iconLoader";
+import { CATEGORY_LABEL_MAP } from "@/lib/categories";
 
 interface Props {
   icon: IconMeta;
@@ -290,7 +291,7 @@ export default function IconDetailPanel({ icon, isFavorite = false, onToggleFavo
 
         <div className="flex justify-between items-center border-b border-gray-100 dark:border-gray-700 px-2 py-2">
           <p className="text-[10px] text-gray-400 dark:text-gray-500 uppercase tracking-wider">Category</p>
-          <p className="text-xs font-medium text-gray-700 dark:text-gray-300">{icon.category}</p>
+          <p className="text-xs font-medium text-gray-700 dark:text-gray-300">{CATEGORY_LABEL_MAP[icon.category] ?? icon.category}</p>
         </div>
         {/* 커스터마이저 */}
         <div className="flex-1 px-5 py-5 space-y-5 overflow-y-auto">
