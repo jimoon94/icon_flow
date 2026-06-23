@@ -9,6 +9,40 @@ const QUERY_MAP: Record<string, string> = {
   "sns": "facebook instagram twitter youtube tiktok linkedin github discord slack reddit whatsapp telegram snapchat pinterest share like follow",
   "auth": "lock shield key password fingerprint",
   "chart": "chart graph bar line pie analytics",
+  "notification": "bell alert remind notification inbox",
+  "settings": "settings configuration gear cog preferences",
+  "user": "user person people account profile avatar",
+  "media": "play pause stop video audio music film camera",
+  "cloud": "cloud server storage bucket",
+  "security": "lock shield key password fingerprint secure",
+  "navigation": "arrow chevron menu home sidebar nav",
+  "file": "file folder document attachment",
+  "search": "search find magnify zoom",
+  "edit": "edit pen pencil write format",
+  "delete": "delete trash remove close",
+  "add": "add plus create new",
+  "download": "download arrow save export",
+  "upload": "upload arrow import send",
+  "share": "share send export link",
+  "copy": "copy duplicate clone",
+  "filter": "filter sort funnel",
+  "image": "image photo picture gallery camera",
+  "video": "video film movie play camera",
+  "message": "message chat mail email comment",
+  "calendar": "calendar date schedule event",
+  "map": "map location pin marker gps",
+  "money": "money coin wallet payment card",
+  "code": "code terminal bracket developer",
+  "data": "data chart graph database analytics",
+  "lock": "lock unlock security key",
+  "check": "check done complete verified",
+  "warning": "warning alert error danger",
+  "info": "info help question circle",
+  "home": "home house building",
+  "person": "person user account avatar",
+  "star": "star favorite rating bookmark",
+  "heart": "heart like love favorite",
+  "tag": "tag label badge category",
 
   // 한국어 카테고리
   "보안": "security lock shield",
@@ -182,23 +216,21 @@ export function createFuse(icons: IconMeta[]): Fuse<IconMeta> {
 export function searchIcons(query: string, icons: IconMeta[]): IconMeta[] {
   if (!query.trim()) return icons;
 
-  if (!fuseInstance) {
-    createFuse(icons);
-  }
+  if (!fuseInstance) createFuse(icons);
 
   const normalized = normalizeQuery(query);
   const terms = normalized.trim().split(/\s+/);
+  const idSet = new Set(icons.map((i) => i.id));
 
   if (terms.length === 1) {
-    return fuseInstance!.search(terms[0]).map((r) => r.item);
+    return fuseInstance!.search(terms[0]).map((r) => r.item).filter((i) => idSet.has(i.id));
   }
 
-  // 번역된 여러 키워드를 각각 검색 후 합산 (중복 제거)
   const seen = new Set<string>();
   const combined: IconMeta[] = [];
   for (const term of terms) {
     for (const r of fuseInstance!.search(term)) {
-      if (!seen.has(r.item.id)) {
+      if (!seen.has(r.item.id) && idSet.has(r.item.id)) {
         seen.add(r.item.id);
         combined.push(r.item);
       }

@@ -38,5 +38,8 @@ export interface RecommendPack {
   id: string;
   name: string;
   description: string;
-  iconIds: string[];
+  emoji: string;
+  keywords?: string[];
+  categories?: Category[];
+  sets?: IconSet[];
 }

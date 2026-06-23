@@ -2,7 +2,7 @@
 
 import { useMemo } from "react";
 import { ICONS } from "@/data/icons";
-import { IconSet, Category } from "@/types/icon";
+import { IconSet, Category, IconMeta } from "@/types/icon";
 
 const ICON_SETS: { value: IconSet; label: string }[] = [
   { value: "gcp", label: "GCP" },
@@ -44,6 +44,7 @@ interface SidebarProps {
   onResetCategories: () => void;
   onReset: () => void;
   totalCount: number;
+  sourceIcons?: IconMeta[];
 }
 
 export default function Sidebar({
@@ -55,25 +56,28 @@ export default function Sidebar({
   onResetCategories,
   onReset,
   totalCount,
+  sourceIcons,
 }: SidebarProps) {
+  const base = sourceIcons ?? ICONS;
+
   const setCounts = useMemo(() => {
     const map: Record<string, number> = {};
-    for (const icon of ICONS) map[icon.set] = (map[icon.set] ?? 0) + 1;
+    for (const icon of base) map[icon.set] = (map[icon.set] ?? 0) + 1;
     return map;
-  }, []);
+  }, [base]);
 
   const categoryCounts = useMemo(() => {
     const map: Record<string, number> = {};
-    const base = selectedSets.length > 0 ? ICONS.filter(i => selectedSets.includes(i.set)) : ICONS;
-    for (const icon of base) map[icon.category] = (map[icon.category] ?? 0) + 1;
+    const filtered = selectedSets.length > 0 ? base.filter(i => selectedSets.includes(i.set)) : base;
+    for (const icon of filtered) map[icon.category] = (map[icon.category] ?? 0) + 1;
     return map;
-  }, [selectedSets]);
+  }, [base, selectedSets]);
 
   const hasFilter = selectedSets.length > 0 || selectedCategories.length > 0;
 
   return (
     <aside className="text-sm text-gray-700 dark:text-gray-300">
-      <div className="flex items-center justify-between mb-2">
+      <div className="flex items-center justify-between pt-5 mb-3">
         <p className="text-xs font-semibold text-gray-500 dark:text-gray-400 uppercase tracking-wider">View</p>
         {hasFilter && (
           <button onClick={onReset} className="text-xs text-red-500 hover:text-red-700">초기화</button>
@@ -114,7 +118,7 @@ export default function Sidebar({
       >
         <span>All</span>
         <span className="text-xs text-gray-400">
-          {(selectedSets.length > 0 ? ICONS.filter(i => selectedSets.includes(i.set)).length : totalCount).toLocaleString()}
+          {(selectedSets.length > 0 ? base.filter(i => selectedSets.includes(i.set)).length : totalCount).toLocaleString()}
         </span>
       </button>
       {CATEGORIES.map(({ value, label }) => (

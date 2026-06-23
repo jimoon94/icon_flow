@@ -7,7 +7,9 @@ import { loadTabler, loadLucide, loadMaterial, getTablerIcon, getLucideIcon, get
 interface IconCardProps {
   icon: IconMeta;
   highlighted?: boolean;
+  isFavorite?: boolean;
   onSelect: (icon: IconMeta) => void;
+  onToggleFavorite?: (id: string) => void;
 }
 
 const SET_BADGE: Record<string, { label: string; className: string }> = {
@@ -65,7 +67,7 @@ function DynamicIcon({ icon }: { icon: IconMeta }) {
   return <span className="text-gray-900 dark:text-gray-100"><Component sx={{ fontSize: 24 }} /></span>;
 }
 
-const IconCard = memo(function IconCard({ icon, highlighted = false, onSelect }: IconCardProps) {
+const IconCard = memo(function IconCard({ icon, highlighted = false, isFavorite = false, onSelect, onToggleFavorite }: IconCardProps) {
   const badge = SET_BADGE[icon.set];
 
   return (
@@ -76,13 +78,29 @@ const IconCard = memo(function IconCard({ icon, highlighted = false, onSelect }:
           : "border-transparent bg-gray-50 dark:bg-gray-800 hover:border-gray-200 dark:hover:border-gray-700 hover:shadow-sm"
       }`}
       style={{ aspectRatio: "1", padding: 10 }}
-      onClick={() => onSelect(icon)}
+      onClick={(e) => { e.stopPropagation(); onSelect(icon); }}
       title={icon.name}
     >
       <DynamicIcon icon={icon} />
       <span className={`text-[8px] font-semibold px-1 py-0.5 rounded-full leading-none ${badge?.className ?? "bg-gray-100 text-gray-500"}`}>
         {badge?.label ?? icon.set}
       </span>
+
+      {onToggleFavorite && (
+        <button
+          className={`absolute top-1 right-1 transition-opacity cursor-pointer ${
+            isFavorite
+              ? "opacity-100 text-red-400"
+              : "opacity-0 group-hover:opacity-100 text-gray-300 dark:text-gray-600 hover:text-red-400"
+          }`}
+          onClick={(e) => { e.stopPropagation(); onToggleFavorite(icon.id); }}
+          title={isFavorite ? "즐겨찾기 해제" : "즐겨찾기"}
+        >
+          <svg width="12" height="12" viewBox="0 0 24 24" fill={isFavorite ? "currentColor" : "none"} stroke="currentColor" strokeWidth="2">
+            <path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z" />
+          </svg>
+        </button>
+      )}
 
       <div className="absolute bottom-full left-1/2 -translate-x-1/2 mb-1.5 px-2 py-1 bg-gray-900 text-white text-[10px] rounded whitespace-nowrap opacity-0 group-hover:opacity-100 pointer-events-none transition-opacity z-10">
         {icon.name}

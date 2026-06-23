@@ -14,8 +14,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "IconFlow",
-  description: "GCP/AWS/Azure + Tabler/Lucide 아이콘 탐색 및 비교",
+  title: "Pickon",
+  description: "수많은 아이콘 중 내가 원하는 것만 빠르게 픽해서 쓰는 아이콘 탐색 도구",
 };
 
 export default function RootLayout({
